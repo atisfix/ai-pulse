@@ -1,47 +1,30 @@
-yaml
 name: Fetch AI News
-
-# Run 3 times daily at Netherlands time (CET = UTC+1)
-# 07:00 CET = 06:00 UTC
-# 13:00 CET = 12:00 UTC
-# 18:00 CET = 17:00 UTC
 on:
   schedule:
     - cron: '0 6 * * *'
     - cron: '0 12 * * *'
     - cron: '0 17 * * *'
-  workflow_dispatch: # This lets you run it manually too
-
+  workflow_dispatch:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Get the code
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: pip install feedparser requests anthropic
-
-      # Step 4: Run the news fetcher
       - name: Fetch news
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_news.py
-
-      # Step 5: Save the updated news.json back to the repo
       - name: Commit updated news
         run: |
           git config user.name "AI Pulse Bot"
           git config user.email "bot@ai-pulse"
           git add news.json fetch.log
-          git diff --staged --quiet || git commit -m "📰 News update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "News update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
