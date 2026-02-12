@@ -1,72 +1,129 @@
 [
   {
-    "id": "a97dd63a330f",
-    "headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
-    "summary": "Two xAI co-founders left following the reported $1.25T xAI-SpaceX merger, the largest merger ever.",
-    "description": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also [&#8230;]",
+    "id": "8c53b353bdb7",
+    "headline": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+    "summary": "Article discusses tech addiction and doomscrolling habits through a book review parable.",
+    "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we [&#8230;]",
     "tags": [
-      "xAI",
       "Market"
     ],
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
-    "time": "Afternoon Update — 13:00 CET",
+    "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "a50422bfd8b9",
-    "headline": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
-    "summary": "Anthropic promises to pay higher electricity charges to prevent raising local residents' power bills.",
-    "description": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs [&#8230;]",
+    "id": "f9f4fd0e0291",
+    "headline": "The surprising case for AI judges",
+    "summary": "Explores potential for AI systems to make legal decisions and settle disputes.",
+    "description": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of [&#8230;]",
     "tags": [
-      "Anthropic",
-      "Hardware"
+      "Regulation"
     ],
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-    "time": "Afternoon Update — 13:00 CET",
+    "link": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "35f4db441180",
-    "headline": "Apple keeps hitting bumps with its overhauled Siri",
-    "summary": "Apple delays major Siri updates from iOS 26.4 to later versions including iOS 27.",
-    "description": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context [&#8230;]",
+    "id": "7d07e0fd7e0a",
+    "headline": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+    "summary": "ByteDance launches Seedance 2, next-gen AI video generator using multiple input types.",
+    "description": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements [&#8230;]",
     "tags": [
-      "Apple",
-      "LLM"
+      "Creative AI"
     ],
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
-    "time": "Afternoon Update — 13:00 CET",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "2b09dd36d916",
-    "headline": "Instagram and X have an impossible deepfake detection deadline",
-    "summary": "India mandates social platforms remove deepfakes, testing current detection methods' limits.",
-    "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all synthetic content is clearly labeled. Tech companies have said for years that they wanted to [&#8230;]",
+    "id": "fea13457dc29",
+    "headline": "This $7,999 robot will fold (some of) your laundry",
+    "summary": "Weave startup launches $7,999 Isaac 0 laundry-folding robot for Bay Area customers.",
+    "description": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs [&#8230;]",
     "tags": [
-      "Regulation",
-      "Creative AI"
+      "Robotics",
+      "Startup"
     ],
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-    "time": "Afternoon Update — 13:00 CET",
+    "link": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
+    "id": "a97dd63a330f",
+    "headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+    "summary": "Two xAI co-founders leave following $1.25 trillion SpaceX merger announcement.",
+    "description": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also [&#8230;]",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "a50422bfd8b9",
+    "headline": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+    "summary": "Anthropic promises to pay higher electricity costs to avoid raising residents' bills.",
+    "description": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs [&#8230;]",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "35f4db441180",
+    "headline": "Apple keeps hitting bumps with its overhauled Siri",
+    "summary": "Apple delays major Siri overhaul from iOS 26.4 to later versions including iOS 27.",
+    "description": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context [&#8230;]",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "2b09dd36d916",
+    "headline": "Instagram and X have an impossible deepfake detection deadline",
+    "summary": "India mandates social platforms remove deepfakes, testing current detection methods.",
+    "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all synthetic content is clearly labeled. Tech companies have said for years that they wanted to [&#8230;]",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
     "id": "9cb480476f9c",
     "headline": "Here are the brands bringing ads to ChatGPT",
-    "summary": "OpenAI launches advertising pilot in ChatGPT with several brand partners joining.",
+    "summary": "OpenAI launches advertising pilot in ChatGPT with several brand partnerships.",
     "description": "OpenAI officially launched its advertising pilot in ChatGPT, leaving us with a better idea of the kinds of products we might see stuffed beneath our conversations with the AI chatbot. Several companies have announced plans to show ads inside ChatGPT - placements that will reportedly cost them a pretty penny - ranging from major retailers [&#8230;]",
     "tags": [
       "OpenAI",
@@ -74,15 +131,15 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
-    "time": "Afternoon Update — 13:00 CET",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
-    "readTime": "6 min read",
+    "readTime": "5 min read",
     "isFromX": false
   },
   {
     "id": "ba3c24a15fba",
     "headline": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
-    "summary": "Meta's largest data center project faces community concerns after weather-related issues.",
+    "summary": "Weather concerns raise questions about Meta's largest data center construction project.",
     "description": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural community in North Louisiana into the spotlight as a high-profile example of how the infrastructure behind generative AI could impact nearby residents. For [&#8230;]",
     "tags": [
       "Meta",
@@ -90,10 +147,242 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
-    "time": "Afternoon Update — 13:00 CET",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "e0118e17eb83",
+    "headline": "xAI lays out interplanetary ambitions in public all-hands",
+    "summary": "xAI publicly shares 45-minute all-hands meeting outlining interplanetary goals.",
+    "description": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+    "time": "Evening Digest — 18:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
+  },
+  {
+    "id": "fc3d37a53d73",
+    "headline": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+    "summary": "AI inference startup Modal Labs seeks $2.5B valuation in General Catalyst funding talks.",
+    "description": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5568f647725e",
+    "headline": "OpenAI disbands mission alignment team",
+    "summary": "OpenAI disbands mission alignment team, reassigning leader as chief futurist.",
+    "description": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "2a970719761f",
+    "headline": "Apple’s Siri revamp reportedly delayed… again",
+    "summary": "Apple's Siri revamp delayed again, pushing features from March to May or later.",
+    "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "108c40aaecfe",
+    "headline": "Uber Eats launches AI assistant to help with grocery cart creation",
+    "summary": "Uber Eats launches Cart Assistant AI for automatic grocery item additions via prompts.",
+    "description": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "68df03b12a2a",
+    "headline": "Glean’s fight to own the AI layer inside every company",
+    "summary": "Glean competes to control enterprise AI layer as systems evolve beyond chatbots.",
+    "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "4aebe95b063f",
+    "headline": "Who will own your company’s AI layer? Glean’s CEO explains",
+    "summary": "Glean CEO discusses company's strategy to own enterprise AI infrastructure layer.",
+    "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI [&#8230;]",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "d2e33bfd32aa",
+    "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "summary": "Musk suggests recent xAI departures were company-initiated rather than voluntary exits.",
+    "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "caea8820790a",
+    "headline": "xAI Completes Record $20B Series E Funding Round",
+    "summary": "Musk's xAI raised $20 billion, exceeding target, with NVIDIA and Cisco as strategic partners to scale GPU infrastructure",
+    "description": "Musk's xAI raised $20 billion, exceeding target, with NVIDIA and Cisco as strategic partners to scale GPU infrastructure",
+    "tags": [
+      "funding",
+      "infrastructure"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
+  },
+  {
+    "id": "2f56573c0501",
+    "headline": "Anthropic Releases Claude Opus 4.6 Model",
+    "summary": "New AI model designed for complex workplace tasks with greater accuracy and reduced revision needs",
+    "description": "New AI model designed for complex workplace tasks with greater accuracy and reduced revision needs",
+    "tags": [
+      "model-release",
+      "enterprise"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": true
+  },
+  {
+    "id": "fe53ae4812bd",
+    "headline": "OpenAI Disbands Mission Alignment Team",
+    "summary": "Company dissolved team created to ensure AI benefits all humanity amid researcher departures and safety concerns",
+    "description": "Company dissolved team created to ensure AI benefits all humanity amid researcher departures and safety concerns",
+    "tags": [
+      "safety",
+      "restructuring"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": true
+  },
+  {
+    "id": "3201ffc7ae7a",
+    "headline": "Karpathy on AI Coding Revolution",
+    "summary": "Notes rapid shift to 80% agent coding workflows, predicting 2026 as high energy year for industry adaptation",
+    "description": "Notes rapid shift to 80% agent coding workflows, predicting 2026 as high energy year for industry adaptation",
+    "tags": [
+      "coding",
+      "agents"
+    ],
+    "source": "X / @karpathy",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
+  },
+  {
+    "id": "25f83f268f1c",
+    "headline": "Grok Faces Regulatory Scrutiny",
+    "summary": "California AG demands xAI stop non-consensual deepfake content generation following similar UK warnings",
+    "description": "California AG demands xAI stop non-consensual deepfake content generation following similar UK warnings",
+    "tags": [
+      "regulation",
+      "safety"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": true
+  },
+  {
+    "id": "2b1712ef40d7",
+    "headline": "SpaceX-xAI Merger Announced",
+    "summary": "Musk consolidates business empire, embedding Grok AI into SpaceX operations for autonomous spacecraft development",
+    "description": "Musk consolidates business empire, embedding Grok AI into SpaceX operations for autonomous spacecraft development",
+    "tags": [
+      "merger",
+      "space"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": true
+  },
+  {
+    "id": "c320eb3b4bf1",
+    "headline": "Mistral AI Partners with Tesco",
+    "summary": "Three-year strategic partnership to deploy AI across UK supermarket chain's customer and internal operations",
+    "description": "Three-year strategic partnership to deploy AI across UK supermarket chain's customer and internal operations",
+    "tags": [
+      "partnership",
+      "retail"
+    ],
+    "source": "X / @MistralAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
   },
   {
     "id": "7deab24da53b",
@@ -157,134 +446,6 @@
     "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "e0118e17eb83",
-    "headline": "xAI lays out interplanetary ambitions in public all-hands",
-    "summary": "xAI shares 45-minute all-hands presentation publicly, outlining interplanetary goals.",
-    "description": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
-    "tags": [
-      "xAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "fc3d37a53d73",
-    "headline": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-    "summary": "AI inference startup Modal Labs raising funding at $2.5B valuation with General Catalyst.",
-    "description": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "5568f647725e",
-    "headline": "OpenAI disbands mission alignment team",
-    "summary": "OpenAI disbands mission alignment team, reassigning members and promoting leader to chief futurist.",
-    "description": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
-    "tags": [
-      "OpenAI",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "2a970719761f",
-    "headline": "Apple’s Siri revamp reportedly delayed… again",
-    "summary": "Apple's Siri revamp delayed again, features postponed from March to May and beyond.",
-    "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "108c40aaecfe",
-    "headline": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "summary": "Uber Eats launches Cart Assistant AI for grocery shopping via text and image inputs.",
-    "description": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "68df03b12a2a",
-    "headline": "Glean’s fight to own the AI layer inside every company",
-    "summary": "Glean competes to become the central AI layer powering enterprise work systems.",
-    "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "4aebe95b063f",
-    "headline": "Who will own your company’s AI layer? Glean’s CEO explains",
-    "summary": "Glean's CEO discusses strategy to own enterprise AI infrastructure layer across organizations.",
-    "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI [&#8230;]",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "d2e33bfd32aa",
-    "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "summary": "Musk suggests recent xAI executive exits were company-initiated amid stability concerns.",
-    "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
-    "tags": [
-      "xAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-12",
-    "readTime": "4 min read",
     "isFromX": false
   },
   {
