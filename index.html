@@ -165,17 +165,33 @@ function App(){
   var _ld=useState(true),loading=_ld[0],setLoading=_ld[1];
   var _err=useState(false),hasError=_err[0],setHasError=_err[1];
   var _ref=useState(0),refreshCount=_ref[0],setRefreshCount=_ref[1];
+  var _lc=useState(""),lastChecked=_lc[0],setLastChecked=_lc[1];
+  var _toast=useState(""),toast=_toast[0],setToast=_toast[1];
   var sRef=useRef(null);
   var scrollPosRef=useRef(0);
+  var prevCountRef=useRef(0);
 
-  var loadNews=useCallback(function(){
+  var loadNews=useCallback(function(manual){
     setLoading(true);
+    if(manual)setToast("");
     fetchNewsJSON().then(function(data){
       if(data&&Array.isArray(data)&&data.length>0){
+        var oldCount=prevCountRef.current;
         setAllNews(data);
+        prevCountRef.current=data.length;
         setHasError(false);
+        var now=new Date();
+        var h=now.getHours();var m=now.getMinutes();
+        setLastChecked((h<10?"0":"")+h+":"+(m<10?"0":"")+m);
+        if(manual){
+          var diff=data.length-oldCount;
+          if(diff>0){setToast(diff+" new article"+(diff>1?"s":"")+" found!");}
+          else{setToast("You're up to date!");}
+          setTimeout(function(){setToast("");},3000);
+        }
       }else{
         setHasError(true);
+        if(manual){setToast("Could not refresh");setTimeout(function(){setToast("");},3000);}
       }
       setLoading(false);
     });
@@ -307,7 +323,7 @@ function App(){
             ce("span",{style:{display:"inline-flex",alignItems:"center",justifyContent:"center",width:30,height:30,borderRadius:9,background:"linear-gradient(135deg,"+t.ac+","+t.pu+")",fontSize:15}},"\u26a1"),
             "AI Pulse"),
           ce("div",{style:{display:"flex",alignItems:"center",gap:8}},
-            ce(Btn,{t:t,onClick:function(){setRefreshCount(refreshCount+1);loadNews();},s:loading?{opacity:0.4}:{}},
+            ce(Btn,{t:t,onClick:function(){setRefreshCount(refreshCount+1);loadNews(true);},s:loading?{opacity:0.4}:{}},
               ce("span",{style:loading?{animation:"spin 1s linear infinite",display:"inline-block"}:{}},"↻")),
             ce(Btn,{t:t,onClick:function(){setShowSrch(!showSrch);if(showSrch)setQuery("");},s:showSrch?{background:t.acS,borderColor:t.ac+"40",color:t.ac}:{}},"⌕"),
             ce(Btn,{t:t,onClick:function(){setDark(!dark);}},dark?"☀":"☾")
@@ -334,10 +350,19 @@ function App(){
       )
     ),
     ce("div",{style:{maxWidth:720,margin:"0 auto",padding:"8px 16px 60px"},className:"safe-bottom"},
-      ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:8,padding:"16px 0 12px",animation:"fadeIn 0.5s ease both"}},
+      // Toast notification
+      toast&&ce("div",{style:{
+        display:"flex",alignItems:"center",justifyContent:"center",gap:8,
+        padding:"10px 20px",margin:"8px 0",borderRadius:14,
+        background:t.acS,border:"1px solid "+t.ac+"25",
+        animation:"fadeUp 0.3s ease both",
+        fontFamily:"'DM Sans',sans-serif",fontSize:13,fontWeight:500,color:t.ac,
+      }},toast),
+      // Status line
+      ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:8,padding:"12px 0 12px",animation:"fadeIn 0.5s ease both"}},
         ce("span",{style:{width:6,height:6,borderRadius:"50%",background:"#34d399",animation:"pulse 2s ease infinite"}}),
         ce("span",{style:{fontSize:12,color:t.tx3,fontFamily:"'DM Sans',sans-serif",letterSpacing:"0.3px"}},
-          "Next update in "+nextUp+" \xb7 "+allNews.length+" stories")
+          "Next update in "+nextUp+" \xb7 "+allNews.length+" stories"+(lastChecked?" \xb7 Checked "+lastChecked:""))
       ),
       sortedDates.length===0&&!loading&&ce("div",{style:{textAlign:"center",padding:"60px 20px",color:t.tx2,fontFamily:"'DM Sans',sans-serif"}},
         ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.4}},"⌕"),
