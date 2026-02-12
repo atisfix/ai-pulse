@@ -6,8 +6,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#0a0a0f">
-<title>AI Pulse — Live AI News</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+<title>AI Pulse</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>%E2%9A%A1</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -19,7 +19,6 @@
   @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
   @keyframes fadeIn{from{opacity:0}to{opacity:1}}
   @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-  @keyframes shimmer{0%{background-position:-200% 0}100%{background-position:200% 0}}
   @keyframes spin{to{transform:rotate(360deg)}}
   @supports(padding:env(safe-area-inset-bottom)){.safe-bottom{padding-bottom:calc(16px + env(safe-area-inset-bottom))}}
 </style>
@@ -33,14 +32,22 @@
 var ce=React.createElement;
 var useState=React.useState,useEffect=React.useEffect,useRef=React.useRef,useMemo=React.useMemo,useCallback=React.useCallback;
 
-/* ─── FETCH NEWS FROM SERVER ─── */
+// Preferred display order for time slots (evening first = newest)
+var SLOT_PRIORITY={"evening":0,"18:00":0,"afternoon":1,"13:00":1,"morning":2,"07:00":2};
+function slotScore(label){
+  var l=(label||"").toLowerCase();
+  for(var k in SLOT_PRIORITY){if(l.indexOf(k)!==-1)return SLOT_PRIORITY[k];}
+  return 5;
+}
+
 function fetchNewsJSON(){
-  return fetch("news.json?t="+Date.now())
+  // Cache-bust: append timestamp AND random to ensure fresh data
+  var bust="t="+Date.now()+"&r="+Math.random();
+  return fetch("news.json?"+bust,{cache:"no-store"})
     .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
     .catch(function(e){console.warn("Failed to load news.json:",e);return null;});
 }
 
-/* ─── THEMES ─── */
 function T(dark){
   return dark?{
     bg:"linear-gradient(160deg,#08080d 0%,#0d0d18 40%,#080d12 100%)",
@@ -54,7 +61,6 @@ function T(dark){
     pA:"rgba(255,255,255,0.12)",pAB:"rgba(255,255,255,0.2)",
     xB:"rgba(255,255,255,0.08)",xT:"#d4d4d4",
     hBg:"rgba(8,8,13,0.78)",pu:"#a78bfa",
-    ldBg:"rgba(110,182,255,0.2)",ldFill:"#6eb6ff",
   }:{
     bg:"linear-gradient(160deg,#f7f7fc 0%,#eff0f8 40%,#f3f5fa 100%)",
     sf:"rgba(0,0,0,0.02)",sfH:"rgba(0,0,0,0.04)",
@@ -67,11 +73,9 @@ function T(dark){
     pA:"rgba(37,99,235,0.1)",pAB:"rgba(37,99,235,0.22)",
     xB:"rgba(0,0,0,0.05)",xT:"#1a1a2e",
     hBg:"rgba(247,247,252,0.78)",pu:"#7c3aed",
-    ldBg:"rgba(37,99,235,0.12)",ldFill:"#2563eb",
   };
 }
 
-/* ─── COMPONENTS ─── */
 function SourceIcon(p){
   var a=p.a,t=p.t,sz=p.sz||18;
   return ce("div",{style:{width:sz,height:sz,borderRadius:sz>20?9:5,
@@ -94,7 +98,6 @@ function NewsCard(p){
     onMouseEnter:function(){if(ref.current)ref.current.style.background=t.sfH;},
     onMouseLeave:function(){if(ref.current)ref.current.style.background="transparent";},
     style:{padding:18,cursor:"pointer",borderBottom:p.last?"none":"1px solid "+t.dv,transition:"background 0.15s"}},
-    // Tags row
     ce("div",{style:{display:"flex",alignItems:"flex-start",gap:4,marginBottom:8}},
       ce("div",{style:{flex:1,display:"flex",flexWrap:"wrap",gap:6,alignItems:"center"}},
         a.isFromX&&ce("span",{style:{fontSize:9,fontWeight:700,padding:"2px 7px",borderRadius:100,background:t.xB,color:t.xT,fontFamily:"'DM Sans',sans-serif",letterSpacing:"0.5px"}},"\ud835\udd4f"),
@@ -102,22 +105,19 @@ function NewsCard(p){
       ),
       ce("span",{style:{fontSize:11,color:t.tx3,fontFamily:"'DM Sans',sans-serif",flexShrink:0}},a.readTime)
     ),
-    // Headline
     ce("h3",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:17,fontWeight:500,lineHeight:1.35,marginBottom:8,letterSpacing:"-0.2px"}},a.headline),
-    // Summary
     ce("p",{style:{fontFamily:"'DM Sans',sans-serif",fontSize:13.5,lineHeight:1.55,color:t.tx2,display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}},a.summary),
-    // Source
+    // Source row with posted time for X
     ce("div",{style:{display:"flex",alignItems:"center",gap:8,marginTop:10}},
       ce(SourceIcon,{a:a,t:t}),
-      ce("span",{style:{fontSize:12,color:t.tx3,fontFamily:"'DM Sans',sans-serif"}},a.source)
+      ce("span",{style:{fontSize:12,color:t.tx3,fontFamily:"'DM Sans',sans-serif"}},a.source),
+      a.postedAt&&ce("span",{style:{fontSize:11,color:t.tx3,fontFamily:"'DM Sans',sans-serif",opacity:0.7}}," \xb7 "+a.postedAt)
     )
   );
 }
 
-/* ─── ARTICLE VIEW ─── */
 function ArticleView(p){
   var a=p.a,t=p.t;
-  var bodyText=a.description||a.summary||"";
   return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx}},
     ce("div",{style:{position:"sticky",top:0,zIndex:100,backdropFilter:"blur(40px) saturate(180%)",WebkitBackdropFilter:"blur(40px) saturate(180%)",background:t.hBg,borderBottom:"1px solid "+t.dv}},
       ce("div",{style:{maxWidth:680,margin:"0 auto",padding:"14px 20px",display:"flex",alignItems:"center",gap:12}},
@@ -137,23 +137,23 @@ function ArticleView(p){
         ce(SourceIcon,{a:a,t:t,sz:34}),
         ce("div",null,
           ce("div",{style:{fontSize:14,fontWeight:500,fontFamily:"'DM Sans',sans-serif"}},a.source),
-          ce("div",{style:{fontSize:12,color:t.tx2,fontFamily:"'DM Sans',sans-serif"}},p.fmtDate(a.date)+" \xb7 "+a.time)
+          ce("div",{style:{fontSize:12,color:t.tx2,fontFamily:"'DM Sans',sans-serif"}},
+            p.fmtDate(a.date)+" \xb7 "+a.time+(a.postedAt?" \xb7 Posted "+a.postedAt:""))
         )
       ),
       ce("div",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:18,lineHeight:1.75,color:p.dark?"rgba(255,255,255,0.82)":"rgba(0,0,0,0.72)"}},
         ce("p",{style:{marginBottom:24,fontSize:19,fontWeight:500,lineHeight:1.6}},a.summary),
-        bodyText!==a.summary&&ce("p",{style:{marginBottom:24}},bodyText)
+        (a.description&&a.description!==a.summary)&&ce("p",{style:{marginBottom:24}},a.description)
       ),
       a.link&&ce("a",{href:a.link,target:"_blank",rel:"noopener noreferrer",style:{
         display:"inline-flex",alignItems:"center",gap:8,padding:"14px 24px",borderRadius:14,marginTop:12,
         background:t.acS,color:t.ac,fontFamily:"'DM Sans',sans-serif",fontSize:15,fontWeight:500,
         textDecoration:"none",border:"1px solid "+t.ac+"25",transition:"all 0.2s"
-      }},"Read full article \u2197")
+      }},a.isFromX?"View post on \ud835\udd4f \u2197":"Read full article \u2197")
     )
   );
 }
 
-/* ─── MAIN ─── */
 function App(){
   var _dm=useState(true),dark=_dm[0],setDark=_dm[1];
   var _news=useState([]),allNews=_news[0],setAllNews=_news[1];
@@ -164,9 +164,10 @@ function App(){
   var _nu=useState(""),nextUp=_nu[0],setNextUp=_nu[1];
   var _ld=useState(true),loading=_ld[0],setLoading=_ld[1];
   var _err=useState(false),hasError=_err[0],setHasError=_err[1];
+  var _ref=useState(0),refreshCount=_ref[0],setRefreshCount=_ref[1];
   var sRef=useRef(null);
+  var scrollPosRef=useRef(0);
 
-  // Load news
   var loadNews=useCallback(function(){
     setLoading(true);
     fetchNewsJSON().then(function(data){
@@ -181,14 +182,8 @@ function App(){
   },[]);
 
   useEffect(function(){loadNews();},[loadNews]);
+  useEffect(function(){var t=setInterval(loadNews,10*60*1000);return function(){clearInterval(t);};},[loadNews]);
 
-  // Auto-refresh every 15 minutes
-  useEffect(function(){
-    var t=setInterval(loadNews,15*60*1000);
-    return function(){clearInterval(t);};
-  },[loadNews]);
-
-  // Next update timer
   useEffect(function(){
     var calc=function(){
       var now=new Date();var cetH=(now.getUTCHours()+1)%24;
@@ -208,18 +203,14 @@ function App(){
   useEffect(function(){if(showSrch&&sRef.current)sRef.current.focus();},[showSrch]);
 
   var dates=useMemo(function(){
-    // Build dates from actual news data
     var ds=new Set();
     allNews.forEach(function(n){if(n.date)ds.add(n.date);});
-    var arr=Array.from(ds).sort().reverse();
-    // Also add today + past 6 days if not present
     var now=new Date();
     for(var i=0;i<7;i++){
       var d=new Date(now);d.setDate(d.getDate()-i);
-      var s=d.toISOString().slice(0,10);
-      if(arr.indexOf(s)===-1)arr.push(s);
+      ds.add(d.toISOString().slice(0,10));
     }
-    return arr.sort().reverse().slice(0,7);
+    return Array.from(ds).sort().reverse().slice(0,30);
   },[allNews]);
 
   var filtered=useMemo(function(){
@@ -234,15 +225,24 @@ function App(){
     return items;
   },[allNews,selDate,query]);
 
+  // Group by date, then by time slot — DYNAMICALLY from the data
   var grouped=useMemo(function(){
     var g={};
     filtered.forEach(function(n){
-      if(!g[n.date])g[n.date]={};
-      if(!g[n.date][n.time])g[n.date][n.time]=[];
-      g[n.date][n.time].push(n);
+      var d=n.date||"unknown";
+      var t=n.time||"News";
+      if(!g[d])g[d]={};
+      if(!g[d][t])g[d][t]=[];
+      g[d][t].push(n);
     });
     return g;
   },[filtered]);
+
+  // Get sorted slot labels for a given date (evening first)
+  function getSortedSlots(date){
+    if(!grouped[date])return[];
+    return Object.keys(grouped[date]).sort(function(a,b){return slotScore(a)-slotScore(b);});
+  }
 
   var fmtDate=function(ds){
     var today=new Date().toISOString().slice(0,10);
@@ -259,36 +259,47 @@ function App(){
   };
 
   var t=T(dark);
-  var timeSlots=["Morning Brief \u2014 07:00 CET","Afternoon Update \u2014 13:00 CET","Evening Digest \u2014 18:00 CET"];
 
-  // Article view
-  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:function(){setSelArt(null);}});
+  // Save scroll pos before viewing article, restore on back
+  var openArticle=useCallback(function(a){
+    scrollPosRef.current=window.scrollY||window.pageYOffset||0;
+    setSelArt(a);
+  },[]);
+  var closeArticle=useCallback(function(){
+    setSelArt(null);
+    // Restore scroll after React re-renders the feed — use double RAF for reliability on mobile
+    requestAnimationFrame(function(){
+      requestAnimationFrame(function(){
+        window.scrollTo(0,scrollPosRef.current);
+      });
+    });
+  },[]);
 
-  // Loading state
+  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:closeArticle});
+
   if(loading&&allNews.length===0){
     return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx,fontFamily:"'DM Sans',sans-serif",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32}},
       ce("div",{style:{width:56,height:56,borderRadius:15,background:"linear-gradient(135deg,"+t.ac+","+t.pu+")",display:"flex",alignItems:"center",justifyContent:"center",fontSize:26,marginBottom:22,boxShadow:"0 8px 32px "+t.ac+"40"}},"\u26a1"),
-      ce("h1",{style:{fontSize:22,fontWeight:600,marginBottom:6,letterSpacing:"-0.3px"}},"AI Pulse"),
+      ce("h1",{style:{fontSize:22,fontWeight:600,marginBottom:6}},"AI Pulse"),
       ce("p",{style:{fontSize:13,color:t.tx2,marginBottom:28}},"Loading latest AI news\u2026"),
       ce("div",{style:{width:40,height:40,border:"3px solid "+t.dv,borderTopColor:t.ac,borderRadius:"50%",animation:"spin 0.8s linear infinite"}})
     );
   }
 
-  // Error state
   if(hasError&&allNews.length===0){
     return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx,fontFamily:"'DM Sans',sans-serif",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,textAlign:"center"}},
       ce("div",{style:{fontSize:48,marginBottom:20,opacity:0.4}},"\u26a1"),
       ce("h1",{style:{fontSize:22,fontWeight:600,marginBottom:8}},"AI Pulse"),
-      ce("p",{style:{fontSize:14,color:t.tx2,marginBottom:24,maxWidth:320}},"Could not load news.json. Make sure fetch_news.py has run at least once."),
+      ce("p",{style:{fontSize:14,color:t.tx2,marginBottom:24,maxWidth:320}},"Could not load news.json. Run the workflow first in GitHub Actions."),
       ce("button",{onClick:loadNews,style:{padding:"12px 28px",borderRadius:12,background:t.acS,color:t.ac,border:"1px solid "+t.ac+"30",fontSize:15,fontWeight:500,cursor:"pointer",fontFamily:"'DM Sans',sans-serif"}},"Try again")
     );
   }
 
   var sortedDates=dates.filter(function(d){return!!grouped[d];});
-  var pillData=[{l:"All",v:null}].concat(dates.map(function(d){return{l:shortD(d),v:d};}));
+  var pillDates=dates.slice(0,10);
+  var pillData=[{l:"All",v:null}].concat(pillDates.map(function(d){return{l:shortD(d),v:d};}));
 
   return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx}},
-    // Header
     ce("div",{style:{position:"sticky",top:0,zIndex:100,backdropFilter:"blur(40px) saturate(180%)",WebkitBackdropFilter:"blur(40px) saturate(180%)",background:t.hBg,borderBottom:"1px solid "+t.dv}},
       ce("div",{style:{maxWidth:720,margin:"0 auto",padding:"16px 20px 0"}},
         ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:14}},
@@ -296,7 +307,7 @@ function App(){
             ce("span",{style:{display:"inline-flex",alignItems:"center",justifyContent:"center",width:30,height:30,borderRadius:9,background:"linear-gradient(135deg,"+t.ac+","+t.pu+")",fontSize:15}},"\u26a1"),
             "AI Pulse"),
           ce("div",{style:{display:"flex",alignItems:"center",gap:8}},
-            ce(Btn,{t:t,onClick:function(){loadNews();},s:loading?{opacity:0.4}:{}},
+            ce(Btn,{t:t,onClick:function(){setRefreshCount(refreshCount+1);loadNews();},s:loading?{opacity:0.4}:{}},
               ce("span",{style:loading?{animation:"spin 1s linear infinite",display:"inline-block"}:{}},"↻")),
             ce(Btn,{t:t,onClick:function(){setShowSrch(!showSrch);if(showSrch)setQuery("");},s:showSrch?{background:t.acS,borderColor:t.ac+"40",color:t.ac}:{}},"⌕"),
             ce(Btn,{t:t,onClick:function(){setDark(!dark);}},dark?"☀":"☾")
@@ -322,32 +333,32 @@ function App(){
         )
       )
     ),
-    // Feed
     ce("div",{style:{maxWidth:720,margin:"0 auto",padding:"8px 16px 60px"},className:"safe-bottom"},
       ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:8,padding:"16px 0 12px",animation:"fadeIn 0.5s ease both"}},
         ce("span",{style:{width:6,height:6,borderRadius:"50%",background:"#34d399",animation:"pulse 2s ease infinite"}}),
         ce("span",{style:{fontSize:12,color:t.tx3,fontFamily:"'DM Sans',sans-serif",letterSpacing:"0.3px"}},
-          "Next update in "+nextUp+" \xb7 "+allNews.length+" stories this week")
+          "Next update in "+nextUp+" \xb7 "+allNews.length+" stories")
       ),
       sortedDates.length===0&&!loading&&ce("div",{style:{textAlign:"center",padding:"60px 20px",color:t.tx2,fontFamily:"'DM Sans',sans-serif"}},
         ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.4}},"⌕"),
         ce("div",{style:{fontSize:16,fontWeight:500}},"No results found"),
-        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},query?"Try a different search term":"No news yet for this day")
+        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},query?"Try a different search":"No news yet")
       ),
       sortedDates.map(function(date){
-        return ce("div",{key:date,style:{marginBottom:8,animation:"fadeUp 0.5s ease both"}},
+        var slots=getSortedSlots(date);
+        var totalStories=slots.reduce(function(sum,sl){return sum+(grouped[date][sl]||[]).length;},0);
+        return ce("div",{key:date,style:{marginBottom:8}},
           ce("div",{style:{display:"flex",alignItems:"center",gap:12,padding:"20px 4px 12px"}},
             ce("span",{style:{fontFamily:"'DM Sans',sans-serif",fontSize:15,fontWeight:600}},fmtDate(date)),
             ce("div",{style:{flex:1,height:1,background:t.dv}}),
-            ce("span",{style:{fontFamily:"'DM Sans',sans-serif",fontSize:11,color:t.tx3,letterSpacing:"0.5px"}},
-              Object.values(grouped[date]).reduce(function(a,b){return a+b.length;},0)+" stories")
+            ce("span",{style:{fontFamily:"'DM Sans',sans-serif",fontSize:11,color:t.tx3,letterSpacing:"0.5px"}},totalStories+" stories")
           ),
-          timeSlots.filter(function(time){return grouped[date]&&grouped[date][time];}).map(function(time){
-            var arts=grouped[date][time];
-            return ce("div",{key:time,style:{marginBottom:12}},
-              ce("div",{style:{fontSize:11,fontWeight:600,fontFamily:"'DM Sans',sans-serif",color:t.ac,letterSpacing:"0.8px",textTransform:"uppercase",padding:"8px 8px 10px",opacity:0.8}},time),
+          slots.map(function(slotLabel){
+            var arts=grouped[date][slotLabel];
+            return ce("div",{key:slotLabel,style:{marginBottom:12}},
+              ce("div",{style:{fontSize:11,fontWeight:600,fontFamily:"'DM Sans',sans-serif",color:t.ac,letterSpacing:"0.8px",textTransform:"uppercase",padding:"8px 8px 10px",opacity:0.8}},slotLabel),
               ce("div",{style:{background:t.gl,backdropFilter:"blur(30px) saturate(150%)",WebkitBackdropFilter:"blur(30px) saturate(150%)",border:"1px solid "+t.glB,borderRadius:20,overflow:"hidden",boxShadow:t.sh}},
-                arts.map(function(a,idx){return ce(NewsCard,{key:a.id,a:a,t:t,last:idx===arts.length-1,onSelect:setSelArt});})
+                arts.map(function(a,idx){return ce(NewsCard,{key:a.id||idx,a:a,t:t,last:idx===arts.length-1,onSelect:openArticle});})
               )
             );
           })
