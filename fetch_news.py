@@ -29,7 +29,7 @@ OUTPUT_DIR = Path(__file__).parent
 NEWS_FILE = OUTPUT_DIR / "news.json"
 LOG_FILE = OUTPUT_DIR / "fetch.log"
 MAX_ARTICLES_PER_FEED = 10
-MAX_DAYS_TO_KEEP = 7
+MAX_DAYS_TO_KEEP = 30
 MODEL = "claude-sonnet-4-20250514"
 
 # ─── LOGGING ───
