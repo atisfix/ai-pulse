@@ -46,15 +46,36 @@ logging.basicConfig(
 log = logging.getLogger("ai-pulse")
 
 # ─── RSS FEEDS ───
+# Tier 1: Major tech news (AI-specific feeds)
 RSS_FEEDS = [
     {"name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "tag": "AI"},
     {"name": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "tag": "AI"},
+    {"name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "tag": "AI"},
+    {"name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss", "tag": "AI"},
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "tag": "Tech"},
     {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "tag": "Research"},
-    {"name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "tag": "AI"},
-    {"name": "Wired", "url": "https://www.wired.com/feed/tag/ai/latest/rss", "tag": "AI"},
-    {"name": "Reuters", "url": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best", "tag": "Business"},
-    {"name": "Hacker News", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+machine+learning&count=15", "tag": "Community"},
+    # Tier 2: Google News AI topic (aggregates from many sources)
+    {"name": "Google News AI", "url": "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRqTVhZU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en", "tag": "AI"},
+    # Tier 3: AI-specific outlets
+    {"name": "AI News", "url": "https://www.artificialintelligence-news.com/feed/rss/", "tag": "AI"},
+    {"name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "tag": "Research"},
+    {"name": "The Guardian AI", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss", "tag": "AI"},
+    {"name": "Futurism AI", "url": "https://futurism.com/categories/ai-artificial-intelligence/feed", "tag": "AI"},
+    {"name": "SiliconANGLE", "url": "https://siliconangle.com/category/big-data/feed", "tag": "Tech"},
+    # Tier 4: Company & research blogs
+    {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "tag": "OpenAI"},
+    {"name": "Google AI Blog", "url": "https://research.google/blog/rss/", "tag": "Google"},
+    {"name": "Anthropic Blog", "url": "https://www.anthropic.com/rss.xml", "tag": "Anthropic"},
+    {"name": "DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml", "tag": "DeepMind"},
+    {"name": "Meta AI Blog", "url": "https://ai.meta.com/blog/rss/", "tag": "Meta"},
+    {"name": "Microsoft AI Blog", "url": "https://blogs.microsoft.com/ai/feed/", "tag": "Microsoft"},
+    {"name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/", "tag": "NVIDIA"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "tag": "Open Source"},
+    {"name": "MIT News AI", "url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "tag": "Research"},
+    # Tier 5: Community & aggregators
+    {"name": "Hacker News AI", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+machine+learning&count=15", "tag": "Community"},
+    {"name": "Reddit r/AI", "url": "https://www.reddit.com/r/artificial/.rss", "tag": "Community"},
+    {"name": "Science Daily AI", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml", "tag": "Science"},
 ]
 
 AI_KEYWORDS = [
@@ -64,6 +85,13 @@ AI_KEYWORDS = [
     "mistral", "meta ai", "llama", "diffusion", "nvidia", "gpu", "chip",
     "model", "training", "inference", "benchmark", "alignment", "safety",
     "hugging face", "stable diffusion", "midjourney", "sora", "agent",
+    "agi", "superintelligence", "foundation model", "fine-tuning", "rlhf",
+    "prompt", "token", "context window", "multimodal", "vision model",
+    "text-to-image", "text-to-video", "speech recognition", "nlp",
+    "computer vision", "reinforcement learning", "synthetic data",
+    "ai regulation", "ai safety", "ai ethics", "ai startup", "ai chip",
+    "tensor", "pytorch", "tensorflow", "weights", "parameters",
+    "groq", "cerebras", "cohere", "perplexity", "cursor", "windsurf",
 ]
 
 # ─── CET TIME HELPERS ───
@@ -193,7 +221,7 @@ def summarize_articles(articles):
     log.info(f"Summarizing {len(articles)} articles...")
     article_texts = "\n".join(
         f'[{i+1}] "{a["title"]}" ({a["source"]}): {a["description"][:200]}'
-        for i, a in enumerate(articles[:18])
+        for i, a in enumerate(articles[:25])
     )
 
     system = """You are a concise AI news summarizer. For each article, produce a JSON array of objects with:
@@ -262,7 +290,7 @@ def build_news_items(rss_articles, summaries, x_items):
     today = get_cet_date()
     items = []
 
-    for i, article in enumerate(rss_articles[:18]):
+    for i, article in enumerate(rss_articles[:25]):
         sum_data = next((s for s in summaries if s.get("index") == i + 1), None)
         item = {
             "id": make_article_id(article["title"], article["source"], today, slot_label),
