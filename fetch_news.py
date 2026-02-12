@@ -4,8 +4,10 @@ AI Pulse — News Fetcher Backend
 Fetches AI news from RSS feeds + X/Twitter via Anthropic API web search.
 Summarizes everything with Claude and saves to news.json.
 
-Run via cron 3x daily at 07:00, 13:00, 18:00 CET:
-  0 7,13,18 * * * cd /var/www/ai-pulse && /usr/bin/python3 fetch_news.py
+Schedule (GitHub Actions cron, all in UTC):
+  06:00 UTC = 07:00 CET → Morning Brief
+  12:00 UTC = 13:00 CET → Afternoon Update
+  17:00 UTC = 18:00 CET → Evening Digest
 
 Requirements:
   pip install feedparser requests anthropic
@@ -14,7 +16,7 @@ Requirements:
 import os
 import sys
 import json
-import time
+import re
 import hashlib
 import logging
 from datetime import datetime, timedelta, timezone
@@ -71,13 +73,19 @@ def get_cet_now():
     return datetime.now(CET)
 
 def get_slot_label():
-    h = get_cet_now().hour
-    if h >= 18:
-        return "Evening Digest — 18:00 CET"
-    elif h >= 13:
-        return "Afternoon Update — 13:00 CET"
+    """Determine slot based on the cron schedule that triggered us.
+    GitHub Actions cron runs at 06, 12, 17 UTC = 07, 13, 18 CET.
+    We use UTC hour to determine which slot we are in, since GitHub runs in UTC."""
+    utc_hour = datetime.now(timezone.utc).hour
+    # 17:00 UTC (18:00 CET) window: 16-20 UTC
+    if 16 <= utc_hour <= 20:
+        return "Evening Digest \u2014 18:00 CET"
+    # 12:00 UTC (13:00 CET) window: 11-15 UTC
+    elif 11 <= utc_hour <= 15:
+        return "Afternoon Update \u2014 13:00 CET"
+    # 06:00 UTC (07:00 CET) window: everything else
     else:
-        return "Morning Brief — 07:00 CET"
+        return "Morning Brief \u2014 07:00 CET"
 
 def get_cet_date():
     return get_cet_now().strftime("%Y-%m-%d")
@@ -95,16 +103,13 @@ def fetch_rss_feed(feed):
             if not title:
                 continue
 
-            # Get description, strip HTML
             desc = entry.get("summary", "") or entry.get("description", "")
-            import re
             desc = re.sub(r"<[^>]+>", "", desc).strip()
             desc = re.sub(r"&\w+;", " ", desc).strip()[:500]
 
             link = entry.get("link", "")
             pub_date = entry.get("published", "") or entry.get("updated", "")
 
-            # Filter for AI relevance
             text = (title + " " + desc).lower()
             is_ai = any(kw in text for kw in AI_KEYWORDS)
             if not is_ai and feed["tag"] != "AI":
@@ -119,10 +124,10 @@ def fetch_rss_feed(feed):
                 "tag": feed["tag"],
             })
 
-        log.info(f"    → {len(articles)} relevant articles")
+        log.info(f"    \u2192 {len(articles)} relevant articles")
         return articles
     except Exception as e:
-        log.warning(f"    → Failed: {e}")
+        log.warning(f"    \u2192 Failed: {e}")
         return []
 
 
@@ -165,11 +170,10 @@ def call_anthropic(system_prompt, user_message, use_web_search=False):
             "https://api.anthropic.com/v1/messages",
             headers=headers,
             json=body,
-            timeout=60,
+            timeout=90,
         )
         resp.raise_for_status()
         data = resp.json()
-        # Extract text from content blocks
         text = "".join(
             block.get("text", "")
             for block in data.get("content", [])
@@ -203,8 +207,6 @@ Return ONLY the JSON array. No markdown fences, no explanation."""
         return []
 
     try:
-        import re
-        # Find JSON array in response
         match = re.search(r"\[[\s\S]*\]", text)
         if match:
             return json.loads(match.group(0))
@@ -223,22 +225,23 @@ def fetch_x_news():
 - "summary": what was announced or discussed, max 150 chars (string)
 - "source": format as "X / @handle" (string)
 - "tags": array of 1-2 tags (string array)
-- "link": URL to the tweet/post if available, or empty string
+- "link": direct URL to the tweet/post. Use the format https://x.com/handle/status/ID if you can find it, or empty string if not available
+- "posted_at": when the post was made, e.g. "2 hours ago", "today at 14:30", "Feb 12, 2026" — be as specific as possible (string)
 Return ONLY the JSON array."""
 
     today = get_cet_now().strftime("%B %d, %Y")
-    user_msg = f"""Search X/Twitter for the most recent AI news and announcements from today ({today}) or the past 24 hours. Look for posts from @AnthropicAI, @OpenAI, @GoogleDeepMind, @xai, @ylecun, @MistralAI, @nvidia, @huggingface, @sama, @demishassabis, @karpathy, and other prominent AI accounts and researchers. What are the most noteworthy AI-related posts and announcements?"""
+    cet_time = get_cet_now().strftime("%H:%M CET")
+    user_msg = f"""Search X/Twitter for the most recent AI news and announcements from today ({today}, current time {cet_time}) or the past 24 hours. Look for posts from @AnthropicAI, @OpenAI, @GoogleDeepMind, @xai, @ylecun, @MistralAI, @nvidia, @huggingface, @sama, @demishassabis, @karpathy, and other prominent AI accounts and researchers. What are the most noteworthy AI-related posts and announcements? Include direct links to the posts and when they were posted."""
 
     text = call_anthropic(system, user_msg, use_web_search=True)
     if not text:
         return []
 
     try:
-        import re
         match = re.search(r"\[[\s\S]*\]", text)
         if match:
             items = json.loads(match.group(0))
-            log.info(f"  → {len(items)} X posts found")
+            log.info(f"  \u2192 {len(items)} X posts found")
             return items
     except json.JSONDecodeError as e:
         log.warning(f"JSON parse error in X news: {e}")
@@ -247,9 +250,9 @@ Return ONLY the JSON array."""
 
 
 # ─── BUILD NEWS JSON ───
-def make_article_id(headline, source, date):
-    """Generate a stable ID for deduplication."""
-    raw = f"{headline}:{source}:{date}"
+def make_article_id(headline, source, date, slot):
+    """Generate a stable ID for deduplication including slot."""
+    raw = f"{headline}:{source}:{date}:{slot}"
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
 
@@ -259,11 +262,10 @@ def build_news_items(rss_articles, summaries, x_items):
     today = get_cet_date()
     items = []
 
-    # RSS articles with AI summaries
     for i, article in enumerate(rss_articles[:18]):
         sum_data = next((s for s in summaries if s.get("index") == i + 1), None)
         item = {
-            "id": make_article_id(article["title"], article["source"], today),
+            "id": make_article_id(article["title"], article["source"], today, slot_label),
             "headline": article["title"],
             "summary": sum_data["summary"] if sum_data else article["description"][:150],
             "description": article["description"],
@@ -277,20 +279,26 @@ def build_news_items(rss_articles, summaries, x_items):
         }
         items.append(item)
 
-    # X/Twitter items
     for i, xi in enumerate(x_items):
+        posted_at = xi.get("posted_at", "")
+        source_name = xi.get("source", "X / AI Community")
+        summary_with_time = xi.get("summary", "")
+        if posted_at:
+            summary_with_time = f"[{posted_at}] {summary_with_time}"
+
         item = {
-            "id": make_article_id(xi.get("headline", ""), xi.get("source", "X"), today),
+            "id": make_article_id(xi.get("headline", ""), source_name, today, slot_label),
             "headline": xi.get("headline", "AI Update"),
-            "summary": xi.get("summary", ""),
+            "summary": summary_with_time,
             "description": xi.get("summary", ""),
             "tags": xi.get("tags", ["X", "AI"]),
-            "source": xi.get("source", "X / AI Community"),
+            "source": source_name,
             "link": xi.get("link", ""),
             "time": slot_label,
             "date": today,
             "readTime": f"{1 + (i % 3)} min read",
             "isFromX": True,
+            "postedAt": posted_at,
         }
         items.append(item)
 
@@ -334,14 +342,18 @@ def save_news(news):
 
 # ─── MAIN ───
 def main():
+    slot_label = get_slot_label()
+    today = get_cet_date()
+
     log.info("=" * 60)
-    log.info(f"AI Pulse fetch starting — {get_cet_now().strftime('%Y-%m-%d %H:%M CET')}")
-    log.info(f"Slot: {get_slot_label()}")
+    log.info(f"AI Pulse fetch starting")
+    log.info(f"  CET time: {get_cet_now().strftime('%Y-%m-%d %H:%M CET')}")
+    log.info(f"  UTC time: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+    log.info(f"  Slot: {slot_label}")
     log.info("=" * 60)
 
     if not ANTHROPIC_API_KEY:
         log.error("ANTHROPIC_API_KEY environment variable not set!")
-        log.error("Set it with: export ANTHROPIC_API_KEY='your-key-here'")
         sys.exit(1)
 
     # 1. Fetch RSS
@@ -357,21 +369,29 @@ def main():
     new_items = build_news_items(rss_articles, summaries, x_items)
     log.info(f"New items this cycle: {len(new_items)} ({len(new_items) - len(x_items)} RSS + {len(x_items)} X)")
 
-    # 5. Merge with existing, prune, deduplicate
+    # 5. Load existing news
     existing = load_existing_news()
+
+    # 6. Remove old entries from the SAME slot today (so they get replaced with fresh ones)
+    existing = [
+        n for n in existing
+        if not (n.get("date") == today and n.get("time") == slot_label)
+    ]
+
+    # 7. Merge, deduplicate, prune
     combined = new_items + existing
     combined = deduplicate(combined)
     combined = prune_old_news(combined)
 
-    # Sort: newest date first, then by time slot
+    # 8. Sort: newest date first, then evening > afternoon > morning
     slot_order = {
-        "Evening Digest — 18:00 CET": 0,
-        "Afternoon Update — 13:00 CET": 1,
-        "Morning Brief — 07:00 CET": 2,
+        "Evening Digest \u2014 18:00 CET": 0,
+        "Afternoon Update \u2014 13:00 CET": 1,
+        "Morning Brief \u2014 07:00 CET": 2,
     }
     combined.sort(key=lambda x: (x["date"], -slot_order.get(x["time"], 9)), reverse=True)
 
-    # 6. Save
+    # 9. Save
     save_news(combined)
 
     log.info("=" * 60)
