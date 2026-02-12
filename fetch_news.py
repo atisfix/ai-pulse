@@ -17,6 +17,7 @@ import os
 import sys
 import json
 import re
+import html as html_module
 import hashlib
 import logging
 from datetime import datetime, timedelta, timezone
@@ -132,8 +133,13 @@ def fetch_rss_feed(feed):
                 continue
 
             desc = entry.get("summary", "") or entry.get("description", "")
+            desc = html_module.unescape(desc)
             desc = re.sub(r"<[^>]+>", "", desc).strip()
-            desc = re.sub(r"&\w+;", " ", desc).strip()[:500]
+            desc = re.sub(r"\[\s*\.\.\.\s*\]|\[\s*\u2026\s*\]", "...", desc)
+            desc = re.sub(r"\s+", " ", desc).strip()[:500]
+
+            title = html_module.unescape(title)
+            title = re.sub(r"\[\s*\.\.\.\s*\]|\[\s*\u2026\s*\]", "...", title)
 
             link = entry.get("link", "")
             pub_date = entry.get("published", "") or entry.get("updated", "")
