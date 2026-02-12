@@ -171,14 +171,34 @@ function App(){
   var scrollPosRef=useRef(0);
   var prevCountRef=useRef(0);
 
+  // Clean broken HTML entities from RSS feed text
+  function cleanText(s){
+    if(!s)return s;
+    // Decode numeric HTML entities like &#8230; &#8217; &#8220; etc
+    s=s.replace(/&#(\d+);/g,function(_,n){return String.fromCharCode(parseInt(n,10));});
+    // Decode named entities
+    s=s.replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"').replace(/&apos;/g,"'").replace(/&nbsp;/g," ");
+    // Clean up [...] and […] artifacts
+    s=s.replace(/\[\s*\.\.\.\s*\]/g,"...").replace(/\[\s*\u2026\s*\]/g,"...");
+    return s.trim();
+  }
+  function cleanArticle(a){
+    return Object.assign({},a,{
+      headline:cleanText(a.headline),
+      summary:cleanText(a.summary),
+      description:cleanText(a.description)
+    });
+  }
+
   var loadNews=useCallback(function(manual){
     setLoading(true);
     if(manual)setToast("");
     fetchNewsJSON().then(function(data){
       if(data&&Array.isArray(data)&&data.length>0){
         var oldCount=prevCountRef.current;
-        setAllNews(data);
-        prevCountRef.current=data.length;
+        var cleaned=data.map(cleanArticle);
+        setAllNews(cleaned);
+        prevCountRef.current=cleaned.length;
         setHasError(false);
         var now=new Date();
         var h=now.getHours();var m=now.getMinutes();
