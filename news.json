@@ -2,7 +2,7 @@
   {
     "id": "a97dd63a330f",
     "headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
-    "summary": "Two more xAI co-founders leave after SpaceX merger valued at $1.25 trillion.",
+    "summary": "Two xAI co-founders left following the reported $1.25T xAI-SpaceX merger, the largest merger ever.",
     "description": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also [&#8230;]",
     "tags": [
       "xAI",
@@ -10,7 +10,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
@@ -18,7 +18,7 @@
   {
     "id": "a50422bfd8b9",
     "headline": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
-    "summary": "Anthropic promises to pay higher electricity charges to limit impact on residents' bills.",
+    "summary": "Anthropic promises to pay higher electricity charges to prevent raising local residents' power bills.",
     "description": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs [&#8230;]",
     "tags": [
       "Anthropic",
@@ -26,7 +26,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "3 min read",
     "isFromX": false
@@ -34,15 +34,15 @@
   {
     "id": "35f4db441180",
     "headline": "Apple keeps hitting bumps with its overhauled Siri",
-    "summary": "Apple delays Siri overhaul from iOS 26.4 to later versions including iOS 27.",
+    "summary": "Apple delays major Siri updates from iOS 26.4 to later versions including iOS 27.",
     "description": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context [&#8230;]",
     "tags": [
       "Apple",
-      "Agents"
+      "LLM"
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "4 min read",
     "isFromX": false
@@ -50,7 +50,7 @@
   {
     "id": "2b09dd36d916",
     "headline": "Instagram and X have an impossible deepfake detection deadline",
-    "summary": "India mandates social platforms remove illegal deepfakes, testing detection methods.",
+    "summary": "India mandates social platforms remove deepfakes, testing current detection methods' limits.",
     "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all synthetic content is clearly labeled. Tech companies have said for years that they wanted to [&#8230;]",
     "tags": [
       "Regulation",
@@ -58,7 +58,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "5 min read",
     "isFromX": false
@@ -66,7 +66,7 @@
   {
     "id": "9cb480476f9c",
     "headline": "Here are the brands bringing ads to ChatGPT",
-    "summary": "OpenAI launches ChatGPT advertising pilot with several brand partners.",
+    "summary": "OpenAI launches advertising pilot in ChatGPT with several brand partners joining.",
     "description": "OpenAI officially launched its advertising pilot in ChatGPT, leaving us with a better idea of the kinds of products we might see stuffed beneath our conversations with the AI chatbot. Several companies have announced plans to show ads inside ChatGPT - placements that will reportedly cost them a pretty penny - ranging from major retailers [&#8230;]",
     "tags": [
       "OpenAI",
@@ -74,7 +74,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "6 min read",
     "isFromX": false
@@ -82,7 +82,7 @@
   {
     "id": "ba3c24a15fba",
     "headline": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
-    "summary": "Meta's largest data center project faces community concerns after ice storm.",
+    "summary": "Meta's largest data center project faces community concerns after weather-related issues.",
     "description": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural community in North Louisiana into the spotlight as a high-profile example of how the infrastructure behind generative AI could impact nearby residents. For [&#8230;]",
     "tags": [
       "Meta",
@@ -90,7 +90,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
@@ -98,15 +98,15 @@
   {
     "id": "7deab24da53b",
     "headline": "T-Mobile will live translate regular phone calls without an app",
-    "summary": "T-Mobile testing AI live phone call translation in 50+ languages this spring.",
+    "summary": "T-Mobile testing AI live phone call translation across 50+ languages this spring.",
     "description": "T-Mobile is preparing to test a new AI feature that translates live phone calls into more than 50 languages. Live Translation is launching in beta \"this Spring,\" according to a press release, with registration for eligible T-Mobile customers available starting today. \"Some of the biggest barriers wireless customers face are the simplest ones - like [&#8230;]",
     "tags": [
       "LLM",
-      "Agents"
+      "Market"
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "3 min read",
     "isFromX": false
@@ -114,15 +114,15 @@
   {
     "id": "557ecd3ad349",
     "headline": "Uber Eats adds AI assistant to help with grocery shopping",
-    "summary": "Uber Eats adds Cart Assistant AI for grocery shopping via text/image prompts.",
+    "summary": "Uber Eats adds AI Cart Assistant for grocery shopping via text and image prompts.",
     "description": "Uber announced a new AI feature called \"Cart Assistant\" for grocery shopping in its Uber Eats app. The new feature works a couple different ways. You can use text prompts, as you would with any other AI chatbot, to ask it to build a grocery list for you. Or you can upload a picture of [&#8230;]",
     "tags": [
-      "Agents",
+      "LLM",
       "Market"
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "4 min read",
     "isFromX": false
@@ -130,7 +130,7 @@
   {
     "id": "628baf1d5c47",
     "headline": "‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE",
-    "summary": "Tech workers frustrated by CEO silence on immigration enforcement issues.",
+    "summary": "Tech workers frustrated by companies' silence amid Trump administration's immigration enforcement.",
     "description": "Keep your head down. Compartmentalize. Don't make trouble. That's what many tech workers are taking their CEOs' strategic silence to mean, amid an immigration crackdown across the US by the Trump administration's Department of Homeland Security. Widespread violence by federal agents has sparked protests in Minneapolis and across the country. One month after an ICE [&#8230;]",
     "tags": [
       "Market",
@@ -138,7 +138,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "5 min read",
     "isFromX": false
@@ -146,7 +146,7 @@
   {
     "id": "a88804465705",
     "headline": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
-    "summary": "ChatGPT's research tool gets full-screen viewer for AI-generated reports.",
+    "summary": "ChatGPT's research tool gets document viewer for navigating AI-generated reports.",
     "description": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table [&#8230;]",
     "tags": [
       "OpenAI",
@@ -154,7 +154,7 @@
     ],
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "6 min read",
     "isFromX": false
@@ -162,7 +162,7 @@
   {
     "id": "e0118e17eb83",
     "headline": "xAI lays out interplanetary ambitions in public all-hands",
-    "summary": "xAI shares 45-minute all-hands presentation outlining interplanetary goals.",
+    "summary": "xAI shares 45-minute all-hands presentation publicly, outlining interplanetary goals.",
     "description": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
     "tags": [
       "xAI",
@@ -170,7 +170,7 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
@@ -178,7 +178,7 @@
   {
     "id": "fc3d37a53d73",
     "headline": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-    "summary": "AI inference startup Modal Labs raising funds at $2.5B valuation.",
+    "summary": "AI inference startup Modal Labs raising funding at $2.5B valuation with General Catalyst.",
     "description": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
     "tags": [
       "Startup",
@@ -186,7 +186,7 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "3 min read",
     "isFromX": false
@@ -194,7 +194,7 @@
   {
     "id": "5568f647725e",
     "headline": "OpenAI disbands mission alignment team",
-    "summary": "OpenAI dissolves mission alignment team, reassigning members to new roles.",
+    "summary": "OpenAI disbands mission alignment team, reassigning members and promoting leader to chief futurist.",
     "description": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
     "tags": [
       "OpenAI",
@@ -202,7 +202,7 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "4 min read",
     "isFromX": false
@@ -210,15 +210,15 @@
   {
     "id": "2a970719761f",
     "headline": "Apple’s Siri revamp reportedly delayed… again",
-    "summary": "Apple's Siri revamp delayed again, features pushed to iOS 26.5 and iOS 27.",
+    "summary": "Apple's Siri revamp delayed again, features postponed from March to May and beyond.",
     "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
     "tags": [
       "Apple",
-      "Agents"
+      "LLM"
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "5 min read",
     "isFromX": false
@@ -226,15 +226,15 @@
   {
     "id": "108c40aaecfe",
     "headline": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "summary": "Uber Eats launches Cart Assistant AI for grocery shopping automation.",
+    "summary": "Uber Eats launches Cart Assistant AI for grocery shopping via text and image inputs.",
     "description": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
     "tags": [
-      "Agents",
+      "LLM",
       "Market"
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "6 min read",
     "isFromX": false
@@ -242,7 +242,7 @@
   {
     "id": "68df03b12a2a",
     "headline": "Glean’s fight to own the AI layer inside every company",
-    "summary": "Glean competes to control enterprise AI layer as systems shift from chat to work.",
+    "summary": "Glean competes to become the central AI layer powering enterprise work systems.",
     "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
     "tags": [
       "Startup",
@@ -250,7 +250,7 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "2 min read",
     "isFromX": false
@@ -258,7 +258,7 @@
   {
     "id": "4aebe95b063f",
     "headline": "Who will own your company’s AI layer? Glean’s CEO explains",
-    "summary": "Glean CEO discusses owning enterprise AI layer powering organizational work.",
+    "summary": "Glean's CEO discusses strategy to own enterprise AI infrastructure layer across organizations.",
     "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI [&#8230;]",
     "tags": [
       "Startup",
@@ -266,7 +266,7 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "3 min read",
     "isFromX": false
@@ -274,7 +274,7 @@
   {
     "id": "d2e33bfd32aa",
     "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "summary": "Elon Musk suggests recent xAI executive exits were company-initiated departures.",
+    "summary": "Musk suggests recent xAI executive exits were company-initiated amid stability concerns.",
     "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
     "tags": [
       "xAI",
@@ -282,10 +282,138 @@
     ],
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-    "time": "Morning Brief — 07:00 CET",
+    "time": "Afternoon Update — 13:00 CET",
     "date": "2026-02-12",
     "readTime": "4 min read",
     "isFromX": false
+  },
+  {
+    "id": "260a35e7abfc",
+    "headline": "SpaceX acquires xAI in massive AI-space merger",
+    "summary": "Elon Musk's SpaceX announced acquisition of xAI in February 2026, merging AI and space exploration projects into one company.",
+    "description": "Elon Musk's SpaceX announced acquisition of xAI in February 2026, merging AI and space exploration projects into one company.",
+    "tags": [
+      "merger",
+      "space"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
+  },
+  {
+    "id": "1d34d8498778",
+    "headline": "OpenAI's ChatGPT hits 800M weekly users as ads rollout begins",
+    "summary": "Sam Altman reveals ChatGPT back to 10% monthly growth with 800M weekly users. Company begins testing ads in free tier on February 12, 2026.",
+    "description": "Sam Altman reveals ChatGPT back to 10% monthly growth with 800M weekly users. Company begins testing ads in free tier on February 12, 2026.",
+    "tags": [
+      "growth",
+      "monetization"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": true
+  },
+  {
+    "id": "d77217a04429",
+    "headline": "X algorithm now fully powered by Grok AI",
+    "summary": "Elon Musk confirms X's recommendation system switching to Grok-powered AI within 4-6 weeks, analyzing 100M+ posts daily for personalized feeds.",
+    "description": "Elon Musk confirms X's recommendation system switching to Grok-powered AI within 4-6 weeks, analyzing 100M+ posts daily for personalized feeds.",
+    "tags": [
+      "algorithm",
+      "personalization"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": true
+  },
+  {
+    "id": "3217bcf92a13",
+    "headline": "Anthropic releases Claude Opus 4.6 with team coordination",
+    "summary": "New Claude model features autonomous AI agent teams that coordinate on complex projects, triggering trillion-dollar SaaS stock selloff.",
+    "description": "New Claude model features autonomous AI agent teams that coordinate on complex projects, triggering trillion-dollar SaaS stock selloff.",
+    "tags": [
+      "agents",
+      "enterprise"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
+  },
+  {
+    "id": "f4964a34b6c7",
+    "headline": "X launches collaborative AI-powered Community Notes",
+    "summary": "New feature allows AI to draft Community Notes, then human contributors refine them through ratings and suggestions in real-time.",
+    "description": "New feature allows AI to draft Community Notes, then human contributors refine them through ratings and suggestions in real-time.",
+    "tags": [
+      "fact-checking",
+      "collaboration"
+    ],
+    "source": "X / @X",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": true
+  },
+  {
+    "id": "5dd5ea436795",
+    "headline": "OpenAI hires new Head of Preparedness for 'extremely powerful models'",
+    "summary": "Sam Altman welcomes Dylan Scandinaro as safety lead, says things will 'move quite fast' with upcoming powerful AI models.",
+    "description": "Sam Altman welcomes Dylan Scandinaro as safety lead, says things will 'move quite fast' with upcoming powerful AI models.",
+    "tags": [
+      "safety",
+      "hiring"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "3 min read",
+    "isFromX": true
+  },
+  {
+    "id": "d11d93040b4d",
+    "headline": "Google using Anthropic's Claude to improve Gemini internally",
+    "summary": "Internal correspondence reveals Google contractors comparing Gemini responses against Claude outputs, raising competitive questions.",
+    "description": "Internal correspondence reveals Google contractors comparing Gemini responses against Claude outputs, raising competitive questions.",
+    "tags": [
+      "competition",
+      "development"
+    ],
+    "source": "X / @GoogleDeepMind",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "1 min read",
+    "isFromX": true
+  },
+  {
+    "id": "91ca069758d2",
+    "headline": "Anthropic airs Super Bowl ads mocking OpenAI's ChatGPT commercialization",
+    "summary": "Claude ads target OpenAI's ad rollout with 'A Time and a Place' campaign, promising Claude will remain ads-free unlike ChatGPT.",
+    "description": "Claude ads target OpenAI's ad rollout with 'A Time and a Place' campaign, promising Claude will remain ads-free unlike ChatGPT.",
+    "tags": [
+      "marketing",
+      "competition"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-12",
+    "readTime": "2 min read",
+    "isFromX": true
   },
   {
     "id": "f4641d6e214e",
