@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Fetch AI News
 
 # Run 3 times daily at Netherlands time (CET = UTC+1)
@@ -45,4 +45,3 @@ jobs:
           git add news.json fetch.log
           git diff --staged --quiet || git commit -m "📰 News update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
-```
