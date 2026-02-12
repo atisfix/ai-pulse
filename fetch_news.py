@@ -369,7 +369,7 @@ def main():
         "Afternoon Update — 13:00 CET": 1,
         "Morning Brief — 07:00 CET": 2,
     }
-    combined.sort(key=lambda x: (-x["date"].replace("-", ""), slot_order.get(x["time"], 9)))
+    combined.sort(key=lambda x: (x["date"], -slot_order.get(x["time"], 9)), reverse=True)
 
     # 6. Save
     save_news(combined)
