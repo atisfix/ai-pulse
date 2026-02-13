@@ -30,6 +30,7 @@ import requests
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 OUTPUT_DIR = Path(__file__).parent
 NEWS_FILE = OUTPUT_DIR / "news.json"
+SEEN_FILE = OUTPUT_DIR / "seen_articles.json"
 LOG_FILE = OUTPUT_DIR / "fetch.log"
 MAX_ARTICLES_PER_FEED = 10
 MAX_DAYS_TO_KEEP = 30
@@ -374,6 +375,73 @@ def save_news(news):
     log.info(f"Saved {len(news)} articles to {NEWS_FILE}")
 
 
+# ─── SEEN ARTICLES TRACKING ───
+def make_fingerprint(title, source):
+    """Create a fingerprint from headline + source for dedup across fetches."""
+    raw = re.sub(r"[^a-z0-9 ]", "", (title or "").lower().strip())
+    raw += ":" + (source or "").lower().strip()
+    return hashlib.md5(raw.encode()).hexdigest()[:16]
+
+def make_content_hash(description):
+    """Hash the description to detect if content has been updated."""
+    raw = re.sub(r"\s+", " ", (description or "").lower().strip())
+    return hashlib.md5(raw.encode()).hexdigest()[:12]
+
+def load_seen():
+    """Load seen articles registry.
+    Format: { fingerprint: { "first_seen": date, "content_hash": hash } }
+    """
+    if SEEN_FILE.exists():
+        try:
+            with open(SEEN_FILE, "r") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            pass
+    return {}
+
+def save_seen(seen):
+    """Save seen articles registry."""
+    with open(SEEN_FILE, "w") as f:
+        json.dump(seen, f, indent=2, ensure_ascii=False)
+
+def prune_seen(seen, days=60):
+    """Remove entries older than N days to keep file small."""
+    cutoff = (get_cet_now() - timedelta(days=days)).strftime("%Y-%m-%d")
+    return {k: v for k, v in seen.items() if v.get("first_seen", "") >= cutoff}
+
+def filter_new_articles(rss_articles, seen):
+    """Filter out articles that have been seen before (unless updated).
+    Returns (new_articles, updated_seen_dict).
+    """
+    new = []
+    today = get_cet_date()
+
+    for article in rss_articles:
+        fp = make_fingerprint(article["title"], article["source"])
+        content_hash = make_content_hash(article["description"])
+
+        if fp in seen:
+            old_hash = seen[fp].get("content_hash", "")
+            if content_hash == old_hash:
+                # Same article, same content — skip it
+                continue
+            else:
+                # Same article but content changed — allow it as an update
+                log.info(f"    Updated article: {article['title'][:60]}...")
+                seen[fp]["content_hash"] = content_hash
+
+        else:
+            # Brand new article — register it
+            seen[fp] = {
+                "first_seen": today,
+                "content_hash": content_hash,
+            }
+
+        new.append(article)
+
+    return new, seen
+
+
 # ─── MAIN ───
 def main():
     slot_label = get_slot_label()
@@ -393,31 +461,36 @@ def main():
     # 1. Fetch RSS
     rss_articles = fetch_all_rss()
 
-    # 2. Summarize with Claude
+    # 2. Filter out already-seen articles (unless updated)
+    seen = load_seen()
+    rss_articles, seen = filter_new_articles(rss_articles, seen)
+    log.info(f"New/updated RSS articles after dedup: {len(rss_articles)}")
+
+    # 3. Summarize with Claude (only new articles — saves API cost too!)
     summaries = summarize_articles(rss_articles)
 
-    # 3. Fetch X/Twitter news
+    # 4. Fetch X/Twitter news
     x_items = fetch_x_news()
 
-    # 4. Build new items
+    # 5. Build new items
     new_items = build_news_items(rss_articles, summaries, x_items)
     log.info(f"New items this cycle: {len(new_items)} ({len(new_items) - len(x_items)} RSS + {len(x_items)} X)")
 
-    # 5. Load existing news
+    # 6. Load existing news
     existing = load_existing_news()
 
-    # 6. Remove old entries from the SAME slot today (so they get replaced with fresh ones)
+    # 7. Remove old entries from the SAME slot today (so they get replaced with fresh ones)
     existing = [
         n for n in existing
         if not (n.get("date") == today and n.get("time") == slot_label)
     ]
 
-    # 7. Merge, deduplicate, prune
+    # 8. Merge, deduplicate, prune
     combined = new_items + existing
     combined = deduplicate(combined)
     combined = prune_old_news(combined)
 
-    # 8. Sort: newest date first, then evening > afternoon > morning
+    # 9. Sort: newest date first, then evening > afternoon > morning
     slot_order = {
         "Evening Digest \u2014 18:00 CET": 0,
         "Afternoon Update \u2014 13:00 CET": 1,
@@ -425,8 +498,11 @@ def main():
     }
     combined.sort(key=lambda x: (x["date"], -slot_order.get(x["time"], 9)), reverse=True)
 
-    # 9. Save
+    # 10. Save news + seen registry
     save_news(combined)
+    seen = prune_seen(seen, days=60)
+    save_seen(seen)
+    log.info(f"Seen articles registry: {len(seen)} entries")
 
     log.info("=" * 60)
     log.info("Fetch complete!")
