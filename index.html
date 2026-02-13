@@ -234,11 +234,16 @@ function App(){
   },[dark]);
   useEffect(function(){if(showSrch&&sRef.current)sRef.current.focus();},[showSrch]);
 
-  // All dates that have articles (unfiltered) — for the pill bar
-  var allDates=useMemo(function(){
-    var ds=new Set();allNews.forEach(function(n){if(n.date)ds.add(n.date);});
-    return Array.from(ds).sort().reverse();
-  },[allNews]);
+  // Fixed 7-day pill bar: Today, Yesterday, + 5 more days (always shown)
+  var pillDates=useMemo(function(){
+    var arr=[];
+    var now=new Date();
+    for(var i=0;i<7;i++){
+      var d=new Date(now);d.setDate(d.getDate()-i);
+      arr.push(d.toISOString().slice(0,10));
+    }
+    return arr;
+  },[]);
 
   // Trending tags: count occurrences across all articles, pick top 12
   var trendingTags=useMemo(function(){
@@ -295,9 +300,10 @@ function App(){
     var today=new Date().toISOString().slice(0,10);
     if(ds===today)return"Today";
     var yest=new Date(Date.now()-86400000).toISOString().slice(0,10);
-    if(ds===yest)return"Yest.";
+    if(ds===yest)return"Yesterday";
     var d=new Date(ds+"T12:00:00");
-    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate();
+    var months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate()+" "+months[d.getMonth()];
   };
 
   var t=T(dark);
@@ -331,7 +337,7 @@ function App(){
     );
   }
 
-  var pillData=[{l:"All",v:null}].concat(allDates.map(function(d){return{l:shortD(d),v:d};}));
+  var pillData=[{l:"All",v:null}].concat(pillDates.map(function(d){return{l:shortD(d),v:d};}));
 
   return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx}},
     // HEADER
@@ -452,7 +458,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.41")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.42")
       )
     )
   );
