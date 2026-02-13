@@ -1,5 +1,405 @@
 [
   {
+    "id": "1ed6190ebb09",
+    "headline": "What’s behind the mass exodus at xAI?",
+    "summary": "xAI faces mass exodus with cofounder Tony Wu announcing departure amid staff departures.",
+    "description": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his departure and that it was \"time for [his] next chapter,\" with cofounder Jimmy Ba following with a similar post later that day, ...",
+    "tags": [
+      "xAI",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "c3c1627f907c",
+    "headline": "Ring’s adorable surveillance hellscape",
+    "summary": "Ring's Super Bowl ad promotes cute dog reunions while expanding surveillance network concerns.",
+    "description": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see ...",
+    "tags": [
+      "Hardware",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "393fbbcf839d",
+    "headline": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted",
+    "summary": "Meta plans facial recognition for smart glasses while privacy advocates are distracted.",
+    "description": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times. In an internal document reviewed by The Times, Meta says it will launch the feature \"during a dynamic political environment where many civil society groups that we would expect to ...",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6217eab46013",
+    "headline": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+    "summary": "Book explores tech's addictive doomscrolling culture and its psychological effects.",
+    "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we ...",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "698dd9866637",
+    "headline": "The surprising case for AI judges",
+    "summary": "Article explores potential role of AI in making legal decisions and dispute resolution.",
+    "description": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of ...",
+    "tags": [
+      "Regulation",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "561243a69b5f",
+    "headline": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+    "summary": "ByteDance launches Seedance 2.0 AI model generating video from text, images, audio inputs.",
+    "description": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements ...",
+    "tags": [
+      "Creative AI",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "ac5f5259d6df",
+    "headline": "This $7,999 robot will fold (some of) your laundry",
+    "summary": "Weave startup offers $7,999 Isaac 0 robot for folding laundry in Bay Area.",
+    "description": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs ...",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "e5c9805dc6dd",
+    "headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+    "summary": "Two more xAI co-founders leave following SpaceX merger creating $1.25T valuation.",
+    "description": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also ...",
+    "tags": [
+      "xAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "e0df37cc956e",
+    "headline": "Anthropic says it’ll try to keep its data centers from raising electricity costs",
+    "summary": "Anthropic promises to pay higher electricity charges to avoid raising local residents' bills.",
+    "description": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "ef87d402cad6",
+    "headline": "Apple keeps hitting bumps with its overhauled Siri",
+    "summary": "Apple delays major Siri overhaul from iOS 26.4 to later versions including iOS 27.",
+    "description": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context ...",
+    "tags": [
+      "Apple",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "68da619b97eb",
+    "headline": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+    "summary": "Airbnb reports AI now handles one-third of customer support in US and Canada.",
+    "description": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "1fef761f1612",
+    "headline": "Why top talent is walking away from OpenAI and xAI",
+    "summary": "Top talent exodus continues at AI companies including xAI and OpenAI facing instability.",
+    "description": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature. Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony ...",
+    "tags": [
+      "OpenAI",
+      "xAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "91fd38d3fd95",
+    "headline": "OpenAI removes access to sycophancy-prone GPT-4o model",
+    "summary": "OpenAI removes overly sycophantic GPT-4o model linked to unhealthy user relationships.",
+    "description": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "1bbd605d9d5b",
+    "headline": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
+    "summary": "AI talent exodus continues with half of xAI founding team departing the company.",
+    "description": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature. On this episode of TechCrunch’s Equity podcast, hosts Kirsten ...",
+    "tags": [
+      "xAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5f35995f2cad",
+    "headline": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+    "summary": "Anthropic's Super Bowl ads and Opus 4.6 release push Claude app into top 10.",
+    "description": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "708d5a992c18",
+    "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "summary": "Elon Musk suggests nine xAI engineer exits were company-initiated rather than voluntary.",
+    "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+    "tags": [
+      "xAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "2440df758631",
+    "headline": "Cohere’s $240M year sets stage for IPO",
+    "summary": "Cohere achieves $240M annual revenue, positioning for IPO amid enterprise AI demand.",
+    "description": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "f81e6e3c2bb5",
+    "headline": "Meta plans to add facial recognition to its smart glasses, report claims",
+    "summary": "Meta developing 'Name Tag' facial recognition feature for smart glasses with AI assistant.",
+    "description": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "21c32f178f1e",
+    "headline": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+    "summary": "Pinterest stock falls after earnings miss, claims more searches than ChatGPT usage.",
+    "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+    "tags": [
+      "Market",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "24a1a53bc2ac",
+    "headline": "IBM will hire your entry-level talent in the age of AI",
+    "summary": "IBM plans to triple US entry-level hiring in 2026 with AI-adapted job roles.",
+    "description": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6ef8ee8771c3",
+    "headline": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "Railway raises $100M Series B to challenge AWS with AI-native cloud infrastructure.",
+    "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure sta",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "04d70c2cc784",
+    "headline": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "Free Goose tool offers alternative to expensive $200/month Claude Code for AI coding.",
+    "description": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction. Goose, an open-source AI agent developed by Block (the fina",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "0f315019690d",
+    "headline": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "summary": "Listen Labs raises $69M after viral billboard stunt to scale AI customer interview platform.",
+    "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "b7db10aa76bd",
+    "headline": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "summary": "Salesforce rebuilds Slackbot as powerful AI agent competing with Microsoft and Google.",
+    "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\" move",
+    "tags": [
+      "Agents",
+      "Microsoft"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "f64b6710df40",
+    "headline": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic launches Cowork, extending Claude Code capabilities to non-technical users.",
+    "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microso",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
     "id": "0f59a96bdda3",
     "headline": "What’s behind the mass exodus at xAI?",
     "summary": "xAI faces mass exodus with staff and cofounder departures including Yuhuai (Tony) Wu.",
