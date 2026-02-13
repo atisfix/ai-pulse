@@ -1,5 +1,541 @@
 [
   {
+    "id": "63b5414431a4",
+    "headline": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+    "summary": "Book explores tech addiction and doomscrolling culture.",
+    "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we ...",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6083cba80063",
+    "headline": "The surprising case for AI judges",
+    "summary": "Exploring AI's potential role in legal decision-making and dispute resolution.",
+    "description": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of ...",
+    "tags": [
+      "Regulation",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5bc6ccbee6bd",
+    "headline": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+    "summary": "ByteDance launches Seedance 2.0, generating video from text, images, audio.",
+    "description": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements ...",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "bd3b673ec24c",
+    "headline": "This $7,999 robot will fold (some of) your laundry",
+    "summary": "Startup Weave offers $7,999 laundry-folding robot Isaac 0.",
+    "description": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs ...",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "1ed98f1e945c",
+    "headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+    "summary": "More xAI co-founders leave after $1.25T SpaceX merger announcement.",
+    "description": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also ...",
+    "tags": [
+      "Market",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "b39753199d55",
+    "headline": "Anthropic says it’ll try to keep its data centers from raising electricity costs",
+    "summary": "Anthropic promises to cover higher electricity costs for data centers.",
+    "description": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs ...",
+    "tags": [
+      "Anthropic",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "06c9ce9cc810",
+    "headline": "Apple keeps hitting bumps with its overhauled Siri",
+    "summary": "Apple delays major Siri updates to iOS 26.5 and iOS 27.",
+    "description": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context ...",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "fa884de62d6e",
+    "headline": "Instagram and X have an impossible deepfake detection deadline",
+    "summary": "India mandates social platforms remove deepfakes, testing detection methods.",
+    "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all synthetic content is clearly labeled. Tech companies have said for years that they wanted to ...",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "ee5bdf455ead",
+    "headline": "Here are the brands bringing ads to ChatGPT",
+    "summary": "OpenAI launches advertising pilot in ChatGPT with brand partnerships.",
+    "description": "OpenAI officially launched its advertising pilot in ChatGPT, leaving us with a better idea of the kinds of products we might see stuffed beneath our conversations with the AI chatbot. Several companies have announced plans to show ads inside ChatGPT - placements that will reportedly cost them a pretty penny - ranging from major retailers ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "e310bf194924",
+    "headline": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
+    "summary": "Meta's largest data center project faces community concerns after weather issues.",
+    "description": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural community in North Louisiana into the spotlight as a high-profile example of how the infrastructure behind generative AI could impact nearby residents. For ...",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5317650a1bf3",
+    "headline": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+    "summary": "Pinterest stock drops after earnings miss, claims more searches than ChatGPT.",
+    "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+    "tags": [
+      "Market",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "035c13169846",
+    "headline": "IBM will hire your entry-level talent in the age of AI",
+    "summary": "IBM plans to triple entry-level hiring in 2026 for AI-adapted roles.",
+    "description": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "3e24e4d977d5",
+    "headline": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+    "summary": "Musk envisions lunar mass driver shooting AI satellites into deep space.",
+    "description": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+    "tags": [
+      "Market",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "76ed706f7874",
+    "headline": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+    "summary": "Didero raises $30M for AI-powered manufacturing procurement automation.",
+    "description": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "134465c87098",
+    "headline": "Anthropic raises another $30B in Series G, with a new value of $380B",
+    "summary": "Anthropic raises $30B Series G at $380B valuation, competing with OpenAI.",
+    "description": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "c964df8e49e1",
+    "headline": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+    "summary": "Spotify says top developers haven't coded since December, using AI tools.",
+    "description": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "12f5dcdc8375",
+    "headline": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+    "summary": "OpenAI releases new Codex version with dedicated chip partnership.",
+    "description": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "240324e96e73",
+    "headline": "xAI lays out interplanetary ambitions in public all-hands",
+    "summary": "xAI shares 45-minute all-hands presentation outlining interplanetary goals.",
+    "description": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "1db58984cb60",
+    "headline": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+    "summary": "AI inference startup Modal Labs seeks $2.5B valuation in funding talks.",
+    "description": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "16549478b79c",
+    "headline": "OpenAI disbands mission alignment team",
+    "summary": "OpenAI disbands mission alignment team, reassigns members across company.",
+    "description": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+    "tags": [
+      "OpenAI",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "48b252ceae9a",
+    "headline": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "Railway raises $100M Series B to challenge AWS with AI-native cloud.",
+    "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure sta",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "c2f9a80121b8",
+    "headline": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "Free alternative Goose competes with Anthropic's $200/month Claude Code.",
+    "description": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction. Goose, an open-source AI agent developed by Block (the fina",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5444160df904",
+    "headline": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "summary": "Listen Labs raises $69M after viral billboard stunt to hire engineers.",
+    "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "61d4e59dafe2",
+    "headline": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "summary": "Salesforce launches rebuilt Slackbot AI agent to compete with Microsoft, Google.",
+    "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\" move",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "9e89f302c2c2",
+    "headline": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic launches Cowork, extending Claude Code capabilities to non-technical users.",
+    "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microso",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "d666cafeb553",
+    "headline": "Anthropic Partners with Allen Institute and HHMI for Scientific Discovery",
+    "summary": "[Feb 2, 2026] Major partnership announced to accelerate scientific research using Claude AI models across biology and medical research institutions.",
+    "description": "Major partnership announced to accelerate scientific research using Claude AI models across biology and medical research institutions.",
+    "tags": [
+      "research",
+      "partnerships"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2, 2026"
+  },
+  {
+    "id": "9e66f4c31db5",
+    "headline": "Karpathy Discusses Phase Shift in AI-Driven Software Engineering",
+    "summary": "[Dec 26, 2025] Former OpenAI co-founder reflects on the dramatic changes in coding workflows with 80% agent-based development becoming the norm.",
+    "description": "Former OpenAI co-founder reflects on the dramatic changes in coding workflows with 80% agent-based development becoming the norm.",
+    "tags": [
+      "coding",
+      "agents"
+    ],
+    "source": "X / @karpathy",
+    "link": "https://x.com/karpathy/status/2015883857489522876",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Dec 26, 2025"
+  },
+  {
+    "id": "ba3f58e86eac",
+    "headline": "Mistral AI Launches Voxtral Transcribe 2 with Real-time Speech Processing",
+    "summary": "[1 week ago] New speech-to-text models with ultra-low latency streaming and 13-language support, released under Apache 2.0 license.",
+    "description": "New speech-to-text models with ultra-low latency streaming and 13-language support, released under Apache 2.0 license.",
+    "tags": [
+      "speech",
+      "open-source"
+    ],
+    "source": "X / @MistralAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "1 week ago"
+  },
+  {
+    "id": "02fb71f1b77a",
+    "headline": "OpenAI Counter-Sues Elon Musk Over Acquisition Attempts",
+    "summary": "[recent] Legal battle intensifies as OpenAI rejects Musk's buyout offer and files counter-suit citing bad-faith disruption tactics.",
+    "description": "Legal battle intensifies as OpenAI rejects Musk's buyout offer and files counter-suit citing bad-faith disruption tactics.",
+    "tags": [
+      "legal",
+      "acquisition"
+    ],
+    "source": "X / @OpenAINewsroom",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "c44f2092145a",
+    "headline": "ServiceNow Chooses Claude for Enterprise AI Integration",
+    "summary": "[Jan 28, 2026] Major enterprise software company selects Anthropic's Claude to power customer applications and internal productivity tools.",
+    "description": "Major enterprise software company selects Anthropic's Claude to power customer applications and internal productivity tools.",
+    "tags": [
+      "enterprise",
+      "partnerships"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Jan 28, 2026"
+  },
+  {
+    "id": "016cb6c3c170",
+    "headline": "NVIDIA Unveils Vera Rubin AI Platform at CES 2026",
+    "summary": "[CES 2026] Next-gen AI architecture after Blackwell designed for trillion-parameter models with H300 GPUs and dedicated AI foundry.",
+    "description": "Next-gen AI architecture after Blackwell designed for trillion-parameter models with H300 GPUs and dedicated AI foundry.",
+    "tags": [
+      "hardware",
+      "architecture"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "CES 2026"
+  },
+  {
+    "id": "f42003d8495b",
+    "headline": "ASI Alliance Launches ASI:Create Platform for AI Agent Development",
+    "summary": "[recent] New decentralized platform enables developers to build, deploy and monetize AI agents with simplified one-minute setup.",
+    "description": "New decentralized platform enables developers to build, deploy and monetize AI agents with simplified one-minute setup.",
+    "tags": [
+      "agents",
+      "platform"
+    ],
+    "source": "X / @ASI_Alliance",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "3e16fb231a51",
+    "headline": "Tesco Partners with Mistral AI for Retail AI Integration",
+    "summary": "[recent] UK supermarket chain announces 3-year strategic partnership to deploy AI across customer service and internal operations.",
+    "description": "UK supermarket chain announces 3-year strategic partnership to deploy AI across customer service and internal operations.",
+    "tags": [
+      "retail",
+      "partnerships"
+    ],
+    "source": "X / @MistralAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-13",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
     "id": "8c53b353bdb7",
     "headline": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
     "summary": "Article discusses tech addiction and doomscrolling habits through a book review parable.",
