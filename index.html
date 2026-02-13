@@ -240,12 +240,6 @@ function App(){
     return Array.from(ds).sort().reverse();
   },[allNews]);
 
-  // Dates that have articles in the FILTERED set — for rendering the feed
-  var sortedDates=useMemo(function(){
-    var ds=new Set();filtered.forEach(function(n){if(n.date)ds.add(n.date);});
-    return Array.from(ds).sort().reverse();
-  },[filtered]);
-
   // Trending tags: count occurrences across all articles, pick top 12
   var trendingTags=useMemo(function(){
     var counts={};
@@ -270,6 +264,12 @@ function App(){
     }
     return items;
   },[allNews,selDate,selTag,query]);
+
+  // Dates that have articles in the FILTERED set — for rendering the feed
+  var sortedDates=useMemo(function(){
+    var ds=new Set();filtered.forEach(function(n){if(n.date)ds.add(n.date);});
+    return Array.from(ds).sort().reverse();
+  },[filtered]);
 
   var grouped=useMemo(function(){
     var g={};
