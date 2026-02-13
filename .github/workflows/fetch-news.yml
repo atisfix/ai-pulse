@@ -25,6 +25,6 @@ jobs:
         run: |
           git config user.name "AI Pulse Bot"
           git config user.email "bot@ai-pulse"
-          git add news.json fetch.log
+          git add news.json fetch.log seen_articles.json
           git diff --staged --quiet || git commit -m "News update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
