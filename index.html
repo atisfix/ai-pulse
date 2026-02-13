@@ -234,10 +234,17 @@ function App(){
   },[dark]);
   useEffect(function(){if(showSrch&&sRef.current)sRef.current.focus();},[showSrch]);
 
-  var dates=useMemo(function(){
+  // All dates that have articles (unfiltered) — for the pill bar
+  var allDates=useMemo(function(){
     var ds=new Set();allNews.forEach(function(n){if(n.date)ds.add(n.date);});
     return Array.from(ds).sort().reverse();
   },[allNews]);
+
+  // Dates that have articles in the FILTERED set — for rendering the feed
+  var sortedDates=useMemo(function(){
+    var ds=new Set();filtered.forEach(function(n){if(n.date)ds.add(n.date);});
+    return Array.from(ds).sort().reverse();
+  },[filtered]);
 
   // Trending tags: count occurrences across all articles, pick top 12
   var trendingTags=useMemo(function(){
@@ -324,8 +331,7 @@ function App(){
     );
   }
 
-  var sortedDates=dates.filter(function(d){return!!grouped[d];});
-  var pillData=[{l:"All",v:null}].concat(sortedDates.map(function(d){return{l:shortD(d),v:d};}));
+  var pillData=[{l:"All",v:null}].concat(allDates.map(function(d){return{l:shortD(d),v:d};}));
 
   return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx}},
     // HEADER
@@ -358,8 +364,8 @@ function App(){
         // Date pills
         ce("div",{style:{display:"flex",gap:6,overflowX:"auto",paddingBottom:10,paddingLeft:2,WebkitOverflowScrolling:"touch"}},
           pillData.map(function(p){
-            var on=p.v===null?!selDate:selDate===p.v;
-            return ce("button",{key:p.l,onClick:function(){setSelDate(p.v===selDate?null:p.v);setSelTag(null);},
+            var on=p.v===null?selDate===null:selDate===p.v;
+            return ce("button",{key:p.l+"|"+(p.v||"all"),onClick:function(){setSelDate(on&&p.v!==null?null:p.v);},
               style:{flexShrink:0,padding:"7px 16px",borderRadius:100,
                 background:on?t.pA:"transparent",
                 border:"1px solid "+(on?t.pAB:t.dv),
@@ -368,9 +374,9 @@ function App(){
                 transition:"all 0.2s cubic-bezier(.4,0,.2,1)",whiteSpace:"nowrap"}},p.l);
           })
         ),
-        // Trending tags row
-        trendingTags.length>0&&ce("div",{style:{display:"flex",gap:5,overflowX:"auto",paddingBottom:12,paddingLeft:2,WebkitOverflowScrolling:"touch"}},
-          ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,alignSelf:"center",marginRight:4,opacity:0.6}},"\ud83d\udd25"),
+        // Trending tags row (wraps to max 2 lines)
+        trendingTags.length>0&&ce("div",{style:{display:"flex",flexWrap:"wrap",gap:5,paddingBottom:12,paddingLeft:2,maxHeight:68,overflow:"hidden",alignItems:"flex-start"}},
+          ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,alignSelf:"center",marginRight:2,opacity:0.6}},"\ud83d\udd25"),
           trendingTags.map(function(item){
             var on=selTag===item.tag;
             return ce("button",{key:item.tag,onClick:function(){setSelTag(on?null:item.tag);},
@@ -446,7 +452,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.40")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.41")
       )
     )
   );
