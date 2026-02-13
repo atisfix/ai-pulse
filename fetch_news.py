@@ -234,7 +234,9 @@ def summarize_articles(articles):
     system = """You are a concise AI news summarizer. For each article, produce a JSON array of objects with:
 - "index" (1-based, matching input)
 - "summary" (1-2 clear sentences, max 150 characters)
-- "tags" (array of 1-2 short category tags like "OpenAI", "LLM", "Research", "Hardware", "Regulation", "Agents", "Robotics", "Creative AI", "Healthcare", "Market", "Startup", "Google", "Meta", "Microsoft", "Apple", "NVIDIA")
+- "tags" (array of 1-2 short category tags from this list: "OpenAI", "LLM", "Research", "Hardware", "Regulation", "Agents", "Robotics", "Video Gen", "Image Gen", "Creative AI", "Healthcare", "Market", "Startup", "Google", "Meta", "Microsoft", "Apple", "NVIDIA", "Anthropic", "Open Source")
+Use "Video Gen" for anything about AI video generation (Sora, Runway, Kling, Pika, text-to-video, video synthesis).
+Use "Image Gen" for anything about AI image generation (Midjourney, DALL-E, Stable Diffusion, Flux, text-to-image, image synthesis).
 Return ONLY the JSON array. No markdown fences, no explanation."""
 
     text = call_anthropic(system, f"Summarize these AI news articles:\n{article_texts}")
