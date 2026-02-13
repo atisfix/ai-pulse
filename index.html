@@ -300,10 +300,10 @@ function App(){
     var today=new Date().toISOString().slice(0,10);
     if(ds===today)return"Today";
     var yest=new Date(Date.now()-86400000).toISOString().slice(0,10);
-    if(ds===yest)return"Yesterday";
+    if(ds===yest)return"Yest.";
     var d=new Date(ds+"T12:00:00");
     var months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate()+" "+months[d.getMonth()];
+    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate()+"/"+months[d.getMonth()];
   };
 
   var t=T(dark);
@@ -368,15 +368,15 @@ function App(){
           )
         ),
         // Date pills
-        ce("div",{style:{display:"flex",gap:6,overflowX:"auto",paddingBottom:10,paddingLeft:2,WebkitOverflowScrolling:"touch"}},
+        ce("div",{style:{display:"flex",gap:4,overflowX:"auto",paddingBottom:10,paddingLeft:2,WebkitOverflowScrolling:"touch"}},
           pillData.map(function(p){
             var on=p.v===null?selDate===null:selDate===p.v;
             return ce("button",{key:p.l+"|"+(p.v||"all"),onClick:function(){setSelDate(on&&p.v!==null?null:p.v);},
-              style:{flexShrink:0,padding:"7px 16px",borderRadius:100,
+              style:{flexShrink:0,padding:"5px 11px",borderRadius:100,
                 background:on?t.pA:"transparent",
                 border:"1px solid "+(on?t.pAB:t.dv),
                 color:on?t.tx:t.tx2,
-                fontSize:13,fontWeight:500,cursor:"pointer",
+                fontSize:12,fontWeight:500,cursor:"pointer",
                 transition:"all 0.2s cubic-bezier(.4,0,.2,1)",whiteSpace:"nowrap"}},p.l);
           })
         ),
@@ -458,7 +458,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.42")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.43")
       )
     )
   );
