@@ -303,7 +303,7 @@ function App(){
     if(ds===yest)return"Yest.";
     var d=new Date(ds+"T12:00:00");
     var months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate()+"/"+months[d.getMonth()];
+    return d.toLocaleDateString("en-US",{weekday:"short"})+" "+d.getDate()+" "+months[d.getMonth()];
   };
 
   var t=T(dark);
