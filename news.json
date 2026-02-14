@@ -1,378 +1,526 @@
 [
   {
-    "id": "d53383097f45",
-    "headline": "Google is now rolling out Android 17 Beta 1 for Pixel [U] - 9to5Google",
-    "summary": "Google is now rolling out Android 17 Beta 1 for Pixel [U] 9to5GoogleHere’s everything new in Android 17 Beta 1 [Gallery] 9to5GoogleGoogle Just Dropped",
-    "description": "Google is now rolling out Android 17 Beta 1 for Pixel [U] 9to5GoogleHere’s everything new in Android 17 Beta 1 [Gallery] 9to5GoogleGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise ForbesThe first Android 17 beta is now available on Pixel devices Ars TechnicaGoogle releases the first beta of Android 17, adopts a continuous developer release plan TechCrunch",
+    "id": "656c0a2b3c2f",
+    "headline": "Airbnb plans to bake in AI features for search, discovery and support",
+    "summary": "Airbnb plans to integrate AI features using large language models for customer discovery, support and engineering.",
+    "description": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
     "tags": [
-      "AI"
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "5051a8c97669",
+    "headline": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals - Engadget",
+    "summary": "Apple offers Presidents' Day sales with Apple Watch Series 11 for $299 and other discounts.",
+    "description": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals EngadgetAmazon's Presidents' Day Apple sale offers price cuts of up to $400 off AppleInsiderBest Presidents' Day Apple deals 2026: AirPods, iPads, Apple Watches, and beyond MashableDeals: AirPods Pro 3, Apple Sport Bands up to 41% off, Anker 25W MagSafe Charging Stand $100 off, iPad, more 9to5MacIf You Own Apple Everything, These Presidents Day Deals Are A Must-See HuffPost",
+    "tags": [
+      "Apple",
+      "Market"
     ],
     "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16TC04NkdwanEzVDB0RGd2S1psYmhaZDg5ODlPTUVlOFZxajB6d1FvOUxGN1BvN2d6dllHdDAxRnE3WXpSMjBMY04zWWtSQkRpb2h4QjloQ3UxbzktUngyVTJmTmxSNWhZYlE?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "28a780d65508",
-    "headline": "My humble study on the effects of prompting nonexistent words on CLIP-based diffusion models.",
-    "summary": "Sooo, for the past 2.5 years, I've been sort of obsessed with what I call Undictionaries -i.e. words that don't exist but have a consistent impact on ",
-    "description": "Sooo, for the past 2.5 years, I've been sort of obsessed with what I call Undictionaries -i.e. words that don't exist but have a consistent impact on image generation- and I recently got motivated to formalize my findings into a proper report. This is very high level and a rather informal, I've only peeked under the hood a little bit to understand better why this is happening. The goal was to document the phenomenon, classify outputs, formalize a nomenclature around it, and give advice to people",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3ygx2/my_humble_study_on_the_effects_of_prompting/",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWxMczRsRmkxTXVyR2EzT0FWMDFtVzFhSzZFSElzRF9TTTE3b05ncE53c2FRV0JvX1FZR1VNeXAwZmJwOEJKcUozN2k4bVNfMFRwYVRuVU4yYlJCNkdLNGlDRGk5LThaTHJUWFRrX1FZdFhmOG55MjFWWWNEOGpRSWl5UG1tTDRsak5QbW1xOGF2R2tld3Y0bGVtaTBZZEpaWDUxTVhRd081bld5Z2UwSWVzRXZvOFg3d2U3d2F2RnBvWEl4?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "747cc51ebff8",
-    "headline": "DOA is back (!) so I used Klein 9b to remaster it",
-    "summary": "I used this exact prompt for all results: \"turn this video game screenshot to be photo realistic, cinematic real film, real people, realism, photoreal",
-    "description": "I used this exact prompt for all results: \"turn this video game screenshot to be photo realistic, cinematic real film, real people, realism, photorealistic, no cgi, no 3d, no render, shot on iphone, low quality photo, faded tones\" submitted by /u/theNivda [link] [comments]",
+    "id": "d5ad378e9486",
+    "headline": "Apple Now Testing Flip-Style Foldable iPhone - MacRumors",
+    "summary": "Apple is testing a flip-style foldable iPhone while Android book-style foldables expected to dominate 2026.",
+    "description": "Apple Now Testing Flip-Style Foldable iPhone MacRumorsAndroid book-style foldables expected to dominate in 2026, report says 9to5GoogleBook-Type Devices to Reach 65% of Global Foldable Smartphone Shipments in 2026 Counterpoint Technology Market ResearchiPhone Fold Leaks: How Apple Squeezed a Massive 5,500mAh Battery Into Its Thinnest Design Ever Geeky GadgetsApple is testing a clamshell foldable iPhone, leaker claims AppleInsider",
     "tags": [
-      "Image Gen"
+      "Apple",
+      "Hardware"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3kf10/doa_is_back_so_i_used_klein_9b_to_remaster_it/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93V3pIRDZzVGJMQzJ2UmtZMGVGV1h0UjN1alVUd3lOalVxWFFvd0Y3dGtuSWNfYlloWjB3S0c4VGFkNEJIVy1QZEpTaE9sSVVDNkR1RmZXb0s2WUYtSGlLbGdoaEpSb1RZdGxxOTVscHgxQng0S29ZMlpZUnE?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "5422ea72a233",
-    "headline": "VNCCS Pose Studio ART LoRa",
-    "summary": "VNCCS Pose Studio: A professional 3D posing and lighting environment running entirely within a ComfyUI node. Interactive Viewport: Sophisticated bone ",
-    "description": "VNCCS Pose Studio: A professional 3D posing and lighting environment running entirely within a ComfyUI node. Interactive Viewport: Sophisticated bone manipulation with gizmos and Undo/Redo functionality. Dynamic Body Generator: Fine-tune character physical attributes including Age, Gender blending, Weight, Muscle, and Height with intuitive sliders. Advanced Environment Lighting: Ambient, Directional, and Point Lights with interactive 2D radars and radius control. Keep Original Lighting: One-clic",
+    "id": "24095f5fa5fd",
+    "headline": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] - Nintendo Everything",
+    "summary": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, launching tomorrow.",
+    "description": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] Nintendo EverythingPlay Rayman: 30th Anniversary Edition Tomorrow! UbisoftRayman: 30th Anniversary Edition releases Feb 13 on PS5 PlayStation.BlogPS5 Remaster of Iconic PS1 Game Out Today on PS Store PlayStation LifeStyleRayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game Game Informer",
     "tags": [
-      "Image Gen"
+      "Market"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3trxr/vnccs_pose_studio_art_lora/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa09UQkpiMUlVZ3lkTHk5WTVkbHlRdnUtNVM0LXR0QjVTUWQxVzBwWThnMHdpcHpHQ2ZNc2s4STJ6d1FwSEl1NnMxUUt3dmcyLVlsOWd4dEN6c2RNcjFIelNLeUNNMGtBNlUyUGZTZnZoYXZfQkkzaEczbnBHYnNrUGp5NXI1VVY4YVpSTExJRnlDWWluVkhXZ1owRXgwZ2JLNjRSOEpyaFM?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "0c2727b2f722",
-    "headline": "I restored a few historical figures, using Flux.2 Klein 9B.",
-    "summary": "So mainly as a test and for fun, I used Flux.2 Klein 9B to restore some historical figures. Results are pretty good. Accuracy depends a lot on the det",
-    "description": "So mainly as a test and for fun, I used Flux.2 Klein 9B to restore some historical figures. Results are pretty good. Accuracy depends a lot on the detail remaining in the original image, and ofc it guesses at some colors. The workflow btw is a default one and can be found in the templates section in ComfyUI. Anyway let me know what you think. submitted by /u/Grimm-Fandango [link] [comments]",
+    "id": "a9c056a76fd9",
+    "headline": "Reanimal Review - IGN",
+    "summary": "Reanimal horror game receives reviews focusing on its macabre elements and co-op gameplay features.",
+    "description": "Reanimal Review IGNReanimal Review - Macabre Merit Game InformerReanimal review – you will never turn your back on a pelican again as long as you live The GuardianHow to play co-op, crossplay, and use the Friend's Pass in Reanimal PolygonHow David Lynch, Alien, and Slumber Parties Inspired the Creation of Reanimal Xbox Wire",
     "tags": [
-      "Image Gen"
+      "Market"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3eciz/i_restored_a_few_historical_figures_using_flux2/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wU0NaWjdzeWptZk5xNmgzZzB3aktSVjNzRTVXVFpfQlBybkhZeFItWGFyUjRFUTNHdFcxWWZyUDlDTnUwbUdra2ZXSUNySWVtWkRROHZ5cw?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "b38e95a00868",
-    "headline": "LTX-2 Inpaint test for lip sync",
-    "summary": "In my last post LTX-2 Inpaint (Lip Sync, Head Replacement, general Inpaint) : r/StableDiffusion some wanted to see an actual lip sync video, Deadpool ",
-    "description": "In my last post LTX-2 Inpaint (Lip Sync, Head Replacement, general Inpaint) : r/StableDiffusion some wanted to see an actual lip sync video, Deadpool might not be the best candidate for this. Here is another version using the new Gollum lora, it's just a crap shot to show that lipsync works and teeth are rather sharp. But the microphone got messed up, which I haven't focused on here. Following Workflow also fixes the wrong audio decode VEA connection. ltx2_LoL_Inpaint_02.json - Pastebin.com The ",
+    "id": "e7a091cb6c32",
+    "headline": "Samsung Galaxy S26 colors, renders leak. See them now. - Mashable",
+    "summary": "Samsung Galaxy S26 colors and renders leaked ahead of February 2026 Galaxy Unpacked event.",
+    "description": "Samsung Galaxy S26 colors, renders leak. See them now. Mashable[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier samsung.comSamsung’s offering up to $900 of trade-in credit toward its new phones The VergeThe Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks ForbesSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25 Engadget",
     "tags": [
-      "Image Gen"
+      "Market",
+      "Hardware"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3lc65/ltx2_inpaint_test_for_lip_sync/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVVNYczRmc0VaUlhwbktLSmNSWGZjRkd3akJxT2VMYTJEUm1pOWRRNy16c1Rza3g3TTFDMjJxY0xuWFgtZzZYcFFLay1qaFpMN0lEYmtUcHVJWFMxbllvOTBR?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "f872b226ce17",
-    "headline": "Contest: Night of the Living Dead - The Community Cut",
-    "summary": "We’re kicking off a community collaborative remake of the public domain classic Night of the Living Dead (1968) and rebuilding it scene by scene with ",
-    "description": "We’re kicking off a community collaborative remake of the public domain classic Night of the Living Dead (1968) and rebuilding it scene by scene with AI. Each participating creator gets one assigned scene and is asked to re-animate the visuals using LTX-2. The catch: You’re generating new visuals that must sync precisely to the existing soundtrack using LTX-2’s audio-to-video pipeline. The video style is whatever you want it to be. Cinematic realism, stylized 3D, stop-motion, surreal, abstract? ",
+    "id": "e3a91d4b836a",
+    "headline": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed - Insider Gaming",
+    "summary": "Santa Monica Studio developing more than just God of War trilogy remake, multiple projects in works.",
+    "description": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed Insider GamingGod of War Sons of Sparta playstation.comSanta Monica Studio Is Remaking The Original God Of War Trilogy Game InformerGod of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play IGNThe 'God of War' trilogy is getting a remake Mashable",
     "tags": [
-      "Image Gen"
+      "Market"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3ynbt/contest_night_of_the_living_dead_the_community_cut/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2ZsM0hHdnktV2c1RzRtMWgyaXJMRENra25EUEZkN0tSS0JuWk1vSG9EUXB1T3Z3bnBMYkpIUTJKZXZSSEl5dFVSTGdxZzFLWVRzTU54R2RvMmJDenVqVmVKdExRZ3g3Z3podF80d3BUUG5GbjhmbnVRUGs2UFZNSmZXR1JlUElqa1BCSUlsVVk4bTQ0MHRxNnltRzFmRXhkTnl0M0xsdw?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "3f1f6fe2bd06",
-    "headline": "Combining SCAIL, VACE & SVI for consistent, very high quality shots",
-    "summary": "submitted by /u/nsfwVariant [link] [comments]",
-    "description": "submitted by /u/nsfwVariant [link] [comments]",
+    "id": "cfce282d7122",
+    "headline": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google",
+    "summary": "Samsung's 'Wide Fold' surfaces with near-16:10 aspect ratio, wider than Google's first Pixel Fold.",
+    "description": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold 9to5GoogleExclusive: First official look at Samsung's 'Wide' Galaxy Z Fold Android AuthorityOne UI 9 spotted for Samsung's mysterious new Galaxy Z Fold SamMobileNo Shot This is Samsung's Secret Wide Galaxy Z Fold 8 Droid LifeEarly signs of One UI 9 have already appeared, even before the stable release of One UI 8.5 PhoneArena",
     "tags": [
-      "Image Gen"
+      "Hardware",
+      "Google"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3unh5/combining_scail_vace_svi_for_consistent_very_high/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVV2YTd5c2ZZN2EyRTUtVTlUOW5yZXZ1em9lZVR1OFQ0S21fTXVyNnh2NmhPeEMyVEQ4aFpacU5HSWZDU3hjdHl2WEk4RGVCX2ROcnJJLXRkNUtRRHBnQlBDb0o2a01ULU9IY001MUZDOUhjSWgwazNjUHpEM1N1NS1CelEzV1Fpc1BZSk9oT2NPRUV5RXZHTUM4ZVgzQQ?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "b336460702a6",
-    "headline": "There's a CFG distill lora now for Anima-preview (RDBT - Anima by reakaakasky)",
-    "summary": "Not mine, I just figured I should draw attention to it. With cfg 1 the model is twice as fast at the same step counts. It also seems to be more stable",
-    "description": "Not mine, I just figured I should draw attention to it. With cfg 1 the model is twice as fast at the same step counts. It also seems to be more stable at lower step counts. The primary drawback is that it makes many artists much weaker. The lora is here: https://civitai.com/models/2364703/rdbt-anima?modelVersionId=2684678 It works best when used with the AnimaYume checkpoint: https://civitai.com/models/2385278/animayume submitted by /u/Betadoggo_ [link] [comments]",
+    "id": "7b4e9da8f5a7",
+    "headline": "High On Life 2 Review - Contact High - Game Informer",
+    "summary": "High On Life 2 review highlights skateboarding elements and shooter gameplay mechanics.",
+    "description": "High On Life 2 Review - Contact High Game InformerHigh On Life 2 Review IGNHigh On Life 2’s Skateboarding Kickflips the Shooter Genre on Its Head Xbox Wire'If you're a PlayStation player, you're going to buy it on PlayStation. You're not going to play it on Game Pass' — Squanch Games CEO says making the PS5 version of High on Life 2 it's main platform 'was a no-brainer' TechRadarHigh On Life 2 Guide: 13 Tips To Know Before Playing Kotaku",
     "tags": [
-      "Image Gen"
+      "Market"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3zyf8/theres_a_cfg_distill_lora_now_for_animapreview/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZG5YbGlkQ0JaRUdjRE5fc2lYM3RBM3pLLXdlRGZDUDE4T3ZzZ2kzNm03UGl1cjNsbU5TVnA4d01PTGNNQzRWbGFkbWVhamJodS1oQmVRam93OGFFclZvcDBsSVo3WG5sbHFj?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "8f82e7ed71aa",
-    "headline": "DeepGen 1.0: A 5B parameter \"Lightweight\" unified multimodal model",
-    "summary": "https://huggingface.co/deepgenteam/DeepGen-1.0 submitted by /u/ninjasaid13 [link] [comments]",
-    "description": "https://huggingface.co/deepgenteam/DeepGen-1.0 submitted by /u/ninjasaid13 [link] [comments]",
+    "id": "50eed1070b81",
+    "headline": "Free Play Days – NHL 26, Lynked: Banner of the Spark, Sword Art Online Fractured Daydream and Age of Wonders 4 - Xbox Wire",
+    "summary": "Xbox offers free play days for NHL 26, Lynked, Sword Art Online Fractured Daydream and Age of Wonders 4.",
+    "description": "Free Play Days – NHL 26, Lynked: Banner of the Spark, Sword Art Online Fractured Daydream and Age of Wonders 4 Xbox WireNHL 26 is free to play on Xbox over this weekend ESPNSix 2K Games titles are playable with any Xbox Game Pass subscription this weekend Gamereactor UKXbox Game Pass Subscribers Can Play 4 Games for Free Until February 15 GameRantXbox Drops 2 Free Games, No Game Pass Required GAMINGbible",
     "tags": [
-      "Image Gen"
+      "Microsoft",
+      "Market"
     ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3epwp/deepgen_10_a_5b_parameter_lightweight_unified/",
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3LVVHeXRLN1dheHJURHZ0X1NxMTFILW9nQnJZQW9lQ2xlWHNaUTdHZTJOV3J5OFVycGxNSkY3SHM2OFpfbEZGSjdycHBuVzVLa2NXMWxGME1GOXlsYXJQeFdGQUJ3dmpXS180M3R0UGt2WVE?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "fac240147ebc",
-    "headline": "Style Ranking Party!",
-    "summary": "https://www.midjourney.com/rank-styles Hey y'all! We want your help to tell us which styles you find more beautiful. By doing this we can develop bett",
-    "description": "https://www.midjourney.com/rank-styles Hey y'all! We want your help to tell us which styles you find more beautiful. By doing this we can develop better style generation algorithms, style recommendation algorithms and maybe even style personalization. Have fun! PS: The bottom of every style has a --sref code and a button, if you find something super cool feel free to share in ⁠sref-showcase. The top 1000 raters get 1 free fast hour a day, but please take the ratings seriously. submitted by /u/Fn",
+    "id": "a060e01765ca",
+    "headline": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
+    "summary": "xAI faces second lawsuit over toxic pollutants from datacenter violating Clean Air Act in Mississippi.",
+    "description": "NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in MississippiElon Musk’s artificial intelligence company xAI is facing a second lawsuit alleging it is illegally emitting toxic pollutants from its enormous datacenters, which house its supercomputers and run the chatbot Grok.The new pending suit alleges xAI is violating the Clean Air Act and was filed Friday by the storied civil rights group the NAACP. The group’s 40-page notice of intent to s",
     "tags": [
-      "Image Gen"
+      "Regulation"
     ],
-    "source": "Reddit r/midjourney",
-    "link": "https://www.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/",
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "f619fc2c1a96",
-    "headline": "Midjourney's Video Model is here!",
-    "summary": "Hi y'all! As you know, our focus for the past few years has been images. What you might not know, is that we believe the inevitable destination of thi",
-    "description": "Hi y'all! As you know, our focus for the past few years has been images. What you might not know, is that we believe the inevitable destination of this technology are models capable of real-time open-world simulations. What’s that? Basically; imagine an AI system that generates imagery in real-time. You can command it to move around in 3D space, the environments and characters also move, and you can interact with everything. In order to do this, we need building blocks. We need visuals (our firs",
+    "id": "e2c0e7bc1e57",
+    "headline": "Canada school deaths suspect created shooting simulator on gaming platform",
+    "summary": "Canada school shooting suspect created mass shooting simulator on Roblox gaming platform.",
+    "description": "Roblox says it has removed account after massacre that left nine people including the shooter deadThe 18-year-old suspect in a high school shooting in British Columbia had previously created a mass shooting simulator on the gaming platform Roblox, it has been revealed.The simulator, set in what appeared to be a virtual shopping mall, allowed users – represented as Roblox-style avatars – to pick up weapons and shoot other players, 404 Media reported on Thursday.This article was amended on 14 Febr",
     "tags": [
-      "Image Gen"
+      "Regulation"
     ],
-    "source": "Reddit r/midjourney",
-    "link": "https://www.reddit.com/r/midjourney/comments/1lemxxm/midjourneys_video_model_is_here/",
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "17e4274ff3ee",
-    "headline": "Modern Times",
-    "summary": "submitted by /u/Zaicab [link] [comments]",
-    "description": "submitted by /u/Zaicab [link] [comments]",
+    "id": "d8a06eaa1c67",
+    "headline": "ByteDance Seed2.0 LLM: breakthrough in complex real-world tasks",
+    "summary": "ByteDance releases Seed2.0 LLM showing breakthrough performance on complex real-world tasks.",
+    "description": "Article URL: https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83 Comments URL: https://news.ycombinator.com/item?id=47012187 Points: 1 # Comments: 1",
     "tags": [
-      "Image Gen"
+      "LLM",
+      "Research"
     ],
-    "source": "Reddit r/midjourney",
-    "link": "https://www.reddit.com/r/midjourney/comments/1r3p6n3/modern_times/",
+    "source": "Hacker News AI",
+    "link": "https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "1cab3322163f",
-    "headline": "Event horizon",
-    "summary": "Prompt: Real-time speed. Ultra-realistic astrophysical black hole simulation. The black hole itself remains visually dark and stable, no rotation of t",
-    "description": "Prompt: Real-time speed. Ultra-realistic astrophysical black hole simulation. The black hole itself remains visually dark and stable, no rotation of the sphere texture. The accretion disk is fully dynamic: inner plasma streams move rapidly inward, flowing along curved relativistic trajectories. Bright luminous bands shift continuously within the disk structure, shearing and stretching due to differential rotation. Inner regions move faster than outer regions. Matter spirals inward with increasin",
+    "id": "4a97180d7f36",
+    "headline": "Show HN: HelloAria – AI task manager where you talk instead of type",
+    "summary": "HelloAria is an AI task manager that uses voice commands instead of typing for task creation.",
+    "description": "I built HelloAria because every task manager I tried required too many steps to do something simple. The core idea: say \"remind me to review the PR tomorrow at 10\" and it creates the task, sets the reminder, and files it. No forms, no manual input. It works on iOS natively and also through WhatsApp, Telegram, and email — so you can capture tasks from wherever you already are. Tech stack: Swift/SwiftUI on the client, with NLP handling the intent parsing and entity extraction from natural language",
     "tags": [
-      "Image Gen"
+      "Agents",
+      "Startup"
     ],
-    "source": "Reddit r/midjourney",
-    "link": "https://www.reddit.com/r/midjourney/comments/1r3n2ms/event_horizon/",
+    "source": "Hacker News AI",
+    "link": "https://www.helloaria.io/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "be17472c6bb3",
-    "headline": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
-    "summary": ". AI VIDEO AWARDS 2026 🏆🤩 . COMING TO r/aivideo SUNDAY MARCH 15th 2026 LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON r/aivideo REDDIT AN ORIG",
-    "description": ". AI VIDEO AWARDS 2026 🏆🤩 . COMING TO r/aivideo SUNDAY MARCH 15th 2026 LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON r/aivideo REDDIT AN ORIGINAL r/aivideo PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 54,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO r/ai",
+    "id": "e7833e932876",
+    "headline": "The AI Dilemma",
+    "summary": "Discussion about AI dilemma and challenges facing artificial intelligence development and adoption.",
+    "description": "Article URL: https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/ Comments URL: https://news.ycombinator.com/item?id=47012010 Points: 2 # Comments: 0",
     "tags": [
-      "Video Gen"
+      "Research"
     ],
-    "source": "Reddit r/aivideo",
-    "link": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
+    "source": "Hacker News AI",
+    "link": "https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "011b73434660",
-    "headline": "Latest Releases",
-    "summary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/community-home [link] [comments]",
-    "description": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/community-home [link] [comments]",
+    "id": "84a744dd4eb5",
+    "headline": "Jikipedia, a new AI-powered wiki reporting on key figures in the Epstein scandal",
+    "summary": "Jikipedia launches as AI-powered wiki reporting on key figures in the Epstein scandal.",
+    "description": "Article URL: https://twitter.com/jmailarchive/status/2022482688691835121 Comments URL: https://news.ycombinator.com/item?id=47011919 Points: 1 # Comments: 0",
     "tags": [
-      "Video Gen"
+      "Startup"
     ],
-    "source": "Reddit r/aivideo",
-    "link": "https://www.reddit.com/r/aivideo/comments/1m73hmv/latest_releases/",
+    "source": "Hacker News AI",
+    "link": "https://twitter.com/jmailarchive/status/2022482688691835121",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "64d84e9f0f78",
-    "headline": "AI Chiropractors Face Their Worst Nightmare",
-    "summary": "submitted by /u/FallingKnifeFilms [link] [comments]",
-    "description": "submitted by /u/FallingKnifeFilms [link] [comments]",
+    "id": "b1d88fed2da8",
+    "headline": "SnowBall: Iterative Context Processing When It Won't Fit in the LLM Window",
+    "summary": "SnowBall technique enables iterative context processing when content exceeds LLM window limits.",
+    "description": "Article URL: https://enji.ai/tech-articles/snowball-iterative-context-processing/ Comments URL: https://news.ycombinator.com/item?id=47011854 Points: 1 # Comments: 0",
     "tags": [
-      "Video Gen"
+      "LLM",
+      "Research"
     ],
-    "source": "Reddit r/aivideo",
-    "link": "https://www.reddit.com/r/aivideo/comments/1r3ud5j/ai_chiropractors_face_their_worst_nightmare/",
+    "source": "Hacker News AI",
+    "link": "https://enji.ai/tech-articles/snowball-iterative-context-processing/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "120fdaedd461",
-    "headline": "I asked AI to take me on a journey through the Dragon World and this is what happened",
-    "summary": "submitted by /u/TechHalla [link] [comments]",
-    "description": "submitted by /u/TechHalla [link] [comments]",
+    "id": "6f66ded79d73",
+    "headline": "AI Fails at 96% of Jobs (New Study)",
+    "summary": "New study claims AI fails at 96% of jobs, questioning current AI capabilities and limitations.",
+    "description": "Article URL: https://www.youtube.com/watch?v=z3kaLM8Oj4o Comments URL: https://news.ycombinator.com/item?id=47011722 Points: 3 # Comments: 2",
     "tags": [
-      "Video Gen"
+      "Research"
     ],
-    "source": "Reddit r/aivideo",
-    "link": "https://www.reddit.com/r/aivideo/comments/1r3oxoi/i_asked_ai_to_take_me_on_a_journey_through_the/",
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=z3kaLM8Oj4o",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "bfa5e3091da2",
-    "headline": "Seedance, Kling and the Chinese AI Video Ecosystem - ChinaTalk",
-    "summary": "Seedance, Kling and the Chinese AI Video Ecosystem ChinaTalk",
-    "description": "Seedance, Kling and the Chinese AI Video Ecosystem ChinaTalk",
+    "id": "7545fe10654d",
+    "headline": "LLM APIs is a State Synchronization Problem",
+    "summary": "Analysis of LLM APIs as a state synchronization problem for better API design and implementation.",
+    "description": "Article URL: https://lucumr.pocoo.org/2025/11/22/llm-apis/ Comments URL: https://news.ycombinator.com/item?id=47011720 Points: 1 # Comments: 0",
     "tags": [
-      "Video Gen"
+      "LLM",
+      "Research"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtTWhPa0lYajR5ZWZGX3pOSVczdjBYbXFFVi1waFl4ZFJxeTJuTTNWbUJLZlU4aXNRUmlJbEM3WVY0VVNRLWQ4YWNZblNlaXB2UFBOdTdmcXRSRHoydS1KdWFrZDNhWkduOEtoLVV5SmY?oc=5",
+    "source": "Hacker News AI",
+    "link": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "6903dfc85186",
-    "headline": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models - TechCrunch",
-    "summary": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models TechCrunch",
-    "description": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models TechCrunch",
+    "id": "37f97d47dfa2",
+    "headline": "Show HN: Lucid – Catch hallucinations in AI-generated code before they ship",
+    "summary": "Lucid tool helps catch hallucinations in AI-generated code before shipping to production.",
+    "description": "Hi HN, I'm Ty. I built LUCID because I kept shipping bugs that my AI coding assistant hallucinated into existence.Three independent papers have proven that LLM hallucination is mathematically inevitable (Xu et al. 2024, Banerjee et al. 2024, Karpowicz 2025). You can't train it away. You can't prompt it away. So I built a verification layer instead.How it works: LUCID extracts implicit claims from AI-generated code (e.g., \"this function handles null input,\" \"this query is injection-safe,\" \"this h",
     "tags": [
-      "Video Gen"
+      "LLM",
+      "Startup"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXJtWVZvTHNCRnFpcjJjOG9kRmduUXJ3Z01RU1RZTWdwZWNYeHVKRVlXcmRIZ3NOR084LUxIeTFSOVNaVjdEUnhWcndrcG1VS1VuNU9UdWN5eVpDYkY3RTdjV21Ob0Vsck5zX1BNaEk0dUI3SUhqQTJiQ3BLYnU3U0FmZWxuRlhWRzc2cllxTi1mM0RIaVRtcTVMZmo2c0pvMW9LWFAySnFKSEtXemRDOVFvZFRJOWw2YjlZ?oc=5",
+    "source": "Hacker News AI",
+    "link": "https://github.com/gtsbahamas/hallucination-reversing-system",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "b593793ec3a7",
-    "headline": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation - Crunchbase News",
-    "summary": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation Crunchbase News",
-    "description": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation Crunchbase News",
+    "id": "5c5dfa4496be",
+    "headline": "German-language Wikipedia considers comprehensive AI ban",
+    "summary": "German-language Wikipedia considers implementing comprehensive ban on AI-generated content.",
+    "description": "Article URL: https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html Comments URL: https://news.ycombinator.com/item?id=47011683 Points: 3 # Comments: 0",
     "tags": [
-      "Video Gen"
+      "Regulation"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmxOMnFIek5GYks1X08zTDk4SjN2dVlndW9ybWFUYnNCTUZxd1liRnBpekxsVDNDMWp1N2l5Vm5MMG1fYjJtbU50NW1takVxVWY3dFdDZzVZTHhNbkZIdHNtSTF2RTc0NW4yYWFJbDZLY1c5dzgtTEpOQndLQWxuYXhtMHhhZ3RvSERDMFF2NA?oc=5",
+    "source": "Hacker News AI",
+    "link": "https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "3b80fa719055",
-    "headline": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) - SitePoint",
-    "summary": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) SitePoint",
-    "description": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) SitePoint",
+    "id": "a40b04888813",
+    "headline": "Recursion Isn’t in the Model — It’s in the Pattern (And That Changes Everything) 🔥",
+    "summary": "Discussion about recursion being in patterns rather than AI models, changing understanding of AI behavior.",
+    "description": "submitted by /u/MarsR0ver_ [link] [comments]",
     "tags": [
-      "Video Gen"
+      "Research"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUmR2UWdlUVEwN2Rkb094N3pmZGZwd043cmJsWW8yMlgtb2JkRjIwYnc0NGlldkFFeUpPUVphZVM1TWR6Ulh2bHFkYkh2X1I1d0JjbE1QSmRGUGhaQ29zRHVfQ3ZhNkh4YlZDbQ?oc=5",
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r4c1xa/recursion_isnt_in_the_model_its_in_the_pattern/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "4f4e5e80f4d3",
-    "headline": "Turn your doodles into video clips in minutes with this new AI tool - here's how - ZDNET",
-    "summary": "Turn your doodles into video clips in minutes with this new AI tool - here's how ZDNET",
-    "description": "Turn your doodles into video clips in minutes with this new AI tool - here's how ZDNET",
+    "id": "80fbec19473d",
+    "headline": "FireRed-Image-Edit-1.0 model weights are released",
+    "summary": "FireRed-Image-Edit-1.0 model weights released under Apache 2.0 license for image editing tasks.",
+    "description": "Link: https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0 Code: GitHub - FireRedTeam/FireRed-Image-Edit License: Apache 2.0 Models Task Description Download Link FireRed-Image-Edit-1.0 Image-Editing General-purpose image editing model 🤗 HuggingFace FireRed-Image-Edit-1.0-Distilled Image-Editing Distilled version of FireRed-Image-Edit-1.0 for faster inference To be released FireRed-Image Text-to-Image High-quality text-to-image generation model To be released submitted by /u/ninjasaid13 [li",
     "tags": [
-      "Video Gen"
+      "Image Gen",
+      "Open Source"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLbUp5N19KbndTaXI3bE91cGtCcVZBWjNrb0kzLXlGN1EyNDdYXzlzakVUdXRmUnZXSEtiX09mTWtxX1VpXzBpZHJOaVNvbUpjcjBBVjlzTW5zV1NpNC1kX1FlbFNfVGYtMHFiN1lGVmliTG8?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4blh2/fireredimageedit10_model_weights_are_released/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "65a7feb1d303",
-    "headline": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment - Reuters",
-    "summary": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment Reuters",
-    "description": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment Reuters",
+    "id": "0deb141bb548",
+    "headline": "OpenBlender - WIP",
+    "summary": "OpenBlender WIP Blender addon allows AI agent to see viewport and refine 3D work using vision.",
+    "description": "These are the basic features of the blender addon i'm working on, The agent can use vision to see the viewport, think and refine, it's really nice I will try to benchmark https://openrouter.ai/models to see wich one is the most capable on blender On these examples (for the agent chat) I've used minimax 2.5, opus and gpt are not cheap submitted by /u/CRYPT_EXE [link] [comments]",
     "tags": [
-      "Video Gen"
+      "Agents",
+      "Creative AI"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1JfcDZUWWFEZHMyeGNpUFpjWWtPdU5rT3RHdVlsbWVfU3p5QXhxWlZ5dVVFTDJiampuS1R0WXItcTd0VS1EcFNwWWdnZjRZX1hjRHJUb3gxUVZBVlhmMW9lN2pkWTZQdjB6bzVyZnNaUGlpM1lLNl8yUlBpdFgzeTg3alp0Y19HQm5mRUxtYUlBeE5LTkVUNEphbV85TmExVWhPSDdIdjhwTVBXME5WTk05NWlBQlhkMG5WR3pIM1h4a0htNzFFT1JtaDBoU2s?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r46hh7/openblender_wip/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "36e0da88a10f",
-    "headline": "ByteDance Launches Impressive New AI Video Generation Tool - Social Media Today",
-    "summary": "ByteDance Launches Impressive New AI Video Generation Tool Social Media Today",
-    "description": "ByteDance Launches Impressive New AI Video Generation Tool Social Media Today",
+    "id": "a74059045d24",
+    "headline": "TensorArt is quietly making uploaded LoRA's inaccessible.",
+    "summary": "TensorArt makes uploaded LoRA models inaccessible, affecting user-generated content availability.",
+    "description": "I can no longer access some of the LoRA's I myself uploaded. - both on Tensorart and Tensorhub. I can see the LoRA in my list, but when I click on them, they are no longer accessible. All type of LoRAs are affected - Character loRA's Style LoRAs, Celebrity LoRa. https://preview.redd.it/364gevbkrdjg1.jpg?width=744&format=pjpg&auto=webp&s=3505d30a47369215803e0361e06d6c8ae55f0038 submitted by /u/Trapdaar [link] [comments]",
     "tags": [
-      "Video Gen"
+      "Image Gen"
     ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWJ3d1hSa0xFRk4tRUJMa3c3NkJsNWtoUFFtOWRySVhMVWJCUC10eEU5V2c2MDdjVkQ1LXRTT2pybkhkeUdrcHUzMUJ4Sk9NM0ZYT3haQmU5V2NqOHBaZV9vTXM1V2dRbjM2S3Q3NHR1UDNlaDg5Ymk0enFadmkyeUxtaGJpYWJZMW0tV1RtdFBWeDg3dkprZzBMZndiNmNmdWZqbU1xQQ?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4a3mg/tensorart_is_quietly_making_uploaded_loras/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
+  },
+  {
+    "id": "ad62efb8cf0a",
+    "headline": "Sam Altman announces OpenAI's automated AI researcher roadmap",
+    "summary": "[Recent (October 2025 announcement)] OpenAI targeting automated AI research intern by September 2026, full AI researcher by March 2028. $25B commitment to health and disease research.",
+    "description": "OpenAI targeting automated AI research intern by September 2026, full AI researcher by March 2028. $25B commitment to health and disease research.",
+    "tags": [
+      "OpenAI",
+      "AI Research"
+    ],
+    "source": "X / @sama",
+    "link": "https://x.com/sama/status/1983584366547829073",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Recent (October 2025 announcement)"
+  },
+  {
+    "id": "bdca50b89fff",
+    "headline": "Mistral AI releases Voxtral Transcribe 2 with real-time speech models",
+    "summary": "[February 4, 2026] Two speech-to-text models launched: Mini Transcribe V2 for batch processing, Realtime for sub-200ms latency. 13 languages supported, open-source.",
+    "description": "Two speech-to-text models launched: Mini Transcribe V2 for batch processing, Realtime for sub-200ms latency. 13 languages supported, open-source.",
+    "tags": [
+      "Mistral AI",
+      "Speech AI"
+    ],
+    "source": "X / @MistralAI",
+    "link": "https://x.com/MistralAI/status/2026020415380507485",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 4, 2026"
+  },
+  {
+    "id": "2c75abfa58b5",
+    "headline": "Andrej Karpathy sparks programmer anxiety discussion",
+    "summary": "[December 26, 2025] AI researcher admits feeling 'left behind as a programmer,' highlighting rapid AI transformation impact on development workflows.",
+    "description": "AI researcher admits feeling 'left behind as a programmer,' highlighting rapid AI transformation impact on development workflows.",
+    "tags": [
+      "AI Development",
+      "Programming"
+    ],
+    "source": "X / @karpathy",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "December 26, 2025"
+  },
+  {
+    "id": "521588246b69",
+    "headline": "NVIDIA announces Rubin platform and autonomous vehicle AI at CES",
+    "summary": "[January 5, 2026] Jensen Huang unveils next-gen AI platform following Blackwell, announces Alpamayo autonomous vehicle AI. 'ChatGPT moment for physical AI' declared.",
+    "description": "Jensen Huang unveils next-gen AI platform following Blackwell, announces Alpamayo autonomous vehicle AI. 'ChatGPT moment for physical AI' declared.",
+    "tags": [
+      "NVIDIA",
+      "Autonomous AI"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "January 5, 2026"
+  },
+  {
+    "id": "31f6214f2d6a",
+    "headline": "India AI Impact Summit 2026 preparations underway",
+    "summary": "[February 2026] First global AI summit in Global South scheduled Feb 16-20, 2026 in New Delhi. Focus on AI for global good with 400+ exhibitors expected.",
+    "description": "First global AI summit in Global South scheduled Feb 16-20, 2026 in New Delhi. Focus on AI for global good with 400+ exhibitors expected.",
+    "tags": [
+      "AI Summit",
+      "Global South"
+    ],
+    "source": "X / @OfficialINDIAai",
+    "link": "https://x.com/OfficialINDIAai/status/1970046348171890788",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
+    "id": "706ce20a97a2",
+    "headline": "AI safety researchers leaving major labs simultaneously",
+    "summary": "[11 hours ago] Anthropic's Safeguards Research lead resigned with warning, OpenAI fired safety executive, xAI lost co-founders. Unprecedented departures in one week.",
+    "description": "Anthropic's Safeguards Research lead resigned with warning, OpenAI fired safety executive, xAI lost co-founders. Unprecedented departures in one week.",
+    "tags": [
+      "AI Safety",
+      "Industry Changes"
+    ],
+    "source": "X / @thetechstartups",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "11 hours ago"
+  },
+  {
+    "id": "b99f149b1cd9",
+    "headline": "Voice AI explosion predicted for 2026",
+    "summary": "[Recent 2026] Industry expert predicts voice AI will transform productivity. Dictation changing work patterns, phone booths appearing everywhere for private AI conversations.",
+    "description": "Industry expert predicts voice AI will transform productivity. Dictation changing work patterns, phone booths appearing everywhere for private AI conversations.",
+    "tags": [
+      "Voice AI",
+      "Productivity"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Recent 2026"
+  },
+  {
+    "id": "f4f65a599479",
+    "headline": "Gartner forecasts $2.5 trillion AI spending for 2026",
+    "summary": "[11 hours ago] Worldwide AI spending projected to reach $2.52 trillion in 2026. Hardware wars intensify with Samsung/SK hynix revealing HBM4/HBM5 'Agentic Memory' roadmaps.",
+    "description": "Worldwide AI spending projected to reach $2.52 trillion in 2026. Hardware wars intensify with Samsung/SK hynix revealing HBM4/HBM5 'Agentic Memory' roadmaps.",
+    "tags": [
+      "AI Market",
+      "Hardware"
+    ],
+    "source": "X / @thetechstartups",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "11 hours ago"
   },
   {
     "id": "0f59a96bdda3",
