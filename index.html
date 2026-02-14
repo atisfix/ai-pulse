@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-  html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+  html{-webkit-text-size-adjust:100%}
   body{font-family:'DM Sans','SF Pro Display','Helvetica Neue',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden;overscroll-behavior-y:none}
   ::-webkit-scrollbar{width:0;height:0}
   #root{min-height:100vh;min-height:100dvh}
@@ -103,11 +103,14 @@ function NewsCard(p){
   var tsMatch=(a.summary||"").match(/^\[([^\]]+)\]\s*/);
   var timestamp=tsMatch?tsMatch[1]:null;
   var cleanSummary=tsMatch?(a.summary||"").slice(tsMatch[0].length):(a.summary||"");
-  // For RSS articles without embedded timestamp, format the date
-  if(!timestamp&&a.date&&!a.isFromX){
-    var dd=new Date(a.date+"T12:00:00");
-    var months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    timestamp=dd.getDate()+" "+months[dd.getMonth()]+" "+dd.getFullYear();
+  // For RSS articles without embedded timestamp, use publishedAt or format the date
+  if(!timestamp&&!a.isFromX){
+    if(a.publishedAt){timestamp=a.publishedAt;}
+    else if(a.date){
+      var dd=new Date(a.date+"T12:00:00");
+      var months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+      timestamp=dd.getDate()+" "+months[dd.getMonth()]+" "+dd.getFullYear();
+    }
   }
   // For X posts, use postedAt as timestamp
   if(!timestamp&&a.postedAt)timestamp=a.postedAt;
@@ -432,11 +435,50 @@ function App(){
   var openArticle=useCallback(function(a){
     scrollPosRef.current=window.scrollY||window.pageYOffset||0;
     setSelArt(a);
+    window.scrollTo(0,0);
   },[]);
   var closeArticle=useCallback(function(){
+    // Hide root instantly, restore scroll, then show — prevents visible scroll animation
+    var root=document.getElementById("root");
+    if(root)root.style.visibility="hidden";
     setSelArt(null);
-    requestAnimationFrame(function(){requestAnimationFrame(function(){window.scrollTo(0,scrollPosRef.current);});});
+    requestAnimationFrame(function(){
+      window.scrollTo(0,scrollPosRef.current);
+      requestAnimationFrame(function(){
+        if(root)root.style.visibility="visible";
+      });
+    });
   },[]);
+
+  // Swipe from left edge to go back
+  var swipeRef=useRef({startX:0,startY:0,active:false});
+  useEffect(function(){
+    if(!selArt)return;
+    var onStart=function(e){
+      var x=e.touches[0].clientX;
+      if(x<30){swipeRef.current={startX:x,startY:e.touches[0].clientY,active:true};}
+    };
+    var onMove=function(e){
+      if(!swipeRef.current.active)return;
+      var dx=e.touches[0].clientX-swipeRef.current.startX;
+      var dy=Math.abs(e.touches[0].clientY-swipeRef.current.startY);
+      if(dy>50)swipeRef.current.active=false;
+    };
+    var onEnd=function(e){
+      if(!swipeRef.current.active)return;
+      var dx=e.changedTouches[0].clientX-swipeRef.current.startX;
+      if(dx>80)closeArticle();
+      swipeRef.current.active=false;
+    };
+    document.addEventListener("touchstart",onStart,{passive:true});
+    document.addEventListener("touchmove",onMove,{passive:true});
+    document.addEventListener("touchend",onEnd,{passive:true});
+    return function(){
+      document.removeEventListener("touchstart",onStart);
+      document.removeEventListener("touchmove",onMove);
+      document.removeEventListener("touchend",onEnd);
+    };
+  },[selArt,closeArticle]);
 
   if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:closeArticle,isExplored:isExplored,onToggleExplore:toggleExplore});
 
@@ -627,7 +669,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.04")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.05")
       )
     )
   );
