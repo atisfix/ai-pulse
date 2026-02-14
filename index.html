@@ -440,6 +440,8 @@ function App(){
     scrollPosRef.current=window.scrollY||window.pageYOffset||0;
     setSelArt(a);
     window.scrollTo(0,0);
+    // Push a history state so browser back / iOS swipe-back closes the article
+    history.pushState({article:true},"","");
   },[]);
   var closeArticle=useCallback(function(){
     var root=document.getElementById("root");
@@ -453,37 +455,33 @@ function App(){
     });
   },[]);
 
-  // Swipe from left edge to go back
-  var swipeRef=useRef({startX:0,startY:0,active:false});
+  // Listen for browser back button / iOS swipe-back
   useEffect(function(){
-    if(!selArt)return;
-    var onStart=function(e){
-      var x=e.touches[0].clientX;
-      if(x<30){swipeRef.current={startX:x,startY:e.touches[0].clientY,active:true};}
+    var onPop=function(e){
+      if(selArt){
+        // Browser went back — close the article
+        var root=document.getElementById("root");
+        if(root)root.style.opacity="0";
+        setSelArt(null);
+        requestAnimationFrame(function(){
+          window.scrollTo(0,scrollPosRef.current);
+          requestAnimationFrame(function(){
+            if(root)root.style.opacity="1";
+          });
+        });
+      }
     };
-    var onMove=function(e){
-      if(!swipeRef.current.active)return;
-      var dx=e.touches[0].clientX-swipeRef.current.startX;
-      var dy=Math.abs(e.touches[0].clientY-swipeRef.current.startY);
-      if(dy>50)swipeRef.current.active=false;
-    };
-    var onEnd=function(e){
-      if(!swipeRef.current.active)return;
-      var dx=e.changedTouches[0].clientX-swipeRef.current.startX;
-      if(dx>80)closeArticle();
-      swipeRef.current.active=false;
-    };
-    document.addEventListener("touchstart",onStart,{passive:true});
-    document.addEventListener("touchmove",onMove,{passive:true});
-    document.addEventListener("touchend",onEnd,{passive:true});
-    return function(){
-      document.removeEventListener("touchstart",onStart);
-      document.removeEventListener("touchmove",onMove);
-      document.removeEventListener("touchend",onEnd);
-    };
-  },[selArt,closeArticle]);
+    window.addEventListener("popstate",onPop);
+    return function(){window.removeEventListener("popstate",onPop);};
+  },[selArt]);
 
-  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:closeArticle,isExplored:isExplored,onToggleExplore:toggleExplore});
+  // When closing via the Back button (not browser back), also go back in history
+  var handleBack=useCallback(function(){
+    // This triggers popstate which handles the close
+    history.back();
+  },[]);
+
+  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:handleBack,isExplored:isExplored,onToggleExplore:toggleExplore});
 
   if(loading&&allNews.length===0){
     return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32}},
@@ -677,7 +675,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.07")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.08")
       )
     )
   );
