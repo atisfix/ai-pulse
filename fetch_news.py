@@ -78,6 +78,12 @@ RSS_FEEDS = [
     {"name": "Hacker News AI", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+machine+learning&count=15", "tag": "Community"},
     {"name": "Reddit r/AI", "url": "https://www.reddit.com/r/artificial/.rss", "tag": "Community"},
     {"name": "Science Daily AI", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml", "tag": "Science"},
+    # Tier 6: Image Gen & Video Gen specific
+    {"name": "Reddit r/StableDiffusion", "url": "https://www.reddit.com/r/StableDiffusion/.rss", "tag": "Image Gen"},
+    {"name": "Reddit r/midjourney", "url": "https://www.reddit.com/r/midjourney/.rss", "tag": "Image Gen"},
+    {"name": "Reddit r/aivideo", "url": "https://www.reddit.com/r/aivideo/.rss", "tag": "Video Gen"},
+    {"name": "Google News AI Video", "url": "https://news.google.com/rss/search?q=AI+video+generation+OR+Sora+OR+Runway+OR+Kling+OR+Pika&hl=en-US&gl=US&ceid=US:en", "tag": "Video Gen"},
+    {"name": "Google News AI Image", "url": "https://news.google.com/rss/search?q=AI+image+generation+OR+Midjourney+OR+DALL-E+OR+Stable+Diffusion+OR+Flux&hl=en-US&gl=US&ceid=US:en", "tag": "Image Gen"},
 ]
 
 AI_KEYWORDS = [
@@ -94,6 +100,9 @@ AI_KEYWORDS = [
     "ai regulation", "ai safety", "ai ethics", "ai startup", "ai chip",
     "tensor", "pytorch", "tensorflow", "weights", "parameters",
     "groq", "cerebras", "cohere", "perplexity", "cursor", "windsurf",
+    "runway", "kling", "pika", "dall-e", "dall-e 3", "flux", "imagen",
+    "text to image", "text to video", "image generation", "video generation",
+    "ai art", "ai video", "ai image", "controlnet", "lora", "comfyui",
 ]
 
 # ─── CET TIME HELPERS ───
