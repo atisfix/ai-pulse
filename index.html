@@ -98,6 +98,7 @@ function Btn(p){
 
 function NewsCard(p){
   var a=p.a,t=p.t,ref=useRef(null);
+  var starred=p.isExplored&&p.isExplored(a.id);
   return ce("div",{ref:ref,onClick:function(){p.onSelect(a);},
     onMouseEnter:function(){if(ref.current){ref.current.style.background=t.sfH;ref.current.style.transform="scale(1.005)";}},
     onMouseLeave:function(){if(ref.current){ref.current.style.background="transparent";ref.current.style.transform="scale(1)";}},
@@ -108,7 +109,12 @@ function NewsCard(p){
         a.isFromX&&ce("span",{style:{fontSize:9,fontWeight:700,padding:"3px 8px",borderRadius:100,background:t.xB,color:t.xT,letterSpacing:"0.5px"}},"\ud835\udd4f"),
         (a.tags||[]).map(function(tag){return ce("span",{key:tag,style:{fontSize:10,fontWeight:600,textTransform:"uppercase",letterSpacing:"0.8px",color:t.tgT}},tag);})
       ),
-      ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,opacity:0.7}},a.readTime)
+      ce("button",{onClick:function(e){e.stopPropagation();p.onToggleExplore(a.id);},
+        style:{background:"none",border:"none",cursor:"pointer",padding:"2px 4px",fontSize:16,lineHeight:1,
+          color:starred?"#f59e0b":t.tx3,transition:"all 0.2s",flexShrink:0,
+          transform:starred?"scale(1.1)":"scale(1)",opacity:starred?1:0.4,
+        }},starred?"\u2605":"\u2606"),
+      ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,opacity:0.7,marginLeft:2}},a.readTime)
     ),
     ce("h3",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:17.5,fontWeight:500,lineHeight:1.38,marginBottom:9,letterSpacing:"-0.3px",color:t.tx}},a.headline),
     ce("p",{style:{fontSize:13.5,lineHeight:1.6,color:t.tx2,display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}},a.summary),
@@ -122,12 +128,21 @@ function NewsCard(p){
 
 function ArticleView(p){
   var a=p.a,t=p.t;
+  var starred=p.isExplored&&p.isExplored(a.id);
   return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx}},
     ce("div",{style:{position:"sticky",top:0,zIndex:100,backdropFilter:"blur(40px) saturate(180%)",WebkitBackdropFilter:"blur(40px) saturate(180%)",background:t.hBg,borderBottom:"1px solid "+t.dv}},
       ce("div",{style:{maxWidth:680,margin:"0 auto",padding:"14px 20px",display:"flex",alignItems:"center",gap:12}},
         ce("button",{onClick:p.onBack,style:{background:t.gl,border:"1px solid "+t.glB,borderRadius:12,padding:"9px 16px",color:t.ac,fontSize:14,cursor:"pointer",fontWeight:500,display:"flex",alignItems:"center",gap:6,backdropFilter:"blur(20px)",transition:"all 0.2s"}},
           ce("span",{style:{fontSize:18,lineHeight:1}},"\u2039")," Back"),
         ce("div",{style:{flex:1}}),
+        ce("button",{onClick:function(){p.onToggleExplore(a.id);},
+          style:{background:starred?t.acS:"none",border:starred?"1px solid "+t.acB:"1px solid "+t.glB,
+            borderRadius:12,padding:"8px 14px",cursor:"pointer",fontSize:14,
+            color:starred?"#f59e0b":t.tx3,display:"flex",alignItems:"center",gap:6,
+            transition:"all 0.2s",backdropFilter:"blur(20px)"}},
+          ce("span",{style:{fontSize:15}},starred?"\u2605":"\u2606"),
+          ce("span",{style:{fontSize:12,fontWeight:500,color:starred?t.ac:t.tx3}},starred?"Saved":"Save")
+        ),
         a.isFromX&&ce("span",{style:{fontSize:11,fontWeight:600,padding:"4px 10px",borderRadius:100,background:t.xB,color:t.xT}},"from \ud835\udd4f"),
         ce("span",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.5px",textTransform:"uppercase"}},a.readTime)
       )
@@ -182,6 +197,25 @@ function App(){
   var pullStartY=useRef(0);
   var pullActive=useRef(false);
   var PULL_THRESHOLD=80;
+
+  // Explore list — persisted in localStorage
+  var _showEx=useState(false),showExplore=_showEx[0],setShowExplore=_showEx[1];
+  function loadExplore(){
+    try{var s=localStorage.getItem("ai-pulse-explore");return s?JSON.parse(s):[];}
+    catch(e){return[];}
+  }
+  function saveExplore(arr){
+    try{localStorage.setItem("ai-pulse-explore",JSON.stringify(arr));}catch(e){}
+  }
+  var _exIds=useState(loadExplore),exploreIds=_exIds[0],setExploreIds=_exIds[1];
+  function toggleExplore(id){
+    setExploreIds(function(prev){
+      var next=prev.indexOf(id)===-1?prev.concat([id]):prev.filter(function(x){return x!==id;});
+      saveExplore(next);
+      return next;
+    });
+  }
+  function isExplored(id){return exploreIds.indexOf(id)!==-1;}
 
   function cleanText(s){
     if(!s)return s;
@@ -304,6 +338,7 @@ function App(){
 
   var filtered=useMemo(function(){
     var items=allNews;
+    if(showExplore)items=items.filter(function(n){return exploreIds.indexOf(n.id)!==-1;});
     if(selDate)items=items.filter(function(n){return n.date===selDate;});
     if(selTag)items=items.filter(function(n){return(n.tags||[]).indexOf(selTag)!==-1;});
     if(query.trim()){
@@ -313,7 +348,7 @@ function App(){
       });
     }
     return items;
-  },[allNews,selDate,selTag,query]);
+  },[allNews,selDate,selTag,query,showExplore,exploreIds]);
 
   // Dates that have articles in the FILTERED set — for rendering the feed
   var sortedDates=useMemo(function(){
@@ -362,7 +397,7 @@ function App(){
     requestAnimationFrame(function(){requestAnimationFrame(function(){window.scrollTo(0,scrollPosRef.current);});});
   },[]);
 
-  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:closeArticle});
+  if(selArt)return ce(ArticleView,{a:selArt,t:t,dark:dark,fmtDate:fmtDate,onBack:closeArticle,isExplored:isExplored,onToggleExplore:toggleExplore});
 
   if(loading&&allNews.length===0){
     return ce("div",{style:{minHeight:"100dvh",background:t.bg,color:t.tx,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32}},
@@ -426,6 +461,14 @@ function App(){
           ce("div",{style:{display:"flex",alignItems:"center",gap:7,flexShrink:0}},
             ce(Btn,{t:t,onClick:function(){setRefreshCount(refreshCount+1);loadNews(true);},s:loading?{opacity:0.4}:{}},
               ce("span",{style:loading?{animation:"spin 1s linear infinite",display:"inline-block"}:{}},"↻")),
+            ce(Btn,{t:t,onClick:function(){setShowExplore(!showExplore);if(!showExplore){setSelDate(null);setSelTag(null);}},
+              s:showExplore?{background:"rgba(245,158,11,0.12)",borderColor:"rgba(245,158,11,0.3)",color:"#f59e0b"}:{}},
+              ce("span",{style:{position:"relative"}},"\u2606",
+                exploreIds.length>0&&ce("span",{style:{position:"absolute",top:-6,right:-8,fontSize:9,fontWeight:700,
+                  background:"#f59e0b",color:"#000",borderRadius:100,minWidth:14,height:14,
+                  display:"flex",alignItems:"center",justifyContent:"center",padding:"0 3px"}},exploreIds.length)
+              )
+            ),
             ce(Btn,{t:t,onClick:function(){setShowSrch(!showSrch);if(showSrch)setQuery("");},s:showSrch?{background:t.acS,borderColor:t.acB,color:t.ac}:{}},"⌕"),
             ce(Btn,{t:t,onClick:function(){setDark(!dark);}},dark?"☀":"☾")
           )
@@ -490,6 +533,14 @@ function App(){
         ce("span",{style:{fontSize:12,color:t.tx3,letterSpacing:"0.2px"}},
           "Next update in "+nextUp+" \xb7 "+filtered.length+(selTag||selDate?" filtered":" stories")+(lastChecked?" \xb7 "+lastChecked:""))
       ),
+      // Explore mode banner
+      showExplore&&ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:10,padding:"10px 16px",margin:"6px 0",
+        background:"rgba(245,158,11,0.08)",border:"1px solid rgba(245,158,11,0.2)",borderRadius:14,animation:"slideIn 0.25s ease both"}},
+        ce("span",{style:{fontSize:14}},"\u2605"),
+        ce("span",{style:{fontSize:13,fontWeight:500,color:"#f59e0b"}},"Explore List"),
+        ce("span",{style:{fontSize:12,color:t.tx3}},exploreIds.length+" saved"),
+        ce("button",{onClick:function(){setShowExplore(false);},style:{marginLeft:"auto",background:"rgba(245,158,11,0.15)",border:"none",padding:"4px 10px",borderRadius:8,color:"#f59e0b",fontSize:11,cursor:"pointer",fontWeight:500}},"Show all")
+      ),
       // Active tag filter indicator
       selTag&&ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:8,paddingBottom:10}},
         ce("span",{style:{fontSize:12,color:t.tgT}},"Filtered by: "+selTag),
@@ -497,9 +548,9 @@ function App(){
       ),
       // Empty state
       sortedDates.length===0&&!loading&&ce("div",{style:{textAlign:"center",padding:"60px 20px",color:t.tx2}},
-        ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.3}},"⌕"),
-        ce("div",{style:{fontSize:16,fontWeight:500}},"No results found"),
-        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},query||selTag?"Try a different filter":"No news yet")
+        ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.3}},showExplore?"\u2606":"⌕"),
+        ce("div",{style:{fontSize:16,fontWeight:500}},showExplore?"No saved articles yet":"No results found"),
+        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},showExplore?"Tap the \u2606 star on any article to save it here":query||selTag?"Try a different filter":"No news yet")
       ),
       // Date groups
       sortedDates.map(function(date){
@@ -521,7 +572,7 @@ function App(){
                 border:"1px solid "+t.glB,borderRadius:22,overflow:"hidden",
                 boxShadow:t.sh,transition:"box-shadow 0.3s ease",
               }},
-                arts.map(function(a,idx){return ce(NewsCard,{key:a.id||idx,a:a,t:t,last:idx===arts.length-1,onSelect:openArticle});})
+                arts.map(function(a,idx){return ce(NewsCard,{key:a.id||idx,a:a,t:t,last:idx===arts.length-1,onSelect:openArticle,isExplored:isExplored,onToggleExplore:toggleExplore});})
               )
             );
           })
@@ -531,7 +582,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v1.50")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.00")
       )
     )
   );
