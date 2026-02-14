@@ -12,7 +12,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-  button{outline:none;-webkit-tap-highlight-color:transparent}
+  button{outline:none!important;-webkit-tap-highlight-color:transparent}
+  button:focus,button:active,button:focus-visible{outline:none!important;box-shadow:none!important}
   html{-webkit-text-size-adjust:100%}
   body{font-family:'DM Sans','SF Pro Display','Helvetica Neue',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden;overscroll-behavior-y:none;background:#0e0e16}
   ::-webkit-scrollbar{width:0;height:0}
@@ -658,7 +659,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.13")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.14")
       )
     ),
     // Article overlay — renders on top of feed, feed stays mounted underneath
