@@ -94,7 +94,7 @@ function SourceIcon(p){
 function Btn(p){
   return ce("button",{onClick:function(e){e.currentTarget.blur();p.onClick(e);},style:Object.assign({
     width:38,height:38,borderRadius:12,
-    background:p.t.gl,border:"1px solid "+p.t.glB,color:p.t.tx2,fontSize:16,cursor:"pointer",
+    background:p.t.gl,border:"1px solid transparent",color:p.t.tx2,fontSize:16,cursor:"pointer",
     display:"flex",alignItems:"center",justifyContent:"center",
     transition:"all 0.25s cubic-bezier(.4,0,.2,1)",
     backdropFilter:"blur(24px)",WebkitBackdropFilter:"blur(24px)",
@@ -660,7 +660,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.15")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.16")
       )
     ),
     // Article overlay — renders on top of feed, feed stays mounted underneath
