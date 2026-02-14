@@ -320,6 +320,22 @@ def build_news_items(rss_articles, summaries, x_items):
         # Skip articles Claude flagged as not AI-relevant
         if sum_data and sum_data.get("relevant") is False:
             continue
+        # Parse pub_date to get a proper timestamp
+        pub_date_str = article.get("pub_date", "")
+        published_at = ""
+        if pub_date_str:
+            try:
+                from email.utils import parsedate_to_datetime
+                pd = parsedate_to_datetime(pub_date_str)
+                published_at = pd.strftime("%d %b %Y, %H:%M")
+            except Exception:
+                try:
+                    # Try ISO format
+                    pd = datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
+                    published_at = pd.strftime("%d %b %Y, %H:%M")
+                except Exception:
+                    published_at = ""
+
         item = {
             "id": make_article_id(article["title"], article["source"], today, slot_label),
             "headline": article["title"],
@@ -332,6 +348,7 @@ def build_news_items(rss_articles, summaries, x_items):
             "date": today,
             "readTime": f"{2 + (i % 5)} min read",
             "isFromX": False,
+            "publishedAt": published_at,
         }
         items.append(item)
 
