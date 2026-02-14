@@ -94,9 +94,9 @@ function SourceIcon(p){
 function Btn(p){
   return ce("button",{onClick:function(e){e.currentTarget.blur();p.onClick(e);},style:Object.assign({
     width:38,height:38,borderRadius:12,
-    background:p.t.gl,border:"1px solid transparent",color:p.t.tx2,fontSize:16,cursor:"pointer",
+    background:p.t.gl,border:"none",color:p.t.tx2,fontSize:16,cursor:"pointer",
     display:"flex",alignItems:"center",justifyContent:"center",
-    transition:"all 0.25s cubic-bezier(.4,0,.2,1)",
+    transition:"background 0.25s cubic-bezier(.4,0,.2,1),color 0.25s cubic-bezier(.4,0,.2,1)",
     backdropFilter:"blur(24px)",WebkitBackdropFilter:"blur(24px)",
     outline:"0 none transparent",WebkitTapHighlightColor:"transparent",
     WebkitAppearance:"none",MozAppearance:"none",
@@ -530,7 +530,7 @@ function App(){
               )
             ),
             ce(Btn,{t:t,onClick:function(){setShowExplore(!showExplore);if(!showExplore){setSelDate(null);setSelTag(null);}},
-              s:showExplore?{background:"rgba(245,158,11,0.12)",borderColor:"rgba(245,158,11,0.3)",color:"#f59e0b"}:{}},
+              s:showExplore?{background:"rgba(245,158,11,0.15)",color:"#f59e0b"}:{}},
               ce("span",{style:{position:"relative",display:"flex",alignItems:"center",justifyContent:"center"}},
                 ce("svg",{width:16,height:16,viewBox:"0 0 24 24",fill:showExplore?"#f59e0b":"none",
                   stroke:showExplore?"#f59e0b":"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"},
@@ -541,7 +541,7 @@ function App(){
                   display:"flex",alignItems:"center",justifyContent:"center",padding:"0 3px"}},exploreIds.length)
               )
             ),
-            ce(Btn,{t:t,onClick:function(){setShowSrch(!showSrch);if(showSrch)setQuery("");},s:showSrch?{background:t.acS,borderColor:t.acB,color:t.ac}:{}},
+            ce(Btn,{t:t,onClick:function(){setShowSrch(!showSrch);if(showSrch)setQuery("");},s:showSrch?{background:t.acS,color:t.ac}:{}},
               ce("svg",{width:16,height:16,viewBox:"0 0 24 24",fill:"none",
                 stroke:"currentColor",strokeWidth:2.5,strokeLinecap:"round",strokeLinejoin:"round"},
                 ce("circle",{cx:11,cy:11,r:8}),
@@ -660,7 +660,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.16")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.17")
       )
     ),
     // Article overlay — renders on top of feed, feed stays mounted underneath
