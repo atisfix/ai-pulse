@@ -104,13 +104,18 @@ function NewsCard(p){
     onMouseLeave:function(){if(ref.current){ref.current.style.background="transparent";ref.current.style.transform="scale(1)";}},
     style:{padding:"18px 20px",cursor:"pointer",borderBottom:p.last?"none":"1px solid "+t.dv,
       transition:"all 0.2s cubic-bezier(.4,0,.2,1)",transformOrigin:"center"}},
-    ce("div",{style:{display:"flex",alignItems:"flex-start",gap:4,marginBottom:9}},
+    ce("div",{style:{display:"flex",alignItems:"center",gap:4,marginBottom:9}},
       ce("div",{style:{flex:1,display:"flex",flexWrap:"wrap",gap:6,alignItems:"center"}},
         ce("button",{onClick:function(e){e.stopPropagation();p.onToggleExplore(a.id);},
-          style:{background:"none",border:"none",cursor:"pointer",padding:"1px 3px",fontSize:15,lineHeight:1,
-            color:starred?"#f59e0b":t.tx3,transition:"all 0.2s",flexShrink:0,
-            transform:starred?"scale(1.1)":"scale(1)",opacity:starred?1:0.45,
-          }},starred?"\u2605":"\u2606"),
+          style:{background:"none",border:"none",cursor:"pointer",padding:0,display:"flex",alignItems:"center",
+            transition:"all 0.2s",flexShrink:0,opacity:starred?1:0.35,
+          }},
+          ce("svg",{width:14,height:14,viewBox:"0 0 24 24",fill:starred?"#f59e0b":"none",
+            stroke:starred?"#f59e0b":"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round",
+            style:{color:t.tx3}},
+            ce("path",{d:"M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"})
+          )
+        ),
         a.isFromX&&ce("span",{style:{fontSize:9,fontWeight:700,padding:"3px 8px",borderRadius:100,background:t.xB,color:t.xT,letterSpacing:"0.5px"}},"\ud835\udd4f"),
         (a.tags||[]).map(function(tag){return ce("span",{key:tag,style:{fontSize:10,fontWeight:600,textTransform:"uppercase",letterSpacing:"0.8px",color:t.tgT}},tag);})
       ),
@@ -136,12 +141,16 @@ function ArticleView(p){
           ce("span",{style:{fontSize:18,lineHeight:1}},"\u2039")," Back"),
         ce("div",{style:{flex:1}}),
         ce("button",{onClick:function(){p.onToggleExplore(a.id);},
-          style:{background:starred?t.acS:"none",border:starred?"1px solid "+t.acB:"1px solid "+t.glB,
-            borderRadius:12,padding:"8px 14px",cursor:"pointer",fontSize:14,
-            color:starred?"#f59e0b":t.tx3,display:"flex",alignItems:"center",gap:6,
+          style:{background:starred?"rgba(245,158,11,0.10)":"none",border:starred?"1px solid rgba(245,158,11,0.25)":"1px solid "+t.glB,
+            borderRadius:12,padding:"8px 14px",cursor:"pointer",
+            display:"flex",alignItems:"center",gap:6,
             transition:"all 0.2s",backdropFilter:"blur(20px)"}},
-          ce("span",{style:{fontSize:15}},starred?"\u2605":"\u2606"),
-          ce("span",{style:{fontSize:12,fontWeight:500,color:starred?t.ac:t.tx3}},starred?"Saved":"Save")
+          ce("svg",{width:15,height:15,viewBox:"0 0 24 24",fill:starred?"#f59e0b":"none",
+            stroke:starred?"#f59e0b":"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round",
+            style:{color:t.tx3}},
+            ce("path",{d:"M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"})
+          ),
+          ce("span",{style:{fontSize:12,fontWeight:500,color:starred?"#f59e0b":t.tx3}},starred?"Saved":"Save")
         ),
         a.isFromX&&ce("span",{style:{fontSize:11,fontWeight:600,padding:"4px 10px",borderRadius:100,background:t.xB,color:t.xT}},"from \ud835\udd4f"),
         ce("span",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.5px",textTransform:"uppercase"}},a.readTime)
@@ -463,8 +472,12 @@ function App(){
               ce("span",{style:loading?{animation:"spin 1s linear infinite",display:"inline-block"}:{}},"↻")),
             ce(Btn,{t:t,onClick:function(){setShowExplore(!showExplore);if(!showExplore){setSelDate(null);setSelTag(null);}},
               s:showExplore?{background:"rgba(245,158,11,0.12)",borderColor:"rgba(245,158,11,0.3)",color:"#f59e0b"}:{}},
-              ce("span",{style:{position:"relative"}},"\u2606",
-                exploreIds.length>0&&ce("span",{style:{position:"absolute",top:-6,right:-8,fontSize:9,fontWeight:700,
+              ce("span",{style:{position:"relative",display:"flex",alignItems:"center",justifyContent:"center"}},
+                ce("svg",{width:16,height:16,viewBox:"0 0 24 24",fill:showExplore?"#f59e0b":"none",
+                  stroke:showExplore?"#f59e0b":"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"},
+                  ce("path",{d:"M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"})
+                ),
+                exploreIds.length>0&&ce("span",{style:{position:"absolute",top:-7,right:-9,fontSize:8,fontWeight:700,
                   background:"#f59e0b",color:"#000",borderRadius:100,minWidth:14,height:14,
                   display:"flex",alignItems:"center",justifyContent:"center",padding:"0 3px"}},exploreIds.length)
               )
@@ -536,7 +549,7 @@ function App(){
       // Explore mode banner
       showExplore&&ce("div",{style:{display:"flex",alignItems:"center",justifyContent:"center",gap:10,padding:"10px 16px",margin:"6px 0",
         background:"rgba(245,158,11,0.08)",border:"1px solid rgba(245,158,11,0.2)",borderRadius:14,animation:"slideIn 0.25s ease both"}},
-        ce("span",{style:{fontSize:14}},"\u2605"),
+        ce("span",{style:{fontSize:14}},"🔖"),
         ce("span",{style:{fontSize:13,fontWeight:500,color:"#f59e0b"}},"Explore List"),
         ce("span",{style:{fontSize:12,color:t.tx3}},exploreIds.length+" saved"),
         ce("button",{onClick:function(){setShowExplore(false);},style:{marginLeft:"auto",background:"rgba(245,158,11,0.15)",border:"none",padding:"4px 10px",borderRadius:8,color:"#f59e0b",fontSize:11,cursor:"pointer",fontWeight:500}},"Show all")
@@ -548,9 +561,9 @@ function App(){
       ),
       // Empty state
       sortedDates.length===0&&!loading&&ce("div",{style:{textAlign:"center",padding:"60px 20px",color:t.tx2}},
-        ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.3}},showExplore?"\u2606":"⌕"),
+        ce("div",{style:{fontSize:40,marginBottom:16,opacity:0.3}},showExplore?"🔖":"⌕"),
         ce("div",{style:{fontSize:16,fontWeight:500}},showExplore?"No saved articles yet":"No results found"),
-        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},showExplore?"Tap the \u2606 star on any article to save it here":query||selTag?"Try a different filter":"No news yet")
+        ce("div",{style:{fontSize:14,marginTop:6,color:t.tx3}},showExplore?"Tap the bookmark icon on any article to save it here":query||selTag?"Try a different filter":"No news yet")
       ),
       // Date groups
       sortedDates.map(function(date){
@@ -582,7 +595,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.01")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.02")
       )
     )
   );
