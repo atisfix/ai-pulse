@@ -13,9 +13,9 @@
 <style>
   *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
   html{-webkit-text-size-adjust:100%}
-  body{font-family:'DM Sans','SF Pro Display','Helvetica Neue',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden;overscroll-behavior-y:none}
+  body{font-family:'DM Sans','SF Pro Display','Helvetica Neue',-apple-system,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden;overscroll-behavior-y:none;background:#0e0e16}
   ::-webkit-scrollbar{width:0;height:0}
-  #root{min-height:100vh;min-height:100dvh}
+  #root{min-height:100vh;min-height:100dvh;background:#0e0e16}
   @keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
   @keyframes fadeIn{from{opacity:0}to{opacity:1}}
   @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
@@ -315,7 +315,11 @@ function App(){
   },[]);
 
   useEffect(function(){
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content",dark?"#0e0e16":"#f8f8fc");
+    var bg=dark?"#0e0e16":"#f8f8fc";
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content",bg);
+    document.body.style.background=bg;
+    var root=document.getElementById("root");
+    if(root)root.style.background=bg;
   },[dark]);
   useEffect(function(){if(showSrch&&sRef.current)sRef.current.focus();},[showSrch]);
 
@@ -438,14 +442,13 @@ function App(){
     window.scrollTo(0,0);
   },[]);
   var closeArticle=useCallback(function(){
-    // Hide root instantly, restore scroll, then show — prevents visible scroll animation
     var root=document.getElementById("root");
-    if(root)root.style.visibility="hidden";
+    if(root)root.style.opacity="0";
     setSelArt(null);
     requestAnimationFrame(function(){
       window.scrollTo(0,scrollPosRef.current);
       requestAnimationFrame(function(){
-        if(root)root.style.visibility="visible";
+        if(root)root.style.opacity="1";
       });
     });
   },[]);
@@ -669,7 +672,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.05")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.06")
       )
     )
   );
