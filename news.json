@@ -2,10 +2,10 @@
   {
     "id": "d53383097f45",
     "headline": "Google is now rolling out Android 17 Beta 1 for Pixel [U] - 9to5Google",
-    "summary": "Google releases Android 17 Beta 1 for Pixel devices after briefly halting the launch.",
-    "description": "Google is now rolling out Android 17 Beta 1 for Pixel [U] 9to5GoogleThe first Android 17 beta is now available on Pixel devices Ars TechnicaGoogle Revives Android 17 Beta 1 Just Days After Halting Launch CNETGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise ForbesPixel Launcher search bar gets a ‘redesign’ in Android 17 Beta 1 9to5Google",
+    "summary": "Google is now rolling out Android 17 Beta 1 for Pixel [U] 9to5GoogleHere’s everything new in Android 17 Beta 1 [Gallery] 9to5GoogleGoogle Just Dropped",
+    "description": "Google is now rolling out Android 17 Beta 1 for Pixel [U] 9to5GoogleHere’s everything new in Android 17 Beta 1 [Gallery] 9to5GoogleGoogle Just Dropped An Update For Pixel Phones — And It’s A Surprise ForbesThe first Android 17 beta is now available on Pixel devices Ars TechnicaGoogle releases the first beta of Android 17, adopts a continuous developer release plan TechCrunch",
     "tags": [
-      "Google"
+      "AI"
     ],
     "source": "Google News AI",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16TC04NkdwanEzVDB0RGd2S1psYmhaZDg5ODlPTUVlOFZxajB6d1FvOUxGN1BvN2d6dllHdDAxRnE3WXpSMjBMY04zWWtSQkRpb2h4QjloQ3UxbzktUngyVTJmTmxSNWhZYlE?oc=5",
@@ -15,352 +15,364 @@
     "isFromX": false
   },
   {
-    "id": "122778baf31c",
-    "headline": "The Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks - Forbes",
-    "summary": "Samsung confirms Galaxy S26 Ultra Unpacked event date and announces pre-order benefits.",
-    "description": "The Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks Forbes[Video] Samsung Teases Galaxy Unpacked 2026 by Turning Global Landmarks Into a Sneak Peek of Effortless Photo Creation With Galaxy AI samsung.comSamsung’s offering up to $900 of trade-in credit toward its new phones The VergeSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25 EngadgetSamsung is teasing Galaxy S26's AI features on massive 3D billboards SamMobile",
+    "id": "28a780d65508",
+    "headline": "My humble study on the effects of prompting nonexistent words on CLIP-based diffusion models.",
+    "summary": "Sooo, for the past 2.5 years, I've been sort of obsessed with what I call Undictionaries -i.e. words that don't exist but have a consistent impact on ",
+    "description": "Sooo, for the past 2.5 years, I've been sort of obsessed with what I call Undictionaries -i.e. words that don't exist but have a consistent impact on image generation- and I recently got motivated to formalize my findings into a proper report. This is very high level and a rather informal, I've only peeked under the hood a little bit to understand better why this is happening. The goal was to document the phenomenon, classify outputs, formalize a nomenclature around it, and give advice to people",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTUzMXNGRWpnUGE2OGJ2eDk4UEsxeWtpblExTjVkejFrZTlwMm8wa1o0OVRyS096bkVDeVMtUVRIdXQybEE0TDVWUXJQTzcyQ3EyMmQwcG1VTllkTmhXbjJraDRZRl9MMDNSQlk5ZmVpZDB4cEI0ZFFBN2s0NmxLRVdsX09LTVJGNmRUVk9ndWp3bzNPWUd6M1FfNkdUVDFQOEYtcHVaUVA0aEpHZkJjM0dqTkxzQzMwdlM2YmFGV1JqZzg?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3ygx2/my_humble_study_on_the_effects_of_prompting/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "b7889bfc9fb4",
-    "headline": "There’s a tiny digital camera inside these retro 35mm film rolls - The Verge",
-    "summary": "New retro 35mm film rolls contain hidden tiny digital cameras inside.",
-    "description": "There’s a tiny digital camera inside these retro 35mm film rolls The VergeThese 35mm Film Rolls Are Actually Tiny Digital Keychain Cameras PetaPixelvintage film rolls flip into miniature and functional digital cameras DesignboomKeychain compact cameras like the Kodak Charmera are having a moment, so I tried the Escura SnapRoll. I’m not sure I’m sold… Digital Camera WorldOPT100 NeoFilm packs compact camera into a film roll format Notebookcheck",
+    "id": "747cc51ebff8",
+    "headline": "DOA is back (!) so I used Klein 9b to remaster it",
+    "summary": "I used this exact prompt for all results: \"turn this video game screenshot to be photo realistic, cinematic real film, real people, realism, photoreal",
+    "description": "I used this exact prompt for all results: \"turn this video game screenshot to be photo realistic, cinematic real film, real people, realism, photorealistic, no cgi, no 3d, no render, shot on iphone, low quality photo, faded tones\" submitted by /u/theNivda [link] [comments]",
     "tags": [
-      "Hardware"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWw1T3pYckpMaGZIOTQwbzBkX0tVV0Z0OFUwUmpnQUdWcnhXMDRnS0VaZ05GMXc4MlZ5cFZiVXhDay0wQjBvSEkzdU04SGdjUGw3NGtTRW5lc1BVVUgwTC1UV1RfMnNKbm9HSGh4UGtuQUNaOG1uLXh2SU12aXRDcHRtZHg?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3kf10/doa_is_back_so_i_used_klein_9b_to_remaster_it/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "5051a8c97669",
-    "headline": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals - Engadget",
-    "summary": "Apple Watch Series 11 available for $299 in Presidents' Day sales promotion.",
-    "description": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals EngadgetThe Apple Watch Series 11 is more of the same, but that's not a bad thing. Here's why it's our favorite smartwatch. Business InsiderDeals: AirPods Pro 3, Apple Sport Bands up to 41% off, Anker 25W MagSafe Charging Stand $100 off, iPad, more 9to5MacBest Presidents' Day Apple deals 2026: AirPods, iPads, Apple Watches, and beyond MashableThe 5 Best Tech Deals for This Presidents' Day Weekend from Apple Watc",
+    "id": "5422ea72a233",
+    "headline": "VNCCS Pose Studio ART LoRa",
+    "summary": "VNCCS Pose Studio: A professional 3D posing and lighting environment running entirely within a ComfyUI node. Interactive Viewport: Sophisticated bone ",
+    "description": "VNCCS Pose Studio: A professional 3D posing and lighting environment running entirely within a ComfyUI node. Interactive Viewport: Sophisticated bone manipulation with gizmos and Undo/Redo functionality. Dynamic Body Generator: Fine-tune character physical attributes including Age, Gender blending, Weight, Muscle, and Height with intuitive sliders. Advanced Environment Lighting: Ambient, Directional, and Point Lights with interactive 2D radars and radius control. Keep Original Lighting: One-clic",
     "tags": [
-      "Apple",
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWxMczRsRmkxTXVyR2EzT0FWMDFtVzFhSzZFSElzRF9TTTE3b05ncE53c2FRV0JvX1FZR1VNeXAwZmJwOEJKcUozN2k4bVNfMFRwYVRuVU4yYlJCNkdLNGlDRGk5LThaTHJUWFRrX1FZdFhmOG55MjFWWWNEOGpRSWl5UG1tTDRsak5QbW1xOGF2R2tld3Y0bGVtaTBZZEpaWDUxTVhRd081bld5Z2UwSWVzRXZvOFg3d2U3d2F2RnBvWEl4?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3trxr/vnccs_pose_studio_art_lora/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "adbdd82054a1",
-    "headline": "Counterpoint: The foldable smartphone market to open a new chapter in 2026 - GSMArena.com news - GSMArena.com",
-    "summary": "Foldable smartphone market expected to see major growth in 2026 with Android book-style devices leading.",
-    "description": "Counterpoint: The foldable smartphone market to open a new chapter in 2026 - GSMArena.com news GSMArena.comAndroid book-style foldables expected to dominate in 2026, report says 9to5GoogleBook-Type Devices to Reach 65% of Global Foldable Smartphone Shipments in 2026 Counterpoint ResearchApple Now Testing Flip-Style Foldable iPhone MacRumorsApple's iPhone Fold could spell the death of the flip phone – analysts suggest a new era of mobile is coming T3",
+    "id": "0c2727b2f722",
+    "headline": "I restored a few historical figures, using Flux.2 Klein 9B.",
+    "summary": "So mainly as a test and for fun, I used Flux.2 Klein 9B to restore some historical figures. Results are pretty good. Accuracy depends a lot on the det",
+    "description": "So mainly as a test and for fun, I used Flux.2 Klein 9B to restore some historical figures. Results are pretty good. Accuracy depends a lot on the detail remaining in the original image, and ofc it guesses at some colors. The workflow btw is a default one and can be found in the templates section in ComfyUI. Anyway let me know what you think. submitted by /u/Grimm-Fandango [link] [comments]",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzdQZnRseHVRREEySkh0d0MwaDE3X0VwZXBEYTU5Um93NWZrVnVlUkxxdXZlZ3FqQ3ZpbUc0azg0VVZNWUEzT2I1dlRFUlNXUDh4Y2FscEJyblg4OExVTUJoWXAxOGdPaFJBOXlkbk5Nb0pFT3pHcXpWandzSVhNeHUyNmV1UlVPb2lOYTlFcEszRENuNDBKel9pMjctT2laWVlDTlFYQV9tOEVaa1NlZzJn0gGuAUFVX3lxTFAzaXRKc0ZZNWZSbzdnZlAxYVV4NGp0WnRpTUJMdkpYcUE5dmxBSkZtS2x4UTdhb3Q5OHAzamo2YklPTENBQzI4cEZWU3R4Nlg0VXk5bW9xZ2U3bzdvWldJeVVDbjFONEpWS2lkVlphcE94aFc1LXlGdUhFZE1ZTVU1eVppdktRN0tTQmc5ekJSb2xpN3VBWVVqZ3dSVDYyVGE2U05pd3FjMHFIS0FzZw?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3eciz/i_restored_a_few_historical_figures_using_flux2/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "a2a29f3f8a66",
-    "headline": "Exclusive: First official look at Samsung's 'Wide' Galaxy Z Fold - Android Authority",
-    "summary": "First official look at Samsung's wider Galaxy Z Fold variant with One UI 9.",
-    "description": "Exclusive: First official look at Samsung's 'Wide' Galaxy Z Fold Android AuthoritySamsung’s rumored wider Galaxy Z Fold 8 variant reappears with One UI 9 in tow 9to5GoogleHere's the first glimpse of a One UI 9.0 Galaxy AI feature! SamMobileSamsung's Browser Is Getting an AI Makeover: Inside the 'Ask AI' Feature That Could Reshape Mobile Search WebProNewsTake a Closer Look at the Galaxy S26’s Now Nudge Feature SammyGuru",
+    "id": "b38e95a00868",
+    "headline": "LTX-2 Inpaint test for lip sync",
+    "summary": "In my last post LTX-2 Inpaint (Lip Sync, Head Replacement, general Inpaint) : r/StableDiffusion some wanted to see an actual lip sync video, Deadpool ",
+    "description": "In my last post LTX-2 Inpaint (Lip Sync, Head Replacement, general Inpaint) : r/StableDiffusion some wanted to see an actual lip sync video, Deadpool might not be the best candidate for this. Here is another version using the new Gollum lora, it's just a crap shot to show that lipsync works and teeth are rather sharp. But the microphone got messed up, which I haven't focused on here. Following Workflow also fixes the wrong audio decode VEA connection. ltx2_LoL_Inpaint_02.json - Pastebin.com The ",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HNk5ET3Q5RWlEXzdfZDdlR0J1bTBwMmxIMlUwbjYyOU5LaXZhS2I2d0JQOHB4TnpnUUtXSXE3RWRranljckpfSXpqOVFwejJIcWo4OTl5SmMzQ0tXaUJMeVNmMkh5U3Q5dlZQdHZsM2hKSGc?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3lc65/ltx2_inpaint_test_for_lip_sync/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "0449b2fc6ed1",
-    "headline": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game - Game Informer",
-    "summary": "Rayman 30th Anniversary Edition launches with five versions of the original game.",
-    "description": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game Game InformerPlay Rayman: 30th Anniversary Edition Tomorrow! UbisoftRayman 30th Anniversary Edition Announced — And It Launches Tomorrow | Sony State of Play IGNRayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] Nintendo EverythingRayman 30th Anniversary Edition Drops Digitally Tomorrow Insider Gaming",
+    "id": "f872b226ce17",
+    "headline": "Contest: Night of the Living Dead - The Community Cut",
+    "summary": "We’re kicking off a community collaborative remake of the public domain classic Night of the Living Dead (1968) and rebuilding it scene by scene with ",
+    "description": "We’re kicking off a community collaborative remake of the public domain classic Night of the Living Dead (1968) and rebuilding it scene by scene with AI. Each participating creator gets one assigned scene and is asked to re-animate the visuals using LTX-2. The catch: You’re generating new visuals that must sync precisely to the existing soundtrack using LTX-2’s audio-to-video pipeline. The video style is whatever you want it to be. Cinematic realism, stylized 3D, stop-motion, surreal, abstract? ",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXBabWcydE1hWWVfSVBESW9VTnJWTl8tZVBEVVFaVnplSVh6ek5HaFg5OGRERVVnLUV6bDRjTmpUdkNOT2pIVzVDaHozQkVLTXRYWWR5a0tFN1ZWMVNFeEtWT1RQM3VOQVZGNDlzVWhscDlfZm1mWVV4QUhXVThEUW1TTFpXcWgwYjVTVEtZbGprbHI5clYzaDZNNTFoLXdBNTBscU5YMzYtX21kRzhZbm8ydGpuVm9idmRYRWVTWQ?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3ynbt/contest_night_of_the_living_dead_the_community_cut/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "bc8885a11e5e",
-    "headline": "New ‘God of War’ Game ‘Sons of Sparta’ Surprise Launches on PlayStation, Original Trilogy Remake in the Works - Variety",
-    "summary": "God of War 'Sons of Sparta' surprise launches while original trilogy remake is in development.",
-    "description": "New ‘God of War’ Game ‘Sons of Sparta’ Surprise Launches on PlayStation, Original Trilogy Remake in the Works VarietyGod of War Sons of Sparta: What you need to know PlayStation.BlogSanta Monica Studio Is Remaking The Original God Of War Trilogy Game InformerA surprise God of War prequel is out on the PS5 right now The VergeGod of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play IGN",
+    "id": "3f1f6fe2bd06",
+    "headline": "Combining SCAIL, VACE & SVI for consistent, very high quality shots",
+    "summary": "submitted by /u/nsfwVariant [link] [comments]",
+    "description": "submitted by /u/nsfwVariant [link] [comments]",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVpvX2FIVFI1eFhQZEJGWEVYMlUzWFE5NXVzdjhiMEd0RDQ2a1JPUlJMak9DZzRLZkhXYllCSllMcEU2OGFhVXQ3anJNUXJHODY2WW5GRF9YTWJjeXV0cC0zVURMeHNOTGpiVWNNcG5RbE1DcEVsMEpFLWIwZ1BuTTk5MURwS3RQWGxFb0hwbWd1ZzV6SnJsNUVYRURQcmowNjI1VU93?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3unh5/combining_scail_vace_svi_for_consistent_very_high/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "a4a3eab2ec90",
-    "headline": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now - Pokemon.com",
-    "summary": "Stern Pinball releases new Pokémon pinball machine for $7,000.",
-    "description": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now Pokemon.comNew Pokémon Pinball Machine Lets You Catch, Battle, and Complete a Pokédex IGNMeowth Will Gargle Your Pinballs For Just $7,000 KotakuStern Pinball Debuting Pokémon Pinball Machines at NYC Toy Fair 2026, First Look Trailer & More Released GoNintendoStern’s new pinball machines are for Pokémon fans with deep pockets. The Verge",
+    "id": "b336460702a6",
+    "headline": "There's a CFG distill lora now for Anima-preview (RDBT - Anima by reakaakasky)",
+    "summary": "Not mine, I just figured I should draw attention to it. With cfg 1 the model is twice as fast at the same step counts. It also seems to be more stable",
+    "description": "Not mine, I just figured I should draw attention to it. With cfg 1 the model is twice as fast at the same step counts. It also seems to be more stable at lower step counts. The primary drawback is that it makes many artists much weaker. The lora is here: https://civitai.com/models/2364703/rdbt-anima?modelVersionId=2684678 It works best when used with the AnimaYume checkpoint: https://civitai.com/models/2385278/animayume submitted by /u/Betadoggo_ [link] [comments]",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGplemc4dDFiaWRiVzdjaHBXbS1rRlNoV0RoRS1tbHMxd0JyQlVhTXY4VHB1UmxaaWhYbVdhenZCU1pHWGd2cm43WXhfWlh6WFZUVHJxbnRZLXppd040T3U0WkpmbENfWlNOMTZVWTdOdzA3N0M5bjFtblZnQ2lQMENWdnJyc083SnZmRjlSeVBwYjd0RmEtbzNNWDZ0QkFD?oc=5",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3zyf8/theres_a_cfg_distill_lora_now_for_animapreview/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "cb8d22db2eff",
-    "headline": "ArXiv preprint server clamps down on AI slop",
-    "summary": "ArXiv preprint server implements measures to combat AI-generated low-quality submissions.",
-    "description": "Article URL: https://www.science.org/content/article/arxiv-preprint-server-clamps-down-ai-slop Comments URL: https://news.ycombinator.com/item?id=47009528 Points: 2 # Comments: 1",
+    "id": "8f82e7ed71aa",
+    "headline": "DeepGen 1.0: A 5B parameter \"Lightweight\" unified multimodal model",
+    "summary": "https://huggingface.co/deepgenteam/DeepGen-1.0 submitted by /u/ninjasaid13 [link] [comments]",
+    "description": "https://huggingface.co/deepgenteam/DeepGen-1.0 submitted by /u/ninjasaid13 [link] [comments]",
     "tags": [
-      "Research",
-      "Regulation"
+      "Image Gen"
     ],
-    "source": "Hacker News AI",
-    "link": "https://www.science.org/content/article/arxiv-preprint-server-clamps-down-ai-slop",
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r3epwp/deepgen_10_a_5b_parameter_lightweight_unified/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "33f3e96528df",
-    "headline": "IBM Triples Entry Level Job Openings. Finds Limits to AI",
-    "summary": "IBM triples entry-level hiring as company finds limitations in AI capabilities.",
-    "description": "Article URL: https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47009327 Points: 2 # Comments: 0",
+    "id": "fac240147ebc",
+    "headline": "Style Ranking Party!",
+    "summary": "https://www.midjourney.com/rank-styles Hey y'all! We want your help to tell us which styles you find more beautiful. By doing this we can develop bett",
+    "description": "https://www.midjourney.com/rank-styles Hey y'all! We want your help to tell us which styles you find more beautiful. By doing this we can develop better style generation algorithms, style recommendation algorithms and maybe even style personalization. Have fun! PS: The bottom of every style has a --sref code and a button, if you find something super cool feel free to share in ⁠sref-showcase. The top 1000 raters get 1 free fast hour a day, but please take the ratings seriously. submitted by /u/Fn",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Hacker News AI",
-    "link": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+    "source": "Reddit r/midjourney",
+    "link": "https://www.reddit.com/r/midjourney/comments/1nw9t2r/style_ranking_party/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
     "isFromX": false
   },
   {
-    "id": "4b9e72c69092",
-    "headline": "Pentagon Used Anthropic's Claude in Maduro Venezuela Raid",
-    "summary": "Pentagon used Anthropic's Claude AI model during Venezuela raid operation.",
-    "description": "Article URL: https://www.wsj.com/politics/national-security/pentagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17 Comments URL: https://news.ycombinator.com/item?id=47009058 Points: 4 # Comments: 3",
+    "id": "f619fc2c1a96",
+    "headline": "Midjourney's Video Model is here!",
+    "summary": "Hi y'all! As you know, our focus for the past few years has been images. What you might not know, is that we believe the inevitable destination of thi",
+    "description": "Hi y'all! As you know, our focus for the past few years has been images. What you might not know, is that we believe the inevitable destination of this technology are models capable of real-time open-world simulations. What’s that? Basically; imagine an AI system that generates imagery in real-time. You can command it to move around in 3D space, the environments and characters also move, and you can interact with everything. In order to do this, we need building blocks. We need visuals (our firs",
     "tags": [
-      "Anthropic"
+      "Image Gen"
     ],
-    "source": "Hacker News AI",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17",
+    "source": "Reddit r/midjourney",
+    "link": "https://www.reddit.com/r/midjourney/comments/1lemxxm/midjourneys_video_model_is_here/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
     "isFromX": false
   },
   {
-    "id": "cafb8557f949",
-    "headline": "Spotify says its best developers haven't written code since Dec, thanks to AI",
-    "summary": "Spotify reports top developers haven't written code since December due to AI assistance.",
-    "description": "Article URL: https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/ Comments URL: https://news.ycombinator.com/item?id=47009057 Points: 5 # Comments: 3",
+    "id": "17e4274ff3ee",
+    "headline": "Modern Times",
+    "summary": "submitted by /u/Zaicab [link] [comments]",
+    "description": "submitted by /u/Zaicab [link] [comments]",
     "tags": [
-      "Market"
+      "Image Gen"
     ],
-    "source": "Hacker News AI",
-    "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+    "source": "Reddit r/midjourney",
+    "link": "https://www.reddit.com/r/midjourney/comments/1r3p6n3/modern_times/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "4 min read",
     "isFromX": false
   },
   {
-    "id": "fe6244d8fd1b",
-    "headline": "OK, so Anthropic's AI built a C compiler. That don't impress me much",
-    "summary": "Anthropic's AI builds C compiler, but experts remain unimpressed with the achievement.",
-    "description": "Article URL: https://www.theregister.com/2026/02/13/anthropic_c_compiler/ Comments URL: https://news.ycombinator.com/item?id=47009024 Points: 4 # Comments: 1",
+    "id": "1cab3322163f",
+    "headline": "Event horizon",
+    "summary": "Prompt: Real-time speed. Ultra-realistic astrophysical black hole simulation. The black hole itself remains visually dark and stable, no rotation of t",
+    "description": "Prompt: Real-time speed. Ultra-realistic astrophysical black hole simulation. The black hole itself remains visually dark and stable, no rotation of the sphere texture. The accretion disk is fully dynamic: inner plasma streams move rapidly inward, flowing along curved relativistic trajectories. Bright luminous bands shift continuously within the disk structure, shearing and stretching due to differential rotation. Inner regions move faster than outer regions. Matter spirals inward with increasin",
     "tags": [
-      "Anthropic"
+      "Image Gen"
     ],
-    "source": "Hacker News AI",
-    "link": "https://www.theregister.com/2026/02/13/anthropic_c_compiler/",
+    "source": "Reddit r/midjourney",
+    "link": "https://www.reddit.com/r/midjourney/comments/1r3n2ms/event_horizon/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "5 min read",
     "isFromX": false
   },
   {
-    "id": "792077c14592",
-    "headline": "Mathematicians issue a major challenge to AI—show us your work",
-    "summary": "Mathematicians challenge AI systems to provide transparent explanations of their work processes.",
-    "description": "submitted by /u/Fcking_Chuck [link] [comments]",
+    "id": "be17472c6bb3",
+    "headline": "🏆🥳🙀 AI VIDEO AWARDS 2026, HOSTED BY WHISKERS THE CAT: Nominees, Performers, and Presenters, coming to r/aivideo SUNDAY 03/15/2026",
+    "summary": ". AI VIDEO AWARDS 2026 🏆🤩 . COMING TO r/aivideo SUNDAY MARCH 15th 2026 LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON r/aivideo REDDIT AN ORIG",
+    "description": ". AI VIDEO AWARDS 2026 🏆🤩 . COMING TO r/aivideo SUNDAY MARCH 15th 2026 LIVE FROM LAS VEGAS, NEVADA AIRING EXCLUSIVELY HERE ON r/aivideo REDDIT AN ORIGINAL r/aivideo PRODUCTION . 🐾 HOSTED BY: 🙀 WHISKERS THE CAT . WITH OVER 54,000 VIDEO SUBMISSIONS, THE AI VIDEO AWARDS 2026 IS THE BIGGEST AWARDS RACE IN THE AI VIDEO INDUSTRY YET AI VIDEO AWARDS ARE FULLY INTERACTIVE , VIEWERS PICK THE WINNERS. THERE ARE NO JUDGES. REDDIT UPVOTE SYSTEM PICKS THE WINNER IN EACH CATEGORY. ALL VIDEOS SUBMITTED TO r/ai",
     "tags": [
-      "Research"
+      "Video Gen"
     ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/",
+    "source": "Reddit r/aivideo",
+    "link": "https://www.reddit.com/r/aivideo/comments/1qde5ka/ai_video_awards_2026_hosted_by_whiskers_the_cat/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "6 min read",
     "isFromX": false
   },
   {
-    "id": "a1108b6ebea9",
-    "headline": "Anthropic Raises $30 Billion at $380B Valuation",
-    "summary": "[Feb 12, 2026] Anthropic secured massive Series G funding, more than doubling its valuation amid competition with OpenAI",
-    "description": "Anthropic secured massive Series G funding, more than doubling its valuation amid competition with OpenAI",
+    "id": "011b73434660",
+    "headline": "Latest Releases",
+    "summary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/community-home [link] [comments]",
+    "description": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/community-home [link] [comments]",
     "tags": [
-      "funding",
-      "valuation"
+      "Video Gen"
     ],
-    "source": "X / Various sources",
-    "link": "",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Feb 12, 2026"
-  },
-  {
-    "id": "5628478d12f9",
-    "headline": "Claude Opus 4.6 Released by Anthropic",
-    "summary": "[Feb 5, 2026] New premier AI model for enterprise knowledge work with top scores in coding, financial analysis, and legal reasoning",
-    "description": "New premier AI model for enterprise knowledge work with top scores in coding, financial analysis, and legal reasoning",
-    "tags": [
-      "model-release",
-      "enterprise"
-    ],
-    "source": "X / @AnthropicAI",
-    "link": "",
+    "source": "Reddit r/aivideo",
+    "link": "https://www.reddit.com/r/aivideo/comments/1m73hmv/latest_releases/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Feb 5, 2026"
+    "isFromX": false
   },
   {
-    "id": "eb8175b8401f",
-    "headline": "OpenAI GPT-5.3 Codex Launch",
-    "summary": "[Feb 5, 2026] OpenAI dropped GPT-5.3 Codex 20 minutes after Anthropic's release, focusing on builder tooling over chat interfaces",
-    "description": "OpenAI dropped GPT-5.3 Codex 20 minutes after Anthropic's release, focusing on builder tooling over chat interfaces",
+    "id": "64d84e9f0f78",
+    "headline": "AI Chiropractors Face Their Worst Nightmare",
+    "summary": "submitted by /u/FallingKnifeFilms [link] [comments]",
+    "description": "submitted by /u/FallingKnifeFilms [link] [comments]",
     "tags": [
-      "model-release",
-      "coding"
+      "Video Gen"
     ],
-    "source": "X / @OpenAI",
-    "link": "",
+    "source": "Reddit r/aivideo",
+    "link": "https://www.reddit.com/r/aivideo/comments/1r3ud5j/ai_chiropractors_face_their_worst_nightmare/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Feb 5, 2026"
+    "isFromX": false
   },
   {
-    "id": "36616b892f4f",
-    "headline": "Mass Exodus at xAI - 11 Engineers Leave",
-    "summary": "[Feb 6-10, 2026] Co-founders and senior engineers depart xAI amid controversy over Grok deepfakes and organizational changes",
-    "description": "Co-founders and senior engineers depart xAI amid controversy over Grok deepfakes and organizational changes",
+    "id": "120fdaedd461",
+    "headline": "I asked AI to take me on a journey through the Dragon World and this is what happened",
+    "summary": "submitted by /u/TechHalla [link] [comments]",
+    "description": "submitted by /u/TechHalla [link] [comments]",
     "tags": [
-      "departures",
-      "controversy"
+      "Video Gen"
     ],
-    "source": "X / Various xAI staff",
-    "link": "",
+    "source": "Reddit r/aivideo",
+    "link": "https://www.reddit.com/r/aivideo/comments/1r3oxoi/i_asked_ai_to_take_me_on_a_journey_through_the/",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Feb 6-10, 2026"
+    "readTime": "4 min read",
+    "isFromX": false
   },
   {
-    "id": "4638bd128504",
-    "headline": "Elon Musk Attacks Anthropic as 'Misanthropic'",
-    "summary": "[Feb 12, 2026] Musk claims Claude AI hates 'Whites & Asians, heterosexuals and men' following Anthropic's $30B funding round",
-    "description": "Musk claims Claude AI hates 'Whites & Asians, heterosexuals and men' following Anthropic's $30B funding round",
+    "id": "bfa5e3091da2",
+    "headline": "Seedance, Kling and the Chinese AI Video Ecosystem - ChinaTalk",
+    "summary": "Seedance, Kling and the Chinese AI Video Ecosystem ChinaTalk",
+    "description": "Seedance, Kling and the Chinese AI Video Ecosystem ChinaTalk",
     "tags": [
-      "criticism",
-      "bias"
+      "Video Gen"
     ],
-    "source": "X / @elonmusk",
-    "link": "https://x.com/elonmusk/status/[ID]",
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtTWhPa0lYajR5ZWZGX3pOSVczdjBYbXFFVi1waFl4ZFJxeTJuTTNWbUJLZlU4aXNRUmlJbEM3WVY0VVNRLWQ4YWNZblNlaXB2UFBOdTdmcXRSRHoydS1KdWFrZDNhWkduOEtoLVV5SmY?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6903dfc85186",
+    "headline": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models - TechCrunch",
+    "summary": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models TechCrunch",
+    "description": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models TechCrunch",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXJtWVZvTHNCRnFpcjJjOG9kRmduUXJ3Z01RU1RZTWdwZWNYeHVKRVlXcmRIZ3NOR084LUxIeTFSOVNaVjdEUnhWcndrcG1VS1VuNU9UdWN5eVpDYkY3RTdjV21Ob0Vsck5zX1BNaEk0dUI3SUhqQTJiQ3BLYnU3U0FmZWxuRlhWRzc2cllxTi1mM0RIaVRtcTVMZmo2c0pvMW9LWFAySnFKSEtXemRDOVFvZFRJOWw2YjlZ?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "b593793ec3a7",
+    "headline": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation - Crunchbase News",
+    "summary": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation Crunchbase News",
+    "description": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation Crunchbase News",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmxOMnFIek5GYks1X08zTDk4SjN2dVlndW9ybWFUYnNCTUZxd1liRnBpekxsVDNDMWp1N2l5Vm5MMG1fYjJtbU50NW1takVxVWY3dFdDZzVZTHhNbkZIdHNtSTF2RTc0NW4yYWFJbDZLY1c5dzgtTEpOQndLQWxuYXhtMHhhZ3RvSERDMFF2NA?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Feb 12, 2026"
+    "isFromX": false
   },
   {
-    "id": "2c34b1a0fb2b",
-    "headline": "xAI All-Hands Meeting Goes Public",
-    "summary": "[Feb 11, 2026] xAI published 45-minute all-hands video revealing interplanetary AI ambitions and moon-based factory plans",
-    "description": "xAI published 45-minute all-hands video revealing interplanetary AI ambitions and moon-based factory plans",
+    "id": "3b80fa719055",
+    "headline": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) - SitePoint",
+    "summary": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) SitePoint",
+    "description": "Seedance 2.0 vs. Sora 2 vs. Runway Gen-4: AI Video API Comparison for Developers (2026) SitePoint",
     "tags": [
-      "strategy",
-      "space-ai"
+      "Video Gen"
     ],
-    "source": "X / @xai",
-    "link": "https://x.com/xai/status/[ID]",
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUmR2UWdlUVEwN2Rkb094N3pmZGZwd043cmJsWW8yMlgtb2JkRjIwYnc0NGlldkFFeUpPUVphZVM1TWR6Ulh2bHFkYkh2X1I1d0JjbE1QSmRGUGhaQ29zRHVfQ3ZhNkh4YlZDbQ?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
     "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Feb 11, 2026"
+    "isFromX": false
   },
   {
-    "id": "c6d36b942a32",
-    "headline": "NVIDIA Isaac GR00T N1 Model Released",
-    "summary": "[Recent weeks] World's first open foundation model for generalized humanoid robot reasoning and skills now available",
-    "description": "World's first open foundation model for generalized humanoid robot reasoning and skills now available",
+    "id": "4f4e5e80f4d3",
+    "headline": "Turn your doodles into video clips in minutes with this new AI tool - here's how - ZDNET",
+    "summary": "Turn your doodles into video clips in minutes with this new AI tool - here's how ZDNET",
+    "description": "Turn your doodles into video clips in minutes with this new AI tool - here's how ZDNET",
     "tags": [
-      "robotics",
-      "open-source"
+      "Video Gen"
     ],
-    "source": "X / @nvidia",
-    "link": "",
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLbUp5N19KbndTaXI3bE91cGtCcVZBWjNrb0kzLXlGN1EyNDdYXzlzakVUdXRmUnZXSEtiX09mTWtxX1VpXzBpZHJOaVNvbUpjcjBBVjlzTW5zV1NpNC1kX1FlbFNfVGYtMHFiN1lGVmliTG8?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Recent weeks"
+    "readTime": "4 min read",
+    "isFromX": false
   },
   {
-    "id": "edb22238572a",
-    "headline": "Anthropic Super Bowl Ads Mock OpenAI",
-    "summary": "[Super Bowl weekend] Anthropic airs commercials ridiculing OpenAI's ad integration, promising Claude will remain ad-free",
-    "description": "Anthropic airs commercials ridiculing OpenAI's ad integration, promising Claude will remain ad-free",
+    "id": "65a7feb1d303",
+    "headline": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment - Reuters",
+    "summary": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment Reuters",
+    "description": "ByteDance's new AI video model goes viral as China looks for second DeepSeek moment Reuters",
     "tags": [
-      "marketing",
-      "competition"
+      "Video Gen"
     ],
-    "source": "X / @AnthropicAI",
-    "link": "",
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1JfcDZUWWFEZHMyeGNpUFpjWWtPdU5rT3RHdVlsbWVfU3p5QXhxWlZ5dVVFTDJiampuS1R0WXItcTd0VS1EcFNwWWdnZjRZX1hjRHJUb3gxUVZBVlhmMW9lN2pkWTZQdjB6bzVyZnNaUGlpM1lLNl8yUlBpdFgzeTg3alp0Y19HQm5mRUxtYUlBeE5LTkVUNEphbV85TmExVWhPSDdIdjhwTVBXME5WTk05NWlBQlhkMG5WR3pIM1h4a0htNzFFT1JtaDBoU2s?oc=5",
     "time": "Morning Brief — 07:00 CET",
     "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Super Bowl weekend"
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "36e0da88a10f",
+    "headline": "ByteDance Launches Impressive New AI Video Generation Tool - Social Media Today",
+    "summary": "ByteDance Launches Impressive New AI Video Generation Tool Social Media Today",
+    "description": "ByteDance Launches Impressive New AI Video Generation Tool Social Media Today",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWJ3d1hSa0xFRk4tRUJMa3c3NkJsNWtoUFFtOWRySVhMVWJCUC10eEU5V2c2MDdjVkQ1LXRTT2pybkhkeUdrcHUzMUJ4Sk9NM0ZYT3haQmU5V2NqOHBaZV9vTXM1V2dRbjM2S3Q3NHR1UDNlaDg5Ymk0enFadmkyeUxtaGJpYWJZMW0tV1RtdFBWeDg3dkprZzBMZndiNmNmdWZqbU1xQQ?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
   },
   {
     "id": "0f59a96bdda3",
