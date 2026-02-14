@@ -87,22 +87,25 @@ RSS_FEEDS = [
 ]
 
 AI_KEYWORDS = [
-    "ai", "artificial intelligence", "machine learning", "llm", "gpt", "claude",
-    "openai", "anthropic", "deepmind", "neural", "transformer", "chatbot",
-    "generative", "deep learning", "robot", "autonomous", "copilot", "gemini",
-    "mistral", "meta ai", "llama", "diffusion", "nvidia", "gpu", "chip",
-    "model", "training", "inference", "benchmark", "alignment", "safety",
-    "hugging face", "stable diffusion", "midjourney", "sora", "agent",
-    "agi", "superintelligence", "foundation model", "fine-tuning", "rlhf",
-    "prompt", "token", "context window", "multimodal", "vision model",
-    "text-to-image", "text-to-video", "speech recognition", "nlp",
+    "ai ", " ai", "a.i.", "artificial intelligence", "machine learning", "llm",
+    "gpt", "gpt-4", "gpt-5", "claude", "chatgpt",
+    "openai", "anthropic", "deepmind", "google ai", "meta ai",
+    "neural network", "transformer", "chatbot", "large language model",
+    "generative ai", "gen ai", "deep learning", "copilot",
+    "gemini", "mistral", "llama", "diffusion model",
+    "nvidia ai", "hugging face", "stable diffusion", "midjourney",
+    "sora", "dall-e", "dall-e 3", "flux", "imagen",
+    "agi", "superintelligence", "foundation model", "fine-tuning", "fine tuning",
+    "rlhf", "prompt engineering", "context window", "multimodal",
+    "text-to-image", "text-to-video", "text to image", "text to video",
+    "image generation", "video generation", "ai image", "ai video", "ai art",
+    "speech recognition", "natural language processing", "nlp",
     "computer vision", "reinforcement learning", "synthetic data",
     "ai regulation", "ai safety", "ai ethics", "ai startup", "ai chip",
-    "tensor", "pytorch", "tensorflow", "weights", "parameters",
-    "groq", "cerebras", "cohere", "perplexity", "cursor", "windsurf",
-    "runway", "kling", "pika", "dall-e", "dall-e 3", "flux", "imagen",
-    "text to image", "text to video", "image generation", "video generation",
-    "ai art", "ai video", "ai image", "controlnet", "lora", "comfyui",
+    "ai agent", "ai model", "ai training", "ai inference", "ai benchmark",
+    "pytorch", "tensorflow", "ai alignment",
+    "groq", "cerebras", "cohere", "perplexity", "cursor ai", "windsurf",
+    "runway", "kling", "pika", "controlnet", "lora", "comfyui",
 ]
 
 # ─── CET TIME HELPERS ───
@@ -155,8 +158,10 @@ def fetch_rss_feed(feed):
             pub_date = entry.get("published", "") or entry.get("updated", "")
 
             text = (title + " " + desc).lower()
-            is_ai = any(kw in text for kw in AI_KEYWORDS)
-            if not is_ai and feed["tag"] != "AI":
+            # Pad text with spaces for word-boundary matching
+            text_padded = " " + text + " "
+            is_ai = any(kw in text_padded for kw in AI_KEYWORDS)
+            if not is_ai:
                 continue
 
             articles.append({
@@ -244,8 +249,10 @@ def summarize_articles(articles):
 - "index" (1-based, matching input)
 - "summary" (1-2 clear sentences, max 150 characters)
 - "tags" (array of 1-2 short category tags from this list: "OpenAI", "LLM", "Research", "Hardware", "Regulation", "Agents", "Robotics", "Video Gen", "Image Gen", "Creative AI", "Healthcare", "Market", "Startup", "Google", "Meta", "Microsoft", "Apple", "NVIDIA", "Anthropic", "Open Source")
+- "relevant" (boolean: true if the article is specifically about AI/ML, false if it is general tech, business, or unrelated)
 Use "Video Gen" for anything about AI video generation (Sora, Runway, Kling, Pika, text-to-video, video synthesis).
 Use "Image Gen" for anything about AI image generation (Midjourney, DALL-E, Stable Diffusion, Flux, text-to-image, image synthesis).
+IMPORTANT: Set "relevant" to false for articles that are about general tech, gadgets, politics, business, or other non-AI topics. Only set it to true for articles that are specifically about AI, machine learning, or related technology.
 Return ONLY the JSON array. No markdown fences, no explanation."""
 
     text = call_anthropic(system, f"Summarize these AI news articles:\n{article_texts}")
@@ -310,6 +317,9 @@ def build_news_items(rss_articles, summaries, x_items):
 
     for i, article in enumerate(rss_articles[:25]):
         sum_data = next((s for s in summaries if s.get("index") == i + 1), None)
+        # Skip articles Claude flagged as not AI-relevant
+        if sum_data and sum_data.get("relevant") is False:
+            continue
         item = {
             "id": make_article_id(article["title"], article["source"], today, slot_label),
             "headline": article["title"],
