@@ -438,37 +438,40 @@ function App(){
 
   var openArticle=useCallback(function(a){
     scrollPosRef.current=window.scrollY||window.pageYOffset||0;
+    // Also store in sessionStorage as backup for iOS popstate
+    try{sessionStorage.setItem("ai-pulse-scroll",String(scrollPosRef.current));}catch(e){}
     setSelArt(a);
     window.scrollTo(0,0);
-    // Push a history state so browser back / iOS swipe-back closes the article
     history.pushState({article:true},"","");
   },[]);
-  var closeArticle=useCallback(function(){
-    var root=document.getElementById("root");
-    if(root)root.style.opacity="0";
-    setSelArt(null);
-    requestAnimationFrame(function(){
-      window.scrollTo(0,scrollPosRef.current);
-      requestAnimationFrame(function(){
-        if(root)root.style.opacity="1";
-      });
-    });
+
+  var restoreScroll=useCallback(function(){
+    var pos=scrollPosRef.current;
+    if(!pos){try{pos=parseInt(sessionStorage.getItem("ai-pulse-scroll")||"0",10);}catch(e){pos=0;}}
+    // Multiple attempts to restore scroll — iOS sometimes needs a delay
+    window.scrollTo(0,pos);
+    requestAnimationFrame(function(){window.scrollTo(0,pos);});
+    setTimeout(function(){window.scrollTo(0,pos);},50);
+    setTimeout(function(){window.scrollTo(0,pos);},150);
   },[]);
+
+  var closeArticle=useCallback(function(){
+    setSelArt(null);
+    restoreScroll();
+  },[restoreScroll]);
 
   // Listen for browser back button / iOS swipe-back
   useEffect(function(){
     var onPop=function(e){
       if(selArt){
-        // Browser went back — close the article
-        var root=document.getElementById("root");
-        if(root)root.style.opacity="0";
         setSelArt(null);
-        requestAnimationFrame(function(){
-          window.scrollTo(0,scrollPosRef.current);
-          requestAnimationFrame(function(){
-            if(root)root.style.opacity="1";
-          });
-        });
+        // Delay scroll restore to let React render + Safari settle
+        setTimeout(function(){
+          var pos=scrollPosRef.current;
+          if(!pos){try{pos=parseInt(sessionStorage.getItem("ai-pulse-scroll")||"0",10);}catch(e){pos=0;}}
+          window.scrollTo(0,pos);
+          requestAnimationFrame(function(){window.scrollTo(0,pos);});
+        },50);
       }
     };
     window.addEventListener("popstate",onPop);
@@ -477,7 +480,6 @@ function App(){
 
   // When closing via the Back button (not browser back), also go back in history
   var handleBack=useCallback(function(){
-    // This triggers popstate which handles the close
     history.back();
   },[]);
 
@@ -675,7 +677,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.08")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.09")
       )
     )
   );
