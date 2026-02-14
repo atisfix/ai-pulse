@@ -45,19 +45,19 @@ function fetchNewsJSON(){
 
 function T(d){
   return d?{
-    bg:"linear-gradient(160deg,#07070c 0%,#0c0c17 35%,#080d14 100%)",
-    sf:"rgba(255,255,255,0.03)",sfH:"rgba(255,255,255,0.06)",
-    gl:"rgba(255,255,255,0.04)",glB:"rgba(255,255,255,0.08)",
-    tx:"#ededf2",tx2:"rgba(255,255,255,0.50)",tx3:"rgba(255,255,255,0.25)",
-    ac:"#6eb6ff",acS:"rgba(110,182,255,0.10)",acB:"rgba(110,182,255,0.18)",
-    tg:"rgba(110,182,255,0.09)",tgT:"#7ebfff",
-    dv:"rgba(255,255,255,0.055)",
-    sh:"0 1px 3px rgba(0,0,0,0.2),0 8px 32px rgba(0,0,0,0.25)",
-    sB:"rgba(255,255,255,0.05)",
-    pA:"rgba(255,255,255,0.10)",pAB:"rgba(255,255,255,0.18)",
-    xB:"rgba(255,255,255,0.07)",xT:"#d4d4d4",
-    hBg:"rgba(7,7,12,0.82)",pu:"#a78bfa",
-    cardBg:"rgba(255,255,255,0.035)",
+    bg:"linear-gradient(160deg,#0e0e16 0%,#131320 35%,#0f1520 100%)",
+    sf:"rgba(255,255,255,0.04)",sfH:"rgba(255,255,255,0.08)",
+    gl:"rgba(255,255,255,0.06)",glB:"rgba(255,255,255,0.12)",
+    tx:"#f0f0f5",tx2:"rgba(255,255,255,0.60)",tx3:"rgba(255,255,255,0.38)",
+    ac:"#7ec4ff",acS:"rgba(126,196,255,0.12)",acB:"rgba(126,196,255,0.22)",
+    tg:"rgba(126,196,255,0.10)",tgT:"#8acaff",
+    dv:"rgba(255,255,255,0.08)",
+    sh:"0 1px 3px rgba(0,0,0,0.18),0 8px 32px rgba(0,0,0,0.22)",
+    sB:"rgba(255,255,255,0.07)",
+    pA:"rgba(255,255,255,0.12)",pAB:"rgba(255,255,255,0.22)",
+    xB:"rgba(255,255,255,0.10)",xT:"#e0e0e0",
+    hBg:"rgba(14,14,22,0.82)",pu:"#b49bff",
+    cardBg:"rgba(255,255,255,0.05)",
   }:{
     bg:"linear-gradient(160deg,#f8f8fc 0%,#f0f1f8 35%,#f4f6fa 100%)",
     sf:"rgba(0,0,0,0.015)",sfH:"rgba(0,0,0,0.035)",
@@ -106,15 +106,15 @@ function NewsCard(p){
       transition:"all 0.2s cubic-bezier(.4,0,.2,1)",transformOrigin:"center"}},
     ce("div",{style:{display:"flex",alignItems:"flex-start",gap:4,marginBottom:9}},
       ce("div",{style:{flex:1,display:"flex",flexWrap:"wrap",gap:6,alignItems:"center"}},
+        ce("button",{onClick:function(e){e.stopPropagation();p.onToggleExplore(a.id);},
+          style:{background:"none",border:"none",cursor:"pointer",padding:"1px 3px",fontSize:15,lineHeight:1,
+            color:starred?"#f59e0b":t.tx3,transition:"all 0.2s",flexShrink:0,
+            transform:starred?"scale(1.1)":"scale(1)",opacity:starred?1:0.45,
+          }},starred?"\u2605":"\u2606"),
         a.isFromX&&ce("span",{style:{fontSize:9,fontWeight:700,padding:"3px 8px",borderRadius:100,background:t.xB,color:t.xT,letterSpacing:"0.5px"}},"\ud835\udd4f"),
         (a.tags||[]).map(function(tag){return ce("span",{key:tag,style:{fontSize:10,fontWeight:600,textTransform:"uppercase",letterSpacing:"0.8px",color:t.tgT}},tag);})
       ),
-      ce("button",{onClick:function(e){e.stopPropagation();p.onToggleExplore(a.id);},
-        style:{background:"none",border:"none",cursor:"pointer",padding:"2px 4px",fontSize:16,lineHeight:1,
-          color:starred?"#f59e0b":t.tx3,transition:"all 0.2s",flexShrink:0,
-          transform:starred?"scale(1.1)":"scale(1)",opacity:starred?1:0.4,
-        }},starred?"\u2605":"\u2606"),
-      ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,opacity:0.7,marginLeft:2}},a.readTime)
+      ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,opacity:0.7}},a.readTime)
     ),
     ce("h3",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:17.5,fontWeight:500,lineHeight:1.38,marginBottom:9,letterSpacing:"-0.3px",color:t.tx}},a.headline),
     ce("p",{style:{fontSize:13.5,lineHeight:1.6,color:t.tx2,display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}},a.summary),
@@ -160,7 +160,7 @@ function ArticleView(p){
             p.fmtDate(a.date)+" \xb7 "+a.time+(a.postedAt?" \xb7 Posted "+a.postedAt:""))
         )
       ),
-      ce("div",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:18.5,lineHeight:1.78,color:p.dark?"rgba(255,255,255,0.80)":"rgba(0,0,0,0.70)"}},
+      ce("div",{style:{fontFamily:"'Newsreader',Georgia,serif",fontSize:18.5,lineHeight:1.78,color:p.dark?"rgba(255,255,255,0.85)":"rgba(0,0,0,0.70)"}},
         ce("p",{style:{marginBottom:24,fontSize:19,fontWeight:500,lineHeight:1.6}},a.summary),
         (a.description&&a.description!==a.summary)&&ce("p",{style:{marginBottom:24}},a.description)
       ),
@@ -271,7 +271,7 @@ function App(){
   },[]);
 
   useEffect(function(){
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content",dark?"#07070c":"#f8f8fc");
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content",dark?"#0e0e16":"#f8f8fc");
   },[dark]);
   useEffect(function(){if(showSrch&&sRef.current)sRef.current.focus();},[showSrch]);
 
@@ -582,7 +582,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.00")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.01")
       )
     )
   );
