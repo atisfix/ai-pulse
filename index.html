@@ -22,6 +22,9 @@
   @keyframes spin{to{transform:rotate(360deg)}}
   @keyframes slideIn{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:translateY(0)}}
   @keyframes gradientShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+  .tags-row{display:flex;gap:5px;overflow-x:auto;padding-bottom:12px;padding-left:2px;-webkit-overflow-scrolling:touch;flex-wrap:nowrap;align-items:center}
+  .tags-row::-webkit-scrollbar{display:none}
+  @media(min-width:600px){.tags-row{flex-wrap:wrap;overflow-x:visible;max-height:68px;overflow:hidden;align-items:flex-start}}
   @supports(padding:env(safe-area-inset-bottom)){.safe-bottom{padding-bottom:calc(20px + env(safe-area-inset-bottom))}}
 </style>
 </head>
@@ -563,8 +566,8 @@ function App(){
                 transition:"all 0.2s cubic-bezier(.4,0,.2,1)",whiteSpace:"nowrap"}},p.l);
           })
         ),
-        // Trending tags row (wraps to max 2 lines)
-        trendingTags.length>0&&ce("div",{style:{display:"flex",flexWrap:"wrap",gap:5,paddingBottom:12,paddingLeft:2,maxHeight:68,overflow:"hidden",alignItems:"flex-start"}},
+        // Trending tags — scrollable row on mobile, 2-line wrap on desktop
+        trendingTags.length>0&&ce("div",{className:"tags-row"},
           ce("span",{style:{fontSize:11,color:t.tx3,flexShrink:0,alignSelf:"center",marginRight:2,opacity:0.6}},"\ud83d\udd25"),
           trendingTags.map(function(item){
             var on=selTag===item.tag;
@@ -650,7 +653,7 @@ function App(){
       ce("div",{style:{textAlign:"center",padding:"32px 0 16px"}},
         ce("div",{style:{fontSize:11,color:t.tx3,letterSpacing:"0.3px"}},"AI Pulse \u2014 Live AI news & \ud835\udd4f posts"),
         ce("div",{style:{fontSize:11,color:t.tx3,marginTop:5,opacity:0.5}},"Updates at 07:00 \xb7 13:00 \xb7 18:00 CET \xb7 Powered by Claude"),
-        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.10")
+        ce("div",{style:{fontSize:10,color:t.tx3,marginTop:7,opacity:0.3}},"v2.11")
       )
     ),
     // Article overlay — renders on top of feed, feed stays mounted underneath
