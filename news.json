@@ -1,5 +1,379 @@
 [
   {
+    "id": "4bd89c46db9a",
+    "headline": "Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious",
+    "summary": "Anthropic CEO admits uncertainty about whether Claude AI model possesses consciousness.",
+    "description": "\"But we're open to the idea that it could be.\" The post Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious appeared first on Futurism.",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "9c62910635d0",
+    "headline": "Close enough to explain: on collaboration, AI, and staying close to the code",
+    "summary": "Discussion on collaboration between developers and AI tools while staying close to code.",
+    "description": "Article URL: http://stdout.alesr.me/posts/close-enough-to-explain/ Comments URL: https://news.ycombinator.com/item?id=47013797 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "http://stdout.alesr.me/posts/close-enough-to-explain/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "d6212c7097ab",
+    "headline": "Claude Usage Monitor",
+    "summary": "CLI tool 'claudemon' created to monitor Claude usage when working with other coding agents.",
+    "description": "If you use claude with other coding agents like pi or opencode, you might not get the `/usage` skill that claude code comes with.So, I made this small CLI tool `claudemon`.Install with `npm install -g claudemon`Setup once with `claudemon setup`And then run it: `claudemon`I keep it running on one small terminal window. It keeps track of usage. Refreshes every few seconds. Completely local and private. Also, open source, if someone wants to help add some new features.Open to feedback. Comments URL",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47013785",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "98659f8bc617",
+    "headline": "Duck AI voice chat is bloody good",
+    "summary": "Duck AI voice chat praised for smooth conversation flow and interruption handling.",
+    "description": "Tried this on phone yesterday, just the ability to interrupt it and continue where we left off before it so smooth. Felt like actually having a conversation with someone. Privacy first means I am happy to just keep it on all time while I am driving. Shame I can’t link it to Apple car play and use as Siri. Other thing would be to mute conversation verbally so it doesn’t pickup other conversations happening around me or I need input from/ and or listen to just my voice Comments URL: https://news.y",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47013759",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "7717f7aea330",
+    "headline": "Agentify – A Declarative, AI agent toolkit",
+    "summary": "Agentify toolkit provides declarative framework for building AI agents.",
+    "description": "Article URL: https://github.com/backplane-cloud/agentify-toolkit Comments URL: https://news.ycombinator.com/item?id=47013725 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/backplane-cloud/agentify-toolkit",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "75977d99eb11",
+    "headline": "Can AI agents write kernel exploits?",
+    "summary": "Research explores whether AI agents can successfully write kernel exploits.",
+    "description": "Article URL: https://152334h.github.io/blog/kctf-eval/ Comments URL: https://news.ycombinator.com/item?id=47013656 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://152334h.github.io/blog/kctf-eval/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "14f197159bc9",
+    "headline": "Show HN: [Jack The Butler] Open-source, self-hosted AI chatbot for hotels",
+    "summary": "Jack The Butler: open-source, self-hosted AI chatbot designed specifically for hotels.",
+    "description": "Article URL: https://jackthebutler.com Comments URL: https://news.ycombinator.com/item?id=47013583 Points: 1 # Comments: 2",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://jackthebutler.com",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "38ca8342404a",
+    "headline": "Low-bit inference enables efficient AI",
+    "summary": "Low-bit inference techniques enable more efficient AI model deployment and operation.",
+    "description": "Article URL: https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai Comments URL: https://news.ycombinator.com/item?id=47013582 Points: 1 # Comments: 0",
+    "tags": [
+      "Research",
+      "Hardware"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "f3ee5b195949",
+    "headline": "Show HN: AI Station Navigator – LLM=CPU, Agents=Processes, Skills=Apps",
+    "summary": "AI Station Navigator presents OS-inspired architecture treating LLMs as CPUs and agents as processes.",
+    "description": "Subject: My attempt at an \"OS-inspired\" AI architecture Hi HN, I'm a Product Manager, not a systems engineer. I built AI Station Navigator as a proof-of-concept to solve a specific problem I faced: Context Pollution. When using AI agents for complex tasks, the context window gets cluttered quickly, causing the model to hallucinate or get confused. To solve this, I designed this project using a Computer Architecture Analogy. I treated the agent system like a traditional OS to better manage resour",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/canishowtime/ai-station-navigator",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "62cf179b309a",
+    "headline": "Meta patented an AI that lets you keep posting from beyond the grave",
+    "summary": "Meta patents AI technology allowing deceased users' accounts to continue posting posthumously.",
+    "description": "Article URL: https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2 Comments URL: https://news.ycombinator.com/item?id=47013208 Points: 1 # Comments: 0",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6e2cc4cd1730",
+    "headline": "Pentagon's use of Claude during Maduro raid sparks Anthropic feud",
+    "summary": "Pentagon's use of Anthropic's Claude AI during Maduro raid operation creates controversy.",
+    "description": "The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. \"Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was,\" the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios ",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r4hgnu/pentagons_use_of_claude_during_maduro_raid_sparks/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "4 min read",
+    "isFromX": false
+  },
+  {
+    "id": "f54f9469adb2",
+    "headline": "Is it possible for wan2.5 to be open-sourced in the future? It is already far behind Sor2 and veo3.1, not to mention the newly released stronger Seed 2.0 and the latest model of Keling",
+    "summary": "Discussion about potential open-sourcing of wan2.5 video generation model amid competition.",
+    "description": "wan2.5 is currently closed-source, but it is both outdated and expensive. Considering that they previously open-sourced wan2.2, is it possible that they will open-source an ai model that generates both video and audio, or other models that generate both audio and video simultaneously might be open-sourced submitted by /u/Enough_Programmer312 [link] [comments]",
+    "tags": [
+      "Video Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4f8ck/is_it_possible_for_wan25_to_be_opensourced_in_the/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "5 min read",
+    "isFromX": false
+  },
+  {
+    "id": "96ed037b5d9c",
+    "headline": "It's been a big — but rocky — week for AI models from China. Here's what's happened - CNBC",
+    "summary": "Chinese AI models face significant challenges and setbacks during eventful week.",
+    "description": "It's been a big — but rocky — week for AI models from China. Here's what's happened CNBC",
+    "tags": [
+      "Market",
+      "LLM"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFFiaWg0c1d2eWNQaV9MMmJNbFBDS2hINFVqZTlTMDVhMzVFVllwcHFWN1ZpMTdlMXdRQmdraGFTUkJCTkIzYUZTT1lob1N4T05xaTNPWjNIUVpZLWdzUldod2RLU1A1WmE2cHRJUTJJQ0VsTTktUXFoeG51dVlpQmIwMDZ3VUlLVV9mb2V2MFNFcUc3TUhVLTlyMEx2S1HSAaQBQVVfeXFMT0xHZVZCQnp6ak1WamxqWmlROUxua3BWSDJTb1l1U3JxQ2xQTUZZSXBLMEtVS1phYVhoNjJ5VlNmbnZWdE9FSVRhTXA4Sm5tSjJhdGM0LU1DM01SOFptQ2JLa2djTW9SVXdETFpWSTVuYkhrU04tUjRWcEN6YlBXRDVSellHTWo2LVRVbWVNd3hJLXhJa3NydEY1RG1HNGFVTXJGU3Q?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "6 min read",
+    "isFromX": false
+  },
+  {
+    "id": "ef56270e0f6f",
+    "headline": "Study Reveals AI Diffusion Models Mostly Rearrange, Not Reinvent, What They Learn - Yeshiva University",
+    "summary": "Study finds AI diffusion models primarily rearrange existing learned content rather than creating new concepts.",
+    "description": "Study Reveals AI Diffusion Models Mostly Rearrange, Not Reinvent, What They Learn Yeshiva University",
+    "tags": [
+      "Research",
+      "Image Gen"
+    ],
+    "source": "Google News AI Image",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFcwd20xQ0lKSnR0WHE1ZTFpRUVWZnAtdmpreU5xSXh6WXFnR3pIazZ3SFBBZVdjeVUtSFdTLUFIMnc5Z0VBTWgwYjVHOG9WMHV6bFptZi03RTNiZmZ5YTMxMnRrUXdDempGVjVWd0EtbVR5Ui1IVkxfOG9BY1VaQTJsZDV5OVFYLXJsOFZNNGhEZkFfN1d6Uko2SmlDYmU2UWFuNHhMSU4tcEx0?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": false
+  },
+  {
+    "id": "6acfd7a41c7d",
+    "headline": "AI Image Generators - Trend Hunter",
+    "summary": "Overview of current trends and developments in AI image generation technology.",
+    "description": "AI Image Generators Trend Hunter",
+    "tags": [
+      "Image Gen",
+      "Market"
+    ],
+    "source": "Google News AI Image",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GTWVjalBhU3N6WEV0b2lJREVGVTd5dUI5cERoOE5fUUEwSkhYVl91cFUxOVBXMUR6dFUzQ2hDMzFLN1VhTHNJMHZPOXZPNkpNOEFrWtIBWkFVX3lxTE5UNGNVemFzM2RpeXFHT2VPS3VnTm5YdVVQNGZla3FxbkhpNDZINi1wNEx6X00xdkZ0UmtsLTRFNWdNOEgzbVozTmtNUXFJanVYc0YyYWVlanhXUQ?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": false
+  },
+  {
+    "id": "1ef7964ea672",
+    "headline": "Anthropic AI Safety Chief Mrinank Sharma Resigns, Warns 'World Is In Peril'",
+    "summary": "[February 9, 2026 (5 days ago)] Anthropic's Safeguards Research Team lead quit, citing pressures to set aside values and warning of interconnected global crises beyond just AI",
+    "description": "Anthropic's Safeguards Research Team lead quit, citing pressures to set aside values and warning of interconnected global crises beyond just AI",
+    "tags": [
+      "AI Safety",
+      "Anthropic"
+    ],
+    "source": "X / @MrinankSharma",
+    "link": "https://x.com/MrinankSharma/status/2009732078347182192",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 9, 2026 (5 days ago)"
+  },
+  {
+    "id": "7557828c5488",
+    "headline": "Anthropic Raises $30 Billion at $380 Billion Valuation",
+    "summary": "[February 2026] Mega funding round led by GIC and Coatue, with Microsoft, Nvidia participating. Claude Code now at $2.5B ARR",
+    "description": "Mega funding round led by GIC and Coatue, with Microsoft, Nvidia participating. Claude Code now at $2.5B ARR",
+    "tags": [
+      "Funding",
+      "Anthropic"
+    ],
+    "source": "X / Multiple sources",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
+    "id": "f1317b4a145a",
+    "headline": "NVIDIA Unveils Cosmos Reason 2 and GR00T N1.6 at CES 2026",
+    "summary": "[CES 2026 (January)] New open models for physical AI agents, including reasoning VLA for humanoid robots and world foundation models",
+    "description": "New open models for physical AI agents, including reasoning VLA for humanoid robots and world foundation models",
+    "tags": [
+      "NVIDIA",
+      "Robotics"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "CES 2026 (January)"
+  },
+  {
+    "id": "b6693081335d",
+    "headline": "OpenAI Engineer Calls AI 'Existential Threat'",
+    "summary": "[February 11, 2026] Hieu Pham tweets feeling the threat AI poses, questioning what's left for humans when AI disrupts everything",
+    "description": "Hieu Pham tweets feeling the threat AI poses, questioning what's left for humans when AI disrupts everything",
+    "tags": [
+      "OpenAI",
+      "AI Safety"
+    ],
+    "source": "X / @hieuph",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 11, 2026"
+  },
+  {
+    "id": "7768543ff5a3",
+    "headline": "System Prompt Learning Implementation Based on Karpathy's 'Third Paradigm'",
+    "summary": "[Recent (within past week)] New technique enables LLMs to learn problem-solving strategies from experience, showing significant improvements in math benchmarks",
+    "description": "New technique enables LLMs to learn problem-solving strategies from experience, showing significant improvements in math benchmarks",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "X / @codelion",
+    "link": "https://huggingface.co/posts/codelion/495839598023200",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Recent (within past week)"
+  },
+  {
+    "id": "68456ca47a04",
+    "headline": "Voice AI Predictions for 2026",
+    "summary": "[Recent 2026] Allie Miller predicts voice AI explosion, highlighting productivity gains from dictation and changing work patterns",
+    "description": "Allie Miller predicts voice AI explosion, highlighting productivity gains from dictation and changing work patterns",
+    "tags": [
+      "Voice AI",
+      "Predictions"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Recent 2026"
+  },
+  {
+    "id": "fb31be2a4ac6",
+    "headline": "Google Recaps 2026 AI Updates",
+    "summary": "[2026] Personal Intelligence in Gemini app, AI Mode in Search, Gmail AI upgrades, SAT prep features, and retailer AI tools",
+    "description": "Personal Intelligence in Gemini app, AI Mode in Search, Gmail AI upgrades, SAT prep features, and retailer AI tools",
+    "tags": [
+      "Google",
+      "Product Updates"
+    ],
+    "source": "X / @NewsFromGoogle",
+    "link": "https://x.com/NewsFromGoogle/status/2019545862276550984",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "2026"
+  },
+  {
+    "id": "ded73e131bca",
+    "headline": "Chinese Open Source AI Models Gain Momentum",
+    "summary": "[February 2026] DeepSeek app updates, GLM-5 from Z.ai, Ming-flash-omni from Ant Group, and MiniCPM-SALA continue the competitive push",
+    "description": "DeepSeek app updates, GLM-5 from Z.ai, Ming-flash-omni from Ant Group, and MiniCPM-SALA continue the competitive push",
+    "tags": [
+      "Open Source",
+      "China AI"
+    ],
+    "source": "X / @huggingface",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-14",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
     "id": "656c0a2b3c2f",
     "headline": "Airbnb plans to bake in AI features for search, discovery and support",
     "summary": "Airbnb plans to integrate AI features using large language models for customer discovery, support and engineering.",
