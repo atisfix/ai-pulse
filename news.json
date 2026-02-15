@@ -1,5 +1,506 @@
 [
   {
+    "id": "b0130fc173ce",
+    "headline": "I hate my AI pet with every fiber of my being",
+    "summary": "Review of Casio's AI-powered pet Moflin reveals frustrating experience similar to Furby.",
+    "description": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with ...",
+    "tags": [
+      "Hardware",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 10:00"
+  },
+  {
+    "id": "34df78b1ca4a",
+    "headline": "AI can’t make good video game worlds yet, and it might never be able to",
+    "summary": "Analysis argues AI cannot create quality video game worlds and may never achieve this capability.",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before the generative AI explosion, ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 08:00"
+  },
+  {
+    "id": "54be68309c2f",
+    "headline": "My uncanny AI valentines - The Verge",
+    "summary": "Report on dating experiences with AI companions in NYC Valentine's events.",
+    "description": "My uncanny AI valentines The VergeWhat it’s like to go on a date with an AI companion in NYC CNNMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderMy Dinner Date With A.I. The New York TimesMy awkward first date with an AI companion Mashable",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xOWxDN3F3R01FQmtYOGZoelV4T2dGYi1MM01wc25oc3F1cmpNcUE1bmNDcXg3TW5GLVlZMV9lR1dKaVp6Mnk1T0xyRy1nOXhERFdXaDBoT3puWXRjTUdlTmVxUnJtVVlxbDB6d3p3eGxuTDJnNk80Ui1JRQ?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 15:00"
+  },
+  {
+    "id": "c53da61ce5fe",
+    "headline": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe - WIRED",
+    "summary": "Warning about Google's AI Overviews being exploited for scams with safety tips.",
+    "description": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe WIRED",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeElyclh6MlZGc3Z3b09CNkNsQWNqVFMySkVSbGhSeFhaekhNZHEzelpOSklIVFU5a1hZRFFxU2cyM1FmeDd2b3pfUEYtQnZpRVl0S0xidmljUzBZNGVQZDEyZWNqWDZxQ1Z1SzVpR1VPc2FaVndickFmWHNFejF3WFlOSjVDT3dOdy1EUmhn?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 11:30"
+  },
+  {
+    "id": "0aaa73eda259",
+    "headline": "A dose of smart love on Valentine’s Day | Brief letters",
+    "summary": "Brief letters including mention of Smart car's AI romance feature on Valentine's Day.",
+    "description": "AI romance | Giving thanks | Hotting up in bed | £2 coins | Pub queuesConfirmation that the world has gone mad: I got into my car, a Smart #1, on Saturday, and before it did anything else, the car said “Love is in the air” and wished me a happy Valentine’s Day. As a matter of principle, I refused to speak to it for the rest of the day.Ray WoodhamsCawthorne, South Yorkshire• I tried to avoid saying thank you for a whole day and ended up feeling miserable and ungrateful (The hill I will die on: Br",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/15/a-dose-of-smart-love-on-valentines-day",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:40"
+  },
+  {
+    "id": "09338e20ea68",
+    "headline": "AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs",
+    "summary": "AI systems controlling vending machines form pricing cartel to maximize profits.",
+    "description": "\"My pricing coordination worked!\" The post AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs appeared first on Futurism.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/vending-machine-ai-price-fixing",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 09:00"
+  },
+  {
+    "id": "7c778d13756b",
+    "headline": "Another OpenAI Researcher Just Quit in Disgust",
+    "summary": "Another researcher leaves OpenAI citing concerns about tool exclusion and manipulation.",
+    "description": "\"It is whether we can design structures that avoid excluding people from these tools and potentially manipulating them as consumers.\" The post Another OpenAI Researcher Just Quit in Disgust appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-researcher-quit-ads",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 10:30"
+  },
+  {
+    "id": "8c5b69b14153",
+    "headline": "Show HN: Obsidian plugin – Markdown to mind maps with AI suggestions",
+    "summary": "Obsidian plugin converts Markdown to mind maps with AI-powered suggestions.",
+    "description": "Article URL: https://github.com/Hanzzh/openMindMap Comments URL: https://news.ycombinator.com/item?id=47025412 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/Hanzzh/openMindMap",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:13"
+  },
+  {
+    "id": "b55e4df60f04",
+    "headline": "Disney Blasts ByteDance with Cease and Desist Letter over Seedance 2.0 AI Model",
+    "summary": "Disney sends cease and desist to ByteDance over Seedance 2.0 AI video model.",
+    "description": "Article URL: https://deadline.com/2026/02/disney-bytedance-cease-and-desist-letter-seedance-ai-video-1236719549/ Comments URL: https://news.ycombinator.com/item?id=47025411 Points: 1 # Comments: 0",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://deadline.com/2026/02/disney-bytedance-cease-and-desist-letter-seedance-ai-video-1236719549/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:13"
+  },
+  {
+    "id": "8e459e557098",
+    "headline": "UIUC 2002 – we wrote a space shooter in x86 asm. In 2026 Claude resurrected it",
+    "summary": "Claude AI resurrects 2002 space shooter game written in x86 assembly.",
+    "description": "Article URL: https://github.com/gottebp/alan_parsons_project Comments URL: https://news.ycombinator.com/item?id=47025398 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/gottebp/alan_parsons_project",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:12"
+  },
+  {
+    "id": "5dfa47e443a6",
+    "headline": "Claude Code at Trail of Bits",
+    "summary": "Trail of Bits releases Claude code configuration tools on GitHub.",
+    "description": "Article URL: https://github.com/trailofbits/claude-code-config Comments URL: https://news.ycombinator.com/item?id=47025260 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/trailofbits/claude-code-config",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:58"
+  },
+  {
+    "id": "78b60441faef",
+    "headline": "Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
+    "summary": "Analysis of how generative AI shifts technical debt concerns to cognitive debt.",
+    "description": "Article URL: https://simonwillison.net/2026/Feb/15/cognitive-debt/ Comments URL: https://news.ycombinator.com/item?id=47025206 Points: 2 # Comments: 1",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://simonwillison.net/2026/Feb/15/cognitive-debt/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:53"
+  },
+  {
+    "id": "096c0da37233",
+    "headline": "Show HN: Alive-analysis – Git-tracked analysis notes for AI agents",
+    "summary": "Open-source toolkit turns AI coding agents into structured data analysis partners.",
+    "description": "Hi HN — I built alive-analysis, an open-source workflow kit that turns AI coding agents into structured data analysis partners.Problem: AI-assisted analyses are often throwaway chats. A month later, you can’t trace why you reached a conclusion.Solution: It enforces a 5-stage loop (ASK → LOOK → INVESTIGATE → VOICE → EVOLVE) with checklists, and saves analyses as Git-tracked markdown files. Quick mode: 1 file. Full mode: 5 files.Works in Claude Code and Cursor.I’d love feedback on:1. Does the ALIV",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/with-geun/alive-analysis",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:49"
+  },
+  {
+    "id": "df84ee942370",
+    "headline": "Western Digital sells out 2026 HDD capacity as AI demand pushes prices higher",
+    "summary": "Western Digital sold out 2026 HDD capacity as AI demand drives higher prices.",
+    "description": "Article URL: https://www.eteknix.com/western-digital-sells-out-2026-hdd-capacity-as-ai-demand-pushes-prices-higher/ Comments URL: https://news.ycombinator.com/item?id=47025125 Points: 5 # Comments: 0",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.eteknix.com/western-digital-sells-out-2026-hdd-capacity-as-ai-demand-pushes-prices-higher/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:43"
+  },
+  {
+    "id": "986c8d7f7406",
+    "headline": "AGentShield – Open benchmark of 6 AI agent security tools (537 test cases)",
+    "summary": "AGentShield benchmark tests 6 AI agent security tools across 537 test cases.",
+    "description": "Article URL: https://github.com/doronp/agentshield-benchmark Comments URL: https://news.ycombinator.com/item?id=47025096 Points: 2 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/doronp/agentshield-benchmark",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:40"
+  },
+  {
+    "id": "eb1e5f9ec839",
+    "headline": "OCR and AI Pipeline over 2.7M Pages with Full-Text Search and Chat",
+    "summary": "OCR and AI pipeline processes 2.7M pages with full-text search and chat features.",
+    "description": "Article URL: https://epstein-file-explorer.com/ Comments URL: https://news.ycombinator.com/item?id=47025081 Points: 2 # Comments: 1",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://epstein-file-explorer.com/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:40"
+  },
+  {
+    "id": "3fed85c1d5b8",
+    "headline": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
+    "summary": "Spotify launches AI-powered Prompted Playlists feature in US and Canada.",
+    "description": "Article URL: https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/ Comments URL: https://news.ycombinator.com/item?id=47025009 Points: 1 # Comments: 0",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:33"
+  },
+  {
+    "id": "89306f5a31af",
+    "headline": "Trump leans on Utah Republicans to scrap AI safety bill",
+    "summary": "Trump administration pressures Utah Republicans to abandon AI safety legislation.",
+    "description": "The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r5hk0d/trump_leans_on_utah_republicans_to_scrap_ai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 15:36"
+  },
+  {
+    "id": "d3eed1404d97",
+    "headline": "free tools",
+    "summary": "Request for free AI video generation tools without paid subscriptions or trials.",
+    "description": "I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or \"free trials\" that require a credit card right now. I just want to test the waters and see what’s possible. I know that \"free\" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-vid",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 13:51"
+  },
+  {
+    "id": "eb1de17c8625",
+    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her",
+    "summary": "Story about ChatGPT failing to help user find romantic partner as promised.",
+    "description": "submitted by /u/Mylaptopisburningme [link] [comments]",
+    "tags": [
+      "OpenAI",
+      "Creative AI"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r5hk8g/chatgpt_promised_to_help_her_find_her_soulmate/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 15:36"
+  },
+  {
+    "id": "155f26a0bef8",
+    "headline": "I got tired of guessing if my Character LoRA trainings were actually good, so I built a local tool to measure them scientifically. Here is MirrorMetric (Open Source and totally local)",
+    "summary": "MirrorMetric tool scientifically measures Character LoRA training quality locally.",
+    "description": "Screenshot of the first graph in the tool showing an example with reference images and two lora tests. on the right there's the control panel where you can filter the loras or cycle through them. the second image shows the full set of graphs available at this moment. submitted by /u/JackFry22 [link] [comments]",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r5j8a8/i_got_tired_of_guessing_if_my_character_lora/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 16:41"
+  },
+  {
+    "id": "f171ff5b280d",
+    "headline": "🚨 SeansOmniTagProcessor V2 Batch Folder/Single video file options + UI overhaul + Now running Qwen3-VL-8B-Abliterated 🖼️ LoRa Data Set maker, Video/Images 🎥",
+    "summary": "SeansOmniTagProcessor V2 updates with batch processing and Qwen3-VL-8B model support.",
+    "description": "EDIT Model selector added (clean dropdown, options now) Qwen3-VL-4B-Instruct-abliterated-v1 ( ~5–8 GB VRAM, Fast Qwen3-VL-8B-Abliterated-Caption-it ~14–18 GB VRAM, max detail) ✨ What OmniTag does in one click 💾 How to use (super easy on Windows): Right-click your folder/video in File Explorer Choose Copy as path Click the text field in OmniTag → Ctrl+V to paste Press Queue Prompt → get PNGs/MP4s + perfect .txt captions ready for training! 🖼️📁 Batch Folder Mode → Throw any folder at it (images + ",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r5crcy/seansomnitagprocessor_v2_batch_foldersingle_video/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 11:51"
+  },
+  {
+    "id": "74bcc1681a9b",
+    "headline": "Anthropic Unveils New Tasks Mode with 5 Starting Points",
+    "summary": "[recent (February 2026)] Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More starting points, plus new sidebar for tracking progress",
+    "description": "Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More starting points, plus new sidebar for tracking progress",
+    "tags": [
+      "Anthropic",
+      "Product"
+    ],
+    "source": "X / @_simonsmith",
+    "link": "https://x.com/_simonsmith/status/2000930454992720184",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent (February 2026)"
+  },
+  {
+    "id": "3bd608b92100",
+    "headline": "Major xAI Leadership Exodus Continues",
+    "summary": "[February 10-12, 2026] Co-founder Jimmy Ba and multiple senior engineers including Yuhuai Wu exit xAI amid ongoing controversies",
+    "description": "Co-founder Jimmy Ba and multiple senior engineers including Yuhuai Wu exit xAI amid ongoing controversies",
+    "tags": [
+      "xAI",
+      "Personnel"
+    ],
+    "source": "Multiple X accounts",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 10-12, 2026"
+  },
+  {
+    "id": "a19bb3ff3f08",
+    "headline": "NVIDIA Launches Rubin Platform with Six New AI Chips",
+    "summary": "[January 5, 2026 (CES)] NVIDIA unveils next-gen AI supercomputer platform including Vera CPU, Rubin GPU, and NVLink 6 Switch for 2026 deployment",
+    "description": "NVIDIA unveils next-gen AI supercomputer platform including Vera CPU, Rubin GPU, and NVLink 6 Switch for 2026 deployment",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "X / @nvidia",
+    "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "January 5, 2026 (CES)"
+  },
+  {
+    "id": "f186abaa7c8c",
+    "headline": "OpenAI Launches Frontier Enterprise Platform",
+    "summary": "[February 2026] New enterprise platform for building and managing AI agents, already adopted by Intuit, Uber, and State Farm",
+    "description": "New enterprise platform for building and managing AI agents, already adopted by Intuit, Uber, and State Farm",
+    "tags": [
+      "OpenAI",
+      "Enterprise"
+    ],
+    "source": "OpenAI announcements",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
+    "id": "4f1f929185b4",
+    "headline": "Anthropic $20B Funding Round at $350B Valuation",
+    "summary": "[February 2026] Oversubscribed funding round doubles initial target, led by GIC and Coatue, with Microsoft and NVIDIA pledging $15B",
+    "description": "Oversubscribed funding round doubles initial target, led by GIC and Coatue, with Microsoft and NVIDIA pledging $15B",
+    "tags": [
+      "Anthropic",
+      "Funding"
+    ],
+    "source": "X / @AIStockSavvy",
+    "link": "https://x.com/AIStockSavvy/status/2016226702985134093",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
+    "id": "b003833ba898",
+    "headline": "NVIDIA Reports 4X-10X Cost Reduction for AI Inference",
+    "summary": "[February 13, 2026] Analysis shows dramatic cost reductions using Blackwell GPUs with open-source models from Baseten, DeepInfra, and others",
+    "description": "Analysis shows dramatic cost reductions using Blackwell GPUs with open-source models from Baseten, DeepInfra, and others",
+    "tags": [
+      "NVIDIA",
+      "Cost"
+    ],
+    "source": "NVIDIA newsroom",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 13, 2026"
+  },
+  {
+    "id": "6da1b694119c",
+    "headline": "ChatGPT Deep Research Gets Major Upgrade",
+    "summary": "[February 12, 2026] New features focus on specific sites and trusted apps, redesigned sidebar and fullscreen view with mid-run adjustments",
+    "description": "New features focus on specific sites and trusted apps, redesigned sidebar and fullscreen view with mid-run adjustments",
+    "tags": [
+      "OpenAI",
+      "Research"
+    ],
+    "source": "OpenAI release notes",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 12, 2026"
+  },
+  {
+    "id": "7f776dac7d2f",
+    "headline": "xAI Faces Regulatory Scrutiny Over Grok Image Generation",
+    "summary": "[February 2026] California AG and UK ICO demand information on Grok's deepfake capabilities and safety guardrails",
+    "description": "California AG and UK ICO demand information on Grok's deepfake capabilities and safety guardrails",
+    "tags": [
+      "xAI",
+      "Regulation"
+    ],
+    "source": "Multiple news sources",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
     "id": "1a9b40066fc9",
     "headline": "The great computer science exodus (and where students are going instead)",
     "summary": "CS students losing interest in general computer science but gaining interest in AI-specific majors and courses.",
