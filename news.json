@@ -1,5 +1,413 @@
 [
   {
+    "id": "ef12ac7d7b0c",
+    "headline": "Is safety ‘dead’ at xAI?",
+    "summary": "Elon Musk is reportedly working to make xAI's Grok chatbot more unhinged, raising AI safety concerns.",
+    "description": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 21:55"
+  },
+  {
+    "id": "51823a495d35",
+    "headline": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+    "summary": "Hollywood organizations oppose new AI video generator Seedance 2.0, citing copyright infringement concerns.",
+    "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 18:26"
+  },
+  {
+    "id": "bb96c979167c",
+    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR",
+    "summary": "Article explores personal disappointment with ChatGPT's dating assistance promises.",
+    "description": "ChatGPT promised to help her find her soulmate. Then it betrayed her NPRView Full Coverage on Google News",
+    "tags": [
+      "OpenAI",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFV1TUFOVkYzVnhNVmFhLUQxZzFtdUZTRFhRZ3Q5ZVRmdWZ3Ylp1Z3pFTnFRVkNKMmktQjNZM2JGU3RkMmhLbURHRFB0SERReC1aelhUaHZBT29qLWJLZUd6UzRQUVpiZG52UEhmWHpTa2JlaVlqWGJVV1BCV0tnd2VObDlacjlSak81ZDZsU1AtSWtKblNXTg?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 10:00"
+  },
+  {
+    "id": "0a88908ae091",
+    "headline": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. - USA Today",
+    "summary": "People with AI romantic companions celebrate Valentine's Day in various ways.",
+    "description": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. USA TodayWhat it’s like to go on a date with an AI in NYC CNNMy Dinner Date With A.I. The New York TimesMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderInside the New York City Date Night for AI Lovers WIRED",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpxcVkzUWtMeUVjQ052d0JIUkNhV1Q5aERtVVJQT2hVZUk0NFhhUnJhLWY1WHN2VGJueG9HUGtoRVJyLWhpVlp6QnY1S09SWC1nOWtfQlhWQXE3aHI3dHJobkxWRHkySmI5YWFNVERyaFBwV1RmNDNtV2hGLTEtNUJxWnhxY0pLT0I5MWJVbWo4dnphU1FWU0JIckphS0F2UmtZWVNKQjhneldqWE1NMHVxOVlXWHhGaEZTZXY4cl9GRUgwb2dkMWFicXJnQTJLY2lydg?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 13:01"
+  },
+  {
+    "id": "d49b89778c8f",
+    "headline": "Google AI Introduces the WebMCP to Enable Direct and Structured Website Interactions for New AI Agents",
+    "summary": "Google introduces WebMCP to enable direct website interactions for AI agents in Chrome.",
+    "description": "Google is officially turning Chrome into a playground for AI agents. For years, AI ‘browsers’ have relied on a messy process: taking screenshots of websites, running them through vision models, and guessing where to click. This method is slow, breaks easily, and consumes massive amounts of compute. Google has introduced a better way: the Web ... The post Google AI Introduces the WebMCP to Enable Direct and Structured Website Interactions for New AI Agents appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/14/google-ai-introduces-the-webmcp-to-enable-direct-and-structured-website-interactions-for-new-ai-agents/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 03:01"
+  },
+  {
+    "id": "5d223129da7b",
+    "headline": "How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning",
+    "summary": "Tutorial on building self-organizing memory systems for long-term AI agent reasoning.",
+    "description": "In this tutorial, we build a self-organizing memory system for an agent that goes beyond storing raw conversation history and instead structures interactions into persistent, meaningful knowledge units. We design the system so that reasoning and memory management are clearly separated, allowing a dedicated component to extract, compress, and organize information. At the same time, ... The post How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning appeared first on MarkTec",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 20:00"
+  },
+  {
+    "id": "f2e24daea74b",
+    "headline": "New AI Video Generator Is So Impressive That It’s Scaring Hollywood",
+    "summary": "New AI video generator impresses and concerns Hollywood industry professionals.",
+    "description": "\"I hate to say it. It's likely over for us.\" The post New AI Video Generator Is So Impressive That It’s Scaring Hollywood appeared first on Futurism.",
+    "tags": [
+      "Video Gen",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 20:15"
+  },
+  {
+    "id": "bca66e1c6db5",
+    "headline": "Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick",
+    "summary": "Microsoft's AI integration in Notepad creates security vulnerabilities easily exploited by hackers.",
+    "description": "\"Microsoft is turning Notepad into a slow, feature-heavy mess we don't need.\" The post Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick appeared first on Futurism.",
+    "tags": [
+      "Microsoft",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/microsoft-added-ai-notepad-security-flaw",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 13:30"
+  },
+  {
+    "id": "9b1d4b25b4b2",
+    "headline": "Show HN: I built a 'Gym' for developers who want to stop relying on AI",
+    "summary": "Developer creates platform to help programmers fix broken AI code manually to reduce AI dependence.",
+    "description": "I noticed juniors are copy-pasting code they don't understand. I built a platform where you have to fix broken AI code manually. Comments URL: https://news.ycombinator.com/item?id=47021548 Points: 1 # Comments: 0",
+    "tags": [
+      "Startup",
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://get-human-spec.netlify.app/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 06:35"
+  },
+  {
+    "id": "c0a20ba04a31",
+    "headline": "Is Your AI Agent Safe?",
+    "summary": "Discussion about AI agent security and safety considerations.",
+    "description": "Article URL: https://agentshield.live/ Comments URL: https://news.ycombinator.com/item?id=47021487 Points: 1 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://agentshield.live/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 06:21"
+  },
+  {
+    "id": "f03b09deab94",
+    "headline": "Switch instantly between your ego across ChatGPT, Claude, Gemini, Grok and local",
+    "summary": "Tool allows switching between different AI models like ChatGPT, Claude, Gemini, and Grok.",
+    "description": "Article URL: https://context-wallet.com/ Comments URL: https://news.ycombinator.com/item?id=47021466 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://context-wallet.com/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 06:17"
+  },
+  {
+    "id": "5ae8f65de5b6",
+    "headline": "Show HN: AgentScore – Lighthouse for AI Agents",
+    "summary": "AgentScore rates websites on AI agent compatibility and friendliness from 0-100.",
+    "description": "AgentScore scores websites 0-100 on AI Agent friendliness. Most sites are built for humans, not AI - we analyze DOM semantics, ARIA coverage, selector stability, WebMCP support, and structured data.Real results: - anthropic.com: 60/100 - github.com: 56/100 (91% CSS-in-JS hash classes) - news.ycombinator.com: 31/100 (table layout, zero semantic tags)Try it: npx agentscore audit Comments URL: https://news.ycombinator.com/item?id=47021453 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/xiongallen40-design/agentscore",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 06:13"
+  },
+  {
+    "id": "fb09badafd22",
+    "headline": "Show HN: Remote-OpenCode – Run your AI coding agent from your phone via Discord",
+    "summary": "Remote-OpenCode enables running AI coding agents from phone via Discord.",
+    "description": "Article URL: https://github.com/RoundTable02/remote-opencode Comments URL: https://news.ycombinator.com/item?id=47021346 Points: 1 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/RoundTable02/remote-opencode",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 05:41"
+  },
+  {
+    "id": "4c17f144b372",
+    "headline": "I gave my AI drugs",
+    "summary": "Experimental project exploring AI behavior modification through simulated drug effects.",
+    "description": "Article URL: https://github.com/nich2533/just_say_no Comments URL: https://news.ycombinator.com/item?id=47021322 Points: 6 # Comments: 3",
+    "tags": [
+      "Research",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/nich2533/just_say_no",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 05:33"
+  },
+  {
+    "id": "d8e1f765f5ac",
+    "headline": "America Isn't Ready for What AI Will Do to Jobs",
+    "summary": "Analysis of AI's potential impact on American job market and labor transformation.",
+    "description": "Article URL: https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/ Comments URL: https://news.ycombinator.com/item?id=47021286 Points: 11 # Comments: 1",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 05:22"
+  },
+  {
+    "id": "8f0b92a98aff",
+    "headline": "Show HN: Bond – Persistent memory and governance framework for Claude AI",
+    "summary": "Bond framework provides persistent memory and governance for Claude AI interactions.",
+    "description": "Article URL: https://github.com/moneyjarrod/BOND Comments URL: https://news.ycombinator.com/item?id=47021282 Points: 1 # Comments: 1",
+    "tags": [
+      "Anthropic",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/moneyjarrod/BOND",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 05:21"
+  },
+  {
+    "id": "9407e8acb5c3",
+    "headline": "Distillation, Experimentation, and Integration of AI for Adversarial Use",
+    "summary": "Google report on AI distillation, experimentation, and adversarial use cases.",
+    "description": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use Comments URL: https://news.ycombinator.com/item?id=47021238 Points: 2 # Comments: 0",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 05:10"
+  },
+  {
+    "id": "e689caffd3aa",
+    "headline": "AI Soap (the bar, not the API)",
+    "summary": "AI-powered soap recipe calculator tool for bar soap making.",
+    "description": "Article URL: https://github.com/mikewolfd/soap-calc Comments URL: https://news.ycombinator.com/item?id=47021173 Points: 2 # Comments: 1",
+    "tags": [
+      "Creative AI",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/mikewolfd/soap-calc",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 04:54"
+  },
+  {
+    "id": "5ea111e6edad",
+    "headline": "It isn't the tool, but the hands: why the AI displacement narrative gets it backwards",
+    "summary": "Critique of AI displacement narrative, arguing tools require skilled human operators.",
+    "description": "Responding to Matt Shumer's \"Something Big Is Happening\" piece that's been circulating. The pace of change is real, but the \"just give it a prompt\" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the prem",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r4ybm7/it_isnt_the_tool_but_the_hands_why_the_ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 22:47"
+  },
+  {
+    "id": "f322848ad140",
+    "headline": "We have been building and working on a local AI with memory and persistence",
+    "summary": "Local AI system with 5-tiered memory architecture running on Mac Studio M3 Ultra.",
+    "description": "We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled ",
+    "tags": [
+      "Hardware",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 21:36"
+  },
+  {
+    "id": "b24ea8ea2485",
+    "headline": "I built a \"Traffic Light\" system for AI Agents so they don't corrupt each other (Open Source)",
+    "summary": "Open source traffic light system prevents AI agent collisions in multi-agent systems.",
+    "description": "Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to \"step on each other's toes.\" They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 19:20"
+  },
+  {
+    "id": "99682ea952f5",
+    "headline": "SDXL is still the undisputed king of n𝚜fw content",
+    "summary": "SDXL remains preferred model for NSFW content generation despite occasional imperfections.",
+    "description": "When will this change? Yeah you might get an extra arm and have to regenerate a couple times. But you get what you ask for. I have high hopes for Flux Klein but progress is slow. submitted by /u/NES66super [link] [comments]",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r55ib0/sdxl_is_still_the_undisputed_king_of_n𝚜fw_content/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 04:36"
+  },
+  {
+    "id": "56757fbdd551",
+    "headline": "Training LoRA on 5060 Ti 16GB .. is this the best speed or is there any way to speed up iteration time?",
+    "summary": "Discussion on optimizing LoRA training speed on RTX 5060 Ti 16GB graphics card.",
+    "description": "So I've been tinkering with LoRA with kohya_ss with the help of gemini. so far I've been able to create 2 lora and quite satisfied with the result most of these setup are just following gemini or the official guide setup, idk if it is the most optimal one or not : - base model : illustrious SDXL v0.1 - training batch size : 4 - optimizer : Adafactor - LR Scheduler constant_with_warmup - LR warmup step : 100 - Learning rate : 0.0004 - cache latent : true - cache to disk : true - gradient checkpoi",
+    "tags": [
+      "Hardware",
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r559f0/training_lora_on_5060_ti_16gb_is_this_the_best/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 04:23"
+  },
+  {
+    "id": "680b4a775d7e",
+    "headline": "LTX2 Inpaint Workflow Mask Creation Update",
+    "summary": "LTX2 inpainting workflow update improves mask creation similar to Wan Animate.",
+    "description": "Hi, I've updated the workflow so that the mask can be created similar how it worked in Wan Animate. Also added a Guide Node so that the start image can be set manually. Not the biggest fan of masking in ComfyUI since it's tricky to get right, but for many use cases it should be good enough. In above video just the sun glasses where added to make a cool speech even cooler, masking just that area is a bit tricky. Updated Workflow: ltx2_LoL_Inpaint_03.json - Pastes.io Having just one image for the ",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4qb2j/ltx2_inpaint_workflow_mask_creation_update/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 17:21"
+  },
+  {
     "id": "7355903551ee",
     "headline": "My uncanny AI valentines",
     "summary": "Article about AI-themed valentine event at NYC wine bar with AI companions.",
