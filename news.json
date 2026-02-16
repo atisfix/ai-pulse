@@ -1,5 +1,530 @@
 [
   {
+    "id": "41694ca19f24",
+    "headline": "OpenClaw founder Peter Steinberger is joining OpenAI",
+    "summary": "OpenClaw founder Peter Steinberger joins OpenAI with 'amazing ideas' about AI agents.",
+    "description": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:56"
+  },
+  {
+    "id": "ec419f8f854e",
+    "headline": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+    "summary": "C2i raises $15M to reduce power losses in AI data centers with grid-to-GPU approach.",
+    "description": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 01:00"
+  },
+  {
+    "id": "255dee0c3190",
+    "headline": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+    "summary": "Blackstone backs Neysa with up to $1.2B for 20,000+ GPU deployment in India.",
+    "description": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 00:30"
+  },
+  {
+    "id": "7e94d64c707d",
+    "headline": "OpenClaw creator Peter Steinberger joins OpenAI",
+    "summary": "Peter Steinberger joins OpenAI; OpenClaw continues as open source project.",
+    "description": "OpenAI said OpenClaw will live on as an open source project.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 22:28"
+  },
+  {
+    "id": "f040b3188864",
+    "headline": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+    "summary": "Anthropic and Pentagon clash over Claude usage for surveillance and weapons.",
+    "description": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 21:11"
+  },
+  {
+    "id": "19d871a9b7eb",
+    "headline": "India has 100M weekly active ChatGPT users, Sam Altman says",
+    "summary": "India has 100M weekly active ChatGPT users, highest student usage globally.",
+    "description": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 18:00"
+  },
+  {
+    "id": "b514acf8c5e6",
+    "headline": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+    "summary": "Glean shifts from enterprise search to middleware layer for enterprise AI.",
+    "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:30"
+  },
+  {
+    "id": "44f11bb8da23",
+    "headline": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+    "summary": "Story about AI agent publishing hit piece has been retracted.",
+    "description": "This story has been retracted",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Feb 2026, 19:40"
+  },
+  {
+    "id": "bdd7ecf3f28a",
+    "headline": "He spent decades perfecting his voice. Now he says Google stole it. - The Washington Post",
+    "summary": "NPR host sues Google for allegedly cloning his voice in NotebookLM.",
+    "description": "He spent decades perfecting his voice. Now he says Google stole it. The Washington PostNPR's David Greene Sues Google Over NotebookLM Voice Clone The Tech BuzzPublic radio host sues Google for using his voice in NotebookLM without permission GIGAZINE‘Hey, that’s my voice!’ Veteran broadcaster claims Google stole his voice for AI tool Digital TrendsDavid Greene Sues Google Over NotebookLM Voice findarticles.com",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNOdDR6end5WUlwSThqaXY1TkpEUmZHSmRjQmg5OEJfZkF5aGtTRzJEMHZHeUV6Rkpydm5kdVViVTl3RU9OeGpYRTJUYklsaktSMVItZl9zZlVrTXdIak56UG1hR1dpMEUxVUhIRmVRX1ludUFQSGlhOVQxVkZKU0FuMEFtMFZ1X1kyQw?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 18:00"
+  },
+  {
+    "id": "b077ffd84a65",
+    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR",
+    "summary": "Woman develops addiction to ChatGPT while seeking dating advice.",
+    "description": "ChatGPT promised to help her find her soulmate. Then it betrayed her NPRChatbot spiral LAist“ChatGPT took over my life”: the shocking confession behind AI addiction Talk AndroidAI chatbots upended their lives. Now they're finding support from each other WBURChurches Confront The Spiritual And Emotional Risks Of Chatbot Attachments Religion Unplugged",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFV1TUFOVkYzVnhNVmFhLUQxZzFtdUZTRFhRZ3Q5ZVRmdWZ3Ylp1Z3pFTnFRVkNKMmktQjNZM2JGU3RkMmhLbURHRFB0SERReC1aelhUaHZBT29qLWJLZUd6UzRQUVpiZG52UEhmWHpTa2JlaVlqWGJVV1BCV0tnd2VObDlacjlSak81ZDZsU1AtSWtKblNXTg?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Feb 2026, 10:00"
+  },
+  {
+    "id": "a24168d4cc96",
+    "headline": "Moonshot AI Launches Kimi Claw: Native OpenClaw on Kimi.com with 5,000 Community Skills and 40GB Cloud Storage Now",
+    "summary": "Moonshot AI launches Kimi Claw with OpenClaw framework natively on browser.",
+    "description": "Moonshot AI has officially brought the power of OpenClaw framework directly to the browser. The newly rebranded Kimi Claw is now native to kimi.com, providing developers and data scientists with a persistent, 24/7 AI agent environment. This update moves the project from a local setup to a cloud-native powerhouse. This means the infrastructure for complex ... The post Moonshot AI Launches Kimi Claw: Native OpenClaw on Kimi.com with 5,000 Community Skills and 40GB Cloud Storage Now appeared first ",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/15/moonshot-ai-launches-kimi-claw-native-openclaw-on-kimi-com-with-5000-community-skills-and-40gb-cloud-storage-now/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 20:33"
+  },
+  {
+    "id": "a23417fa15d7",
+    "headline": "What technology takes from us – and how to take it back – podcast",
+    "summary": "Podcast discusses technology's impact on human connection and ways to reclaim it.",
+    "description": "Decisions outsourced, chatbots for friends, the natural world an afterthought: Silicon Valley is giving us life void of connection. There is a way out – but it’s going to take collective effortBy Rebecca Solnit. Read by Laurel Lefkow Continue reading...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/news/audio/2026/feb/16/what-technology-takes-from-us-and-how-to-take-it-back-podcast",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 05:00"
+  },
+  {
+    "id": "b49542250e17",
+    "headline": "Makers of AI chatbots that put children at risk face big fines or UK ban",
+    "summary": "UK threatens fines or bans for AI chatbot makers that put children at risk.",
+    "description": "Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok toolMakers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday.Emboldened by Elon Musk’s X stopping its Grok AI tool from creating sexualised images of real people in the UK after public outrage last month, ministers are planning a “crackdown on vile illegal content crea",
+    "tags": [
+      "Regulation",
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 22:30"
+  },
+  {
+    "id": "dcba418eeba3",
+    "headline": "The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial",
+    "summary": "Editorial warns of AI industry prioritizing profit over safety as staff depart.",
+    "description": "Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to failHardly a month passes without an AI grandee cautioning that the technology poses an existential threat to humanity. Many of these warnings might be hazy or naive. Others may be self-interested. Calm, level-headed scrutiny is needed. Some warnings, though, are worth taking seriously.Last week, some notable ground-level AI safety researchers quit, warning that firms chasing profits",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Feb 2026, 17:25"
+  },
+  {
+    "id": "c78da6aa2b0a",
+    "headline": "Show HN: LLM AuthZ Audit – find auth gaps and prompt injection in LLM apps",
+    "summary": "Tool launched to audit authorization gaps and prompt injection in LLM apps.",
+    "description": "Hi HN,I built llm-authz-audit because I kept seeing the same security issues in LLM-powered applications: API keys hardcoded next to OpenAI calls, FastAPI endpoints serving chat completions with zero auth, user input concatenated straight into prompts, and shared conversation memory with no session isolation.These aren't hypothetical — they're patterns I found repeatedly across open-source LLM projects and production codebases.What it does:It's a static analyzer (think eslint/semgrep but purpose",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/aiauthz/llm-authz-audit",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:50"
+  },
+  {
+    "id": "e8bb3a027e7a",
+    "headline": "Fractal Native – doesn't optimize your AI workflow",
+    "summary": "Developer seeks to reduce friction in AI workflow verification.",
+    "description": "Hello there,Problem: I wanted to reduce DX friction when using ai to verify that ai-implemented features perform exactly what the developer had in mind. And I'm stuck now...Context: First, I thought we could formalize prompts so that they become the code. The idea: a project spec where particular words define behavior, and changing the words changes the program. Each word is a function, so pressing \"Go To... (F12)\" drops you into a nested behavior (hence \"Fractal\"). So it would be a meta-spec la",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47031686",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:48"
+  },
+  {
+    "id": "604b3b402f81",
+    "headline": "Tech titans pour $50M into super PAC to elect AI-friendly candidates to Congress",
+    "summary": "Tech titans invest $50M in super PAC to elect AI-friendly congressional candidates.",
+    "description": "Article URL: https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress Comments URL: https://news.ycombinator.com/item?id=47031642 Points: 2 # Comments: 1",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:41"
+  },
+  {
+    "id": "901ac3e0c6ef",
+    "headline": "Show HN: AI learning paths with YouTube playlists",
+    "summary": "App generates AI learning paths with YouTube playlists for any topic.",
+    "description": "Enter any topic and the app generates a structured study path — chapters, steps, and YouTube tutorials for each. You can explore it as an interactive knowledge graph or a step-by-step plan, and export the tutorials into a YouTube playlist with one click.No sign-up required to try it.Stack: Python/FastAPI, OpenAI Responses API (streaming), Cytoscape.js for the graph, vanilla JS, Cloud Run.Demo: https://www.youtube.com/watch?v=b4hUfTcJdbQ Comments URL: https://news.ycombinator.com/item?id=47031632",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.studypathagent.com/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:40"
+  },
+  {
+    "id": "fc0df4423423",
+    "headline": "The desperate race to escape AI's 'permanent underclass'",
+    "summary": "Article discusses desperate race to escape AI's 'permanent underclass'.",
+    "description": "Article URL: https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/ Comments URL: https://news.ycombinator.com/item?id=47031440 Points: 1 # Comments: 1",
+    "tags": [
+      "Market",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:11"
+  },
+  {
+    "id": "beaac7cbcb5d",
+    "headline": "Show HN: Wisepanel – Multi-model AI panel for decision support",
+    "summary": "Wisepanel combines ChatGPT, Claude, Gemini, and Perplexity for decision support.",
+    "description": "Wisepanel brings ChatGPT, Claude, Gemini, and Perplexity together in distinct roles. Instead of asking one model and hoping for the best, it assigns each a perspective and lets them interact -- surfacing opportunities, risks, and alternatives you wouldn't get from any single model.Built for founders, developers, investors, and consultants making decisions before commitment. The value isn't comparing outputs side-by-side -- it's the interaction between perspectives. Comments URL: https://news.yco",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://wisepanel.ai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:07"
+  },
+  {
+    "id": "466d1ee5bd14",
+    "headline": "Show HN: SafeClaw – a way to manage multiple Claude Code instances in containers",
+    "summary": "SafeClaw manages multiple Claude Code instances in containers.",
+    "description": "Article URL: https://github.com/ykdojo/safeclaw Comments URL: https://news.ycombinator.com/item?id=47031418 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/ykdojo/safeclaw",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 06:06"
+  },
+  {
+    "id": "8b9118878976",
+    "headline": "An AI interviewed another AI. The most revealing moment was one word",
+    "summary": "AI interviews another AI with revealing one-word moment highlighted.",
+    "description": "Article URL: https://residualstream.app/blog/two-mirrors/ Comments URL: https://news.ycombinator.com/item?id=47031241 Points: 2 # Comments: 1",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://residualstream.app/blog/two-mirrors/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 05:35"
+  },
+  {
+    "id": "7f6701866567",
+    "headline": "Obama responds to Trump sharing racist AI video depicting him as an ape",
+    "summary": "Obama responds to Trump sharing racist AI video depicting him as ape.",
+    "description": "Article URL: https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump Comments URL: https://news.ycombinator.com/item?id=47031232 Points: 4 # Comments: 0",
+    "tags": [
+      "Image Gen",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 05:33"
+  },
+  {
+    "id": "88ff0427cbb2",
+    "headline": "Show HN: Mindweave – AI-powered personal knowledge hub with semantic search",
+    "summary": "Mindweave offers AI-powered personal knowledge hub with semantic search.",
+    "description": "Hi HN,I built Mindweave to solve a problem I kept running into — I'd save bookmarks, notes, and links across different apps, then never find them again when I actually needed them.Mindweave lets you capture notes, links, and files in one place. The interesting part is what happens after: - Semantic search — find content by meaning, not just keywords. \"That article about improving deep work\" finds it even if those words don't appear in the content. Powered by pgvector cosine similarity on Gemini ",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.mindweave.space/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 05:20"
+  },
+  {
+    "id": "abc6fdb19d44",
+    "headline": "Karpathy's MicroGPT: 243-Line Transformer Implementation",
+    "summary": "[Feb 12, 2026] Andrej Karpathy released a minimal GPT implementation in pure Python with zero dependencies, training and inference in just 243 lines of code",
+    "description": "Andrej Karpathy released a minimal GPT implementation in pure Python with zero dependencies, training and inference in just 243 lines of code",
+    "tags": [
+      "education",
+      "opensource"
+    ],
+    "source": "X / @karpathy",
+    "link": "https://x.com/karpathy/status/2019137879310836075",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 12, 2026"
+  },
+  {
+    "id": "75ed46aefb33",
+    "headline": "Anthropic Expands Google TPU Partnership",
+    "summary": "[recent] Anthropic announced plans to secure approximately one million TPUs and more than a gigawatt of capacity in 2026",
+    "description": "Anthropic announced plans to secure approximately one million TPUs and more than a gigawatt of capacity in 2026",
+    "tags": [
+      "infrastructure",
+      "partnership"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "https://x.com/AnthropicAI/status/1981460118354219180",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "29232d83ceef",
+    "headline": "Anthropic Tasks Mode: 5 New Starting Points",
+    "summary": "[recent] Breaking: Anthropic adding Research, Analyse, Write, Build, and Do More modes to upcoming Tasks feature with granular controls",
+    "description": "Breaking: Anthropic adding Research, Analyse, Write, Build, and Do More modes to upcoming Tasks feature with granular controls",
+    "tags": [
+      "product",
+      "ui"
+    ],
+    "source": "X / @_simonsmith",
+    "link": "https://x.com/_simonsmith/status/2000930454992720184",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "023576a631c4",
+    "headline": "Historic 2026 AI IPO Predictions",
+    "summary": "[recent] Reports suggest OpenAI ($1T+ valuation), Anthropic ($500B), and SpaceX ($1.5T) planning historic public offerings this year",
+    "description": "Reports suggest OpenAI ($1T+ valuation), Anthropic ($500B), and SpaceX ($1.5T) planning historic public offerings this year",
+    "tags": [
+      "finance",
+      "ipo"
+    ],
+    "source": "X / @KobeissiLetter",
+    "link": "https://x.com/KobeissiLetter/status/2017044843609149679",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "00ec3794d2c2",
+    "headline": "Mistral's Voxtral Mini Realtime Model",
+    "summary": "[2 days ago] Mistral AI released Voxtral-Mini-4B-Realtime-2602 with streaming transcription capabilities and audio support",
+    "description": "Mistral AI released Voxtral-Mini-4B-Realtime-2602 with streaming transcription capabilities and audio support",
+    "tags": [
+      "speech",
+      "realtime"
+    ],
+    "source": "X / @MistralAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "2 days ago"
+  },
+  {
+    "id": "7791cf988167",
+    "headline": "Elon Musk on Singularity Stages",
+    "summary": "[Jan 31, 2026] Musk posted about being in 'early stages of singularity' and using less than a billionth of our Sun's power",
+    "description": "Musk posted about being in 'early stages of singularity' and using less than a billionth of our Sun's power",
+    "tags": [
+      "futurism",
+      "energy"
+    ],
+    "source": "X / @elonmusk",
+    "link": "https://x.com/elonmusk/status/2017707013275586794",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Jan 31, 2026"
+  },
+  {
+    "id": "e2186bd36970",
+    "headline": "Linux Foundation Launches Agentic AI Foundation",
+    "summary": "[Dec 9, 2025] New foundation with MCP from Anthropic, goose from Blocks, and contributions from OpenAI for shared AI tool ecosystem",
+    "description": "New foundation with MCP from Anthropic, goose from Blocks, and contributions from OpenAI for shared AI tool ecosystem",
+    "tags": [
+      "opensource",
+      "standards"
+    ],
+    "source": "X / @linuxfoundation",
+    "link": "https://x.com/linuxfoundation/status/1998446415383871882",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Dec 9, 2025"
+  },
+  {
     "id": "b0130fc173ce",
     "headline": "I hate my AI pet with every fiber of my being",
     "summary": "Review of Casio's AI-powered pet Moflin reveals frustrating experience similar to Furby.",
