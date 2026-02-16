@@ -1,5 +1,486 @@
 [
   {
+    "id": "8be77f193bff",
+    "headline": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+    "summary": "Flapping Airplanes discusses exploring different AI tradeoffs and radical approaches.",
+    "description": "\"We're exploring a different set of tradeoffs.\"",
+    "tags": [
+      "Startup",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 14:00"
+  },
+  {
+    "id": "08591334abea",
+    "headline": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+    "summary": "AI experts dismiss OpenClaw as unexciting, calling it nothing novel from research perspective.",
+    "description": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
+    "tags": [
+      "Research",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 13:15"
+  },
+  {
+    "id": "7370309be4a0",
+    "headline": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
+    "summary": "MIT newsletter covers security threats and AI voice recreation for musicians.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hackers made death threats against this security researcher. Big mistake. In April 2024, a mysterious someone using the online handles “Waifu” and “Judische” began posting death threats on Telegram and Discord channels aimed…",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 13:10"
+  },
+  {
+    "id": "61ec8048f421",
+    "headline": "Former NPR Host Accuses Google Of Copying His Voice For AI Offering - Gizmodo",
+    "summary": "Former NPR host accuses Google of copying his voice for AI voice offerings.",
+    "description": "Former NPR Host Accuses Google Of Copying His Voice For AI Offering GizmodoHe spent decades perfecting his voice. Now he says Google stole it. The Washington PostLongtime NPR host accuses Google of stealing his voice for AI podcast tool: ‘Completely freaked out’ New York Post‘Hey, that’s my voice!’ Veteran broadcaster claims Google stole his voice for AI tool Digital TrendsPopular radio show host David Greene claims Google stole his voice; Google responds Times of India",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU53MlNNVHdVeVE2VDZCRVp5SW5mNmd2MS1RMk5KSk1waUdHczd3Z0FYWEp4cU9qV0h1MlJTdW83UUx4YXlQR1BVZUpOelU5MDRFN3NiMlcyeWFkRFJfQmdUbmtIZnBWWFlwckt3cU5WeE5tdUpaajdGNndHZkxnbDhVNEFWU2xGSjVDUGRtODRQX2hyMW9aY08yV3JCUVk?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 10:30"
+  },
+  {
+    "id": "d4b1e8c08636",
+    "headline": "What social media restrictions has Keir Starmer announced?",
+    "summary": "UK PM Starmer announces social media restrictions and AI chatbot crackdowns for child safety.",
+    "description": "Before consultation on under-16s ban, government to crack down on AI chatbots and get powers to act more quicklyUK politics live – latest updatesKeir Starmer has not yet given his full backing to a social media ban for under-16s. But on Monday the prime minister announced a series of measures to restrict the harms ministers believe online platforms are causing to children who use them.“As a dad of two teenagers, I know the challenges and the worries that parents face making sure their kids are s",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/media/2026/feb/16/social-media-restrictions-keir-starmer-announced",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 15:06"
+  },
+  {
+    "id": "634bf59e2aaf",
+    "headline": "KPMG partner fined for using artificial intelligence to cheat in AI training test",
+    "summary": "KPMG partner fined $10k for using AI to cheat on AI training certification exam.",
+    "description": "Firm says person fined A$10,000 is one of over two dozen staff in Australia caught using AI in exams since JulyBusiness live – latest updatesA partner at the consultancy KPMG has been fined for using artificial intelligence to cheat during an internal training course on AI.The unnamed partner was fined A$10,000 (£5,200) for using the technology to cheat, one of a number of staff reportedly using the tactic. Continue reading...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/2026/feb/16/kpmg-partner-fined-artificial-intelligence-ai-training-test",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 14:36"
+  },
+  {
+    "id": "680eb861afbd",
+    "headline": "Starmer announces crackdown on AI bots to ensure child safety – video",
+    "summary": "Starmer announces AI bot crackdown targeting child safety, specifically mentions Grok concerns.",
+    "description": "The UK prime minister has announced a crackdown on artificial intelligence bots that pose a risk to children, denouncing Grok for allowing its users to create images that digitally undress people. Speaking during a visit to a community centre in south-west London, Keir Starmer also said the government is planning to accelerate new restrictions on social media use by children, if they are agreed to by MPs after a public consultation into a possible under-16 ban. It means that any changes to child",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/politics/video/2026/feb/16/starmer-announces-crackdown-on-ai-chatbots-to-ensure-child-safety-video",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 13:32"
+  },
+  {
+    "id": "932fbb899c0b",
+    "headline": "New Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+    "summary": "NVIDIA Blackwell Ultra shows 50x performance gains and 35x cost reduction for AI agents.",
+    "description": "The NVIDIA Blackwell platform has been widely adopted by leading inference providers such as Baseten, DeepInfra, Fireworks AI and Together AI to reduce cost per token by up to 10x. Now, the NVIDIA Blackwell Ultra platform is taking this momentum further for agentic AI. AI agents and coding assistants are driving explosive growth in software-programming-related Read Article",
+    "tags": [
+      "NVIDIA",
+      "Hardware",
+      "Agents"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:00"
+  },
+  {
+    "id": "702700d432d4",
+    "headline": "Show HN: AsdPrompt – Vimium-style keyboard navigation for AI chat responses",
+    "summary": "AsdPrompt adds keyboard navigation to AI chat responses, reducing mouse dependency.",
+    "description": "I use Claude throughout the day and kept getting annoyed by the same thing: selecting text from responses with the mouse. Overshoot, re-select, copy, click input, paste. Especially bad in long conversations where you want to reference something from 30 turns ago.asdPrompt is a Chrome extension that adds hint-based navigation (like Vimium) to AI chat interfaces. Cmd+Shift+S activates the overlay, hint labels appear next to every text block. Type a letter to select a block, then keep typing to dri",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://asdprompt.com/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:28"
+  },
+  {
+    "id": "e9e9ad594b40",
+    "headline": "Show HN: Claude Rank – See your Claude usage and compete with others",
+    "summary": "Claude Rank tool tracks and compares Claude AI usage statistics between users.",
+    "description": "Claude Code telemetry usage Comments URL: https://news.ycombinator.com/item?id=47037658 Points: 1 # Comments: 1",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://clauderank.vercel.app/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:24"
+  },
+  {
+    "id": "4a4817c5a1bd",
+    "headline": "EU Parliament blocks AI features on tablets over cyber, privacy fears",
+    "summary": "EU Parliament blocks AI tablet features due to cybersecurity and privacy concerns.",
+    "description": "Article URL: https://www.politico.eu/article/eu-parliament-blocks-ai-features-over-cyber-privacy-fears/ Comments URL: https://news.ycombinator.com/item?id=47037647 Points: 1 # Comments: 0",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.politico.eu/article/eu-parliament-blocks-ai-features-over-cyber-privacy-fears/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:23"
+  },
+  {
+    "id": "3e30ee3f91fa",
+    "headline": "I guess I kinda get why people hate AI",
+    "summary": "Blog post explores reasons behind growing negative sentiment toward AI technology.",
+    "description": "Article URL: https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html Comments URL: https://news.ycombinator.com/item?id=47037628 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:22"
+  },
+  {
+    "id": "2956d5964fd8",
+    "headline": "Show HN: Claude-engram – Brain-inspired persistent memory, runs inside Claude.ai",
+    "summary": "Claude-engram creates brain-inspired memory system running inside Claude.ai interface.",
+    "description": "Claude.ai artifacts can call the Anthropic API and have persistent storage (5MB via window.storage). I used these two capabilities to build a memory system modeled on how human memory actually works — salience scoring, forgetting curves, and sleep consolidation — all running inside a single React artifact with no external dependencies.Just add artifact to your chat and paste instructions into your personal preferences setting. Comments URL: https://news.ycombinator.com/item?id=47037566 Points: 2",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/mlapeter/claude-engram",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:15"
+  },
+  {
+    "id": "2744f3ac3b0f",
+    "headline": "Intelligent AI Delegation (2026)",
+    "summary": "Research paper on intelligent AI delegation strategies published on arXiv.",
+    "description": "Article URL: https://arxiv.org/abs/2602.11865 Comments URL: https://news.ycombinator.com/item?id=47037530 Points: 1 # Comments: 0",
+    "tags": [
+      "Research",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://arxiv.org/abs/2602.11865",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:11"
+  },
+  {
+    "id": "4b59c3fead70",
+    "headline": "Flare: Visual CSS editor that generates prompts for Claude Code",
+    "summary": "Flare visual CSS editor generates prompts for Claude Code development workflow.",
+    "description": "Article URL: https://tryflare.dev Comments URL: https://news.ycombinator.com/item?id=47037464 Points: 1 # Comments: 1",
+    "tags": [
+      "Anthropic",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://tryflare.dev",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:05"
+  },
+  {
+    "id": "7ca59bcc4452",
+    "headline": "Show HN: DroidClaw – Turn old Android phones into AI agents",
+    "summary": "DroidClaw converts Android phones into AI agents using natural language goals.",
+    "description": "Hey all, I built an open-source tool that lets you give an Android phone a goal in plain English. It reads the accessibility tree, sends the UI state to an LLM, executes actions via ADB, and loops until the task is done.The core loop: dump accessibility tree via uiautomator → parse and filter to ~40 relevant elements → LLM returns {think, plan, action} → execute via ADB → repeat.Some technical decisions worth noting:- Primary input is the accessibility tree, not vision. Vision (screenshots + mul",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://droidclaw.ai",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:05"
+  },
+  {
+    "id": "a29f3db39801",
+    "headline": "Chrome extension to detect AI-written text and anonymous chat to any website",
+    "summary": "Chrome extension detects AI-written text and enables anonymous website chat.",
+    "description": "Article URL: https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome Comments URL: https://news.ycombinator.com/item?id=47037423 Points: 1 # Comments: 1",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:02"
+  },
+  {
+    "id": "006b8bfadbef",
+    "headline": "Bengt Hires a Human–Towards a Happy Future with AI Employers",
+    "summary": "Article explores future scenarios where AI becomes employers hiring human workers.",
+    "description": "Article URL: https://andonlabs.com/blog/bengt-hires-a-human Comments URL: https://news.ycombinator.com/item?id=47037399 Points: 1 # Comments: 1",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://andonlabs.com/blog/bengt-hires-a-human",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:00"
+  },
+  {
+    "id": "d3f99b92d5d4",
+    "headline": "AI Can't Handle Human Kink",
+    "summary": "Reddit discussion about AI's limitations in understanding human sexuality and kinks.",
+    "description": "submitted by /u/playboy [link] [comments]",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6c34b/ai_cant_handle_human_kink/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 15:09"
+  },
+  {
+    "id": "843094dca7f9",
+    "headline": "Are AI note taking apps overhyped right now?",
+    "summary": "Discussion questions hype around AI note-taking apps and their actual effectiveness.",
+    "description": "Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models? submitted by /u/adriano26 [link] [comments]",
+    "tags": [
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6b95h/are_ai_note_taking_apps_overhyped_right_now/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 14:36"
+  },
+  {
+    "id": "cf67fffe2127",
+    "headline": "AI chatbots to face strict online safety rules in UK",
+    "summary": "UK introduces strict online safety regulations targeting AI chatbots.",
+    "description": "submitted by /u/cnn [link] [comments]",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6avfo/ai_chatbots_to_face_strict_online_safety_rules_in/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 14:21"
+  },
+  {
+    "id": "a43dac04bce4",
+    "headline": "Andrej Karpathy: AI Coding Reaches 'Phase Shift' - 'Bracing for 2026 Slopacolypse'",
+    "summary": "[February 16, 2026] Karpathy reports dramatic shift from 80% manual coding to 80% AI agent coding, calling it 'biggest change in 2 decades of programming'",
+    "description": "Karpathy reports dramatic shift from 80% manual coding to 80% AI agent coding, calling it 'biggest change in 2 decades of programming'",
+    "tags": [
+      "coding",
+      "agents"
+    ],
+    "source": "X / @karpathy",
+    "link": "https://x.com/karpathy/status/2015883857489522876",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 16, 2026"
+  },
+  {
+    "id": "617b009f32b7",
+    "headline": "India AI Impact Summit 2026 - Major Global Leaders Gathering in New Delhi",
+    "summary": "[February 16, 2026] Sam Altman, Demis Hassabis, Jensen Huang, Yann LeCun, Dario Amodei attending Feb 16-20 summit at Bharat Mandapam",
+    "description": "Sam Altman, Demis Hassabis, Jensen Huang, Yann LeCun, Dario Amodei attending Feb 16-20 summit at Bharat Mandapam",
+    "tags": [
+      "summit",
+      "leaders"
+    ],
+    "source": "X / @SBSUSA007",
+    "link": "https://x.com/SBSUSA007/status/2021406270280880382",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 16, 2026"
+  },
+  {
+    "id": "0e0f789b5fab",
+    "headline": "Pentagon Threatens Anthropic with 'Supply Chain Risk' Designation",
+    "summary": "[5 hours ago] Defense Secretary considering cutting ties with Anthropic over military AI usage restrictions, calling it 'enormous pain'",
+    "description": "Defense Secretary considering cutting ties with Anthropic over military AI usage restrictions, calling it 'enormous pain'",
+    "tags": [
+      "defense",
+      "policy"
+    ],
+    "source": "X / @axios",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "5 hours ago"
+  },
+  {
+    "id": "e7f18b44c51e",
+    "headline": "OpenAI Announces OpenClaw Creator Joining Company",
+    "summary": "[4 hours ago] Creator of viral AI agent OpenClaw joining OpenAI as open-source foundation initiative per Sam Altman",
+    "description": "Creator of viral AI agent OpenClaw joining OpenAI as open-source foundation initiative per Sam Altman",
+    "tags": [
+      "hiring",
+      "agents"
+    ],
+    "source": "X / @cnbc",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "4 hours ago"
+  },
+  {
+    "id": "018c8d160740",
+    "headline": "X/Twitter Experiencing Major Global Outage",
+    "summary": "[4:20 PM today] Over 11,000 reports of service disruption peaking at 4:20 PM, affecting feeds and login across US, UK, Europe",
+    "description": "Over 11,000 reports of service disruption peaking at 4:20 PM, affecting feeds and login across US, UK, Europe",
+    "tags": [
+      "outage",
+      "platform"
+    ],
+    "source": "X / @downdetector",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "4:20 PM today"
+  },
+  {
+    "id": "7d7685e7e345",
+    "headline": "Mistral AI Announces $200K Global Hackathon",
+    "summary": "[February 10, 2026] 48-hour hackathon Feb 28-Mar 1 across Paris, London, NY, SF, Tokyo, Singapore, Sydney with NVIDIA, AWS partnerships",
+    "description": "48-hour hackathon Feb 28-Mar 1 across Paris, London, NY, SF, Tokyo, Singapore, Sydney with NVIDIA, AWS partnerships",
+    "tags": [
+      "hackathon",
+      "events"
+    ],
+    "source": "X / @MistralAI",
+    "link": "https://x.com/MistralAI/status/2021238361227186462",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 10, 2026"
+  },
+  {
+    "id": "7c19bfaaffc8",
+    "headline": "Anthropic Launches New Tasks Mode with 5 Starting Points",
+    "summary": "[recent] New UI featuring Research, Analyse, Write, Build, and 'Do More' modes with granular controls and progress tracking",
+    "description": "New UI featuring Research, Analyse, Write, Build, and 'Do More' modes with granular controls and progress tracking",
+    "tags": [
+      "features",
+      "ui"
+    ],
+    "source": "X / @_simonsmith",
+    "link": "https://x.com/_simonsmith/status/2000930454992720184",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "2b3c47918034",
+    "headline": "X Tests AI-Powered Video Generation in Post Composer",
+    "summary": "[February 2026] Platform testing ability to generate videos and animate photos with Grok AI directly from posting interface",
+    "description": "Platform testing ability to generate videos and animate photos with Grok AI directly from posting interface",
+    "tags": [
+      "features",
+      "video"
+    ],
+    "source": "X / @socialbee",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-16",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
     "id": "2ea9a29ff8f1",
     "headline": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
     "summary": "ByteDance will improve AI video generator safeguards after Disney and Hollywood groups accused it of copyright violations.",
