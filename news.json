@@ -1,5 +1,523 @@
 [
   {
+    "id": "fbf167fca31a",
+    "headline": "Samsung is slopping AI ads all over its social channels",
+    "summary": "Samsung increases AI marketing across YouTube and Instagram after integrating AI into smartphones and appliances.",
+    "description": "After cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series. The ...",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:55"
+  },
+  {
+    "id": "4ee4d952bd24",
+    "headline": "Cohere launches a family of open multilingual models",
+    "summary": "Cohere releases Tiny Aya open-source multilingual models supporting over 70 languages.",
+    "description": "Cohere's Tiny Aya models support over 70 langauges",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 09:00"
+  },
+  {
+    "id": "80132ce5aa1f",
+    "headline": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
+    "summary": "Twin Health uses AI and wearables to help manage diabetes/obesity as alternative to expensive GLP-1 drugs.",
+    "description": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
+    "tags": [
+      "Healthcare",
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 11:00"
+  },
+  {
+    "id": "91692a5b63d0",
+    "headline": "The Small English Town Swept Up in the Global AI Arms Race",
+    "summary": "English town residents resist AI infrastructure development threatening green belt farmland around London.",
+    "description": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 07:00"
+  },
+  {
+    "id": "17ab213ae7b0",
+    "headline": "Samsung Promotes New Feature Ahead Of Galaxy S26 Ultra Launch - Forbes",
+    "summary": "Samsung promotes new AI features ahead of Galaxy S26 Ultra launch with heavy social media marketing.",
+    "description": "Samsung Promotes New Feature Ahead Of Galaxy S26 Ultra Launch ForbesSamsung is slopping AI ads all over its social channels The Verge[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier Samsung Global NewsroomFuture MacBooks may borrow a Samsung feature to solve an ironic privacy problem 9to5MacSamsung says the Galaxy S26 isn't a smartphone, and that's a dangerous gamble Android Police",
+    "tags": [
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDgwYjBIQ21UYnMtX0I4WnlZc0J1SGFjODgwQk5jV2Rhd20tdk02SEFpOEVLQzRpUXBLTllRdHROdEJFbHUwcWNUX3FjLVZxQlR3VE51UVdxc244QVAzRGtlcHctRTFWU0Y3T2I0SUpoQ2UzQU5YV2hMY0FidnhMUXR5YURKbE05b0htMjE4b0xxdnUwUWtPc2ZrWC1xd0hPdThxcXJXVThlLUtjVUNiQWx1WQ?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 23:55"
+  },
+  {
+    "id": "f287304f4317",
+    "headline": "Former NPR Host Accuses Google Of Copying His Voice For AI Offering - Gizmodo",
+    "summary": "Former NPR host accuses Google of copying his voice for AI voice generation without permission.",
+    "description": "Former NPR Host Accuses Google Of Copying His Voice For AI Offering GizmodoHe spent decades perfecting his voice. Now he says Google stole it. The Washington PostLongtime NPR host accuses Google of stealing his voice for AI podcast tool: ‘Completely freaked out’ New York PostPopular radio show host David Greene claims Google stole his voice; Google responds Times of IndiaNPR's David Greene Sues Google Over NotebookLM Voice Clone The Tech Buzz",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQU53MlNNVHdVeVE2VDZCRVp5SW5mNmd2MS1RMk5KSk1waUdHczd3Z0FYWEp4cU9qV0h1MlJTdW83UUx4YXlQR1BVZUpOelU5MDRFN3NiMlcyeWFkRFJfQmdUbmtIZnBWWFlwckt3cU5WeE5tdUpaajdGNndHZkxnbDhVNEFWU2xGSjVDUGRtODRQX2hyMW9aY08yV3JCUVk?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 10:30"
+  },
+  {
+    "id": "0cc0e02bcf68",
+    "headline": "Unity says its AI tech will soon eliminate the need for coding - Game Developer",
+    "summary": "Unity announces AI technology that will eliminate need for coding by allowing prompt-based game creation.",
+    "description": "Unity says its AI tech will soon eliminate the need for coding Game DeveloperEngine Maker Unity Focusing on “AI-Driven Authoring” to Allow Devs to “Prompt Full Casual Games Into Existence” WccftechAI will boost games not break them, says ‘Clash of Clans’ maker Financial TimesGame Makers Turn to AI to Cut Costs and Boost Productivity KoreabizwireWhen AI Starts Building the Game The Motley Fool",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzVlajNEX3JnUHlHS0dpaVFBYm95SlA2cnpVTU0yRWdNaVBZUDFPa3dhdFFtUVNhSVZOLV9kVlM0WjJOeHV3WS0xWkdocUNndjhpTzZNcUQ2OFk4UmtHYjYwUm5LZDJaai0tYmVqVThZekM5R2hkNEhXVmxSYTFzRzJPR1p0T1o2bmRvVHBicGt2aF9pUlY4b1pLbjBHN183anlTSEcyQjVTLXA1Q2lHTHpreGpTcU94Vk9PbjhMVEljOUl6?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:14"
+  },
+  {
+    "id": "3cc1d3711785",
+    "headline": "Goldman Sachs deploys Anthropic systems with success",
+    "summary": "Goldman Sachs successfully deploys Anthropic's Claude for trade accounting and client onboarding.",
+    "description": "Goldman Sachs plans to deploy Anthropic’s Claude model in trade accounting and client onboarding, and, according to an article in American Banker, presents this as part of a broader push among large banks to use generative artificial intelligence to improve efficiency. The focus is on operational processes that sit in the back office and have ... The post Goldman Sachs deploys Anthropic systems with success appeared first on AI News.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:29"
+  },
+  {
+    "id": "6f1ba25230ba",
+    "headline": "Agoda Open Sources APIAgent to Convert Any REST pr GraphQL API into an MCP Server with Zero Code",
+    "summary": "Agoda open-sources APIAgent tool to convert REST/GraphQL APIs into MCP servers without coding.",
+    "description": "Building AI agents is the new gold rush. But every developer knows the biggest bottleneck: getting the AI to actually communicate to your data. Today, travel giant Agoda is tackling this problem head-on. They have officially launched APIAgent, an open-source tool designed to turn any REST or GraphQL API into a Model Context Protocol (MCP) ... The post Agoda Open Sources APIAgent to Convert Any REST pr GraphQL API into an MCP Server with Zero Code appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/16/agoda-open-sources-apiagent-to-convert-any-rest-pr-graphql-api-into-an-mcp-server-with-zero-code/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 07:50"
+  },
+  {
+    "id": "e95f16439093",
+    "headline": "Iocaine: The deadliest poison known to AI",
+    "summary": "Iocaine project claims to be the deadliest poison for AI systems.",
+    "description": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=47046887 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://iocaine.madhouse-project.org/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:44"
+  },
+  {
+    "id": "f4dbe2f37d3f",
+    "headline": "Vapor's AI Policy",
+    "summary": "Vapor releases their official AI usage policy for development practices.",
+    "description": "Article URL: https://blog.vapor.codes/posts/vapors-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47046866 Points: 1 # Comments: 0",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://blog.vapor.codes/posts/vapors-ai-policy/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:41"
+  },
+  {
+    "id": "59d2d5da4480",
+    "headline": "Show HN: Runtime governance layer that refuses high-risk LLM outputs",
+    "summary": "Developer creates runtime governance layer that blocks high-risk LLM outputs for safety.",
+    "description": "I built a minimal demo of runtime epistemic governance for LLMs. The script calls an upstream model, then applies an admissibility layer before returning the answer. For high-risk actionable claims (e.g., pediatric drug dosages), it refuses the output and logs: decision (pass_through: false) rule triggered divergence from baseline prompt fingerprint (stable hash) This is not prompt engineering — it is post-generation enforcement at inference time. Repo: https://github.com/milarien/aurora-governo",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47046851",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:40"
+  },
+  {
+    "id": "315914995b95",
+    "headline": "AI Changes in Unhealthy Code: 30%+ Higher Defect Risk in Peer-Reviewed Study [pdf]",
+    "summary": "Study shows AI-generated code has 30%+ higher defect rates in unhealthy codebases.",
+    "description": "Article URL: https://codescene.com/hubfs/whitepapers/AI-Ready-Code-How-Code-Health-Determines-AI-Performance.pdf Comments URL: https://news.ycombinator.com/item?id=47046781 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://codescene.com/hubfs/whitepapers/AI-Ready-Code-How-Code-Health-Determines-AI-Performance.pdf",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:31"
+  },
+  {
+    "id": "9f7a19e040bc",
+    "headline": "Show HN: Preventing runaway LLM agents (enforcement layer)",
+    "summary": "Veronica-core project provides enforcement layer to prevent runaway LLM agent behavior.",
+    "description": "Article URL: https://github.com/amabito/veronica-core Comments URL: https://news.ycombinator.com/item?id=47046780 Points: 1 # Comments: 2",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/amabito/veronica-core",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:31"
+  },
+  {
+    "id": "641563a2007e",
+    "headline": "Show HN: 70+ AI Providers Under Same Rust Interface",
+    "summary": "Rust SDK provides unified interface for accessing 70+ AI providers in single codebase.",
+    "description": "Article URL: https://github.com/lazy-hq/aisdk Comments URL: https://news.ycombinator.com/item?id=47046778 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/lazy-hq/aisdk",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:30"
+  },
+  {
+    "id": "198a69941c4b",
+    "headline": "Teaching AI at Elementary School",
+    "summary": "Educational approach and methods for teaching AI concepts at elementary school level.",
+    "description": "Article URL: https://drsandor.net/ai/school/ Comments URL: https://news.ycombinator.com/item?id=47046764 Points: 1 # Comments: 1",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://drsandor.net/ai/school/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:28"
+  },
+  {
+    "id": "eca3d37f038f",
+    "headline": "AI Is Coming for White-Collar Jobs – A 22-Year-Old Developer's View from Nepal",
+    "summary": "22-year-old Nepalese developer shares perspective on AI's impact on white-collar jobs.",
+    "description": "Article URL: https://www.bhusalmanish.com.np/blog/posts/ai-jobs-nepal-dev-perspective.html Comments URL: https://news.ycombinator.com/item?id=47046762 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.bhusalmanish.com.np/blog/posts/ai-jobs-nepal-dev-perspective.html",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:28"
+  },
+  {
+    "id": "64692a6c6acd",
+    "headline": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "summary": "Anthropic signs MOU with Rwanda government for AI applications in healthcare and education.",
+    "description": "Article URL: https://www.anthropic.com/news/anthropic-rwanda-mou Comments URL: https://news.ycombinator.com/item?id=47046640 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Healthcare"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:10"
+  },
+  {
+    "id": "c438867d5c4f",
+    "headline": "Codex CLI vs. Claude Code on Autonomy",
+    "summary": "Comparison analysis between Codex CLI and Claude Code focusing on autonomous capabilities.",
+    "description": "Article URL: https://blog.nilenso.com/blog/2026/02/12/codex-cli-vs-claude-code-on-autonomy/ Comments URL: https://news.ycombinator.com/item?id=47046580 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://blog.nilenso.com/blog/2026/02/12/codex-cli-vs-claude-code-on-autonomy/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:01"
+  },
+  {
+    "id": "c2d742440b01",
+    "headline": "India's Adani to invest $100 billion to develop renewable energy-powered AI-ready data centers over the next decade, seeking to establish the world’s largest integrated data center platform.",
+    "summary": "India's Adani plans $100B investment in renewable-powered AI data centers over next decade.",
+    "description": "submitted by /u/ControlCAD [link] [comments]",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r74i7g/indias_adani_to_invest_100_billion_to_develop/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:19"
+  },
+  {
+    "id": "6577b3ef652a",
+    "headline": "Distribution of favorite movies among 100 AI models",
+    "summary": "Analysis of favorite movies across 100 AI language models reveals distribution patterns.",
+    "description": "Performed an analysis by prompting 100 language models for their favorite movies, had them answer with only the movie title, and persuaded them to give an answer (A lot wanted to say they don't have a preference). Got very vanilla results, as a cinephile I'm very disappointed for the lack of interesting/niche picks, curious to see how this analysis develops over the years. submitted by /u/sirjoaco [link] [comments]",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r71fcz/distribution_of_favorite_movies_among_100_ai/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 09:21"
+  },
+  {
+    "id": "84d21ae58009",
+    "headline": "Fu sora",
+    "summary": "Brief post about Sora video generation model on Stable Diffusion subreddit.",
+    "description": "submitted by /u/karcsiking0 [link] [comments]",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r71n0q/fu_sora/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 09:35"
+  },
+  {
+    "id": "e3f008e53fba",
+    "headline": "[Project] Lightweight Desktop Client for SD-WebUI-Forge (Flutter) – Only 55-80MB RAM",
+    "summary": "Forge-Flutter: lightweight 55-80MB desktop client for SD-WebUI-Forge built with Flutter.",
+    "description": "Hi everyone! 👋 I’ve been working on a small open-source project called Forge-Flutter, a minimal desktop client for SD-WebUI-Forge built with Flutter. It's super lightweight and snappy compared to the browser UI, especially on lower-spec machines. 🔗 GitHub: https://github.com/fal-114514/forge-flutter Key highlights 💡 Ultra-lightweight (~55MB idle, ~66MB generating, ~80MB after) 🚀 Faster startup and native UI responsiveness 🛠️ Chip-based prompt editor for easy LoRA/weight tweaks 🖼️ Drag & drop PNG",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r748h4/project_lightweight_desktop_client_for/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 12:05"
+  },
+  {
+    "id": "9bd7d7d4bb1e",
+    "headline": "SpaceX Acquires xAI in Massive AI Consolidation",
+    "summary": "[February 2, 2026] SpaceX announced acquisition of Elon Musk's xAI company, consolidating space tech and AI capabilities under one umbrella",
+    "description": "SpaceX announced acquisition of Elon Musk's xAI company, consolidating space tech and AI capabilities under one umbrella",
+    "tags": [
+      "acquisition",
+      "SpaceX"
+    ],
+    "source": "X / @xai",
+    "link": "https://x.ai/news",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 2, 2026"
+  },
+  {
+    "id": "7343fe1afe91",
+    "headline": "Sam Altman Hires OpenClaw Founder for AI Agent Development",
+    "summary": "[February 15, 2026] OpenAI CEO announces hiring of Peter Steinberger, creator of viral OpenClaw AI agent tool, to lead next-gen personal agents",
+    "description": "OpenAI CEO announces hiring of Peter Steinberger, creator of viral OpenClaw AI agent tool, to lead next-gen personal agents",
+    "tags": [
+      "hiring",
+      "AI agents"
+    ],
+    "source": "X / @sama",
+    "link": "https://x.com/sama/status/32_12_example",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 15, 2026"
+  },
+  {
+    "id": "b7ca229e153d",
+    "headline": "India AI Summit Features Global Tech Leaders",
+    "summary": "[February 16-20, 2026] First global AI summit in developing world hosts OpenAI's Altman, Google's Pichai, Anthropic's Amodei, and DeepMind's Hassabis",
+    "description": "First global AI summit in developing world hosts OpenAI's Altman, Google's Pichai, Anthropic's Amodei, and DeepMind's Hassabis",
+    "tags": [
+      "summit",
+      "global south"
+    ],
+    "source": "X / @OfficialINDIAai",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 16-20, 2026"
+  },
+  {
+    "id": "0b98c52554a1",
+    "headline": "X Experiences Major Global Outage",
+    "summary": "[February 16, 2026 at 8:00 AM ET] Platform suffered widespread outage affecting users globally with blank feeds and connection issues, now restored",
+    "description": "Platform suffered widespread outage affecting users globally with blank feeds and connection issues, now restored",
+    "tags": [
+      "outage",
+      "technical"
+    ],
+    "source": "X / Various",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 16, 2026 at 8:00 AM ET"
+  },
+  {
+    "id": "1839dec57aae",
+    "headline": "OpenAI ChatGPT Reaches 800M Weekly Users",
+    "summary": "[February 9, 2026] Sam Altman reveals ChatGPT now exceeds 10% monthly growth with 800M+ weekly users, preparing new model launch this week",
+    "description": "Sam Altman reveals ChatGPT now exceeds 10% monthly growth with 800M+ weekly users, preparing new model launch this week",
+    "tags": [
+      "growth",
+      "metrics"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 9, 2026"
+  },
+  {
+    "id": "911b3e430ab2",
+    "headline": "X Introduces AI-Powered Community Notes",
+    "summary": "[February 5, 2026] Platform testing collaborative AI Community Notes where users can guide and improve AI-generated fact-checking notes",
+    "description": "Platform testing collaborative AI Community Notes where users can guide and improve AI-generated fact-checking notes",
+    "tags": [
+      "fact-checking",
+      "AI features"
+    ],
+    "source": "X / @X",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 5, 2026"
+  },
+  {
+    "id": "7d96e8b1e33a",
+    "headline": "Voice AI Predicted to Explode in 2026",
+    "summary": "[Recent] AI expert Allie Miller predicts massive growth in voice AI applications, citing productivity gains from dictation and voice interfaces",
+    "description": "AI expert Allie Miller predicts massive growth in voice AI applications, citing productivity gains from dictation and voice interfaces",
+    "tags": [
+      "voice AI",
+      "predictions"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Recent"
+  },
+  {
+    "id": "12f787b79f92",
+    "headline": "Grok Gets Video Generation and Voice Features",
+    "summary": "[February 2026] xAI announces Grok can now generate/animate videos from post composer plus read content aloud with human-like voice",
+    "description": "xAI announces Grok can now generate/animate videos from post composer plus read content aloud with human-like voice",
+    "tags": [
+      "video generation",
+      "voice"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 2026"
+  },
+  {
     "id": "31561c29b268",
     "headline": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
     "summary": "Ricursive Intelligence raised $335M at $4B valuation due to founders' AI reputation attracting VCs.",
