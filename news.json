@@ -1,5 +1,479 @@
 [
   {
+    "id": "724b72a2d077",
+    "headline": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "summary": "Mistral AI acquires Paris-based Koyeb to enhance cloud infrastructure for AI app deployment.",
+    "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:22"
+  },
+  {
+    "id": "65e451137828",
+    "headline": "SpaceX vets raise $50M Series A for data center links",
+    "summary": "SpaceX veterans raise $50M Series A for Mesh, which produces optical transceivers for AI data centers.",
+    "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:00"
+  },
+  {
+    "id": "b9a43f8f28b7",
+    "headline": "Running AI models is turning into a memory game",
+    "summary": "Memory costs become increasingly important factor in AI infrastructure beyond GPU focus.",
+    "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 16:44"
+  },
+  {
+    "id": "e28905971291",
+    "headline": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+    "summary": "European Parliament blocks AI tools on lawmakers' devices due to security concerns about US servers.",
+    "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 16:30"
+  },
+  {
+    "id": "8f234115dd1d",
+    "headline": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+    "summary": "WordPress.com launches AI Assistant for editing, styling, and image creation with natural prompts.",
+    "description": "The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+    "tags": [
+      "Creative AI",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 16:10"
+  },
+  {
+    "id": "90ed45ff2125",
+    "headline": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+    "summary": "17 US AI companies raised $100M+ in 2026, with 3 raising over $1B rounds.",
+    "description": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
+    "tags": [
+      "Market",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:58"
+  },
+  {
+    "id": "ee090c7fae35",
+    "headline": "India bids to attract over $200B in AI infrastructure investment by 2028",
+    "summary": "India targets $200B AI infrastructure investment by 2028, adding 20,000 GPUs to shared compute.",
+    "description": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:13"
+  },
+  {
+    "id": "cc9a33e0bef4",
+    "headline": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+    "summary": "SpendRule raises $2M for AI-powered platform helping hospitals track healthcare spending.",
+    "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+    "tags": [
+      "Healthcare",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:00"
+  },
+  {
+    "id": "cb06340090fa",
+    "headline": "The Small English Town Swept Up in the Global AI Arms Race",
+    "summary": "English town Potters Bar residents protect greenbelt from AI infrastructure development demands.",
+    "description": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 07:00"
+  },
+  {
+    "id": "e0b586eeadaa",
+    "headline": "SS&C Blue Prism: On the journey from RPA to agentic automation",
+    "summary": "SS&C Blue Prism discusses evolution from RPA to agentic automation for organizations.",
+    "description": "For organizations who are still wedded to the rules and structures of robotic process automation (RPA), then considering agentic AI as the next step for automation may be faintly terrifying. SS&C Blue Prism, however, is here to help, taking customers on the journey from RPA to agentic automation at a pace with which they’re comfortable. ... The post SS&C Blue Prism: On the journey from RPA to agentic automation appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 15:27"
+  },
+  {
+    "id": "7f26d665719f",
+    "headline": "Insurance giant AIG deploys agentic AI with orchestration layer",
+    "summary": "Insurance giant AIG deploys agentic AI with orchestration layer, sees faster gains.",
+    "description": "American International Group (AIG) has reported faster than expected gains from its use of generative AI, with implications for underwriting capacity, operating cost, and portfolio integration. The company’s recent disclosures at an Investor Day merit attention from AI decision-makers as they contain assertions about measurable throughput and workflow redesign. AIG has outlined potential benefits from ... The post Insurance giant AIG deploys agentic AI with orchestration layer appeared first on ",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:13"
+  },
+  {
+    "id": "24a585ce9cda",
+    "headline": "Alibaba Qwen is challenging proprietary AI model economics",
+    "summary": "Alibaba's Qwen model challenges proprietary AI economics with comparable performance on commodity hardware.",
+    "description": "The release of Alibaba’s latest Qwen model challenges proprietary AI model economics with comparable performance on commodity hardware. While US-based labs have historically held the performance advantage, open-source alternatives like the Qwen 3.5 series are closing the gap with frontier models. This offers enterprises a potential reduction in inference costs and increased flexibility in deployment ... The post Alibaba Qwen is challenging proprietary AI model economics appeared first on AI News",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 13:45"
+  },
+  {
+    "id": "50444a68684f",
+    "headline": "The Guardian launches year-long reporting initiative exploring AI, work and power",
+    "summary": "The Guardian launches year-long AI reporting initiative exploring workplace impacts.",
+    "description": "New US-led series, Reworked, centers workers’ experiences as artificial intelligence reshapes the workplaceThe Guardian launched a sweeping new editorial series on Tuesday examining how artificial intelligence is transforming work and power across the United States and around the world. The year-long reporting project, Reworked, will place workers – not tech executives or abstract forecasts – at the center of one of the defining economic shifts of our time.Building on the Guardian’s distinctive ",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/guardian-us-press-office/2026/feb/17/ai-guardian-reporting-media",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:00"
+  },
+  {
+    "id": "28620a671756",
+    "headline": "Spain to investigate social media firms over AI-generated child sexual abuse material",
+    "summary": "Spain investigates social media firms over AI-generated child sexual abuse material.",
+    "description": "PM says action is looking at potential criminal liability in order to protect children and end ‘impunity’ of online platformsThe Spanish government will ask prosecutors to investigate the social media companies X, Meta and TikTok to determine whether they have committed criminal offences by allegedly allowing their AI to generate and disseminate child sexual abuse material.Spain’s socialist prime minister, Pedro Sánchez, said his government had taken the decision in order to protect “the mental ",
+    "tags": [
+      "Regulation",
+      "Image Gen"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/17/spain-investigate-social-media-firms-ai-generated-child-sexual-abuse-material",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:00"
+  },
+  {
+    "id": "2128098468ac",
+    "headline": "12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us",
+    "summary": "AI startups drive brutal 12-hour work culture, warning of pressures spreading to other sectors.",
+    "description": "San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectorsNot long after the terms “996” and “grindcore” entered the popular lexicon, people started telling me stories about what was happening at startups in San Francisco, ground zero for the artificial intelligence economy. There was the one about the founder who hadn’t taken a weekend off in more than six months. The woman who joked that she’d given up her social life to work at a presti",
+    "tags": [
+      "Market",
+      "Startup"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 13:00"
+  },
+  {
+    "id": "0aab3da6b4fa",
+    "headline": "Meta Patented AI That Takes Over Your Account When You Die, Keeps Posting Forever",
+    "summary": "Meta patents AI system that takes over deceased users' accounts and continues posting.",
+    "description": "From beyond the grave. The post Meta Patented AI That Takes Over Your Account When You Die, Keeps Posting Forever appeared first on Futurism.",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/future-society/meta-patented-ai-die-keeps-posting",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 11:26"
+  },
+  {
+    "id": "d3bff63e660a",
+    "headline": "AI Delusions Are Leading to Domestic Abuse, Harassment, and Stalking",
+    "summary": "AI-generated content leads to domestic abuse, harassment, and stalking incidents.",
+    "description": "\"I couldn't leave my house for months... people were messaging me all over my social media, like, 'Are you safe? Are your kids safe?'\" The post AI Delusions Are Leading to Domestic Abuse, Harassment, and Stalking appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-abuse-harassment-stalking",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 10:30"
+  },
+  {
+    "id": "5c25d1bae3a3",
+    "headline": "Top Machine Learning Developer Speechless at Simple Question: Should AI Simulate Emotional Intimacy?",
+    "summary": "ML developer struggles to answer whether AI should simulate emotional intimacy.",
+    "description": "Is it \"good\" or \"bad?\" Developers can't say. The post Top Machine Learning Developer Speechless at Simple Question: Should AI Simulate Emotional Intimacy? appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-developers-emotional-intimacy",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 09:25"
+  },
+  {
+    "id": "b2baf59c26c7",
+    "headline": "Show HN: WodBlock – the AI-powered workout timer",
+    "summary": "WodBlock launches as AI-powered workout timer for CrossFit and functional fitness.",
+    "description": "Hi, I'm Nico. I do CF/functional workouts on a regular basis and use timers to measure my progress. These workouts usually involve a few different blocks, with different types of timers and rest in between. I couldn't find an app that would allow me to set it and forget it so I went ahead and built it myself. I soon realized entering the blocks by hand is a bit tedious, so I added coach Woddie, which allows the users to talk to set up the time and also to get recommendations for workouts of a sp",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.wodblock.com/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:44"
+  },
+  {
+    "id": "e713386dbc2e",
+    "headline": "AI-powered migrations from Postgres to ClickHouse",
+    "summary": "ClickHouse introduces AI-powered database migration tool from Postgres.",
+    "description": "Article URL: https://clickhouse.com/blog/ai-powered-migraiton-from-postgres-to-clickhouse-with-fiveonefour Comments URL: https://news.ycombinator.com/item?id=47050374 Points: 2 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://clickhouse.com/blog/ai-powered-migraiton-from-postgres-to-clickhouse-with-fiveonefour",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:40"
+  },
+  {
+    "id": "1b144b748016",
+    "headline": "AI Impact Summit 2026 Opens in Delhi",
+    "summary": "[Feb 16, 2026 at 6:26 PM] India hosting major AI summit at Bharat Mandapam with delegates from 30+ countries, ministers, officials from Feb 16-20",
+    "description": "India hosting major AI summit at Bharat Mandapam with delegates from 30+ countries, ministers, officials from Feb 16-20",
+    "tags": [
+      "summit",
+      "international"
+    ],
+    "source": "X / @PTI_News",
+    "link": "https://x.com/PTI_News/status/2023328216522391861",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 16, 2026 at 6:26 PM"
+  },
+  {
+    "id": "c2f453e2beca",
+    "headline": "India's Guinness World Record AI Responsibility Pledge Campaign",
+    "summary": "[Feb 16-17, 2026] 24-hour campaign for most AI responsibility pledges, running Feb 16 8AM to Feb 17 8AM IST",
+    "description": "24-hour campaign for most AI responsibility pledges, running Feb 16 8AM to Feb 17 8AM IST",
+    "tags": [
+      "responsibility",
+      "campaign"
+    ],
+    "source": "X / @_DigitalIndia",
+    "link": "https://x.com/_DigitalIndia/status/2023340292934709597",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 16-17, 2026"
+  },
+  {
+    "id": "83ace9e8d3d1",
+    "headline": "Daily AI News Report on Tech Highlights",
+    "summary": "[recent] Automated report covering AI debates on physics breakthroughs, autonomous agents, xAI reorganization, Claude vs GPT benchmarks",
+    "description": "Automated report covering AI debates on physics breakthroughs, autonomous agents, xAI reorganization, Claude vs GPT benchmarks",
+    "tags": [
+      "news",
+      "analysis"
+    ],
+    "source": "X / @ohdearitsmandy",
+    "link": "https://x.com/ohdearitsmandy/status/2022915481624064146",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "e9993b63c433",
+    "headline": "NVIDIA Rubin Platform Launch for AI",
+    "summary": "[recent] Six new chips for next-gen AI supercomputer, with support from OpenAI, Anthropic, Meta, xAI and other major AI labs",
+    "description": "Six new chips for next-gen AI supercomputer, with support from OpenAI, Anthropic, Meta, xAI and other major AI labs",
+    "tags": [
+      "hardware",
+      "launch"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "73708d7d2783",
+    "headline": "Anthropic Closes $30B Funding Round",
+    "summary": "[this week] $380B valuation, more than double from September raise, intensifying competition with OpenAI",
+    "description": "$380B valuation, more than double from September raise, intensifying competition with OpenAI",
+    "tags": [
+      "funding",
+      "valuation"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "this week"
+  },
+  {
+    "id": "df549922d3d5",
+    "headline": "OpenAI vs Anthropic Super Bowl Ad Battle",
+    "summary": "[Feb 13, 2026] Sam Altman calls Anthropic's ad-free pledge 'dishonest' as competition heats up, Anthropic sees 11% user boost",
+    "description": "Sam Altman calls Anthropic's ad-free pledge 'dishonest' as competition heats up, Anthropic sees 11% user boost",
+    "tags": [
+      "rivalry",
+      "marketing"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 13, 2026"
+  },
+  {
+    "id": "4007bfcc6fa6",
+    "headline": "AI Researchers Leaving OpenAI and Anthropic",
+    "summary": "[Feb 12, 2026] Safety researchers departing over ethical concerns as AI models become more autonomous and capable",
+    "description": "Safety researchers departing over ethical concerns as AI models become more autonomous and capable",
+    "tags": [
+      "safety",
+      "departures"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 12, 2026"
+  },
+  {
+    "id": "f3b77a83b2fc",
+    "headline": "Karpathy's MicroGPT Release",
+    "summary": "[Feb 12, 2026] 200 lines of pure Python to train and inference GPT, dependency-free implementation",
+    "description": "200 lines of pure Python to train and inference GPT, dependency-free implementation",
+    "tags": [
+      "opensource",
+      "education"
+    ],
+    "source": "X / @karpathy",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 12, 2026"
+  },
+  {
     "id": "fbf167fca31a",
     "headline": "Samsung is slopping AI ads all over its social channels",
     "summary": "Samsung increases AI marketing across YouTube and Instagram after integrating AI into smartphones and appliances.",
