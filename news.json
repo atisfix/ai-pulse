@@ -1,5 +1,524 @@
 [
   {
+    "id": "31561c29b268",
+    "headline": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+    "summary": "Ricursive Intelligence raised $335M at $4B valuation due to founders' AI reputation attracting VCs.",
+    "description": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:00"
+  },
+  {
+    "id": "a851f561e8e3",
+    "headline": "Unity says its AI tech will soon eliminate the need for coding - Game Developer",
+    "summary": "Unity claims its AI technology will eliminate the need for coding in game development.",
+    "description": "Unity says its AI tech will soon eliminate the need for coding Game DeveloperUnity's CEO Just Explained Why Google's AI Can't Replace Game Engines (And He's Right) The Motley FoolEngine Maker Unity Focusing on “AI-Driven Authoring” to Allow Devs to “Prompt Full Casual Games Into Existence” WccftechGame Makers Turn to AI to Cut Costs and Boost Productivity KoreabizwireUnity wants to give developers AI tools that will create entire games from ordinary prompts IXBT.games",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzVlajNEX3JnUHlHS0dpaVFBYm95SlA2cnpVTU0yRWdNaVBZUDFPa3dhdFFtUVNhSVZOLV9kVlM0WjJOeHV3WS0xWkdocUNndjhpTzZNcUQ2OFk4UmtHYjYwUm5LZDJaai0tYmVqVThZekM5R2hkNEhXVmxSYTFzRzJPR1p0T1o2bmRvVHBicGt2aF9pUlY4b1pLbjBHN183anlTSEcyQjVTLXA1Q2lHTHpreGpTcU94Vk9PbjhMVEljOUl6?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:14"
+  },
+  {
+    "id": "4546da62aba6",
+    "headline": "Switch 2 price, PS6 release could be impacted by memory shortage - Mashable",
+    "summary": "Memory chip shortage driven by AI demand may impact Switch 2 and PS6 pricing and release dates.",
+    "description": "Switch 2 price, PS6 release could be impacted by memory shortage MashableSony could delay PS6 release to 2028 or 2029 as AI-driven shortage sends consumer tech companies scrambling for memory chips GamesIndustry.bizReport: Sony could delay the next PlayStation until 2028 or 2029 Game DeveloperNintendo Switch 2 Price Hike Reportedly Coming – PS6 May Be Delayed to 2029 VICENintendo can't seem to decide if it will raise Switch 2 prices Polygon",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjVJX2g2aVlIVmpWRUNzWnRLYTdPdFZNbldPTEhHbUZHVTBDTVVCZ1J2Zlh2TWlTVHc3SnlCdzFCTmVlZnVfeU4yLUpfUVNtbXNobjVqQXV0OWVvVzk2R2tFTm11STZTajFtbm1pQUxZamY5djJUUkpwS2l4SEpCSWlra19yMER0SjltZ2pUMW1zRDFlNUhZ?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 19:01"
+  },
+  {
+    "id": "0f7e64c3cd47",
+    "headline": "How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit",
+    "summary": "Tutorial on building human-in-the-loop AI agents using LangGraph and Streamlit for travel booking.",
+    "description": "In this tutorial, we build a human-in-the-loop travel booking agent that treats the user as a teammate rather than a passive observer. We design the system so the agent first reasons openly by drafting a structured travel plan, then deliberately pauses before taking any action. We expose this proposed plan in a live interface where ... The post How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 22:01"
+  },
+  {
+    "id": "fe19e52bbdde",
+    "headline": "Alibaba Qwen Team Releases Qwen3.5-397B MoE Model with 17B Active Parameters and 1M Token Context for AI agents",
+    "summary": "Alibaba releases Qwen3.5-397B MoE model with 17B active parameters for AI agents.",
+    "description": "Alibaba Cloud just updated the open-source landscape. Today, the Qwen team released Qwen3.5, the newest generation of their large language model (LLM) family. The most powerful version is Qwen3.5-397B-A17B. This model is a sparse Mixture-of-Experts (MoE) system. It combines massive reasoning power with high efficiency. Qwen3.5 is a native vision-language model. It is designed specifically ... The post Alibaba Qwen Team Releases Qwen3.5-397B MoE Model with 17B Active Parameters and 1M Token Conte",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/16/alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 18:53"
+  },
+  {
+    "id": "1214f05767db",
+    "headline": "Claims that AI can help fix climate dismissed as greenwashing",
+    "summary": "Analysts dismiss AI climate fix claims as greenwashing by energy-hungry tech companies.",
+    "description": "Industry using ‘diversionary’ tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferateTech companies are conflating traditional artificial intelligence with generative AI when claiming the energy-hungry technology could help avert climate breakdown, according to a report.Most claims that AI can help avert climate breakdown refer to machine learning and not the energy-hungry chatbots and image generation tools driving the sector’s explosive ",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:00"
+  },
+  {
+    "id": "d45c203ec6d9",
+    "headline": "What social media restrictions has Keir Starmer announced?",
+    "summary": "UK government announces social media restrictions and AI chatbot regulations under Starmer.",
+    "description": "Before consultation on under-16s ban, government to crack down on AI chatbots and get powers to act more quicklyKeir Starmer has not yet given his full backing to a social media ban for under-16s. But on Monday the prime minister announced a series of measures to restrict the harms ministers believe online platforms are causing to children who use them.“As a dad of two teenagers, I know the challenges and the worries that parents face making sure their kids are safe online,” the prime minister s",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/media/2026/feb/16/social-media-restrictions-keir-starmer-announced",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 15:06"
+  },
+  {
+    "id": "ef561a1bb009",
+    "headline": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+    "summary": "NVIDIA Blackwell Ultra delivers 50x performance and 35x cost reduction for agentic AI.",
+    "description": "The NVIDIA Blackwell platform has been widely adopted by leading inference providers such as Baseten, DeepInfra, Fireworks AI and Together AI to reduce cost per token by up to 10x. Now, the NVIDIA Blackwell Ultra platform is taking this momentum further for agentic AI. AI agents and coding assistants are driving explosive growth in software-programming-related Read Article",
+    "tags": [
+      "NVIDIA",
+      "Hardware",
+      "Agents"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 17:00"
+  },
+  {
+    "id": "e535794e25d1",
+    "headline": "GPT in 2 LOC",
+    "summary": "Minimal GPT implementation in 2 lines of code shared on GitHub.",
+    "description": "Article URL: https://github.com/Lazarus-931/femto-gpt Comments URL: https://news.ycombinator.com/item?id=47044438 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/Lazarus-931/femto-gpt",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 06:47"
+  },
+  {
+    "id": "309db1aabce4",
+    "headline": "An economist explains why he's still 'bullish on America' – AI and all",
+    "summary": "Economist discusses optimism about America's future with AI development.",
+    "description": "Article URL: https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/ Comments URL: https://news.ycombinator.com/item?id=47044331 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 06:27"
+  },
+  {
+    "id": "70c7b2c50e44",
+    "headline": "Show HN: Agent Forge – Persistent memory and desktop automation for Claude Code",
+    "summary": "Agent Forge provides persistent memory and desktop automation for Claude Code.",
+    "description": "Article URL: https://github.com/WeberG619/agent-forge Comments URL: https://news.ycombinator.com/item?id=47044282 Points: 2 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/WeberG619/agent-forge",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 06:16"
+  },
+  {
+    "id": "2abf77e8f17b",
+    "headline": "Fujitsu AI-Driven Software Development Platform",
+    "summary": "Fujitsu announces AI-driven software development platform.",
+    "description": "Article URL: https://global.fujitsu/en-global/pr/news/2026/02/17-01 Comments URL: https://news.ycombinator.com/item?id=47044280 Points: 1 # Comments: 1",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://global.fujitsu/en-global/pr/news/2026/02/17-01",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 06:15"
+  },
+  {
+    "id": "555dae4ca309",
+    "headline": "The AI productivity take-off is finally visible (Erik Brynjolfsson)",
+    "summary": "Erik Brynjolfsson discusses visible AI productivity improvements in businesses.",
+    "description": "Article URL: https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5 Comments URL: https://news.ycombinator.com/item?id=47044174 Points: 2 # Comments: 0",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:53"
+  },
+  {
+    "id": "16059ffe58ea",
+    "headline": "AI Agents and the Rise of Judgment-Powered Software",
+    "summary": "Article explores AI agents and judgment-powered software development trends.",
+    "description": "Article URL: https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/ Comments URL: https://news.ycombinator.com/item?id=47044161 Points: 2 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:50"
+  },
+  {
+    "id": "ee433cdfae01",
+    "headline": "My first blog post: On the Conversational AI Audio Pipeline",
+    "summary": "Blog post discusses conversational AI audio pipeline implementation.",
+    "description": "Article URL: https://www.wallacecorp.ai/content Comments URL: https://news.ycombinator.com/item?id=47044157 Points: 2 # Comments: 3",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.wallacecorp.ai/content",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:49"
+  },
+  {
+    "id": "65066b546cb1",
+    "headline": "Grug Meets His Match – Or – Grug, Claude, and Big Snap Man",
+    "summary": "Humorous take on developer interactions with Claude AI assistant.",
+    "description": "Article URL: https://robertkarl.net/blog/articles/grug-meets-his-match-or-grug-claude-and-big-snap-man/index.html Comments URL: https://news.ycombinator.com/item?id=47044125 Points: 2 # Comments: 1",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://robertkarl.net/blog/articles/grug-meets-his-match-or-grug-claude-and-big-snap-man/index.html",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:45"
+  },
+  {
+    "id": "7dc9706b7ceb",
+    "headline": "The AI Trilemma",
+    "summary": "Foreign Affairs article discusses the AI trilemma facing policymakers.",
+    "description": "Article URL: https://www.foreignaffairs.com/united-states/ai-trilemma Comments URL: https://news.ycombinator.com/item?id=47044058 Points: 4 # Comments: 1",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.foreignaffairs.com/united-states/ai-trilemma",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:34"
+  },
+  {
+    "id": "a7e8dba4bd08",
+    "headline": "Show HN: AI ID Photo – Generate passport/ID photos from selfies",
+    "summary": "AI app generates passport and ID photos from selfies.",
+    "description": "Article URL: https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352 Comments URL: https://news.ycombinator.com/item?id=47044048 Points: 1 # Comments: 5",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:34"
+  },
+  {
+    "id": "a5bfc47b0873",
+    "headline": "I love Claude but honestly some of the \"Claude might have gained consciousness\" nonsense that their marketing team is pushing lately is a bit off putting. They know better!",
+    "summary": "Discussion on Anthropic's marketing around Claude consciousness claims.",
+    "description": "- Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link submitted by /u/jbcraigs [link] [comments]",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6lw8i/i_love_claude_but_honestly_some_of_the_claude/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 21:04"
+  },
+  {
+    "id": "92415fcb4fc7",
+    "headline": "OpenAI just hired the OpenClaw creator",
+    "summary": "OpenAI hires creator of OpenClaw, originally named after Claude.",
+    "description": "So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all au",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6xndz/openai_just_hired_the_openclaw_creator/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 05:35"
+  },
+  {
+    "id": "d856e8f82d2a",
+    "headline": "Pentagon threatens Anthropic punishment",
+    "summary": "Pentagon threatens punishment against Anthropic over policy issues.",
+    "description": "submitted by /u/Gloomy_Nebula_5138 [link] [comments]",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 19:20"
+  },
+  {
+    "id": "f33592a3921d",
+    "headline": "Terrence Tao - Machine assistance and the future of research mathematics (IPAM @ UCLA)",
+    "summary": "Terrence Tao discusses machine assistance in mathematical research at UCLA.",
+    "description": "Abstract: \"A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research.\" Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents \"Machine assistanc",
+    "tags": [
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r6o71m/terrence_tao_machine_assistance_and_the_future_of/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Feb 2026, 22:31"
+  },
+  {
+    "id": "b9e8e5853967",
+    "headline": "BFS V2 for LTX-2 released",
+    "summary": "BFS V2 face swap LoRA for LTX-2 released with improved training and resolution.",
+    "description": "Just released V2 of my BFS (Best Face Swap) LoRA for LTX-2. Big changes: 800+ training video pairs (V1 had 300) Trained at 768 resolution Guide face is now fully masked to prevent identity leakage Stronger hair stability and identity consistency Important: Mask quality is everything in this version. No holes, no partial visibility, full coverage. Square masks usually perform better. You can condition using: Direct photo First-frame head swap (still extremely strong) Automatic or manual overlay I",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r6w9c3/bfs_v2_for_ltx2_released/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 04:23"
+  },
+  {
+    "id": "f99ceb3ac7f7",
+    "headline": "Elon Musk Confirms Grok 4.2 Launch This Week",
+    "summary": "[February 14, 2026] xAI's Grok 4.2 launches February 17-24, 2026, after achieving 12.11% profit in Alpha Arena trading competition vs GPT-5.1's 2.29% loss",
+    "description": "xAI's Grok 4.2 launches February 17-24, 2026, after achieving 12.11% profit in Alpha Arena trading competition vs GPT-5.1's 2.29% loss",
+    "tags": [
+      "xAI",
+      "Trading"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 14, 2026"
+  },
+  {
+    "id": "0216c9fd72c9",
+    "headline": "OpenAI Releases GPT-5.2 with Major Professional Improvements",
+    "summary": "[today] GPT-5.2 Instant, Thinking, and Pro now rolling out to paid plans with better spreadsheets, coding, and presentation capabilities",
+    "description": "GPT-5.2 Instant, Thinking, and Pro now rolling out to paid plans with better spreadsheets, coding, and presentation capabilities",
+    "tags": [
+      "OpenAI",
+      "Launch"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "today"
+  },
+  {
+    "id": "76bfd9ddbe89",
+    "headline": "OpenAI Unveils GPT-5.3-Codex-Spark for Real-Time Coding",
+    "summary": "[3 days ago] Research preview with 1000+ tokens per second on Cerebras hardware for ChatGPT Pro users, marking OpenAI-Cerebras partnership milestone",
+    "description": "Research preview with 1000+ tokens per second on Cerebras hardware for ChatGPT Pro users, marking OpenAI-Cerebras partnership milestone",
+    "tags": [
+      "OpenAI",
+      "Coding"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "3 days ago"
+  },
+  {
+    "id": "8997367b7ee2",
+    "headline": "Anthropic's Claude Opus 4.6 Triggers $285B Software Selloff",
+    "summary": "[1 week ago] Major update with 1M token context window causes market concerns about AI replacing traditional workplace software",
+    "description": "Major update with 1M token context window causes market concerns about AI replacing traditional workplace software",
+    "tags": [
+      "Anthropic",
+      "Markets"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "1 week ago"
+  },
+  {
+    "id": "597e32f984c6",
+    "headline": "SpaceX Acquires xAI in $250B Deal Ahead of Planned IPO",
+    "summary": "[February 3, 2026] Musk merges rocket maker with AI startup as combined entity prepares for $1.25T IPO, creating vertically-integrated innovation engine",
+    "description": "Musk merges rocket maker with AI startup as combined entity prepares for $1.25T IPO, creating vertically-integrated innovation engine",
+    "tags": [
+      "xAI",
+      "M&A"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 3, 2026"
+  },
+  {
+    "id": "f3fc3846e2f4",
+    "headline": "Pentagon Contract Dispute Escalates with Anthropic Over Claude Military Use",
+    "summary": "[6 hours ago] Tensions intensify over how Claude AI may be used in US military operations, with regulatory scrutiny mounting",
+    "description": "Tensions intensify over how Claude AI may be used in US military operations, with regulatory scrutiny mounting",
+    "tags": [
+      "Anthropic",
+      "Military"
+    ],
+    "source": "X / multiple sources",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "6 hours ago"
+  },
+  {
+    "id": "864f195832b9",
+    "headline": "Anthropic Announces Claude Will Remain Ad-Free",
+    "summary": "[2 weeks ago] Company rejects advertising inside conversations, doubling down on subscriptions while OpenAI tests ads in ChatGPT Free/Go tiers",
+    "description": "Company rejects advertising inside conversations, doubling down on subscriptions while OpenAI tests ads in ChatGPT Free/Go tiers",
+    "tags": [
+      "Anthropic",
+      "Business"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "2 weeks ago"
+  },
+  {
+    "id": "0dfcf78f46a1",
+    "headline": "Claude 5 'Fennec' Spotted in Google Vertex AI Logs",
+    "summary": "[early February 2026] Claude Sonnet 5 expected February-March 2026 with 50% lower cost than Opus 4.5 and superior coding capabilities",
+    "description": "Claude Sonnet 5 expected February-March 2026 with 50% lower cost than Opus 4.5 and superior coding capabilities",
+    "tags": [
+      "Anthropic",
+      "Leak"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-17",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "early February 2026"
+  },
+  {
     "id": "8be77f193bff",
     "headline": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
     "summary": "Flapping Airplanes discusses exploring different AI tradeoffs and radical approaches.",
