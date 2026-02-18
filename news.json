@@ -1,5 +1,532 @@
 [
   {
+    "id": "327d0aac1a88",
+    "headline": "Meta’s new deal with Nvidia buys up millions of AI chips",
+    "summary": "Meta strikes multiyear deal with Nvidia for millions of AI chips including Grace, Vera CPUs and Blackwell, Rubin GPUs for data center expansion.",
+    "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] ...",
+    "tags": [
+      "Meta",
+      "NVIDIA"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 19:27"
+  },
+  {
+    "id": "73e0ae7c1253",
+    "headline": "Google’s AI search results will make links more obvious",
+    "summary": "Google will display links more prominently in AI-powered search features to make them more obvious to users.",
+    "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 17:38"
+  },
+  {
+    "id": "bbeb4f162768",
+    "headline": "Google announces dates for I/O 2026",
+    "summary": "Google announces I/O 2026 conference dates (May 19-20) featuring latest AI breakthroughs and product updates.",
+    "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company, from Gemini to Android and more\" during the event, which will take place in-person in Mountain View, California's Shoreline Amphitheatre, and ...",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 15:56"
+  },
+  {
+    "id": "986e3cd78618",
+    "headline": "Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
+    "summary": "Apple reportedly planning AI-powered smart glasses, pendant, and camera-equipped AirPods as new wearable products.",
+    "description": "Apple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports. ...",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:26"
+  },
+  {
+    "id": "0b45f5cc5d91",
+    "headline": "WordPress’ new AI assistant will let users edit their sites with prompts",
+    "summary": "WordPress launches AI assistant for site editing through natural language prompts in editor and media library.",
+    "description": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make ...",
+    "tags": [
+      "Creative AI",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 13:33"
+  },
+  {
+    "id": "64174f33ccda",
+    "headline": "Apple is reportedly cooking up a trio of AI wearables",
+    "summary": "Apple developing multiple AI wearable products as competition heats up in AI hardware space.",
+    "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 20:14"
+  },
+  {
+    "id": "476b664c5828",
+    "headline": "Anthropic releases Sonnet 4.6",
+    "summary": "Anthropic releases new Sonnet 4.6 model, maintaining four-month update cycle for midsized AI model.",
+    "description": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 18:00"
+  },
+  {
+    "id": "410dcc4e0c5f",
+    "headline": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+    "summary": "WordPress.com adds AI assistant for natural language editing, style adjustments, and image creation.",
+    "description": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+    "tags": [
+      "Creative AI",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 16:10"
+  },
+  {
+    "id": "f05692f842e4",
+    "headline": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
+    "summary": "Meta and tech firms restrict OpenClaw agentic AI tool due to security concerns over unpredictable behavior.",
+    "description": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 20:10"
+  },
+  {
+    "id": "268790352dc8",
+    "headline": "Unity boss claims engine's next generative AI update will let users prompt \"full casual games\" into existence, just by using natural language - Eurogamer",
+    "summary": "Unity's next AI update will allow users to create full casual games using natural language prompts.",
+    "description": "Unity boss claims engine's next generative AI update will let users prompt \"full casual games\" into existence, just by using natural language EurogamerAI & Business Newsletter | Game Over, or Level Up? The Wall Street JournalUnity says its AI tech will soon eliminate the need for coding Game DeveloperUnity Bets on AI for \"Full Casual Games\" With No Coding TechPowerUpVideo game experts say Google’s Project Genie isn’t an industry killer. Investors don’t seem convinced. Sherwood News",
+    "tags": [
+      "Creative AI",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONmpDZXF6Y0tpTndPWDJTaUczUlAtSHVCMTZHT2trWE01bjltQzQ3bDZPNjRhb1N5bzItYXJtdUlzMl9CSTJ1QmQ5eGR2R1dRQ29rTjNjbWJJRkM5d2JaSXktdGpwbmVIcks1bnloWmxSMUtXUTRjVHVRY1BwWUF4ekZic0J3cVJCTHJ4OTh2NW1FTjZqS2FveTJkdmtqbGVtODVoaG1ReEpGdnBPQ2ZjQ2xYam1DeWtQaERYMmRZdlR0a2ZKcWM0aVFKaGtXRjQ3bFdPTVY4Vy1ZemUxOXV3M0tybHZTYzVRdHpnS0hQcVZIcC1DOHc?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:33"
+  },
+  {
+    "id": "c47f66c3ca5f",
+    "headline": "Cohere Releases Tiny Aya: A 3B-Parameter Small Language Model that Supports 70 Languages and Runs Locally Even on a Phone",
+    "summary": "Cohere releases Tiny Aya, 3B-parameter multilingual language model supporting 70 languages, runs on phones.",
+    "description": "Cohere AI Labs has released Tiny Aya, a family of small language models (SLMs) that redefines multilingual performance. While many models scale by increasing parameters, Tiny Aya uses a 3.35B-parameter architecture to deliver state-of-the-art translation and generation across 70 languages. The release includes 5 models: Tiny Aya Base (pretrained), Tiny Aya Global (balanced instruction-tuned), and ... The post Cohere Releases Tiny Aya: A 3B-Parameter Small Language Model that Supports 70 Language",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/17/cohere-releases-tiny-aya-a-3b-parameter-small-language-model-that-supports-70-languages-and-runs-locally-even-on-a-phone/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 06:33"
+  },
+  {
+    "id": "3217d87e7752",
+    "headline": "Anthropic Releases Claude 4.6 Sonnet with 1 Million Token Context to Solve Complex Coding and Search for Developers",
+    "summary": "Anthropic launches Claude 4.6 Sonnet with 1 million token context for complex coding and developer tasks.",
+    "description": "Anthropic is officially entering its ‘Thinking’ era. Today, the company announced Claude 4.6 Sonnet, a model designed to transform how devs and data scientists handle complex logic. Alongside this release comes Improved Web Search with Dynamic Filtering, a feature that uses internal code execution to verify facts in real-time. Adaptive Thinking: A New Logic Engine ... The post Anthropic Releases Claude 4.6 Sonnet with 1 Million Token Context to Solve Complex Coding and Search for Developers appe",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/17/anthropic-releases-claude-4-6-sonnet-with-1-million-token-context-to-solve-complex-coding-and-search-for-developers/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 21:11"
+  },
+  {
+    "id": "b62f581e5942",
+    "headline": "How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data",
+    "summary": "Tutorial on building interactive exploratory data analysis workflow using PyGWalker and feature engineering.",
+    "description": "In this tutorial, we demonstrate how to move beyond static, code-heavy charts and build a genuinely interactive exploratory data analysis workflow directly using PyGWalker. We start by preparing the Titanic dataset for large-scale interactive querying. These analysis-ready engineered features reveal the underlying structure of the data while enabling both detailed row-level exploration and high-level aggregated ... The post How to Build an Advanced, Interactive Exploratory Data Analysis Workflow",
+    "tags": [
+      "Research",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/17/how-to-build-an-advanced-interactive-exploratory-data-analysis-workflow-using-pygwalker-and-feature-engineered-data/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 18:18"
+  },
+  {
+    "id": "414c67b09778",
+    "headline": "Cloudflare Releases Agents SDK v0.5.0 with Rewritten @cloudflare/ai-chat and New Rust-Powered Infire Engine for Optimized Edge Inference Performance",
+    "summary": "Cloudflare releases Agents SDK v0.5.0 with new Rust-powered Infire engine for optimized edge AI inference.",
+    "description": "Cloudflare has released the Agents SDK v0.5.0 to address the limitations of stateless serverless functions in AI development. In standard serverless architectures, every LLM call requires rebuilding the session context from scratch, which increases latency and token consumption. The Agents SDK’s latest version (Agents SDK v0.5.0) provides a vertically integrated execution layer where compute, state, ... The post Cloudflare Releases Agents SDK v0.5.0 with Rewritten @cloudflare/ai-chat and New Rus",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/17/cloudflare-releases-agents-sdk-v0-5-0-with-rewritten-cloudflare-ai-chat-and-new-rust-powered-infire-engine-for-optimized-edge-inference-performance/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 18:04"
+  },
+  {
+    "id": "f5171b373823",
+    "headline": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
+    "summary": "Tech billionaires from Google, Anthropic, OpenAI attend Delhi AI expo as Modi positions India as AI leader.",
+    "description": "Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technologySilicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India’s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over the fast-developing technology.During the week-long AI Impact Summit, attended by thousands of tech executives, government officials and AI safety experts, tech companies valued at trillions of dolla",
+    "tags": [
+      "Market",
+      "Google"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 05:00"
+  },
+  {
+    "id": "256005ca7565",
+    "headline": "Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert",
+    "summary": "AI expert warns rapid AI development race risks Hindenburg-style disaster from deployment failures.",
+    "description": "Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interestThe race to get artificial intelligence to market has raised the risk of a Hindenburg-style disaster that shatters global confidence in the technology, a leading researcher has warned.Michael Wooldridge, a professor of AI at Oxford University, said the danger arose from the immense commercial pressures that technology firms were under to release new AI tools, with companies desper",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 18:01"
+  },
+  {
+    "id": "40b120caea0c",
+    "headline": "Spain to investigate social media firms over AI-generated child sexual abuse material",
+    "summary": "Spain investigates social media firms over AI-generated child sexual abuse material, seeking criminal liability.",
+    "description": "PM says action is looking at potential criminal liability in order to protect children and end ‘impunity’ of online platforms The Spanish government will ask prosecutors to investigate the social media companies X, Meta and TikTok to determine whether they have committed criminal offences by allegedly allowing their AI to generate and disseminate child sexual abuse material.Spain’s socialist prime minister, Pedro Sánchez, said his government had taken the decision to protect “the mental health, ",
+    "tags": [
+      "Regulation",
+      "Image Gen"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/17/spain-investigate-social-media-firms-ai-generated-child-sexual-abuse-material",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:00"
+  },
+  {
+    "id": "d0ee0a74590f",
+    "headline": "AI Data Centers Are Now Spiking Hard Drive Prices",
+    "summary": "AI data centers driving up hard drive prices following earlier RAM price increases.",
+    "description": "First RAM, now storage? The post AI Data Centers Are Now Spiking Hard Drive Prices appeared first on Futurism.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-data-centers-spiking-hard-drive-prices",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 16:06"
+  },
+  {
+    "id": "e826c369a020",
+    "headline": "It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects",
+    "summary": "Study reveals negative psychological effects on workers constantly told they'll be replaced by AI.",
+    "description": "\"An invisible disaster.\" The post It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects appeared first on Futurism.",
+    "tags": [
+      "Research",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-effects-workers-psychological",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 15:08"
+  },
+  {
+    "id": "317cc1084d3c",
+    "headline": "Pentagon Issues Threat to Anthropic",
+    "summary": "Pentagon issues warning to Anthropic over AI safety concerns, indicating potential regulatory action.",
+    "description": "\"Everything's on the table.\" The post Pentagon Issues Threat to Anthropic appeared first on Futurism.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/pentagon-issues-threat-anthropic",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 14:09"
+  },
+  {
+    "id": "11d0ea0df230",
+    "headline": "Teaching AI to read a map",
+    "summary": "Google AI Blog discusses machine perception research on teaching AI systems to read and interpret maps.",
+    "description": "Machine Perception",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "Google AI Blog",
+    "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Feb 2026, 21:37"
+  },
+  {
+    "id": "682d3b2ae174",
+    "headline": "India Fuels Its AI Mission With NVIDIA",
+    "summary": "India partners with NVIDIA to drive AI transformation across infrastructure and frontier model development.",
+    "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
+    "tags": [
+      "NVIDIA",
+      "Market"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 00:30"
+  },
+  {
+    "id": "c82180ada8a2",
+    "headline": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+    "summary": "Indian tech companies build enterprise AI agents using NVIDIA AI Enterprise and Nemotron models.",
+    "description": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelerating productivity and efficiency across industries — from call centers to telecommunications and healthcare. Infosys, Persistent, Tech Mahindra and Wipro are leading the way for business transformation, improving back-office Read Article",
+    "tags": [
+      "NVIDIA",
+      "Agents"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 00:30"
+  },
+  {
+    "id": "ce1eddca1d12",
+    "headline": "India AI Impact Summit 2026 Day 3 Opens at Bharat Mandapam",
+    "summary": "[Feb 18, 2026] The India AI Impact Summit continues at Bharat Mandapam Convention Centre with delegates from 30+ countries attending the major AI event.",
+    "description": "The India AI Impact Summit continues at Bharat Mandapam Convention Centre with delegates from 30+ countries attending the major AI event.",
+    "tags": [
+      "conference",
+      "India"
+    ],
+    "source": "X / @PTI_News",
+    "link": "https://x.com/PTI_News/status/2023328216522391861",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 18, 2026"
+  },
+  {
+    "id": "a2670b9fa269",
+    "headline": "Elon Musk Confirms Grok 4.20 Launch This Week",
+    "summary": "[Feb 15, 2026] Musk announced on Feb 15 that Grok 4.20 will finally launch next week, describing it as a 'significant improvement' over Grok 4.1.",
+    "description": "Musk announced on Feb 15 that Grok 4.20 will finally launch next week, describing it as a 'significant improvement' over Grok 4.1.",
+    "tags": [
+      "xAI",
+      "model release"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 15, 2026"
+  },
+  {
+    "id": "c28db4277873",
+    "headline": "SpaceX Acquires xAI in $1.25 Trillion Merger",
+    "summary": "[Feb 2, 2026] SpaceX completed acquisition of xAI on Feb 2 in what's being called the largest merger in history, consolidating Musk's AI and space ventures.",
+    "description": "SpaceX completed acquisition of xAI on Feb 2 in what's being called the largest merger in history, consolidating Musk's AI and space ventures.",
+    "tags": [
+      "acquisition",
+      "SpaceX"
+    ],
+    "source": "Multiple reports",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2, 2026"
+  },
+  {
+    "id": "45c1a724acfd",
+    "headline": "Anthropic Announces New India Partnerships and Bengaluru Office",
+    "summary": "[Feb 16-17, 2026] Anthropic opened Bengaluru office and announced partnerships in India, including MOU with Rwanda government for AI in health and education.",
+    "description": "Anthropic opened Bengaluru office and announced partnerships in India, including MOU with Rwanda government for AI in health and education.",
+    "tags": [
+      "partnerships",
+      "expansion"
+    ],
+    "source": "Anthropic News",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 16-17, 2026"
+  },
+  {
+    "id": "921a6314b96c",
+    "headline": "Claude Opus 4.6 and GPT-5.3 Codex Released Within 20 Minutes",
+    "summary": "[Feb 5, 2026] Anthropic released Claude Opus 4.6 on Feb 5, followed by OpenAI's GPT-5.3 Codex just 20 minutes later in escalating AI rivalry.",
+    "description": "Anthropic released Claude Opus 4.6 on Feb 5, followed by OpenAI's GPT-5.3 Codex just 20 minutes later in escalating AI rivalry.",
+    "tags": [
+      "model release",
+      "competition"
+    ],
+    "source": "Multiple reports",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 5, 2026"
+  },
+  {
+    "id": "b66cd4a74c80",
+    "headline": "Mistral AI Global Hackathon 2026 Announced",
+    "summary": "[Feb 10, 2026] Mistral announces global hackathon Feb 28-Mar 1 across 7 cities with $200k prizes, partnering with NVIDIA, AWS, and Hugging Face.",
+    "description": "Mistral announces global hackathon Feb 28-Mar 1 across 7 cities with $200k prizes, partnering with NVIDIA, AWS, and Hugging Face.",
+    "tags": [
+      "hackathon",
+      "community"
+    ],
+    "source": "X / @MistralAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 10, 2026"
+  },
+  {
+    "id": "d26f712bac9a",
+    "headline": "AI Model Performance Debates Heat Up on Social Media",
+    "summary": "[past 24 hours] Viral discussions about AI spotting 45-year physics error and debates over Claude Opus vs GPT performance dominate AI Twitter discussions.",
+    "description": "Viral discussions about AI spotting 45-year physics error and debates over Claude Opus vs GPT performance dominate AI Twitter discussions.",
+    "tags": [
+      "benchmarks",
+      "community"
+    ],
+    "source": "X / Various",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "past 24 hours"
+  },
+  {
+    "id": "c62588b6494d",
+    "headline": "Voice AI Productivity Boom Predicted for 2026",
+    "summary": "[recent] Industry experts highlight voice AI as game-changer with dictation workflows and productivity gains becoming mainstream in 2026.",
+    "description": "Industry experts highlight voice AI as game-changer with dictation workflows and productivity gains becoming mainstream in 2026.",
+    "tags": [
+      "voice AI",
+      "productivity"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-18",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
     "id": "724b72a2d077",
     "headline": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
     "summary": "Mistral AI acquires Paris-based Koyeb to enhance cloud infrastructure for AI app deployment.",
