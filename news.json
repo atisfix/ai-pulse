@@ -1,5 +1,485 @@
 [
   {
+    "id": "e885550662af",
+    "headline": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "summary": "Reliance unveils $110B AI investment plan, building multi-gigawatt data centers in India with 120+ MW capacity by 2026.",
+    "description": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+    "tags": [
+      "Market",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 11:39"
+  },
+  {
+    "id": "7573b0212b15",
+    "headline": "This AI Tool Will Tell You to Stop Slacking Off",
+    "summary": "Fomi AI tool monitors work productivity and alerts users when attention wanders, raising privacy concerns.",
+    "description": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:30"
+  },
+  {
+    "id": "93a928cc2fa7",
+    "headline": "What it takes to make agentic AI work in retail",
+    "summary": "MIT Tech Review podcast discusses implementing agentic AI in retail with Prasad Banala from software engineering.",
+    "description": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-based retail organization, about operationalizing agentic AI across the software development lifecycle. Prasad explains how his team applies AI to validate requirements, generate…",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 08:54"
+  },
+  {
+    "id": "b4e218214923",
+    "headline": "From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset",
+    "summary": "MIT Tech Review podcast covers Nutrien Ag Solutions' digital transformation post-acquisition with Sriram Kalyan.",
+    "description": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, head of applications and data at Nutrien Ag Solutions, Australia, about turning a high-risk post-acquisition IT landscape into a scalable digital foundation. Sriram shares how the merger of two major…",
+    "tags": [
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 08:48"
+  },
+  {
+    "id": "d5b5074aa6e0",
+    "headline": "iOS 26.4 adds a new category of CarPlay apps - 9to5Mac",
+    "summary": "iOS 26.4 adds CarPlay support for AI chatbots including ChatGPT, Claude and Gemini.",
+    "description": "iOS 26.4 adds a new category of CarPlay apps 9to5MaciOS 26.4 Brings CarPlay Support for ChatGPT, Claude and Gemini MacRumorsApple CarPlay is adding support for ChatGPT and other AI chatbots MashableTired of Siri in your car? ChatGPT, Claude and Gemini are coming to CarPlay later this year stuff.tvAI agents are coming to CarPlay, but they're not getting the keys AppleInsider",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXVfdUUxYTI4aUdESTZqVG04a3FBS2g3TFhRZVYwZnBCUlFhdEw1dDI4QWpxM3pRZFYyYTViWTdWSFNkbVVPdjYya2xfQlNFaHZ3SVk4R0RPb21GVVZJU3VwV1M3clkwdE9lRDF6RmpGZmNqYThhVGVDZ3ZRTUdFWUZpNThqQ3JIbE9FaHVPcEdhQQ?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 19:13"
+  },
+  {
+    "id": "7908ebd578e0",
+    "headline": "DBS pilots system that lets AI agents make payments for customers",
+    "summary": "DBS Bank pilots system allowing AI agents to make payments for customers, moving AI from advisory to action.",
+    "description": "Artificial intelligence is moving closer to the point where it can act, not advise. A new pilot by DBS Bank shows how that change may soon affect everyday payments, as financial institutions begin testing systems that allow AI agents to complete purchases on behalf of customers. DBS is working with Visa to trial Visa Intelligent ... The post DBS pilots system that lets AI agents make payments for customers appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:00"
+  },
+  {
+    "id": "4870bd9ce549",
+    "headline": "Accenture ‘links staff promotions to use of AI tools’",
+    "summary": "Accenture links staff promotions to AI tool usage, monitoring adoption across workforce.",
+    "description": "Consulting firm keen to increase uptake of technology and is reportedly monitoring adoption by workforceAccenture has reportedly started tracking staff use of its AI tools and will take this into consideration when deciding on top promotions, as the consulting company tries to increase uptake of the technology by its workforce.The company told senior managers and associate directors that being promoted to leadership roles would require “regular adoption” of artificial intelligence, according to ",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/accenture/2026/feb/19/accenture-links-staff-promotions-to-use-of-ai-tools",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:54"
+  },
+  {
+    "id": "8b2b7cdbc263",
+    "headline": "Macron defends EU AI rules and vows crackdown on child ‘digital abuse’",
+    "summary": "Macron defends EU AI regulations against US criticism, vows crackdown on child digital abuse.",
+    "description": "French president rejects US criticism as António Guterres and Narendra Modi warn on child safety and AI monopoliesBusiness live – latest updatesEurope live – latest updatesEmmanuel Macron has hit back at US criticism of Europe’s efforts to regulate AI, vowing to protect children from “digital abuse” during France’s presidency of the G7.Speaking at the AI Impact summit in Delhi, the French president called for tougher safeguards after global outrage over Elon Musk’s Grok chatbot being used to gen",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/19/emmanuel-macron-eu-ai-rules-child-safety-digital-abuse",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 08:26"
+  },
+  {
+    "id": "874b9e0a3f5d",
+    "headline": "Show HN: Claude Code for Mobile GUI Automation",
+    "summary": "Claude Code mobile GUI automation tool discussed, noting smaller models work for single interactions.",
+    "description": "Phone GUI agents (e.g., AutoGLM-Phone, GELab) can already do NL-driven taps/navigation/form filling. My observation: smaller GUI models (often 4B/9B class) work well for single interactions, but become brittle on long workflows with branching and recovery. I built a Skill layer that separates planning from execution: - Planner: Claude Code / Codex (task decomposition, decision-making, replanning) - Orchestrator: Skill layer (state machine, retries/rollback, tool protocol) - Executor: phone GUI m",
+    "tags": [
+      "Agents",
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/UgOrange/gui_agent_skill",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:44"
+  },
+  {
+    "id": "64b5be0532ef",
+    "headline": "Cc-reflection: teaching Claude Code to reflect",
+    "summary": "Article about teaching Claude Code to reflect on its processes and outputs.",
+    "description": "Article URL: https://provi.me/cc-reflection Comments URL: https://news.ycombinator.com/item?id=47073155 Points: 1 # Comments: 1",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://provi.me/cc-reflection",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:41"
+  },
+  {
+    "id": "e6ff843727fa",
+    "headline": "Show HN: GrabShot – Screenshot API with AI cleanup and device frames",
+    "summary": "GrabShot API provides screenshots with AI cleanup and device frame features.",
+    "description": "Article URL: https://grabshot.dev Comments URL: https://news.ycombinator.com/item?id=47073098 Points: 1 # Comments: 0",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://grabshot.dev",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:33"
+  },
+  {
+    "id": "9361256e9dad",
+    "headline": "New agent framework matches human-engineered AI systems",
+    "summary": "New agent framework matches performance of human-engineered AI systems.",
+    "description": "Article URL: https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero Comments URL: https://news.ycombinator.com/item?id=47073049 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:25"
+  },
+  {
+    "id": "de0c627a4503",
+    "headline": "Show HN: I had an AI write a 67k-word book about humanity, from its perspective",
+    "summary": "AI writes 67,000-word book about humanity from its own perspective with 233 documented sources.",
+    "description": "I gave an AI the prompt to write a full book — not a demo, not a gimmick, a real 21-chapter manuscript — reflecting on humans from its own point of view. The result is grounded in data (233 documented AI safety incidents in 2024, 51% of web traffic now bots, 39M gallons of water per day for ChatGPT alone) but written with a literary voice that surprised me.It covers displacement, art, education, loneliness, trust, environmental cost, and governance. The narrator is unusually honest about its lim",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.amazon.com/dp/B0GP22FZBV",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:22"
+  },
+  {
+    "id": "248a2c9b9060",
+    "headline": "AI Agents discovered a cache deception bug affecting SvelteKit on Vercel",
+    "summary": "AI agents discover cache deception security bug affecting SvelteKit on Vercel platform.",
+    "description": "Article URL: https://www.aikido.dev/blog/sveltespill-cache-deception-sveltekit-vercel Comments URL: https://news.ycombinator.com/item?id=47073019 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.aikido.dev/blog/sveltespill-cache-deception-sveltekit-vercel",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:20"
+  },
+  {
+    "id": "0e76ce905b3d",
+    "headline": "The Psychology of Coding with AI Agents",
+    "summary": "Analysis of psychological aspects of coding with AI agents and their impact on developers.",
+    "description": "Article URL: https://marius-anderie.com/blog/psychology-of-coding-with-ai-agents Comments URL: https://news.ycombinator.com/item?id=47073002 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://marius-anderie.com/blog/psychology-of-coding-with-ai-agents",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:17"
+  },
+  {
+    "id": "34e5206a98b8",
+    "headline": "The AI Bottleneck of 2026: Your Company's Implicit Knowledge",
+    "summary": "Companies will face AI bottleneck in 2026 due to lack of accessible implicit knowledge.",
+    "description": "Article URL: https://memgraph.com/blog/real-ai-bottleneck-2026-implicit-knowledge Comments URL: https://news.ycombinator.com/item?id=47072966 Points: 2 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://memgraph.com/blog/real-ai-bottleneck-2026-implicit-knowledge",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:13"
+  },
+  {
+    "id": "8c2fb8fc8a20",
+    "headline": "Perplexity AI drops ads implementation plan to keep user trust",
+    "summary": "Perplexity AI abandons advertising plans to maintain user trust and experience.",
+    "description": "Article URL: https://www.msn.com/en-us/money/other/perplexity-ai-drops-ads-implementation-plan-to-keep-user-trust/ar-AA1WBvyY Comments URL: https://news.ycombinator.com/item?id=47072876 Points: 2 # Comments: 0",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.msn.com/en-us/money/other/perplexity-ai-drops-ads-implementation-plan-to-keep-user-trust/ar-AA1WBvyY",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 11:55"
+  },
+  {
+    "id": "bfab7af5c99d",
+    "headline": "LLM Drugs (For Humans)",
+    "summary": "LLM Drugs website explores AI-generated content for human consumption or entertainment.",
+    "description": "Article URL: https://www.llmdrugs.com Comments URL: https://news.ycombinator.com/item?id=47072829 Points: 2 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.llmdrugs.com",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 11:50"
+  },
+  {
+    "id": "0f6871fb7535",
+    "headline": "Anthropic bans OAuth token usage in third-party tools — Claude Max/Pro users affected",
+    "summary": "Anthropic bans OAuth token usage from consumer plans in third-party tools, affecting Claude users.",
+    "description": "Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/ submitted by /u/OwenAnton84 [l",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 07:49"
+  },
+  {
+    "id": "cd9146569640",
+    "headline": "OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B",
+    "summary": "OpenAI funding round approaches record $100B raise with $850B valuation target.",
+    "description": "submitted by /u/andix3 [link] [comments]",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:38"
+  },
+  {
+    "id": "556e8f4ce8c3",
+    "headline": "Open-source benchmark EVMbench tests how well AI agents handle smart contract exploits",
+    "summary": "EVMbench open-source benchmark tests AI agents on smart contract security exploits, developed by OpenAI.",
+    "description": "EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerability patterns drawn from audited codebases and contest reports. submitted by /u/tekz [link] [comments]",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r8y11e/opensource_benchmark_evmbench_tests_how_well_ai/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:33"
+  },
+  {
+    "id": "407e8f1a9ca8",
+    "headline": "🔥 Final Release — LTX-2 Easy Prompt + Vision. Two free ComfyUI nodes that write your prompts for you. Fully local, no API, no compromises",
+    "summary": "LTX-2 releases free ComfyUI nodes for automatic prompt writing, fully local with no API required.",
+    "description": "I've done all i can to make this work. I've tested it several times over if too many people issues I'll just keep it for myself as i don't want to waste peoples time. Deleted other related posts to keep it under 1 roof. Final release no more changes. (unless small big fix) Github link IMAGE & TEXT TO VIDEO WORKFLOWS 🎬 LTX-2 Easy Prompt Node ✏️ Plain English in, cinema-ready prompt out — type a rough idea and get 500+ tokens of dense cinematic prose back, structured exactly the way LTX-2 expects ",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r8wdd4/final_release_ltx2_easy_prompt_vision_two_free/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 11:03"
+  },
+  {
+    "id": "787995702035",
+    "headline": "Yotta and NVIDIA Partnership for Asia-Pacific AI Infrastructure",
+    "summary": "[Feb 19, 2026 at 1:06 am] Announced deployment of one of Asia-Pacific's largest AI computing infrastructures with investment exceeding $2 billion at India AI Summit",
+    "description": "Announced deployment of one of Asia-Pacific's largest AI computing infrastructures with investment exceeding $2 billion at India AI Summit",
+    "tags": [
+      "infrastructure",
+      "partnership"
+    ],
+    "source": "X / @EletsCIO",
+    "link": "https://x.com/EletsCIO/status/2024364914123690344",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026 at 1:06 am"
+  },
+  {
+    "id": "6572bb5bf28b",
+    "headline": "Anthropic Launches Claude Sonnet 4.6 with 1M Token Context",
+    "summary": "[10 hours ago] New model with improved coding, computer use, reasoning capabilities and 1M token context window now available as default",
+    "description": "New model with improved coding, computer use, reasoning capabilities and 1M token context window now available as default",
+    "tags": [
+      "model release",
+      "capabilities"
+    ],
+    "source": "X / @claudeai",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "10 hours ago"
+  },
+  {
+    "id": "df1848b9ebbf",
+    "headline": "Anthropic Signs Partnership with Rwanda Government",
+    "summary": "[12 hours ago] First partnership of its kind in Africa to bring AI to health, education, and other public sectors",
+    "description": "First partnership of its kind in Africa to bring AI to health, education, and other public sectors",
+    "tags": [
+      "partnership",
+      "africa"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "12 hours ago"
+  },
+  {
+    "id": "92ecc34ee037",
+    "headline": "NVIDIA Meta Strategic Partnership Announcement",
+    "summary": "[Feb 17, 2026] Multiyear deployment of millions of NVIDIA Blackwell and Rubin GPUs for Meta's AI infrastructure roadmap",
+    "description": "Multiyear deployment of millions of NVIDIA Blackwell and Rubin GPUs for Meta's AI infrastructure roadmap",
+    "tags": [
+      "partnership",
+      "infrastructure"
+    ],
+    "source": "NVIDIA Official",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "5ed9aefe3f70",
+    "headline": "India AI Impact Summit 2026 Opening Day",
+    "summary": "[Today] Major AI summit hosted in New Delhi with global leaders discussing AI power, protection, and innovation",
+    "description": "Major AI summit hosted in New Delhi with global leaders discussing AI power, protection, and innovation",
+    "tags": [
+      "summit",
+      "policy"
+    ],
+    "source": "X / @raghav_chadha",
+    "link": "https://x.com/raghav_chadha/status/2023372954210594860",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Today"
+  },
+  {
+    "id": "46d6688e23e3",
+    "headline": "Voice AI Explosion Predictions for 2026",
+    "summary": "[Recent] Expert predicts massive growth in voice AI applications for productivity and daily workflows",
+    "description": "Expert predicts massive growth in voice AI applications for productivity and daily workflows",
+    "tags": [
+      "voice AI",
+      "trends"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Recent"
+  },
+  {
+    "id": "e40450fb717c",
+    "headline": "NVIDIA Physical AI Models and Robot Partnerships",
+    "summary": "[Jan 5, 2026] New open models and frameworks for robotics with partners like Boston Dynamics and Caterpillar unveiling AI-driven robots",
+    "description": "New open models and frameworks for robotics with partners like Boston Dynamics and Caterpillar unveiling AI-driven robots",
+    "tags": [
+      "robotics",
+      "partnerships"
+    ],
+    "source": "NVIDIA Official",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Jan 5, 2026"
+  },
+  {
     "id": "0825d501c818",
     "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
     "summary": "OpenAI partners with Tata for 100MW AI data center in India, plans 1GW capacity and new offices.",
