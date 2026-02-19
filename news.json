@@ -1,5 +1,469 @@
 [
   {
+    "id": "1ee41fa8b4bc",
+    "headline": "Money no longer matters to AI’s top talent",
+    "summary": "AI researcher job market is hottest globally, with talent concentrated in small pool of experts.",
+    "description": "Today on Decoder we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers. The vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying ...",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:00"
+  },
+  {
+    "id": "987e58d217dd",
+    "headline": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+    "summary": "OpenAI nears $100B funding round valuing company at $850B with Amazon, Nvidia, SoftBank backing.",
+    "description": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 15:35"
+  },
+  {
+    "id": "11ddef7cd3cf",
+    "headline": "Reload wants to give your AI agents a shared memory",
+    "summary": "Reload raises $2.275M to give AI agents shared memory capabilities, launches Epic AI employee.",
+    "description": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 15:00"
+  },
+  {
+    "id": "4fd7a03aabad",
+    "headline": "OpenAI, Reliance partner to add AI search to JioHotstar",
+    "summary": "OpenAI partners with Reliance to integrate AI search into JioHotstar streaming platform.",
+    "description": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:45"
+  },
+  {
+    "id": "1b5e327fbb9e",
+    "headline": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
+    "summary": "Mirai raises $10M seed to improve AI model inference on smartphones and laptops.",
+    "description": "Mirai raised a $10 million seed to improve how AI models run on devices like smartphones and laptops.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:43"
+  },
+  {
+    "id": "5c564c956265",
+    "headline": "For open-source programs, AI coding tools are a mixed blessing",
+    "summary": "AI coding tools enable bad code flood but maintain difficulty in project maintenance.",
+    "description": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier but maintaining them is just as hard.",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:00"
+  },
+  {
+    "id": "d6d8053f23be",
+    "headline": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
+    "summary": "Awkward moment between OpenAI's Altman and Anthropic's Amodei at India AI summit.",
+    "description": "When Prime Minister Narendra Modi prompted speakers at the event to join hands and raise them in a show of unity, all executives on stage obliged, except OpenAI's Sam Altman and Anthropic's Dario Amodei, who held their hands conspicuously apart.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:49"
+  },
+  {
+    "id": "b4fdef303fae",
+    "headline": "Freeform raises $67M Series B to scale up laser AI manufacturing",
+    "summary": "Freeform raises $67M Series B to scale laser AI manufacturing with on-site H200 clusters.",
+    "description": "“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:00"
+  },
+  {
+    "id": "edf14a62e1e0",
+    "headline": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "summary": "Microsoft develops new plan to identify real vs AI-generated content online amid deception concerns.",
+    "description": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that…",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 16:00"
+  },
+  {
+    "id": "9652af927337",
+    "headline": "Microsoft says Copilot was summarizing confidential emails without permission - Mashable",
+    "summary": "Microsoft Copilot bug summarized confidential emails without proper permission controls.",
+    "description": "Microsoft says Copilot was summarizing confidential emails without permission MashableCopilot Chat bug bypasses DLP on 'Confidential' email theregister.comMicrosoft says Office bug exposed customers’ confidential emails to Copilot AI TechCrunchMicrosoft is uploading your confidential emails to Copilot for summarization NeowinMicrosoft 365 Copilot Flaw Allows AI Assistant to Summarize Sensitive Emails CybersecurityNews",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjdpZkQ2Y2Z5SlNQNnJ1UmJrd1ZsLXRWd1U4bkxHNGVWSzRPaGNRbkJtd1FPZ3Y3NFJRV2NkTjVYazJ5ZS1mMzZzYl9mZ2lHVUI5SlpXRmhVYkxucEVBZGVzOHkxbHZOS3YyYnhHdnFpQnZLUm1fVmNnV2gzX3VkYklhQm5ZQkZZTHFYcHQtRHZEMmZxZVZvcVh6alFFUQ?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:22"
+  },
+  {
+    "id": "745fe54311e0",
+    "headline": "AI platforms can be abused for stealthy malware communication - BleepingComputer",
+    "summary": "Researchers show AI platforms like Copilot and Grok can be exploited for malware communication.",
+    "description": "AI platforms can be abused for stealthy malware communication BleepingComputerResearchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies The Hacker NewsAI in the Middle: Turning Web-Based AI Services into C2 Proxies & The Future Of AI Driven Attacks CPR - Check Point ResearchManipulating AI memory for profit: The rise of AI Recommendation Poisoning MicrosoftHidden Commands Found in AI Summarize Buttons Bank Information Security",
+    "tags": [
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNURmaVI5VTdtdVlBLWVwS0V4MHczbjNmY3JudU13czY1VERxbE9qblhhSnNoUFYwOTZMek9JUmdBM1ZUd0VSOXdkR0RWUTltbzZBUk1DUS10cDh4cTVMMmplT0xYV1k5RG1heFJnZ3o0UWpFeTJ5VDFwNkpfZXdMY1c1eVhaZlVwcm1KSzVsSHpRZ1FIOGFrT21RQ1hYM2szdVRwSGNUY0lIbVZPTHfSAbMBQVVfeXFMTU96RWtTREptUDBWdVBzeHhDUWEwbUQwQWFXdTVxZTY4N1BrX0lsMjlaNFNBeGQ4Ymtwd2pkREhEeU1sMzQ4cExfRkRqc3FfY1Q4VFNwSTJHRV96UkJXRllvcEljV3E1ckt3anJIWVhSLWVIMFZ5TURZdEhmMWczXzZaRTJFR19zQVRyQlQwSlg2bUlCQ3ZSVkZOMHZyeTM5ZVlSb0pTRFlEeDJtV0pZYUp3QzQ?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 20:18"
+  },
+  {
+    "id": "2ba758c474c5",
+    "headline": "How AI upgrades enterprise treasury management",
+    "summary": "AI transforms enterprise treasury management by replacing manual spreadsheets with automation.",
+    "description": "The adoption of AI for enterprise treasury management enables businesses to abandon manual spreadsheets for automated data pipelines. Corporate finance departments face pressure from market volatility, regulatory demands, and digital finance requirements. Ashish Kumar, head of Infosys Oracle Sales for North America, and CM Grover, CEO of IBS FinTech, recently discussed the realities of corporate ... The post How AI upgrades enterprise treasury management appeared first on AI News.",
+    "tags": [
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:48"
+  },
+  {
+    "id": "4b352d0f1a25",
+    "headline": "Tell us: have you ever used AI to navigate everyday life and social relationships?",
+    "summary": "Survey seeks stories about using AI chatbots for social life and personal decision-making.",
+    "description": "We’d like to hear your stories about the ways you’re using chatbots to assist with your social life or important life decisions Lots of people now use chatbots as personal assistants, not just for work but in everyday life and social interactions. We want to hear your stories about the ways you’re using chatbots to navigate your social life or significant life decisions.Have you ever drafted a breakup text using AI? Or crafted a message to delicately cancel plans? Have you consulted AI on whethe",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/19/tell-us-have-you-ever-used-ai-to-navigate-everyday-life-and-social-relationships",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 16:20"
+  },
+  {
+    "id": "5a88b76d475c",
+    "headline": "Digital blackface flourishes under Trump and AI: ‘The state is bending reality’",
+    "summary": "Digital blackface AI deepfakes targeting Black users proliferate under Trump administration.",
+    "description": "From TikTok deepfakes to smears put out by the White House, fake videos modeled on Black archetypes are running rampant - putting Black users at riskLate last year, as a US government shutdown cut off the Snap benefits that low-income families rely on for groceries, videos on social media cast the fallout in frantic scenes. “Imma keep it real with you,” a Black woman said in a viral TikTok post, “I get over $2,500 a month in stamps. I sell ’em, $2,000 worth, for about $1,200-$1,500 cash.” Anothe",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-digital-blackface",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 15:35"
+  },
+  {
+    "id": "ef8098cd884b",
+    "headline": "How the anxiety over AI could fuel a new workers’ movement",
+    "summary": "AI anxiety creates opportunity for new workers' movement as technology threatens jobs.",
+    "description": "New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker powerIn 2026, it’s a scary time to work for a living.Gone are the days of quiet quitting, the Great Resignation, and the highly visible union-organizing battles that began the decade and signaled that perhaps worker power was on the rise again in the US. Instead, much of that momentum is being crowded out of our minds by anxieties: a worsening affordability crisis, geopolitical instability, an",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:00"
+  },
+  {
+    "id": "7b8d564277c6",
+    "headline": "Blinking New Warning Sign Appears for AI Industry",
+    "summary": "Wall Street shows warning signs about AI industry's future prospects and sustainability.",
+    "description": "Wall Street is terrified of what could come next. The post Blinking New Warning Sign Appears for AI Industry appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/blinking-new-warning-sign-ai-industry",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 12:04"
+  },
+  {
+    "id": "fa8ed9f7fcf2",
+    "headline": "A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI’s Effects on Productivity",
+    "summary": "CEO survey reveals damning findings about AI's actual impact on workplace productivity gains.",
+    "description": "The ever-elusive productivity gains strike back. The post A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI’s Effects on Productivity appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/survey-ceos-ai-workplace",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:12"
+  },
+  {
+    "id": "9025e6d6ac83",
+    "headline": "AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Surge of Personal Bankruptcies",
+    "summary": "Andrew Yang warns AI will destroy millions of white-collar jobs, driving personal bankruptcies.",
+    "description": "\"Do you sit at a desk and look at a computer much of the day? Take this very seriously.\" The post AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Surge of Personal Bankruptcies appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-labor-andrew-yang",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 09:01"
+  },
+  {
+    "id": "2a0411d38a3c",
+    "headline": "Realtor Uses AI, Accidentally Posts Listing for Rental Property With Demonic Figure Emerging From Mirror",
+    "summary": "Realtor accidentally posts AI-generated listing showing demonic figure in mirror reflection.",
+    "description": "\"Genuinely the worst possible thing to scroll past before I fall asleep.\" The post Realtor Uses AI, Accidentally Posts Listing for Rental Property With Demonic Figure Emerging From Mirror appeared first on Futurism.",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/realtor-ai-photo-mirror",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 10:53"
+  },
+  {
+    "id": "d856c914969b",
+    "headline": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "summary": "Google introduces Gemini 3.1 Pro model designed for complex tasks requiring detailed responses.",
+    "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "DeepMind Blog",
+    "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 16:06"
+  },
+  {
+    "id": "2b22da393ed1",
+    "headline": "NVIDIA Announces Strategic Partnership with Meta for AI Infrastructure",
+    "summary": "[Feb 17, 2026] Major multiyear partnership with Meta for hyperscale data centers supporting training and inference with millions of Blackwell and Rubin GPUs",
+    "description": "Major multiyear partnership with Meta for hyperscale data centers supporting training and inference with millions of Blackwell and Rubin GPUs",
+    "tags": [
+      "Infrastructure",
+      "Partnership"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "c23636c59ad7",
+    "headline": "xAI Restructured Following SpaceX Acquisition",
+    "summary": "[Feb 11, 2026] Company reorganized into 4 primary teams after SpaceX acquisition, with some layoffs affecting founding team members",
+    "description": "Company reorganized into 4 primary teams after SpaceX acquisition, with some layoffs affecting founding team members",
+    "tags": [
+      "Corporate",
+      "Restructuring"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 11, 2026"
+  },
+  {
+    "id": "e6fd4cb55ab1",
+    "headline": "xAI Launches Grok Imagine 1.0 with 10-Second Video Generation",
+    "summary": "[Feb 6, 2026] Major update introduces 10-second video generation, 720p resolution, and significantly improved audio capabilities",
+    "description": "Major update introduces 10-second video generation, 720p resolution, and significantly improved audio capabilities",
+    "tags": [
+      "Product",
+      "Video Generation"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 6, 2026"
+  },
+  {
+    "id": "c1c99255d733",
+    "headline": "OpenAI Releases GPT-5.3 Codex for Agentic Coding",
+    "summary": "[Feb 5, 2026] New agentic coding model that's 25% faster than GPT-5.2 and was instrumental in creating itself through self-improvement",
+    "description": "New agentic coding model that's 25% faster than GPT-5.2 and was instrumental in creating itself through self-improvement",
+    "tags": [
+      "Coding",
+      "AI Agents"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 5, 2026"
+  },
+  {
+    "id": "106c22856ff0",
+    "headline": "Anthropic Launches Claude Sonnet 5 'Fennec' Model",
+    "summary": "[Feb 3, 2026] New coding-focused model achieving 82.1% on SWE-Bench Verified while being 50% cheaper than Opus 4.5",
+    "description": "New coding-focused model achieving 82.1% on SWE-Bench Verified while being 50% cheaper than Opus 4.5",
+    "tags": [
+      "Coding",
+      "Performance"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 3, 2026"
+  },
+  {
+    "id": "8fd7bf22c776",
+    "headline": "NVIDIA Unveils 'Vera Rubin' AI Platform at CES 2026",
+    "summary": "[Jan 2026] Next-generation flagship AI platform following Blackwell architecture, featuring H300 GPUs for trillion-parameter models",
+    "description": "Next-generation flagship AI platform following Blackwell architecture, featuring H300 GPUs for trillion-parameter models",
+    "tags": [
+      "Hardware",
+      "Platform"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Jan 2026"
+  },
+  {
+    "id": "a8c256fcd60d",
+    "headline": "xAI Closes Record $20 Billion Series E Funding Round",
+    "summary": "[Early Feb 2026] Funding round exceeded $15B target with strategic investors including NVIDIA and Cisco, powering world's largest AI supercomputers",
+    "description": "Funding round exceeded $15B target with strategic investors including NVIDIA and Cisco, powering world's largest AI supercomputers",
+    "tags": [
+      "Funding",
+      "Infrastructure"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Early Feb 2026"
+  },
+  {
+    "id": "8782d4204139",
+    "headline": "Enterprise AI Spending Surges 180% to $7M Average in 2025",
+    "summary": "[This week] Andreessen Horowitz data shows dramatic acceleration in enterprise LLM adoption, projected to reach $11.6M in 2026",
+    "description": "Andreessen Horowitz data shows dramatic acceleration in enterprise LLM adoption, projected to reach $11.6M in 2026",
+    "tags": [
+      "Enterprise",
+      "Market Data"
+    ],
+    "source": "X / Industry Reports",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "This week"
+  },
+  {
     "id": "e885550662af",
     "headline": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
     "summary": "Reliance unveils $110B AI investment plan, building multi-gigawatt data centers in India with 120+ MW capacity by 2026.",
