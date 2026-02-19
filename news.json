@@ -1,5 +1,512 @@
 [
   {
+    "id": "0825d501c818",
+    "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+    "summary": "OpenAI partners with Tata for 100MW AI data center in India, plans 1GW capacity and new offices.",
+    "description": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 05:34"
+  },
+  {
+    "id": "3dd3f5357cdb",
+    "headline": "OpenAI deepens India push with Pine Labs fintech partnership",
+    "summary": "OpenAI partners with Pine Labs for enterprise AI-driven payments and commerce in India.",
+    "description": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 03:30"
+  },
+  {
+    "id": "abf74160442f",
+    "headline": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+    "summary": "Google Cloud VP discusses startup challenges with AI adoption amid funding pressures.",
+    "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond ...",
+    "tags": [
+      "Google",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 21:07"
+  },
+  {
+    "id": "9bae8334ad99",
+    "headline": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+    "summary": "Google Cloud VP advises startups on AI usage amid tighter funding and infrastructure costs.",
+    "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond ...",
+    "tags": [
+      "Google",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 20:22"
+  },
+  {
+    "id": "4901099c9a77",
+    "headline": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+    "summary": "Microsoft bug exposed customer emails to Copilot AI, bypassing data protection policies.",
+    "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
+    "tags": [
+      "Microsoft",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 14:44"
+  },
+  {
+    "id": "af73a229d9a1",
+    "headline": "OpenAI pushes into higher education as India seeks to scale AI skills",
+    "summary": "OpenAI expands education partnerships in India to reach 100,000 students and faculty.",
+    "description": "OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty, and staff over the next year.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 14:32"
+  },
+  {
+    "id": "57175ea26cc3",
+    "headline": "This Defense Company Made AI Agents That Blow Things Up",
+    "summary": "Scout AI develops lethal AI agents for defense applications using AI industry technology.",
+    "description": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 19:47"
+  },
+  {
+    "id": "b4dd97132260",
+    "headline": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "summary": "Nvidia-Meta deal signals shift from discrete chips to integrated AI computing systems.",
+    "description": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+    "tags": [
+      "NVIDIA",
+      "Meta"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 19:24"
+  },
+  {
+    "id": "7c0929789c0c",
+    "headline": "Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data, Advancing Noninvasive Thought-to-Text Development",
+    "summary": "Zyphra releases ZUNA, 380M-parameter foundation model for brain-computer interfaces.",
+    "description": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model specifically for EEG signals. ZUNA is a masked diffusion auto-encoder designed to perform channel infilling and super-resolution for any electrode layout. This release includes weights under an Apache-2.0 license and ... The post Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data,",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:43"
+  },
+  {
+    "id": "534566e5b918",
+    "headline": "Tavus Launches Phoenix-4: A Gaussian-Diffusion Model Bringing Real-Time Emotional Intelligence And Sub-600ms Latency To Generative Video AI",
+    "summary": "Tavus launches Phoenix-4 for real-time emotional AI video with sub-600ms latency.",
+    "description": "The ‘uncanny valley’ is the final frontier for generative video. We have seen AI avatars that can talk, but they often lack the soul of human interaction. They suffer from stiff movements and a lack of emotional context. Tavus aims to fix this with the launch of Phoenix-4, a new generative AI model designed for ... The post Tavus Launches Phoenix-4: A Gaussian-Diffusion Model Bringing Real-Time Emotional Intelligence And Sub-600ms Latency To Generative Video AI appeared first on MarkTechPost.",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/18/tavus-launches-phoenix-4-a-gaussian-diffusion-model-bringing-real-time-emotional-intelligence-and-sub-600ms-latency-to-generative-video-ai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 23:12"
+  },
+  {
+    "id": "4c2bc913c043",
+    "headline": "Google DeepMind Releases Lyria 3: An Advanced Music Generation AI Model that Turns Photos and Text into Custom Tracks with Included Lyrics and Vocals",
+    "summary": "Google DeepMind releases Lyria 3 AI model for generating music from photos and text.",
+    "description": "Google DeepMind is pushing the boundaries of generative AI again. This time, the focus is not on text or images. It is on music. The Google team recently introduced Lyria 3, their most advanced music generation model to date. Lyria 3 represents a significant shift in how machines handle complex audio waveforms and creative intent. ... The post Google DeepMind Releases Lyria 3: An Advanced Music Generation AI Model that Turns Photos and Text into Custom Tracks with Included Lyrics and Vocals appe",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/18/google-deepmind-releases-lyria-3-an-advanced-music-generation-ai-model-that-turns-photos-and-text-into-custom-tracks-with-included-lyrics-and-vocals/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 20:10"
+  },
+  {
+    "id": "6bcdb598c58d",
+    "headline": "Illinois governor proposes cancelling tax breaks for datacenters",
+    "summary": "Illinois governor proposes ending tax breaks for AI data centers amid public pushback.",
+    "description": "Pritzker’s move reflects increasing public pushback against resource-hungry facilities used to power the AI boomThe Illinois governor JB Pritzker proposed a two-year break from offering tax incentives for datacenters, a reflection of increasing public pushback against the massive, resource-hungry facilities used to power the modern AI boom.Pritzker made the proposal, which will need the backing of state lawmakers, during his annual state of the state address, which covers Illinois budget and pol",
+    "tags": [
+      "Regulation",
+      "Hardware"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/18/illinois-pritzker-tax-breaks-data-centers",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 20:16"
+  },
+  {
+    "id": "d9a64b274695",
+    "headline": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
+    "summary": "OpenAI's George Osborne warns countries without AI will become weaker and poorer.",
+    "description": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firmThe former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new employer, OpenAI, risk “Fomo” and could be left weaker and poorer.Osborne, who is two months into a job as head of the $500bn San Francisco AI company’s “for countries” programme, told leaders gathered for the AI Impact summit in Delhi: “Don’t be left behind.” He sai",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 17:57"
+  },
+  {
+    "id": "c2d8f96631bc",
+    "headline": "Introducing OpenAI for India",
+    "summary": "OpenAI launches India initiative for local infrastructure, enterprise, and workforce AI.",
+    "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/openai-for-india",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 21:00"
+  },
+  {
+    "id": "f622e3d0d76e",
+    "headline": "Show HN: Potatometer – Check how visible your website is to AI search (GEO)",
+    "summary": "Potatometer tool checks website visibility to AI search engines like ChatGPT.",
+    "description": "Most SEO tools only check for Google. But a growing chunk of search is now happening inside ChatGPT, Perplexity, and other AI engines, and the signals they use to surface content are different. Potatometer runs multiple checks across both traditional SEO and GEO (Generative Engine Optimization) factors and gives you a score with specific recommendations. Free, no login needed. Curious if others have been thinking about this problem and what signals you think matter most for AI visibility. Commen",
+    "tags": [
+      "Startup",
+      "OpenAI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://potatometer.com/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:41"
+  },
+  {
+    "id": "9f32c5545ad9",
+    "headline": "Sayou – Open-source Dropbox for AI agents",
+    "summary": "Sayou provides open-source Dropbox alternative designed for AI agents.",
+    "description": "success of openclaw is incredible, and I really loved playing with it, but of course the problem is the security risk running on my desktop. okay for personal use for fun, not at all for professional use.Once agents run in the cloud (and they will — you're not giving your marketing manager a terminal), they need somewhere to read and write. Right now there's nothing. Your company's knowledge is locked in Notion, Slack, Google Drive, and the agent can see none of it unless someone copy-pastes it ",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47070584",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:31"
+  },
+  {
+    "id": "f801f1c91b6f",
+    "headline": "Understanding Deep Learning",
+    "summary": "Understanding Deep Learning educational resource shared on Hacker News.",
+    "description": "Article URL: https://udlbook.github.io/udlbook/ Comments URL: https://news.ycombinator.com/item?id=47070556 Points: 2 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://udlbook.github.io/udlbook/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:28"
+  },
+  {
+    "id": "64ee62e91cbf",
+    "headline": "Best way to give feedback to Claude",
+    "summary": "Discussion about providing feedback to Claude AI assistant.",
+    "description": "Article URL: https://www.getautonoma.com/contact Comments URL: https://news.ycombinator.com/item?id=47070551 Points: 2 # Comments: 0",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.getautonoma.com/contact",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:26"
+  },
+  {
+    "id": "2e3cbe7cc4d4",
+    "headline": "Show HN: I built an AI that generates pixel art sprite animations",
+    "summary": "AI tool for generating pixel art sprite animations showcased on Hacker News.",
+    "description": "Article URL: https://rika-ai.com/ Comments URL: https://news.ycombinator.com/item?id=47070525 Points: 2 # Comments: 0",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://rika-ai.com/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:22"
+  },
+  {
+    "id": "58cdf96d573c",
+    "headline": "Show HN: I Stopped Writing Code – The 60/40 Rule for AI-Native Engineering",
+    "summary": "Engineer shares 60/40 rule for AI-native development and reducing coding work.",
+    "description": "Article URL: https://github.com/myinvestpilot/ai-architecture/blob/main/docs/02_ai_driven_development.md Comments URL: https://news.ycombinator.com/item?id=47070476 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/myinvestpilot/ai-architecture/blob/main/docs/02_ai_driven_development.md",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 06:14"
+  },
+  {
+    "id": "b92af8bbdfe8",
+    "headline": "LobsterAI – Your 24/7 all-scenario AI agent that gets work done for you",
+    "summary": "LobsterAI launches 24/7 AI agent platform for automated task completion.",
+    "description": "Article URL: https://lobsterai.youdao.com/#/en/index Comments URL: https://news.ycombinator.com/item?id=47070368 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://lobsterai.youdao.com/#/en/index",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 05:56"
+  },
+  {
+    "id": "d2b2d09a813e",
+    "headline": "Security audit of OpenClaw and other similar open source AI Agents",
+    "summary": "Security audit reveals vulnerabilities in OpenClaw and similar open source AI agents.",
+    "description": "Article URL: https://www.prismor.dev/blog/openclaw-ai-agents-security-audit Comments URL: https://news.ycombinator.com/item?id=47070200 Points: 5 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.prismor.dev/blog/openclaw-ai-agents-security-audit",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 05:18"
+  },
+  {
+    "id": "4cfbaa72641e",
+    "headline": "India AI Impact Summit 2026 kicks off in New Delhi",
+    "summary": "[Feb 19, 2026] Major global AI summit hosted in the Global South begins today with industry leaders, researchers, and policymakers discussing AI's future impact",
+    "description": "Major global AI summit hosted in the Global South begins today with industry leaders, researchers, and policymakers discussing AI's future impact",
+    "tags": [
+      "summit",
+      "India"
+    ],
+    "source": "X / @OfficialINDIAai",
+    "link": "https://x.com/OfficialINDIAai/status/1970046348171890788",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026"
+  },
+  {
+    "id": "1bf220ffde71",
+    "headline": "Raghav Chadha speaks at AI Impact Summit opening day",
+    "summary": "[Feb 19, 2026] Political leader discusses AI as power and protection, emphasizing that chips and compute will shape this century like oil and steel shaped the last",
+    "description": "Political leader discusses AI as power and protection, emphasizing that chips and compute will shape this century like oil and steel shaped the last",
+    "tags": [
+      "summit",
+      "policy"
+    ],
+    "source": "X / @raghav_chadha",
+    "link": "https://x.com/raghav_chadha/status/2023372954210594860",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026"
+  },
+  {
+    "id": "12c96caea230",
+    "headline": "xAI unveils Grok Imagine API for video-audio generation",
+    "summary": "[2 weeks ago] New unified API suite enables end-to-end creative workflows with video-audio generation from images or text prompts with motion control",
+    "description": "New unified API suite enables end-to-end creative workflows with video-audio generation from images or text prompts with motion control",
+    "tags": [
+      "launch",
+      "multimodal"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "2 weeks ago"
+  },
+  {
+    "id": "c975bbe9f256",
+    "headline": "OpenAI rolls out Lockdown Mode for high-security users",
+    "summary": "[5 days ago] New advanced security setting for executives limits web browsing and adds elevated risk labels to protect against data exfiltration",
+    "description": "New advanced security setting for executives limits web browsing and adds elevated risk labels to protect against data exfiltration",
+    "tags": [
+      "security",
+      "enterprise"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "5 days ago"
+  },
+  {
+    "id": "1214ef1c53f3",
+    "headline": "NVIDIA Rubin platform accelerates next-gen AI development",
+    "summary": "[announced recently] Six new chips and AI supercomputer platform will support major labs including OpenAI, Anthropic, Meta, and xAI starting second half 2026",
+    "description": "Six new chips and AI supercomputer platform will support major labs including OpenAI, Anthropic, Meta, and xAI starting second half 2026",
+    "tags": [
+      "hardware",
+      "infrastructure"
+    ],
+    "source": "X / @nvidia",
+    "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "announced recently"
+  },
+  {
+    "id": "3cb9a7c42b34",
+    "headline": "Voice AI predicted to explode in 2026",
+    "summary": "[recent] Industry expert notes productivity gains from dictation tools and predicts widespread adoption of voice-powered AI applications",
+    "description": "Industry expert notes productivity gains from dictation tools and predicts widespread adoption of voice-powered AI applications",
+    "tags": [
+      "voice",
+      "productivity"
+    ],
+    "source": "X / @alliekmiller",
+    "link": "https://x.com/alliekmiller/status/2000671547380404606",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "97c7c8330869",
+    "headline": "Mark Cuban on customized AI integration wave",
+    "summary": "[Feb 15, 2026] Predicts next job wave in customized AI integration for small-mid companies as software becomes personalized to unique business needs",
+    "description": "Predicts next job wave in customized AI integration for small-mid companies as software becomes personalized to unique business needs",
+    "tags": [
+      "business",
+      "integration"
+    ],
+    "source": "X / @rohanpaul_ai",
+    "link": "https://x.com/rohanpaul_ai/status/2022901841772843245",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 15, 2026"
+  },
+  {
+    "id": "8b0bdd123960",
+    "headline": "OpenAI acknowledges prompt injection security risks",
+    "summary": "[recently announced] Company officially recognizes prompt injection attacks as structural security risk that cannot be fully patched, deploys countermeasures",
+    "description": "Company officially recognizes prompt injection attacks as structural security risk that cannot be fully patched, deploys countermeasures",
+    "tags": [
+      "security",
+      "risks"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-19",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "recently announced"
+  },
+  {
     "id": "7549f4ff7c9d",
     "headline": "Google’s AI music maker is coming to the Gemini app",
     "summary": "Google integrates DeepMind's Lyria 3 music generation model into Gemini app, enabling 30-second AI track creation.",
