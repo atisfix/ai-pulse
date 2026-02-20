@@ -1,5 +1,522 @@
 [
   {
+    "id": "ade93c4fbb80",
+    "headline": "The AI security nightmare is here and it looks suspiciously like lobster",
+    "summary": "Hacker exploited AI coding tool to install OpenClaw agent everywhere, highlighting AI security vulnerabilities.",
+    "description": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. The hacker took advantage of ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:58"
+  },
+  {
+    "id": "64a9f6bf5690",
+    "headline": "Google’s new Gemini Pro model has record benchmark scores — again",
+    "summary": "Google's Gemini 3.1 Pro achieves record benchmark scores for complex work capabilities.",
+    "description": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 00:55"
+  },
+  {
+    "id": "6b143b4fa7ac",
+    "headline": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+    "summary": "Nvidia expands early-stage investments in India's growing AI startup ecosystem.",
+    "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+    "tags": [
+      "NVIDIA",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 00:30"
+  },
+  {
+    "id": "3d940996cdfb",
+    "headline": "Why these startup CEOs don’t think AI will replace human roles",
+    "summary": "Startup CEOs believe AI will replace tasks, not workers entirely.",
+    "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 20:47"
+  },
+  {
+    "id": "282e4f1441c4",
+    "headline": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+    "summary": "YouTube tests conversational AI on smart TVs for video-related queries.",
+    "description": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 20:30"
+  },
+  {
+    "id": "2dd97e788e52",
+    "headline": "Reddit is testing a new AI search feature for shopping",
+    "summary": "Reddit pilots AI search feature with interactive product carousels for shopping.",
+    "description": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 18:22"
+  },
+  {
+    "id": "f4ad05afa0c6",
+    "headline": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
+    "summary": "Mirai raises $10M to improve AI model inference on smartphones and laptops.",
+    "description": "Mirai raised a $10 million seed round to improve how AI models run on devices like smartphones and laptops.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:43"
+  },
+  {
+    "id": "58468f3823aa",
+    "headline": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+    "summary": "Code Metal raises $125M to use AI for translating legacy defense software.",
+    "description": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 19:30"
+  },
+  {
+    "id": "e058642bcacb",
+    "headline": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+    "summary": "Perplexity shifts strategy away from advertising to focus on smaller, valuable audience.",
+    "description": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 19:12"
+  },
+  {
+    "id": "fdccb9b4e79d",
+    "headline": "Google’s new Gemini Pro model has record benchmark scores — again - TechCrunch",
+    "summary": "Google's Gemini 3.1 Pro achieves record benchmark performance again.",
+    "description": "Google’s new Gemini Pro model has record benchmark scores — again TechCrunchGemini 3.1 Pro: A smarter model for your most complex tasks blog.googleGemini Deep Think: Redefining the Future of Scientific Research Google DeepMindGemini 3.1 Pro is now in public preview in GitHub Copilot The GitHub BlogGoogle’s Gemini 3.1 Pro is mostly great The New Stack",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3pvYmtKX3NrelZncVVmTTdTVldxOXVMRkt4aC1EZjFESnNteXdick5CRjVET24tblNZYVNlTF9SSHIwNHdBcllOb3VlQXdiVzZkMlpCaHhHTFJrTGhNNkZPWWNpZ0RoSTYxaWIxaHRjZVAwNzhtTE1peG9HbU1wNTdDeXdBZG9NTmVUQmhvOUJIbDJIeWo0TEloelVFZw?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 00:55"
+  },
+  {
+    "id": "845c44fed505",
+    "headline": "How to Build Transparent AI Agents: Traceable Decision-Making with Audit Trails and Human Gates",
+    "summary": "Tutorial on building transparent AI agents with audit trails and human oversight.",
+    "description": "In this tutorial, we build a glass-box agentic workflow that makes every decision traceable, auditable, and explicitly governed by human approval. We design the system to log each thought, action, and observation into a tamper-evident audit ledger while enforcing dynamic permissioning for high-risk operations. By combining LangGraph’s interrupt-driven human-in-the-loop control with a hash-chained database, we ... The post How to Build Transparent AI Agents: Traceable Decision-Making with Audit T",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 06:28"
+  },
+  {
+    "id": "4d7f1cd3c8d2",
+    "headline": "Google AI Releases Gemini 3.1 Pro with 1 Million Token Context and 77.1 Percent ARC-AGI-2 Reasoning for AI Agents",
+    "summary": "Google releases Gemini 3.1 Pro with 1M token context and 77.1% ARC-AGI reasoning.",
+    "description": "Google has officially shifted the Gemini era into high gear with the release of Gemini 3.1 Pro, the first version update in the Gemini 3 series. This release is not just a minor patch; it is a targeted strike at the ‘agentic’ AI market, focusing on reasoning stability, software engineering, and tool-use reliability. For devs, ... The post Google AI Releases Gemini 3.1 Pro with 1 Million Token Context and 77.1 Percent ARC-AGI-2 Reasoning for AI Agents appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "LLM",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 21:06"
+  },
+  {
+    "id": "21c630394650",
+    "headline": "A Coding Implementation to Build Bulletproof Agentic Workflows with PydanticAI Using Strict Schemas, Tool Injection, and Model-Agnostic Execution",
+    "summary": "Tutorial on building reliable agentic workflows using PydanticAI with strict schemas.",
+    "description": "In this tutorial, we build a production-ready agentic workflow that prioritizes reliability over best-effort generation by enforcing strict, typed outputs at every step. We use PydanticAI to define clear response schemas, wire in tools via dependency injection, and ensure the agent can safely interact with external systems, such as a database, without breaking execution. By ... The post A Coding Implementation to Build Bulletproof Agentic Workflows with PydanticAI Using Strict Schemas, Tool Inje",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 20:05"
+  },
+  {
+    "id": "d54408750420",
+    "headline": "Mind launches inquiry into AI and mental health after Guardian investigation",
+    "summary": "Mind charity launches inquiry into AI mental health advice after Guardian investigation.",
+    "description": "Exclusive: England and Wales charity to examine safeguards after Guardian exposed ‘very dangerous’ advice on Google AI Overviews‘Very dangerous’: a Mind mental health expert on Google’s AI summariesMind is launching a significant inquiry into artificial intelligence and mental health after a Guardian investigation exposed how Google’s AI Overviews gave people “very dangerous” medical advice.In a year-long commission, the mental health charity, which operates in England and Wales, will examine th",
+    "tags": [
+      "Healthcare",
+      "Google"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 06:00"
+  },
+  {
+    "id": "e26190954d81",
+    "headline": "‘Very dangerous’: a Mind mental health expert on Google’s AI Overviews",
+    "summary": "Mental health expert warns Google's AI Overviews provide dangerous inaccurate advice.",
+    "description": "Information content manager Rosie Weatherley says harmful inaccuracies are presented as uncontroversial factsMind launches inquiry into AI and mental health after Guardian investigationA year-long commission has been launched by Mind to examine AI and mental health after a Guardian investigation exposed how Google’s AI Overviews, which are shown to 2 billion people each month, gave people “very dangerous” mental health advice.Here, Rosie Weatherley, information content manager at the largest men",
+    "tags": [
+      "Healthcare",
+      "Google"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/society/2026/feb/20/mind-mental-health-expert-google-ai-summaries",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 06:00"
+  },
+  {
+    "id": "9c26f133cf8f",
+    "headline": "How the anxiety over AI could fuel a new workers’ movement",
+    "summary": "AI anxiety could fuel new workers' movement as technology changes employment landscape.",
+    "description": "New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker powerIn 2026, it’s a scary time to work for a living.Gone are the days of quiet quitting, the Great Resignation, and the highly visible union-organizing battles that began the decade and signaled that perhaps worker power was on the rise again in the US. Instead, much of that momentum is being crowded out of our minds by anxieties: a worsening affordability crisis, geopolitical instability and",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 13:00"
+  },
+  {
+    "id": "6475620363a1",
+    "headline": "Amazon’s Shiny New Warehouse Robot Just Failed in Spectacular Style",
+    "summary": "Amazon's new warehouse robot fails spectacularly in deployment.",
+    "description": "So much for building on AI breakthroughs. The post Amazon’s Shiny New Warehouse Robot Just Failed in Spectacular Style appeared first on Futurism.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/robots-and-machines/amazon-warehouse-robot-failed",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:10"
+  },
+  {
+    "id": "2cb9ca016050",
+    "headline": "Advancing independent research on AI alignment",
+    "summary": "OpenAI commits $7.5M to fund independent AI alignment research through The Alignment Project.",
+    "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "tags": [
+      "OpenAI",
+      "Research"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 10:00"
+  },
+  {
+    "id": "8995b81fd566",
+    "headline": "Study: AI chatbots provide less-accurate information to vulnerable users",
+    "summary": "MIT study finds AI chatbots less accurate for vulnerable users with language barriers.",
+    "description": "Research from the MIT Center for Constructive Communication finds leading AI models perform worse for users with lower English proficiency, less formal education, and non-US origins.",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT News AI",
+    "link": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 18:25"
+  },
+  {
+    "id": "13744bef5764",
+    "headline": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models",
+    "summary": "MIT develops new method to expose biases and vulnerabilities in large language models.",
+    "description": "A new method developed at MIT could root out vulnerabilities and improve LLM safety and performance.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MIT News AI",
+    "link": "https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 14:00"
+  },
+  {
+    "id": "055ba595967e",
+    "headline": "Proof Assistants in the Age of AI",
+    "summary": "Article discusses proof assistants in the context of AI development.",
+    "description": "Article URL: https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html Comments URL: https://news.ycombinator.com/item?id=47084391 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 06:14"
+  },
+  {
+    "id": "9cdd8a70946a",
+    "headline": "Show HN: Syne – AI agent that remembers everything, built on PostgreSQL",
+    "summary": "Syne is a self-hosted AI agent framework with persistent memory using PostgreSQL.",
+    "description": "I built Syne because I was tired of AI assistants that forget everything after each conversation.Syne is a self-hosted AI agent framework where memory is a first-class citizen — stored as semantic vectors in PostgreSQL, searchable across millions of entries, and persistent forever.Key features: - Unlimited persistent memory with semantic search (pgvector) - Anti-hallucination: only stores user-confirmed facts, auto-deduplicates - Self-evolving: creates new abilities at runtime without restart - ",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47084365",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 06:10"
+  },
+  {
+    "id": "1aaca887165f",
+    "headline": "A Guide to Which AI to Use in the Agentic Era",
+    "summary": "Guide to choosing appropriate AI tools in the agentic era.",
+    "description": "Article URL: https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the Comments URL: https://news.ycombinator.com/item?id=47084307 Points: 2 # Comments: 0",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 05:57"
+  },
+  {
+    "id": "d86a49145f6e",
+    "headline": "Anthropic Raises Massive $30 Billion Series G Funding Round",
+    "summary": "[February 12, 2026] Anthropic secures $30B funding at $380B post-money valuation, positioning them as a major competitor to OpenAI",
+    "description": "Anthropic secures $30B funding at $380B post-money valuation, positioning them as a major competitor to OpenAI",
+    "tags": [
+      "funding",
+      "valuation"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 12, 2026"
+  },
+  {
+    "id": "d558a8340b24",
+    "headline": "Anthropic Unveils Claude Opus 4.6 with Enhanced Capabilities",
+    "summary": "[February 5, 2026] Latest Claude model release featuring significant improvements in reasoning and multi-step task execution",
+    "description": "Latest Claude model release featuring significant improvements in reasoning and multi-step task execution",
+    "tags": [
+      "model release",
+      "capabilities"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 5, 2026"
+  },
+  {
+    "id": "8cf5fa6bbc50",
+    "headline": "OpenAI Launches Lockdown Mode for High-Security Users",
+    "summary": "[1 day ago] New security feature restricts web browsing to cached content and adds 'Elevated Risk' labels across ChatGPT products",
+    "description": "New security feature restricts web browsing to cached content and adds 'Elevated Risk' labels across ChatGPT products",
+    "tags": [
+      "security",
+      "enterprise"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "1 day ago"
+  },
+  {
+    "id": "afaec93a0253",
+    "headline": "OpenAI Retires Multiple GPT Models Including GPT-5",
+    "summary": "[1 day ago] GPT-4o, GPT-4.1, GPT-4.1 mini, OpenAI o4-mini, and GPT-5 (Instant and Thinking) officially retired from ChatGPT",
+    "description": "GPT-4o, GPT-4.1, GPT-4.1 mini, OpenAI o4-mini, and GPT-5 (Instant and Thinking) officially retired from ChatGPT",
+    "tags": [
+      "model retirement",
+      "updates"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "1 day ago"
+  },
+  {
+    "id": "8378df08331f",
+    "headline": "AI Physics Breakthrough Sparks Viral Debate on X",
+    "summary": "[February 15, 2026 at 12:06 am] Claims that AI spotted 45-year gluon physics error via recursive reasoning ignites discussions about real breakthrough vs hype",
+    "description": "Claims that AI spotted 45-year gluon physics error via recursive reasoning ignites discussions about real breakthrough vs hype",
+    "tags": [
+      "physics",
+      "breakthrough"
+    ],
+    "source": "X / @ohdearitsmandy",
+    "link": "https://x.com/ohdearitsmandy/status/2022915481624064146",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 15, 2026 at 12:06 am"
+  },
+  {
+    "id": "473fbb7523f1",
+    "headline": "Snowflake Partners with OpenAI in $200M Strategic Deal",
+    "summary": "[recent] Partnership focuses on 'agentic AI' for enterprises, integrating OpenAI's models into Snowflake's Data Cloud platform",
+    "description": "Partnership focuses on 'agentic AI' for enterprises, integrating OpenAI's models into Snowflake's Data Cloud platform",
+    "tags": [
+      "partnership",
+      "enterprise"
+    ],
+    "source": "X / AI News",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "recent"
+  },
+  {
+    "id": "a10352c2a305",
+    "headline": "OpenAI Hires Viral AI Assistant Creator for Personal Agents",
+    "summary": "[February 16, 2026] Peter Steinberger, creator of OpenClaw AI, joins to develop 'next generation of personal agents' according to Sam Altman",
+    "description": "Peter Steinberger, creator of OpenClaw AI, joins to develop 'next generation of personal agents' according to Sam Altman",
+    "tags": [
+      "hiring",
+      "agents"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 16, 2026"
+  },
+  {
+    "id": "8b960cda5b0d",
+    "headline": "DeepSeek R1 Model Performance Continues Making Waves",
+    "summary": "[past 24 hours] Open-source reasoning model maintains competitive performance against proprietary alternatives, driving adoption",
+    "description": "Open-source reasoning model maintains competitive performance against proprietary alternatives, driving adoption",
+    "tags": [
+      "open source",
+      "reasoning"
+    ],
+    "source": "X / AI Community",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "past 24 hours"
+  },
+  {
     "id": "1ee41fa8b4bc",
     "headline": "Money no longer matters to AI’s top talent",
     "summary": "AI researcher job market is hottest globally, with talent concentrated in small pool of experts.",
