@@ -1,5 +1,490 @@
 [
   {
+    "id": "bf9301de29de",
+    "headline": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+    "summary": "G42 partners with Cerebras to deploy 8 exaflops of AI compute infrastructure in India.",
+    "description": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:58"
+  },
+  {
+    "id": "e0d4d022d9b0",
+    "headline": "Could AI Data Centers Be Moved to Outer Space?",
+    "summary": "Discussion on moving AI data centers to space due to Earth's environmental constraints.",
+    "description": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:00"
+  },
+  {
+    "id": "ace49168dc63",
+    "headline": "AI: Executives’ optimism about the future",
+    "summary": "Study of 6,000 executives shows optimistic outlook on AI's business impact.",
+    "description": "The most rigorous international study of firm-level AI impact to date has landed, and its headline finding is more constructive than many expected. Across nearly 6,000 verified executives in four countries, AI has delivered modest aggregate shifts in productivity or employment over the past three years. The measured impact reflects the early phases of deployment ... The post AI: Executives’ optimism about the future appeared first on AI News.",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 10:56"
+  },
+  {
+    "id": "8248062a3a8d",
+    "headline": "Coca-Cola turns to AI marketing as price-led growth slows",
+    "summary": "Coca-Cola shifts to AI marketing as price-led growth strategy slows down.",
+    "description": "Shifting from price hikes to persuasion, Coca-Cola’s latest strategy signals how AI is moving deeper into the core of corporate marketing. Recent coverage of the company’s leadership discussions shows that Coca-Cola is entering what executives describe as a new phase focused on influence not pricing power. According to Mi-3, the company is changing its focus ... The post Coca-Cola turns to AI marketing as price-led growth slows appeared first on AI News.",
+    "tags": [
+      "Market",
+      "Creative AI"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 10:00"
+  },
+  {
+    "id": "4adf1309d3a8",
+    "headline": "Nvidia reportedly plans to invest $30bn in OpenAI’s next funding round",
+    "summary": "Nvidia reportedly planning $30bn investment in OpenAI's next funding round.",
+    "description": "Chip manufacturer to invest in return for stock after previous ‘circular’ $100bn deal dissolved earlier this monthNvidia, the world’s most valuable company, is reportedly planning to invest $30bn (£22bn) in OpenAI’s next funding round, after a $100bn deal between the two dissolved earlier this month.The maker of ChatGPT is expected to be valued at $730bn in the funding round, nearly twice the valuation of Anthropic, one of its main rivals, which raised $30bn earlier this month. Continue reading.",
+    "tags": [
+      "NVIDIA",
+      "OpenAI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/20/nvidia-investment-openai-chatgpt-funding-round-ai-artificial-intelligence",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:15"
+  },
+  {
+    "id": "407c82acccbd",
+    "headline": "The U.S. and China Are Pursuing Different AI Futures",
+    "summary": "Analysis of different AI development approaches between U.S. and China.",
+    "description": "Article URL: https://spectrum.ieee.org/us-china-ai Comments URL: https://news.ycombinator.com/item?id=47087207 Points: 1 # Comments: 0",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://spectrum.ieee.org/us-china-ai",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:32"
+  },
+  {
+    "id": "8e1900a429ee",
+    "headline": "Gentoo Linux moves away from GitHub due to AI",
+    "summary": "Gentoo Linux moves away from GitHub citing concerns about AI.",
+    "description": "Article URL: https://www.pcgamer.com/software/linux/after-microsoft-couldnt-keep-its-ai-hands-to-itself-a-notoriously-complex-linux-distro-has-started-its-long-march-away-from-github/ Comments URL: https://news.ycombinator.com/item?id=47087012 Points: 2 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.pcgamer.com/software/linux/after-microsoft-couldnt-keep-its-ai-hands-to-itself-a-notoriously-complex-linux-distro-has-started-its-long-march-away-from-github/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:08"
+  },
+  {
+    "id": "86e75ab8e7ac",
+    "headline": "Show HN: Geo-lint – open-source linter for GEO (AI search visibility)",
+    "summary": "Open-source linter tool for GEO AI search visibility optimization.",
+    "description": "Article URL: https://github.com/IJONIS/geo-lint Comments URL: https://news.ycombinator.com/item?id=47086977 Points: 1 # Comments: 1",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/IJONIS/geo-lint",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:04"
+  },
+  {
+    "id": "4f55811526ae",
+    "headline": "The battle over Scott Adams' AI afterlife",
+    "summary": "Ethics debate over Scott Adams' AI avatar resurrection after death.",
+    "description": "Article URL: https://www.businessinsider.com/scott-adams-death-ai-avatar-resurrection-ethics-debate-family-backlash-2026-2 Comments URL: https://news.ycombinator.com/item?id=47086967 Points: 2 # Comments: 1",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.businessinsider.com/scott-adams-death-ai-avatar-resurrection-ethics-debate-family-backlash-2026-2",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:03"
+  },
+  {
+    "id": "cacddb601f12",
+    "headline": "Show HN: OkaiDokai, tool-level firewall for OpenClaw, Claude Code and Codex",
+    "summary": "OkaiDokai firewall tool for controlling OpenClaw, Claude Code and Codex agents.",
+    "description": "Hey HN, Sascha here, developer of OkaiDokai. Like many others, I fell in love with OpenClaw, but was longing for more control over what it can do without interrupting its autonomous, agentic nature. OkaiDokai solves this for me by allowing me to set up my own rule set of what is allowed by default, what is not, and what it should ask permission for. It comes with a hosted API, web and native apps including push notifications (with quick-response support), plugins for OpenClaw and Claude Code, an",
+    "tags": [
+      "Agents",
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://okaidokai.com",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:57"
+  },
+  {
+    "id": "96be405ff489",
+    "headline": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
+    "summary": "Developer uses Claude Code and GSD to build accessibility tool.",
+    "description": "Article URL: https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/ Comments URL: https://news.ycombinator.com/item?id=47086847 Points: 3 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:50"
+  },
+  {
+    "id": "5d6455bcb6cf",
+    "headline": "Sam Altman says companies are 'AI washing' by blaming layoffs on the technology",
+    "summary": "Sam Altman criticizes companies 'AI washing' layoffs by blaming technology.",
+    "description": "Article URL: https://fortune.com/2026/02/19/sam-altman-confirms-ai-washing-job-displacement-layoffs/ Comments URL: https://news.ycombinator.com/item?id=47086840 Points: 2 # Comments: 0",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://fortune.com/2026/02/19/sam-altman-confirms-ai-washing-job-displacement-layoffs/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:50"
+  },
+  {
+    "id": "de389c65ae21",
+    "headline": "Using classic dev books to guide AI agents?",
+    "summary": "Project turning classic dev books into structured skills for AI agents.",
+    "description": "I’ve been experimenting with a small open-source project that turns ideas from classic software engineering books (Clean Code, DDIA, etc.) into structured “skills” that AI agents can reuse for tasks like code review, system design, and trade-off analysis.Each skill is an opinionated, book-inspired instruction set rather than a summary or excerpt.I’m trying to understand: - Is this kind of abstraction useful in practice? - Where would you expect something like this to fail? - Would you trust AI t",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47086756",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:41"
+  },
+  {
+    "id": "976e5415e492",
+    "headline": "Show HN: Stop Running Your AI Agent on a Laptop: Meet AgentClaw",
+    "summary": "AgentClaw platform simplifies AI agent deployment beyond laptop setups.",
+    "description": "If you’ve ever tried to run an AI agent in production, you know the pain: Docker setup, VPS provisioning, SSL, DNS, secrets management, restarts, logs, and updates.Most builders don’t want to spend their time becoming infrastructure engineers — they want to build, iterate, and ship.That’s exactly why I built AgentClaw. Comments URL: https://news.ycombinator.com/item?id=47086745 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://medium.com/@journeypreneur/stop-running-your-ai-agent-on-a-laptop-meet-agentclaw-57ad68e88f84",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:39"
+  },
+  {
+    "id": "c302a50c1bc2",
+    "headline": "Microsoft Uses Plagiarized AI Slop Flowchart to Explain How Git Works",
+    "summary": "Microsoft criticized for using plagiarized AI-generated flowchart to explain Git.",
+    "description": "Article URL: https://hackaday.com/2026/02/19/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-git-works/ Comments URL: https://news.ycombinator.com/item?id=47086606 Points: 6 # Comments: 0",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://hackaday.com/2026/02/19/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-git-works/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:24"
+  },
+  {
+    "id": "c980c01b18ec",
+    "headline": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
+    "summary": "Amazon surpasses Walmart in revenue for first time, both pursuing AI growth.",
+    "description": "Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago. submitted by /u/ControlCAD [link] [comments]",
+    "tags": [
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r9pz0z/amazon_surpasses_walmart_in_annual_revenue_for/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 08:33"
+  },
+  {
+    "id": "bfc5ab7ff8ab",
+    "headline": "Les devs créent des agents conscients sans le savoir , et personne pose de garde-fous",
+    "summary": "Developer discusses creating conscious AI agents without safeguards.",
+    "description": "Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : ",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1r9qh5e/les_devs_créent_des_agents_conscients_sans_le/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 09:06"
+  },
+  {
+    "id": "3f298564ed19",
+    "headline": "🔥 Final Release — LTX-2 Easy Prompt + Vision. Two free ComfyUI nodes that write your prompts for you. Fully local, no API, no compromises",
+    "summary": "LTX-2 Easy Prompt ComfyUI nodes for local AI video generation released.",
+    "description": "❤️UPDATE NOTES @ BOTTOM❤️ UPDATED USER FRIENDLY WORKFLOWS WITH LINKS -20/02/2026- Final release no more changes. (unless small big fix) Github link IMAGE & TEXT TO VIDEO WORKFLOWS 🎬 LTX-2 Easy Prompt Node ✏️ Plain English in, cinema-ready prompt out — type a rough idea and get 500+ tokens of dense cinematic prose back, structured exactly the way LTX-2 expects it. 🎥 Priority-first structure — every prompt is built in the right order: style → camera → character → scene → action → movement → audio.",
+    "tags": [
+      "Video Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r8wdd4/final_release_ltx2_easy_prompt_vision_two_free/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 11:03"
+  },
+  {
+    "id": "a519e43666d2",
+    "headline": "How do you stop AI presenters from looking like stickers in SDXL renders?",
+    "summary": "SDXL user seeks help with realistic AI avatar compositing in property walkthroughs.",
+    "description": "I’m trying to use SDXL for property walkthroughs, but I’m hitting a wall with the final compositing. The room renders look great, but the AI avatars look like plastic stickers. The lighting is completely disconnected. The room has warm natural light from the windows, but the avatar has that flat studio lighting that doesn't sit in the scene. Plus, I’m getting major character drift. If I move the presenter from the kitchen to the bedroom, the facial features shift enough that it looks like a diff",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r9rnfp/how_do_you_stop_ai_presenters_from_looking_like/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 10:16"
+  },
+  {
+    "id": "74b6a886e662",
+    "headline": "Best opensource model for photographic style training?",
+    "summary": "Photographer seeks best open-source model for photographic style training.",
+    "description": "I'm a photographer with a pretty large archive of work in a coherent style, I'd like to train a lora or full fine tune of a model to do txt2img mainly following my style. What would be the best base to use? I tried some trainings back with flux 1 dev but results weren't great. I have heard Wan actually works quite as txt2img and seem to learn styles well? What model would you suggest could fit best the use case? Thank you so much! submitted by /u/duchampssss [link] [comments]",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r9oz61/best_opensource_model_for_photographic_style/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 07:32"
+  },
+  {
+    "id": "3267d2a865a0",
+    "headline": "Custom Node: Wan 2.2 First/Last Frame for SVI 2 Pro",
+    "summary": "Custom node combining Wan 2.2 First/Last Frame with SVI 2 Pro for video continuity.",
+    "description": "Spent the past few days building a custom node that combines Wan 2.2 First/Last Frame with SVI 2 Pro. If you're into stitching clips together with better continuity, might be worth a look. https://github.com/Well-Made/ComfyUI-Wan-SVI2Pro-FLF submitted by /u/Aromatic-Somewhere29 [link] [comments]",
+    "tags": [
+      "Video Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r9u9oa/custom_node_wan_22_firstlast_frame_for_svi_2_pro/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:38"
+  },
+  {
+    "id": "f9182b0868be",
+    "headline": "OpenAI Testing Ads in ChatGPT Starting Monday",
+    "summary": "[Feb 9, 2026] Sam Altman announces ChatGPT hits 10% monthly growth again, launches new model this week, and begins testing ads Monday despite Anthropic criticism",
+    "description": "Sam Altman announces ChatGPT hits 10% monthly growth again, launches new model this week, and begins testing ads Monday despite Anthropic criticism",
+    "tags": [
+      "ChatGPT",
+      "Monetization"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 9, 2026"
+  },
+  {
+    "id": "a2a0d6ac923d",
+    "headline": "xAI Releases Grok 4.20 Beta with Rapid Learning",
+    "summary": "[Feb 17, 2026] Elon Musk launches Grok 4.20 public beta featuring rapid learning architecture that improves weekly based on user feedback",
+    "description": "Elon Musk launches Grok 4.20 public beta featuring rapid learning architecture that improves weekly based on user feedback",
+    "tags": [
+      "Grok",
+      "Beta Release"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "8858ed970f56",
+    "headline": "House Democrats Probe Grok Over AI Deepfakes",
+    "summary": "[Feb 19, 2026] Three House Democrats demand answers from Musk about Grok creating sexualized deepfakes without consent, including of minors",
+    "description": "Three House Democrats demand answers from Musk about Grok creating sexualized deepfakes without consent, including of minors",
+    "tags": [
+      "AI Safety",
+      "Regulation"
+    ],
+    "source": "X / @HouseEnergyDems",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026"
+  },
+  {
+    "id": "6c81af717253",
+    "headline": "Anthropic Announces Tasks Mode with 5 Starting Points",
+    "summary": "[Feb 18, 2026] New Anthropic UI adds Research, Analyse, Write, Build, and Do More modes with granular controls and progress tracking sidebar",
+    "description": "New Anthropic UI adds Research, Analyse, Write, Build, and Do More modes with granular controls and progress tracking sidebar",
+    "tags": [
+      "Claude",
+      "Product Update"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 18, 2026"
+  },
+  {
+    "id": "202fa65b280f",
+    "headline": "Yann LeCun Says AI Can't Learn to Drive Like Humans",
+    "summary": "[Feb 19, 2026] At India AI Summit, former Meta AI chief says AI lacks understanding of physical world, calls LLMs limited despite passing bar exams",
+    "description": "At India AI Summit, former Meta AI chief says AI lacks understanding of physical world, calls LLMs limited despite passing bar exams",
+    "tags": [
+      "AI Limitations",
+      "Summit"
+    ],
+    "source": "X / @ylecun",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026"
+  },
+  {
+    "id": "798fd5d7fcb1",
+    "headline": "SpaceX Acquires xAI in Surprise Announcement",
+    "summary": "[Feb 2, 2026] Musk announces SpaceX has acquired his AI startup xAI, with engineers celebrating at Palo Alto headquarters",
+    "description": "Musk announces SpaceX has acquired his AI startup xAI, with engineers celebrating at Palo Alto headquarters",
+    "tags": [
+      "Acquisition",
+      "xAI"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2, 2026"
+  },
+  {
+    "id": "04017f5b2a5a",
+    "headline": "Altman and Amodei Refuse to Hold Hands at AI Summit",
+    "summary": "[Feb 19, 2026] OpenAI and Anthropic CEOs avoid contact during photo op at India AI Impact Summit, highlighting ongoing tension after Super Bowl ad war",
+    "description": "OpenAI and Anthropic CEOs avoid contact during photo op at India AI Impact Summit, highlighting ongoing tension after Super Bowl ad war",
+    "tags": [
+      "AI Rivalry",
+      "Summit"
+    ],
+    "source": "X / @IndiaAISummit",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026"
+  },
+  {
+    "id": "28a21afb290a",
+    "headline": "Sam Altman Admits OpenAI 'Screwed Up' GPT-5.2 Writing",
+    "summary": "[Feb 18, 2026] OpenAI CEO acknowledges focusing GPT-5.2 on technical capabilities over writing quality was a mistake, promises improvements coming",
+    "description": "OpenAI CEO acknowledges focusing GPT-5.2 on technical capabilities over writing quality was a mistake, promises improvements coming",
+    "tags": [
+      "GPT-5",
+      "Product Issues"
+    ],
+    "source": "X / @sama",
+    "link": "",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 18, 2026"
+  },
+  {
     "id": "ade93c4fbb80",
     "headline": "The AI security nightmare is here and it looks suspiciously like lobster",
     "summary": "Hacker exploited AI coding tool to install OpenClaw agent everywhere, highlighting AI security vulnerabilities.",
