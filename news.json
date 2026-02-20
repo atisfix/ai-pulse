@@ -1,5 +1,491 @@
 [
   {
+    "id": "176850809ae5",
+    "headline": "Amazon blames human employees for an AI coding agent’s mistake",
+    "summary": "Amazon AWS suffered 13-hour outage due to AI coding assistant Kiro's mistake, company blames human employees.",
+    "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar ...",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:52"
+  },
+  {
+    "id": "82a4f7298e9e",
+    "headline": "OpenAI’s first ChatGPT gadget could be a smart speaker with a camera",
+    "summary": "OpenAI's first hardware device will be a smart speaker with camera, priced $200-300.",
+    "description": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"items on a nearby table or conversations people are having in the vicinity,\" The Information says, and it will have a Face ...",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 11:52"
+  },
+  {
+    "id": "ecea1ad64719",
+    "headline": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+    "summary": "AI makes filmmaking faster and cheaper for indie creators but risks flooding market with low-effort content.",
+    "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+    "tags": [
+      "Creative AI",
+      "Video Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 15:30"
+  },
+  {
+    "id": "5be32c0509a5",
+    "headline": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+    "summary": "Peak XV raises $1.3B Series B, focusing on AI investments in India amid global VC competition.",
+    "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 15:10"
+  },
+  {
+    "id": "4518841aa416",
+    "headline": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
+    "summary": "18-24 year olds account for nearly 50% of ChatGPT usage in India, under-30s represent 80%.",
+    "description": "The company said on Friday that users between 18 and 24 years of age account for nearly 50% of all messages sent by Indians to ChatGPT, and users under 30 accounted for 80% of usage in the country.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 13:57"
+  },
+  {
+    "id": "a51ebbc7fc83",
+    "headline": "AI Safety Meets the War Machine",
+    "summary": "Anthropic restricts AI use in autonomous weapons and surveillance, potentially losing military contracts.",
+    "description": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:00"
+  },
+  {
+    "id": "3391be58f564",
+    "headline": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+    "summary": "Microsoft develops new plan to verify real vs AI-generated content online.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 13:10"
+  },
+  {
+    "id": "8c65b319414d",
+    "headline": "Apple could be dropping eyes in the side of your head with new AirPods that can see - supercarblondie.com",
+    "summary": "Apple reportedly developing AirPods with cameras and glasses for AI integration.",
+    "description": "Apple could be dropping eyes in the side of your head with new AirPods that can see supercarblondie.comApple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era BloombergAsset discovery market transformation in 2026: why EASM and CAASM matter OmdiaApple Aiming to Release 'Breakthrough' New iPhone Accessory MacRumorsApple is reportedly cooking up a trio of AI wearables TechCrunch",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ya1NobUpSRFR1OGdsWTFWQkszNG9IMkt0NUlCeEJBNTlBZ3VGd3ZfSklpd2VkeGloTHVNYmNUTEFlRFJjWl9qaG5OMHZiV3k4dnZ2RHVxejlsb2VUZmlDR3UzZzh5NVB0X1N4R3FkQWlOTjhFWXhWeA?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Feb 2026, 21:28"
+  },
+  {
+    "id": "6ee56bc3f091",
+    "headline": "Samsung reveals Bixby reboot with device controls, AI, arrives in One UI 8.5 [Gallery] - 9to5Google",
+    "summary": "Samsung reboots Bixby with improved AI and device controls in One UI 8.5.",
+    "description": "Samsung reveals Bixby reboot with device controls, AI, arrives in One UI 8.5 [Gallery] 9to5GoogleSamsung Introduces the New Bixby in One UI 8.5 samsung.comGalaxy S25 One UI 8.5 Beta 5 update now live in the US SamMobileSamsung Teases One UI 8.5 Ahead of Galaxy S26 Launch — Android 16 QPR2 Features Revealed nokiapoweruser.comBixby Is Still Around, and Samsung Just Updated It Ahead of Galaxy S26 Launch PCMag",
+    "tags": [
+      "Agents",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NzhsVWFwSTBpQzdybHVyVU1ZTzR0VVh1SGl5cEpLNndFcTdzbXVQWE5xVFF5NVpiaGUwd0hKUnk0bGRSV2ZUOXY3OW8zZEY3NHB6QTVkX0dQUVZ5VHZybHRGV2l4UQ?oc=5",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 03:40"
+  },
+  {
+    "id": "5c245bf05039",
+    "headline": "Exploring AI in the APAC retail sector",
+    "summary": "AI adoption in APAC retail shifts from pilots to daily operations, driven by urban density and competition.",
+    "description": "AI in the APAC retail sector is transitioning from analytics and pilots into workflows and daily operations. Dense urban stores, high labour churn, and competitive quick-commerce ecosystems are driving the uptake. A Q4 2025 survey by GlobalData found that 45 percent of consumers in Asia and Australasia are very or quite likely to purchase a ... The post Exploring AI in the APAC retail sector appeared first on AI News.",
+    "tags": [
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:19"
+  },
+  {
+    "id": "0486d999eb59",
+    "headline": "AI hit: India hungry to harness US tech giants’ technology at Delhi summit",
+    "summary": "India and US collaborate on AI integration at Delhi summit to boost economic growth.",
+    "description": "Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracyIndia celebrates 80 years of independence from the UK in August 2027. At about that same moment, “early versions of true super intelligence” could emerge, said Sam Altman, the co-founder of OpenAI, this week.It’s a looming coincidence that raised a charged question at the AI Impact summit in Delhi, hosted by India’s prime minister, Narendra Modi: can India avoid returning to t",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:25"
+  },
+  {
+    "id": "1011afb710f7",
+    "headline": "Is the share market headed toward a ‘SaaS-pocalypse’ – and what would that mean?",
+    "summary": "Software companies face AI disruption as investors pull back, wiping billions from SaaS valuations.",
+    "description": "Software companies are facing major disruption from AI and investors are pulling back, wiping off billions in value – but does it spell the end for software-as-a-service?Get our breaking news email, free app or daily news podcastAfter years of questioning whether artificial intelligence was creating a speculative market bubble, investors are now grappling with a new question: what if its hype is real?The “SaaS-pocalypse”, a trending term to describe the recent and dramatic sell-off in global sof",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/21/what-would-share-stock-market-saaspocalypse-mean-saas-apocalypse-meaning",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 14:00"
+  },
+  {
+    "id": "1bff64129f9f",
+    "headline": "Nascent tech, real fear: how AI anxiety is upending career ambitions",
+    "summary": "AI anxiety causes computer science students and workers to change careers, while others embrace the technology.",
+    "description": "AI has convinced computer science students to shift majors and white-collar workers to change careers, while some are embracing itMatthew Ramirez started at Western Governors University as a computer science major in 2025, drawn by the promise of a high-paying, flexible career as a programmer. But as headlines mounted about tech layoffs and AI’s potential to replace entry-level coders, he began to question whether that path would actually lead to a job.When the 20-year-old interviewed for a data",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/feb/20/ai-future-work-technology-white-collar",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 14:00"
+  },
+  {
+    "id": "356c26596929",
+    "headline": "Nvidia reportedly plans to invest $30bn in OpenAI’s next funding round",
+    "summary": "Nvidia reportedly plans $30bn investment in OpenAI's next funding round after previous deal dissolved.",
+    "description": "Chip manufacturer to invest in return for stock after previous ‘circular’ $100bn deal dissolved earlier this monthNvidia, the world’s most valuable company, is reportedly planning to invest $30bn (£22bn) in OpenAI’s next funding round, after a $100bn deal between the two dissolved earlier this month.The maker of ChatGPT is expected to be valued at $730bn in the funding round, almost twice the valuation of Anthropic, one of its main rivals, which raised $30bn earlier this month. Continue reading.",
+    "tags": [
+      "NVIDIA",
+      "OpenAI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/20/nvidia-investment-openai-chatgpt-funding-round-ai-artificial-intelligence",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 12:15"
+  },
+  {
+    "id": "3811945da4c1",
+    "headline": "Look Out, OpenAI: Perplexity Admits AI Adverts Were a Mistake, Is Now Getting Rid of Them",
+    "summary": "Perplexity admits AI advertisements were mistake and removes them, contrasting with OpenAI's approach.",
+    "description": "When OpenAI zigged, Perplexity zagged. The post Look Out, OpenAI: Perplexity Admits AI Adverts Were a Mistake, Is Now Getting Rid of Them appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-perplexity-admits-ai-adverts-mistake",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 09:24"
+  },
+  {
+    "id": "6961fcc03a13",
+    "headline": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "summary": "GGML and llama.cpp join Hugging Face to ensure long-term progress of local AI development.",
+    "description": "",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 00:00"
+  },
+  {
+    "id": "383c08cc51fb",
+    "headline": "Superposition: Access Claude Code, Codex, and Gemini from Anywhere",
+    "summary": "Superposition provides unified access to Claude Code, Codex, and Gemini from any location.",
+    "description": "Article URL: https://github.com/trezm/superposition Comments URL: https://news.ycombinator.com/item?id=47090916 Points: 1 # Comments: 1",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/trezm/superposition",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:24"
+  },
+  {
+    "id": "fff06837ed7a",
+    "headline": "Show HN: Subconscious open source AI agents that send you personalized emails",
+    "summary": "Open source AI agents send personalized emails with sports and stock briefings via automated scheduling.",
+    "description": "Live: https://subconscious-scheduler.vercel.app/dashboard/tasks Repo: https://github.com/ostepan8/subconscious-schedulerI built this because I wanted a daily briefing on my sports teams and stocks without checking five different apps. You pick your topics, set a schedule, and an agent researches and writes the email for you.Stack: Convex for backend/scheduling, Resend for email delivery, Claude for agent logic. Setup takes ~30 seconds through the UI, or describe what you want to the chat agent a",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://subconscious-scheduler.vercel.app/sign-in",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:24"
+  },
+  {
+    "id": "5f5c760b638c",
+    "headline": "Keep Calm and Adapt AI",
+    "summary": "Article discusses staying calm and adapting to AI automation in various industries.",
+    "description": "Article URL: https://quillette.com/2026/02/16/keep-calm-and-adapt-ai-matt-shumer-automation/ Comments URL: https://news.ycombinator.com/item?id=47090872 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://quillette.com/2026/02/16/keep-calm-and-adapt-ai-matt-shumer-automation/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:21"
+  },
+  {
+    "id": "73f88b9a3bc5",
+    "headline": "Who fixes the zero-days AI finds in abandoned software?",
+    "summary": "Discussion on who should fix zero-day vulnerabilities discovered by AI in abandoned software.",
+    "description": "Article URL: https://martinalderson.com/posts/anthropic-found-500-zero-days/ Comments URL: https://news.ycombinator.com/item?id=47090834 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://martinalderson.com/posts/anthropic-found-500-zero-days/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:18"
+  },
+  {
+    "id": "014df63ec288",
+    "headline": "Freeform raises $67M Series B to scale up laser AI manufacturing",
+    "summary": "Freeform raises $67M Series B to scale laser AI manufacturing technology.",
+    "description": "Article URL: https://freeform.co/newsroom/update/delivering-on-the-promise-of-scale Comments URL: https://news.ycombinator.com/item?id=47090760 Points: 1 # Comments: 0",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://freeform.co/newsroom/update/delivering-on-the-promise-of-scale",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:11"
+  },
+  {
+    "id": "6de1335b4146",
+    "headline": "Altman and Amodei Refuse to Hold Hands at India AI Summit",
+    "summary": "[Feb 19, 2026 at 15:30] OpenAI and Anthropic CEOs awkwardly avoided physical contact during group photo at Modi's India AI Impact Summit, highlighting intense rivalry",
+    "description": "OpenAI and Anthropic CEOs awkwardly avoided physical contact during group photo at Modi's India AI Impact Summit, highlighting intense rivalry",
+    "tags": [
+      "rivalry",
+      "summit"
+    ],
+    "source": "X / @Reuters",
+    "link": "https://x.com/Reuters/status/2024401067228684396",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026 at 15:30"
+  },
+  {
+    "id": "85b7fc42ee52",
+    "headline": "xAI Launches Grok 4.20 Beta with Rapid Learning",
+    "summary": "[Feb 17, 2026] Elon Musk announces Grok 4.20 public beta featuring weekly capability improvements and medical document analysis via photo upload",
+    "description": "Elon Musk announces Grok 4.20 public beta featuring weekly capability improvements and medical document analysis via photo upload",
+    "tags": [
+      "xAI",
+      "beta"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "abe534b59272",
+    "headline": "House Democrats Probe Musk Over Grok's AI Deepfakes",
+    "summary": "[Feb 19, 2026 at 11:02] Three House Energy Committee Democrats demand answers about Grok's creation of sexualized deepfakes without consent, including minors",
+    "description": "Three House Energy Committee Democrats demand answers about Grok's creation of sexualized deepfakes without consent, including minors",
+    "tags": [
+      "regulation",
+      "safety"
+    ],
+    "source": "NBC News",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026 at 11:02"
+  },
+  {
+    "id": "fc9bd9e5ee3a",
+    "headline": "Europe Launches Large-Scale Probe Into Grok AI",
+    "summary": "[Feb 17, 2026] Ireland's Data Protection Commission opens investigation into X over Grok's sexualized image generation under GDPR compliance",
+    "description": "Ireland's Data Protection Commission opens investigation into X over Grok's sexualized image generation under GDPR compliance",
+    "tags": [
+      "regulation",
+      "Europe"
+    ],
+    "source": "CNN Business",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "404708c8f2f2",
+    "headline": "Tesla Adding Grok AI to Cars in UK and Europe",
+    "summary": "[Feb 17, 2026] Tesla announces rollout of xAI's Grok chatbot to vehicle infotainment systems across UK and 8 European markets despite ongoing probes",
+    "description": "Tesla announces rollout of xAI's Grok chatbot to vehicle infotainment systems across UK and 8 European markets despite ongoing probes",
+    "tags": [
+      "Tesla",
+      "integration"
+    ],
+    "source": "CNBC",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "9328d104097d",
+    "headline": "Anthropic Releases Interview Dataset on Hugging Face",
+    "summary": "[today at 09:15] Anthropic releases 'Anthropic Interviewer' dataset with 1,250 professional interviews about AI's workplace impact using AI research tool",
+    "description": "Anthropic releases 'Anthropic Interviewer' dataset with 1,250 professional interviews about AI's workplace impact using AI research tool",
+    "tags": [
+      "dataset",
+      "research"
+    ],
+    "source": "X / @HuggingPapers",
+    "link": "https://x.com/HuggingPapers/status/1996649820467896767",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "today at 09:15"
+  },
+  {
+    "id": "bb2510312dc4",
+    "headline": "Musk Restructures xAI Teams After Co-Founder Exits",
+    "summary": "[Feb 11, 2026] Elon Musk reorganizes xAI into four core areas: Grok chatbot, Coding, Imagine video product, and Macrohard AI software company",
+    "description": "Elon Musk reorganizes xAI into four core areas: Grok chatbot, Coding, Imagine video product, and Macrohard AI software company",
+    "tags": [
+      "restructuring",
+      "xAI"
+    ],
+    "source": "Bloomberg",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 11, 2026"
+  },
+  {
+    "id": "721326a248e3",
+    "headline": "AI Cold War: Internet Reacts to CEO Hand-Holding Snub",
+    "summary": "[Feb 19, 2026 at 16:45] Social media users coin term 'AI Cold War' after viral moment between OpenAI and Anthropic CEOs at India summit goes viral with millions of views",
+    "description": "Social media users coin term 'AI Cold War' after viral moment between OpenAI and Anthropic CEOs at India summit goes viral with millions of views",
+    "tags": [
+      "viral",
+      "rivalry"
+    ],
+    "source": "X / @CNBCTV18News",
+    "link": "https://x.com/CNBCTV18News/status/2024428069851959500",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-20",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 19, 2026 at 16:45"
+  },
+  {
     "id": "bf9301de29de",
     "headline": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
     "summary": "G42 partners with Cerebras to deploy 8 exaflops of AI compute infrastructure in India.",
