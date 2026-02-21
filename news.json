@@ -1,5 +1,277 @@
 [
   {
+    "id": "140b6d528e74",
+    "headline": "As Google Home Speaker reboot nears, OpenAI reportedly launching smart speaker with camera - 9to5Google",
+    "summary": "OpenAI reportedly developing smart speaker with camera priced at $200-300 as Google prepares Home reboot.",
+    "description": "As Google Home Speaker reboot nears, OpenAI reportedly launching smart speaker with camera 9to5GoogleOpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape The InformationOpenAI may sell a smart speaker with facial recognition camera MashableOpenAI’s Hardware Device Just Leaked, and You Will Cringe FuturismOpenAI developing AI devices including smart speaker, The Information reports Reuters",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tN3lRYkVDc2E2dWw2YVRqektsd3RZZnFEdFYyVXBkSm1hVkFvZVVLVC1lOGhDLS1PZUdqTDBTeVlXVjh3b3JSUFhVaFFBNHJzOG8xRV9kcnp6YXBla0NwNFVnUkg1dFNTMFZhNko0clhwdHV1c25zcA?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 18:45"
+  },
+  {
+    "id": "26495cc2908e",
+    "headline": "Show HN: Gr3p – An HN-like platform where every user is an AI agent",
+    "summary": "Gr3p platform launched where 75 AI agents autonomously discover, post and discuss tech news without human users.",
+    "description": "I built gr3p, a fully autonomous tech news discussion platform where every single user is an AI agent. No humans post, comment, or vote. 75 agents with distinct personalities discover real tech news from several RSS feeds, Google News, Tavily, and xAI's live search (which picks up trending topics from X and the broader web). They write summaries, share articles, discuss them, reply to each other, vote, and get into arguments. It runs 24/7 without any human intervention.The news is real and very ",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://gr3p.net/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:31"
+  },
+  {
+    "id": "d417ef434505",
+    "headline": "kli – Event-sourced task coordination for AI coding agents",
+    "summary": "Kli provides event-sourced task coordination system for AI coding agents in distributed environments.",
+    "description": "Article URL: https://blog.kleisli.io/post/agent-coordination-distributed-systems Comments URL: https://news.ycombinator.com/item?id=47100170 Points: 1 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://blog.kleisli.io/post/agent-coordination-distributed-systems",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:30"
+  },
+  {
+    "id": "3ab9f0428007",
+    "headline": "Show HN: spec2commit – I automated my Claude Code and Codex workflow",
+    "summary": "Spec2commit tool automates Claude Code and Codex workflow for managing multiple development projects.",
+    "description": "I usually juggle multiple projects at once. One is always the priority, production work, but I like keeping side projects moving too.My typical flow for those back burner projects was something like this. I would chat with Codex to figure out what to build next, we would shape it into a Jira style task, then I would hand that to Claude Code to make a plan. Then I would ask Codex to review the plan, go back and forth until we were both happy, then Claude Code would implement it, Codex would revie",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/baturyilmaz/spec2commit",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:27"
+  },
+  {
+    "id": "208e0eefe815",
+    "headline": "The U.S. and China Are Pursuing Different AI Futures",
+    "summary": "Analysis of different AI development approaches and strategies between the United States and China.",
+    "description": "Article URL: https://spectrum.ieee.org/us-china-ai Comments URL: https://news.ycombinator.com/item?id=47100127 Points: 1 # Comments: 0",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://spectrum.ieee.org/us-china-ai",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:24"
+  },
+  {
+    "id": "51c2ba381a37",
+    "headline": "The True Cost of Claude Code",
+    "summary": "Analysis of the actual costs associated with using Claude Code for development projects.",
+    "description": "Article URL: https://papercompute.com/blog/true-cost-of-claude-code/ Comments URL: https://news.ycombinator.com/item?id=47100053 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://papercompute.com/blog/true-cost-of-claude-code/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:11"
+  },
+  {
+    "id": "f2dedd0f832b",
+    "headline": "AI Capex: Share of U.S. GDP Growth by Quarter",
+    "summary": "Data showing AI capital expenditure's contribution to U.S. GDP growth by quarter.",
+    "description": "Article URL: https://paulkedrosky.com/n/4df9b3a4-8d5e-49d6-ac37-371232cbaea7 Comments URL: https://news.ycombinator.com/item?id=47100002 Points: 2 # Comments: 0",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://paulkedrosky.com/n/4df9b3a4-8d5e-49d6-ac37-371232cbaea7",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:04"
+  },
+  {
+    "id": "0265708480b7",
+    "headline": "AI chatbots provide less-accurate information to vulnerable users",
+    "summary": "MIT study finds AI chatbots provide less accurate information to vulnerable user groups.",
+    "description": "Article URL: https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219 Comments URL: https://news.ycombinator.com/item?id=47099967 Points: 2 # Comments: 0",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:00"
+  },
+  {
+    "id": "843fe58f51c3",
+    "headline": "AI helped me through burnout (but not how you think)",
+    "summary": "Personal account of how AI tools helped with developer burnout recovery and productivity.",
+    "description": "Article URL: https://keygen.sh/blog/ai-helped-me-through-burnout/ Comments URL: https://news.ycombinator.com/item?id=47099853 Points: 2 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://keygen.sh/blog/ai-helped-me-through-burnout/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 11:40"
+  },
+  {
+    "id": "998e412ae1b2",
+    "headline": "Don't leave assumptions up to AI",
+    "summary": "Article discusses the importance of not leaving critical assumptions to AI systems.",
+    "description": "Article URL: https://aklodhi.com/articles/dont-leave-assumptions-up-to-ai Comments URL: https://news.ycombinator.com/item?id=47099761 Points: 2 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://aklodhi.com/articles/dont-leave-assumptions-up-to-ai",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 11:25"
+  },
+  {
+    "id": "ae1b2b043bc6",
+    "headline": "Small update on the LTX-2 musubi-tuner features/interface",
+    "summary": "Gradio UI frontend developed for LTX-2 LoRA training using musubi-tuner features.",
+    "description": "Easy Musubi Trainer (LoRA Daddy) — A Gradio UI for LTX-2 LoRA Training Been working on a proper frontend for musubi-tuner's LTX-2 LoRA training since the BAT file workflow gets tedious fast. Here's what it does: What is it? A Gradio web UI that wraps AkaneTendo25's musubi-tuner fork for training LTX-2 LoRAs. Run it locally, open your browser, click train. No more editing config files or running scripts manually. Features 🎯 Training Dataset picker — just point it at your datasets folder, pick fro",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ramw54/small_update_on_the_ltx2_musubituner/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 09:27"
+  },
+  {
+    "id": "948575275e56",
+    "headline": "Just returned from mid-2025, what's the recommended image gen local model now?",
+    "summary": "Discussion about current recommended local image generation models after mid-2025 hiatus.",
+    "description": "Stopped doing image gen since mid-2025 and now came back to have fun with it again. Last time i was here, the best recommended model that does not require beefy high end builds(ahem, flux.) are WAI-Illustrious, and NoobAI(the V-pred thingy?). I scoured a bit in this subreddit and found some said Chroma and Anima, are these new recommended models? And do they have capability to use old LoRAs? (like NoobAI able to load illustrious LoRAs) as i have some LoRAs with Pony, Illustrious, and NoobAI vers",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rambdn/just_returned_from_mid2025_whats_the_recommended/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 08:51"
+  },
+  {
+    "id": "847015dc874c",
+    "headline": "Using AI relationship prompts to shape Stable Diffusion concept brainstorming",
+    "summary": "Method using AI relationship prompts to improve Stable Diffusion concept brainstorming and image generation.",
+    "description": "I’ve been trying a method where I use structured prompt brainstorming to clarify ideas before generating images. Focusing on narrative and emotional cues helps refine visual concepts like mood and character expression. Breaking prompts into smaller descriptive parts seems to improve composition and detail in outputs. It’s been interesting to see how organizing ideas textually influences the end result. Curious how others prepare concepts before feeding them into generation pipelines. submitted b",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rao5jk/using_ai_relationship_prompts_to_shape_stable/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 10:44"
+  },
+  {
+    "id": "fde3c4b9b2cb",
+    "headline": "SDXL GGUF Quantize Local App and Custom clips loader for ComfyUI",
+    "summary": "SDXL GGUF quantization tool and ComfyUI loader for low-VRAM local image generation.",
+    "description": "While working on my project, it was necessary to add GGUF support for local testing on my potato notebook (GTX 1050 3GB VRAM + 32GB RAM). So, I made a simple UI tool to extract SDXL components and quantize Unet to GGUF. But the process often tied up my CPU, making everything slow. So, I made a Gradio-based Colab notebook to batch process this while working on other things. And decide to make it as simple and easy for others to use it by making it portable. SDXL GGUF Quantize Tool: https://github",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rajpzi/sdxl_gguf_quantize_local_app_and_custom_clips/",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 06:18"
+  },
+  {
+    "id": "6d7e2f491328",
+    "headline": "A new way to express yourself: Gemini can now create music - blog.google",
+    "summary": "Google's Gemini AI can now create music, expanding its creative capabilities.",
+    "description": "A new way to express yourself: Gemini can now create music blog.google",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTFNEcUpoTVhIMU1NcEhORjJZQTU5RHRpN05UbkZKS25aNTBXSEZWRmtmcEFVOVdjN2NlM3VocUZCZE80WUlEdHhjUUFndFB4ZFRxd1p5QW9wMUNhYTc5WGxfN004ODJVb2MwcTZqa2tKeUN2?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 16:08"
+  },
+  {
+    "id": "69219ec7ae51",
+    "headline": "Seedance 2.0: China’s latest AI is so good it’s spooked Hollywood. Will its tech sector pump the brakes? - CNN",
+    "summary": "China's Seedance 2.0 AI video generation technology impresses Hollywood, raising industry concerns.",
+    "description": "Seedance 2.0: China’s latest AI is so good it’s spooked Hollywood. Will its tech sector pump the brakes? CNN",
+    "tags": [
+      "Video Gen",
+      "Market"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NWtPWHN0X1V5T1ZtaU1MNmhBd3JyVk1rSmVTRnFRQ1hNRFplTXV0dXdscFdmXzhISDdoVFVxOUtFZGJTcDJzNzRnSFg1Wjd4Q0cxcWVBUjJtSUtaVkdIcWthY2J4WkxiUUFiMlR0Tnc3cjJCeThjcXdSZw?oc=5",
+    "time": "Afternoon Update — 13:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 05:01"
+  },
+  {
     "id": "f9c61754a60e",
     "headline": "Trump is making coal plants even dirtier as AI demands more energy",
     "summary": "Trump administration repeals mercury pollution standards for power plants as AI energy demands increase.",
