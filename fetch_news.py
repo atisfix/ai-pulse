@@ -34,7 +34,7 @@ SEEN_FILE = OUTPUT_DIR / "seen_articles.json"
 LOG_FILE = OUTPUT_DIR / "fetch.log"
 MAX_ARTICLES_PER_FEED = 10
 MAX_DAYS_TO_KEEP = 30
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-haiku-4-5-20251001"
 
 # ─── LOGGING ───
 logging.basicConfig(
@@ -115,19 +115,8 @@ def get_cet_now():
     return datetime.now(CET)
 
 def get_slot_label():
-    """Determine slot based on the cron schedule that triggered us.
-    GitHub Actions cron runs at 06, 12, 17 UTC = 07, 13, 18 CET.
-    We use UTC hour to determine which slot we are in, since GitHub runs in UTC."""
-    utc_hour = datetime.now(timezone.utc).hour
-    # 17:00 UTC (18:00 CET) window: 16-20 UTC
-    if 16 <= utc_hour <= 20:
-        return "Evening Digest \u2014 18:00 CET"
-    # 12:00 UTC (13:00 CET) window: 11-15 UTC
-    elif 11 <= utc_hour <= 15:
-        return "Afternoon Update \u2014 13:00 CET"
-    # 06:00 UTC (07:00 CET) window: everything else
-    else:
-        return "Morning Brief \u2014 07:00 CET"
+    """Single daily fetch at 13:00 CET."""
+    return "Daily Digest \u2014 13:00 CET"
 
 def get_cet_date():
     return get_cet_now().strftime("%Y-%m-%d")
