@@ -1,5 +1,488 @@
 [
   {
+    "id": "c13c8ab1a876",
+    "headline": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+    "summary": "Suspect in Tumbler Ridge school shooting raised alarms at OpenAI months before incident by describing violent scenarios to ChatGPT.",
+    "description": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 10:22"
+  },
+  {
+    "id": "ce49f480cdca",
+    "headline": "Google VP warns that two types of AI startups may not survive",
+    "summary": "Google VP warns that LLM wrappers and AI aggregators face extinction due to shrinking margins and limited differentiation.",
+    "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:00"
+  },
+  {
+    "id": "763835280430",
+    "headline": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+    "summary": "OpenAI debated contacting police after ChatGPT flagged Canadian shooter's descriptions of gun violence for misuse.",
+    "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 15:25"
+  },
+  {
+    "id": "674a2c9387cf",
+    "headline": "Developer’s Honest Assessment of AI at Work Rattles the Official Narrative",
+    "summary": "Developer challenges official narrative about AI's effectiveness at work, claiming it won't save struggling companies.",
+    "description": "AI won't save you, or your floundering company. The post Developer’s Honest Assessment of AI at Work Rattles the Official Narrative appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/developer-honest-assessment-ai",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:00"
+  },
+  {
+    "id": "045b67732d59",
+    "headline": "Personal Electronics Spiking in Price as AI Industry Buys Up All the Components",
+    "summary": "AI industry's component demand drives up personal electronics prices, with 'RAMaggedon' expected to continue for years.",
+    "description": "\"RAMaggedon\" could drag on for years, executives fear. The post Personal Electronics Spiking in Price as AI Industry Buys Up All the Components appeared first on Futurism.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/personal-electronics-spiking-price-ai",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 09:45"
+  },
+  {
+    "id": "9cd1299f9a8b",
+    "headline": "Amazon’s Blundering AI Caused Multiple AWS Outages",
+    "summary": "Amazon's AI caused multiple AWS outages, raising concerns about over-dependence on AI systems.",
+    "description": "Is this a forecast of how hopelessly AI-dependent our tech overlords will be going forward? The post Amazon’s Blundering AI Caused Multiple AWS Outages appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/amazon-ai-aws-outages",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 09:00"
+  },
+  {
+    "id": "3b9ae1c2d9e5",
+    "headline": "Show HN: Rigour – Open-source quality gates for AI coding agents",
+    "summary": "Rigour is an open-source CLI tool that catches quality issues introduced by AI coding agents before code ships.",
+    "description": "Hey HN,I built Rigour, an open-source CLI that catches quality issues AI coding agents introduce. It runs as a quality gate in your workflow — after the agent writes code, before it ships.v4 adds --deep analysis: AST extracts deterministic facts (line counts, nesting depth, method signatures), an LLM interprets what the patterns mean (god classes, SRP violations, DRY issues), then AST verifies the LLM didn't hallucinate.I ran it on PicoClaw (open-source AI coding agent, ~50 Go files):- 202 total",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://rigour.run",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:15"
+  },
+  {
+    "id": "24931b803585",
+    "headline": "YC: The AI Agent Economy Is Here [video]",
+    "summary": "Y Combinator discusses the emerging AI agent economy in video presentation.",
+    "description": "Article URL: https://www.youtube.com/watch?v=Q8wVMdwhlh4 Comments URL: https://news.ycombinator.com/item?id=47102643 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=Q8wVMdwhlh4",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:14"
+  },
+  {
+    "id": "50da4a6a76a2",
+    "headline": "My family assistant is now running on local AI",
+    "summary": "Developer shares experience running family assistant on local AI infrastructure.",
+    "description": "Article URL: https://www.nunodonato.com/my-family-assistant-now-runs-on-local-ai/ Comments URL: https://news.ycombinator.com/item?id=47102633 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.nunodonato.com/my-family-assistant-now-runs-on-local-ai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:13"
+  },
+  {
+    "id": "7d8ae24ca776",
+    "headline": "The Missing Link Between AI and Business Value",
+    "summary": "JetBrains explores the gap between AI capabilities and actual business value delivery.",
+    "description": "Article URL: https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/ Comments URL: https://news.ycombinator.com/item?id=47102629 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:12"
+  },
+  {
+    "id": "a8da24bcaf2a",
+    "headline": "Show HN: Eliezer – Tiny (~7K LOC) Self-Hosted AI Agent (PWA, Self-Editing)",
+    "summary": "Eliezer is a 7K-line open-source AI agent PWA with self-editing capabilities and interactive app building.",
+    "description": "Eliezer is ~7K lines of TypeScript, MIT open-source- PWA for mobile/desktop with push notifications - Self-editing protocol - Builds and displays interactive apps/widgets right in the chat - Task and Crons - \"notify if sunny tomorrow at 10am\") - Persistent SQLite memory + auto context compaction - Bring your own LLM API key (Kimi/Claude/Grok/etc.) - Full visibility/control - You see all tool calls and can abort in all statesAgent repo: https://github.com/Eliezer-app/eliezer Chat repo: https://gi",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.eliezer.app/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:00"
+  },
+  {
+    "id": "9d53251bb55d",
+    "headline": "Months in a Day with Claude Code: Immich on Cloudflare Workers",
+    "summary": "Developer shares experience using Claude Code to rapidly build Immich on Cloudflare Workers platform.",
+    "description": "Article URL: https://gpeake.com/blog/immich Comments URL: https://news.ycombinator.com/item?id=47102425 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://gpeake.com/blog/immich",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:52"
+  },
+  {
+    "id": "e743382459b2",
+    "headline": "EFF's Policy on LLM-Assisted Contributions to Our Open-Source Projects",
+    "summary": "Electronic Frontier Foundation releases policy on LLM-assisted contributions to open-source projects.",
+    "description": "Article URL: https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects Comments URL: https://news.ycombinator.com/item?id=47102292 Points: 2 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:36"
+  },
+  {
+    "id": "196eb8a04e9c",
+    "headline": "Extinct Code Grew Leopard Spots: AI-assisted evolution of a 90s screensaver",
+    "summary": "AI assists in evolving extinct code to recreate 90s screensaver with leopard spot patterns.",
+    "description": "Article URL: https://psychodeli.com/inside_the_math/ Comments URL: https://news.ycombinator.com/item?id=47102197 Points: 2 # Comments: 4",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://psychodeli.com/inside_the_math/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:26"
+  },
+  {
+    "id": "4fade5fa4682",
+    "headline": "Build an LLM from Scratch in Max",
+    "summary": "Tutorial shows how to build large language model from scratch using Max programming language.",
+    "description": "Article URL: https://llm.modular.com/ Comments URL: https://news.ycombinator.com/item?id=47102172 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://llm.modular.com/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:23"
+  },
+  {
+    "id": "732080d6dab4",
+    "headline": "Show HN: AI Dev Hub. 100 free dev tools (all client-side, no signup, no ads)",
+    "summary": "AI Dev Hub offers 100 free client-side development tools with no signup, ads, or data collection required.",
+    "description": "Hey HN, I’m Christoph.I built AI Dev Hub because I hate switching between sites and was missing some light weight tools for building with ai.Principles: • no signup • current tools run fully client-side • fast utility over flashy UI • built for real workflowsI’m curious about two things: 1. which tools are genuinely useful vs noise 2. what’s missing in your daily workflow that should existWould love brutally honest feedback, I’m actively shipping updates. Comments URL: https://news.ycombinator.c",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://aidevhub.io/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:16"
+  },
+  {
+    "id": "956819e21b5e",
+    "headline": "Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload",
+    "summary": "Google shut down lawyer's accounts after NotebookLM upload, highlighting AI tool restrictions on sensitive documents.",
+    "description": "His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files. submitted by /u/jmdglss [link] [comments]",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1raulde/lawyer_says_google_shut_down_his_gmail_voice_and/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 15:55"
+  },
+  {
+    "id": "f6302fe5e87e",
+    "headline": "Civil rights for AI?",
+    "summary": "Discussion thread explores concept of civil rights for artificial intelligence systems.",
+    "description": "submitted by /u/ThereWas [link] [comments]",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rav2k9/civil_rights_for_ai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:14"
+  },
+  {
+    "id": "cbf102264c5b",
+    "headline": "How can a government actually stop or control AI?",
+    "summary": "Analysis questions whether governments can effectively stop or control AI development globally.",
+    "description": "Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question f",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rasu2g/how_can_a_government_actually_stop_or_control_ai/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 14:43"
+  },
+  {
+    "id": "20f932867b70",
+    "headline": "lora-gym update: local GPU training for WAN LoRAs",
+    "summary": "lora-gym update adds local GPU training support for WAN LoRAs on A6000 hardware.",
+    "description": "Update on lora-gym (github.com/alvdansen/lora-gym) — added local training support. Running on my A6000 right now. Same config structure, same hyperparameters, same dual-expert WAN 2.2 handling. No cloud setup required. Currently validated on 48GB VRAM. submitted by /u/Sea-Bee4158 [link] [comments]",
+    "tags": [
+      "Open Source",
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ravptl/loragym_update_local_gpu_training_for_wan_loras/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 16:40"
+  },
+  {
+    "id": "c75a45c5b149",
+    "headline": "Free SFW Prompt Pack — 319 styles, 30 categories, works on Pony/Illustrious/NoobAI",
+    "summary": "Free SFW prompt pack with 319 styles across 30 categories for Stable Diffusion models.",
+    "description": "Released a structured SFW style library for SD WebUI / Forge. **What's in it:** 319 presets across 30 categories: archetypes (33), scenes (28), outfits (28), art styles (27), lighting (17), mood, expression, hair, body types, eye color, makeup, atmosphere, regional art styles (ukiyo-e, korean webtoon, persian miniature...), camera angles, VFX, weather, and more. https://civitai.com/models/2409619?modelVersionId=2709285 **Model support:** Pony V6 XL / Illustrious XL / NoobAI XL V-Pred — model-spe",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1raq9a0/free_sfw_prompt_pack_319_styles_30_categories/",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:45"
+  },
+  {
+    "id": "675354d5b60c",
+    "headline": "Global AI Leaders Attending India AI Summit 2026",
+    "summary": "[Feb 21, 2026] Major AI CEOs including Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), Dario Amodei (Anthropic), and Jensen Huang (Nvidia) to attend summit",
+    "description": "Major AI CEOs including Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), Dario Amodei (Anthropic), and Jensen Huang (Nvidia) to attend summit",
+    "tags": [
+      "summit",
+      "AI leaders"
+    ],
+    "source": "X / @IndianTechGuide",
+    "link": "https://x.com/IndianTechGuide/status/2021894627888943522",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 21, 2026"
+  },
+  {
+    "id": "5291a89589ba",
+    "headline": "Anthropic Unveils New Tasks Mode UI with 5 Starting Points",
+    "summary": "[Feb 2026] Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More options, plus new progress tracking sidebar",
+    "description": "Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More options, plus new progress tracking sidebar",
+    "tags": [
+      "Anthropic",
+      "UI"
+    ],
+    "source": "X / @_simonsmith",
+    "link": "https://x.com/_simonsmith/status/2000930454992720184",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2026"
+  },
+  {
+    "id": "e613a2c495ae",
+    "headline": "Karpathy on AI Coding Transformation in 2026",
+    "summary": "[Feb 2026] LLM agent capabilities crossed threshold in Dec 2025, causing phase shift in software engineering; predicts high-energy year ahead",
+    "description": "LLM agent capabilities crossed threshold in Dec 2025, causing phase shift in software engineering; predicts high-energy year ahead",
+    "tags": [
+      "coding",
+      "agents"
+    ],
+    "source": "X / @karpathy",
+    "link": "https://x.com/karpathy/status/2015883857489522876",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2026"
+  },
+  {
+    "id": "50547ff3a0dd",
+    "headline": "Google DeepMind CEO Visits India for AI Summit",
+    "summary": "[Feb 17, 2026] Demis Hassabis interacts with IISc faculty ahead of India AI Impact Summit 2026, focusing on responsible AI development",
+    "description": "Demis Hassabis interacts with IISc faculty ahead of India AI Impact Summit 2026, focusing on responsible AI development",
+    "tags": [
+      "Google DeepMind",
+      "summit"
+    ],
+    "source": "X / @GoogleIndia",
+    "link": "https://x.com/GoogleIndia/status/2023775173133152273",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 17, 2026"
+  },
+  {
+    "id": "c39cc6495151",
+    "headline": "Mistral AI Announces Massive Global Hackathon",
+    "summary": "[Feb 10, 2026] 48-hour hackathon across 7 cities (Paris, London, NY, SF, Tokyo, Singapore, Sydney) with $200K in prizes, partnerships with Nvidia, AWS",
+    "description": "48-hour hackathon across 7 cities (Paris, London, NY, SF, Tokyo, Singapore, Sydney) with $200K in prizes, partnerships with Nvidia, AWS",
+    "tags": [
+      "hackathon",
+      "Mistral"
+    ],
+    "source": "X / @MistralAI",
+    "link": "https://x.com/MistralAI/status/2021238361227186462",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Feb 10, 2026"
+  },
+  {
+    "id": "1fdb7789b82c",
+    "headline": "xAI Grok Imagine 1.0 Released with Improved Audio",
+    "summary": "[Feb 1, 2026] xAI releases Grok Imagine 1.0 update with enhanced audio quality for AI video generation tool",
+    "description": "xAI releases Grok Imagine 1.0 update with enhanced audio quality for AI video generation tool",
+    "tags": [
+      "xAI",
+      "Grok"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "Feb 1, 2026"
+  },
+  {
+    "id": "f3cdd4083ced",
+    "headline": "OpenAI Signs $10B Deal with Cerebras for Computing Power",
+    "summary": "[Feb 2026] OpenAI purchases 750MW of computing power over 3 years from Cerebras, reducing Nvidia dependence for ChatGPT inference",
+    "description": "OpenAI purchases 750MW of computing power over 3 years from Cerebras, reducing Nvidia dependence for ChatGPT inference",
+    "tags": [
+      "OpenAI",
+      "infrastructure"
+    ],
+    "source": "X / @OpenAI",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "Feb 2026"
+  },
+  {
+    "id": "4610c4112c8f",
+    "headline": "NVIDIA Vera Rubin Platform Unveiled at CES 2026",
+    "summary": "[Jan 2026] NVIDIA announces flagship AI platform following Blackwell architecture, featuring H300 GPUs for trillion-parameter models",
+    "description": "NVIDIA announces flagship AI platform following Blackwell architecture, featuring H300 GPUs for trillion-parameter models",
+    "tags": [
+      "NVIDIA",
+      "hardware"
+    ],
+    "source": "X / @nvidia",
+    "link": "",
+    "time": "Evening Digest — 18:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "Jan 2026"
+  },
+  {
     "id": "140b6d528e74",
     "headline": "As Google Home Speaker reboot nears, OpenAI reportedly launching smart speaker with camera - 9to5Google",
     "summary": "OpenAI reportedly developing smart speaker with camera priced at $200-300 as Google prepares Home reboot.",
