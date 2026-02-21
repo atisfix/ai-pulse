@@ -1,5 +1,539 @@
 [
   {
+    "id": "f9c61754a60e",
+    "headline": "Trump is making coal plants even dirtier as AI demands more energy",
+    "summary": "Trump administration repeals mercury pollution standards for power plants as AI energy demands increase.",
+    "description": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. Those standards are particularly impactful when it comes to pollution from coal plants ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 15:18"
+  },
+  {
+    "id": "ed4d342246fc",
+    "headline": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "summary": "India's Sarvam launches Indus AI chat app in beta, entering competitive AI market.",
+    "description": "Sarvam's Indus chat app is currently available in beta.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 01:00"
+  },
+  {
+    "id": "3419798edafe",
+    "headline": "The creator economy’s ad revenue problem and India’s AI ambitions",
+    "summary": "Article covers creator economy revenue issues and India's AI ambitions.",
+    "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversi",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 23:00"
+  },
+  {
+    "id": "5d5cb30ecea6",
+    "headline": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+    "summary": "Anthropic-backed group supports candidate targeted by rival AI PAC over RAISE Act.",
+    "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 20:52"
+  },
+  {
+    "id": "03e7a381644b",
+    "headline": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+    "summary": "xAI engineers diverted to make Grok better at answering Baldur's Gate questions.",
+    "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 18:26"
+  },
+  {
+    "id": "2c4790afa693",
+    "headline": "Exclusive eBook: The great Al hype correction of 2025",
+    "summary": "MIT Tech Review eBook examines AI hype correction and broken promises in 2025.",
+    "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
+    "tags": [
+      "Market",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 18:46"
+  },
+  {
+    "id": "3fe58b8f662f",
+    "headline": "New Microsoft Gaming CEO Asha Sharma on What Makes a ‘Great Game,’ Having ‘No Tolerance for Bad AI’ and Replacing Phil Spencer - Variety",
+    "summary": "Microsoft Gaming CEO discusses 'no tolerance for bad AI' in gaming industry.",
+    "description": "New Microsoft Gaming CEO Asha Sharma on What Makes a ‘Great Game,’ Having ‘No Tolerance for Bad AI’ and Replacing Phil Spencer VarietyAsha Sharma named EVP and CEO, Microsoft Gaming The Official Microsoft BlogPhil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted as Microsoft AI Exec Asha Sharma Named New Xbox Boss – EXCLUSIVE IGNMicrosoft Names Sharma to Lead Xbox, Recommits to Console Yahoo FinanceMicrosoft Xbox chief Phil Spencer retires, replaced by AI executive Asha Sharma CNBC",
+    "tags": [
+      "Microsoft",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGlSSVZBc25ISHFMWXd1OE13VWk5MWNpdlNTY1B0RHk0Wkd5RC1LNzdRU3EyRVRNY191VjVtUzN5T3NGMVYza3ZXMmNsajhkYk9zSlVYcHdya1FmcUZISUdnT0QtcElCb3F2QUZpVkttaVRJZ1UxWTFkQjh0YndwN01TYkZJSU5ZNXNCYm16RDMydkVrVU9ZNkJ4eF90a193?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 23:57"
+  },
+  {
+    "id": "6bf384750718",
+    "headline": "OpenAI may sell a smart speaker with facial recognition camera - Mashable",
+    "summary": "OpenAI plans $200-300 smart speaker with facial recognition camera.",
+    "description": "OpenAI may sell a smart speaker with facial recognition camera MashableOpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape The InformationOpenAI’s Hardware Device Just Leaked, and You Will Cringe FuturismOpenAI’s first ChatGPT gadget could be a smart speaker with a camera The VergeOpenAI Might Be Making a Smart Speaker That No One Asked for Gizmodo",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51N2hKdjdQZ2hMNlBXRkM4ZFVuVFhURUdWa1Jmc0RScU9BR3JDa0dRMHpCMy1JTWpwc0cxdURCSUZUMTFvS2N4YkNnN2x3ak1tUEtjQnl4M0pYU1ZJQWN3?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 22:11"
+  },
+  {
+    "id": "0df78b021327",
+    "headline": "Google’s new Gemini Pro model has record benchmark scores — again - TechCrunch",
+    "summary": "Google's new Gemini Pro model achieves record benchmark scores again.",
+    "description": "Google’s new Gemini Pro model has record benchmark scores — again TechCrunchGemini 3.1 Pro: A smarter model for your most complex tasks blog.googleGemini Deep Think: Redefining the Future of Scientific Research Google DeepMindI tested Gemini 3.1 Pro vs Claude Sonnet 4.6 in 7 tough challenges and there was one clear winner Tom's GuideGemini 3.1 Pro is now in public preview in GitHub Copilot The GitHub Blog",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3pvYmtKX3NrelZncVVmTTdTVldxOXVMRkt4aC1EZjFESnNteXdick5CRjVET24tblNZYVNlTF9SSHIwNHdBcllOb3VlQXdiVzZkMlpCaHhHTFJrTGhNNkZPWWNpZ0RoSTYxaWIxaHRjZVAwNzhtTE1peG9HbU1wNTdDeXdBZG9NTmVUQmhvOUJIbDJIeWo0TEloelVFZw?oc=5",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 00:55"
+  },
+  {
+    "id": "5f53fd309567",
+    "headline": "A Coding Guide to High-Quality Image Generation, Control, and Editing Using HuggingFace Diffusers",
+    "summary": "Tutorial on high-quality image generation using HuggingFace Diffusers library.",
+    "description": "In this tutorial, we design a practical image-generation workflow using the Diffusers library. We start by stabilizing the environment, then generate high-quality images from text prompts using Stable Diffusion with an optimized scheduler. We accelerate inference with a LoRA-based latent consistency approach, guide composition with ControlNet under edge conditioning, and finally perform localized edits via ... The post A Coding Guide to High-Quality Image Generation, Control, and Editing Using H",
+    "tags": [
+      "Image Gen",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 00:55"
+  },
+  {
+    "id": "01696e383c41",
+    "headline": "How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting",
+    "summary": "Guide to building multi-tool research agent with AI, web search, and analysis.",
+    "description": "In this tutorial, we build a “Swiss Army Knife” research agent that goes far beyond simple chat interactions and actively solves multi-step research problems end-to-end. We combine a tool-using agent architecture with live web search, local PDF ingestion, vision-based chart analysis, and automated report generation to demonstrate how modern agents can reason, verify, and produce ... The post How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 22:05"
+  },
+  {
+    "id": "60aa49297842",
+    "headline": "‘Slow this thing down’: Sanders warns US has no clue about speed and scale of coming AI revolution",
+    "summary": "Bernie Sanders warns Congress lacks understanding of AI revolution's speed and scale.",
+    "description": "After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systemsBernie Sanders has warned that Congress and the American public have “not a clue” about the scale and speed of the coming AI revolution, pressing for urgent policy action to “slow this thing down” as tech companies race to build ever-more powerful systems.Speaking at Stanford University on Friday alongside congressman Ro Khanna after a series of meetings with i",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 04:26"
+  },
+  {
+    "id": "2c276091b8b4",
+    "headline": "OpenAI considered alerting Canadian police about school shooting suspect months ago",
+    "summary": "OpenAI considered alerting police about school shooter's ChatGPT conversations months earlier.",
+    "description": "Company behind ChatGPT last year flagged Jesse Van Rootselaar’s account for ‘furtherance of violent activities’ChatGPT-maker OpenAI has said it considered alerting Canadian police last year about the activities of a person who months later committed one of the worst school shootings in the country’s history.OpenAI said last June the company identified the account of Jesse Van Rootselaar via abuse detection efforts for “furtherance of violent activities”. Continue reading...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/21/tumbler-ridge-shooter-chatgpt-openai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 03:18"
+  },
+  {
+    "id": "d8b1b40d5cce",
+    "headline": "AI hit: India hungry to harness US tech giants’ technology at Delhi summit",
+    "summary": "India seeks to harness US tech giants' AI technology at Delhi summit.",
+    "description": "Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracyIndia celebrates 80 years of independence from the UK in August 2027. At about that same moment, “early versions of true super intelligence” could emerge, Sam Altman, the co-founder of OpenAI, said this week.It’s a looming coincidence that raised a charged question at the AI Impact summit in Delhi, hosted by India’s prime minister, Narendra Modi: can India avoid returning to t",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 17:25"
+  },
+  {
+    "id": "f5e0081e87f9",
+    "headline": "OpenAI Flagged a Mass Shooter’s Troubling Conversations With ChatGPT Before the Incident, Decided Not to Warn Police",
+    "summary": "OpenAI flagged shooter's troubling ChatGPT conversations but decided not to warn police.",
+    "description": "Employees at OpenAI urged leaders to alert the police, but they opted not to. The post OpenAI Flagged a Mass Shooter’s Troubling Conversations With ChatGPT Before the Incident, Decided Not to Warn Police appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-mass-shooter",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 20:06"
+  },
+  {
+    "id": "8ce8b91aba42",
+    "headline": "OpenAI’s Hardware Device Just Leaked, and You Will Cringe",
+    "summary": "OpenAI's hardware device leaked, receiving negative reactions.",
+    "description": "Thanks, but no thanks. The post OpenAI’s Hardware Device Just Leaked, and You Will Cringe appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-hardware-device-leaked-cringe",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 16:01"
+  },
+  {
+    "id": "0307fac29bfa",
+    "headline": "Jack Dorsey’s New Company Falling Apart as It Forces Employees to Use AI",
+    "summary": "Jack Dorsey's Block company struggles as it forces employees to use AI.",
+    "description": "\"The overarching culture at Block is crumbling.\" The post Jack Dorsey’s New Company Falling Apart as It Forces Employees to Use AI appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/jack-dorsey-block-falling-apart-ai",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 14:21"
+  },
+  {
+    "id": "76f5257012f1",
+    "headline": "Our First Proof submissions",
+    "summary": "OpenAI shares AI model's proof attempts for First Proof math challenge.",
+    "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "tags": [
+      "OpenAI",
+      "Research"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Feb 2026, 14:30"
+  },
+  {
+    "id": "bdd47d45ac3b",
+    "headline": "Ruby Is the Best Language for Building AI Apps",
+    "summary": "Article argues Ruby is the best programming language for building AI applications.",
+    "description": "Article URL: https://paolino.me/ruby-is-the-best-language-for-ai-apps/ Comments URL: https://news.ycombinator.com/item?id=47097850 Points: 3 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://paolino.me/ruby-is-the-best-language-for-ai-apps/",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 05:47"
+  },
+  {
+    "id": "3416b3b622a9",
+    "headline": "Ask HN: How would you distribute a privacy-first AI chat for teams?",
+    "summary": "Developer seeks advice on distributing privacy-first AI chat system for teams.",
+    "description": "Hi HN,I’m looking for advice on distribution and positioning for a privacy-first AI chat system we’ve been building.We have two open-source pieces:- Conduit — a native mobile client for Open WebUI (GPL). It started as a personal project, but now has teams using it and asking for things like SSO, reverse-proxy auth, and security reviews. - Onera — a privacy-first AI chat backend + client where conversations are end-to-end encrypted, with models running inside TEE enclaves. The operator (including",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47097729",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 05:16"
+  },
+  {
+    "id": "0c8e7227e36c",
+    "headline": "Show HN: Mukoko weather – AI-powered weather intelligence built for Zimbabwe",
+    "summary": "Mukoko weather app provides AI-powered weather intelligence for Zimbabwe.",
+    "description": "Zimbabwe has 90+ towns and cities, a population of 15+ million, significant agricultural and mining sectors — and almost no weather infrastructure built specifically for it. Global apps cover Harare and Bulawayo at best, and the AI summaries they generate read like they were written for someone in London. I built mukoko weather to fix this. A few things that shaped the approach: Weather as a public good. The platform is free, no ads, no paywalls. If a smallholder farmer in Chinhoyi needs frost r",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://weather.mukoko.com/harare",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 04:51"
+  },
+  {
+    "id": "9f559bc56422",
+    "headline": "Show HN: AI Code Review Agent – Automated PR Reviews with Google ADK and Gemini",
+    "summary": "AI code review agent automates GitHub PR reviews using Google ADK and Gemini.",
+    "description": "Production-ready AI agent that reviews GitHub pull requests using Google's ADK and Gemini 2.5 Flash. Analyzes code for security, performance, and correctness issues. Deploys to Cloud Run, posts structured feedback as PR comments. Comments URL: https://news.ycombinator.com/item?id=47097588 Points: 1 # Comments: 0",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/mkantwala/AI-Code-Review-Agent",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 04:46"
+  },
+  {
+    "id": "c4849d6bbf86",
+    "headline": "Let's Burn Some Tokens – AI Chatbot Cost Exploitation as an Attack Vector",
+    "summary": "Article explores AI chatbot cost exploitation as potential attack vector.",
+    "description": "Article URL: https://dixken.de/blog/lets-burn-some-tokens Comments URL: https://news.ycombinator.com/item?id=47097569 Points: 2 # Comments: 1",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://dixken.de/blog/lets-burn-some-tokens",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 04:42"
+  },
+  {
+    "id": "90c7529f8d6b",
+    "headline": "AI Fatigue: Why the \"Test Only, Zero Code Review\" Methodology Is Flawed",
+    "summary": "Critique of 'test only, zero code review' methodology causing AI fatigue.",
+    "description": "Article URL: https://fastfilelink.com/static/blog/ai-fatigue-test-only-zero-code-review.html#ai-fatigue-test-only-zero-code-review Comments URL: https://news.ycombinator.com/item?id=47097560 Points: 4 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://fastfilelink.com/static/blog/ai-fatigue-test-only-zero-code-review.html#ai-fatigue-test-only-zero-code-review",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 04:41"
+  },
+  {
+    "id": "51d9f209e0ba",
+    "headline": "Anthropic Announces $30B Series G Funding at $380B Valuation",
+    "summary": "[February 12, 2026] Major funding round brings post-money valuation to $380 billion, positioning for potential IPO later in 2026",
+    "description": "Major funding round brings post-money valuation to $380 billion, positioning for potential IPO later in 2026",
+    "tags": [
+      "funding",
+      "valuation"
+    ],
+    "source": "X / Multiple sources",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 12, 2026"
+  },
+  {
+    "id": "362c5e9e0503",
+    "headline": "xAI Co-Founders Exit Amid Safety Concerns",
+    "summary": "[February 12, 2026] Tony Wu and Jimmy Ba left xAI, with half of founding team now departed. Ba cited 2026 as 'most consequential year for humanity'",
+    "description": "Tony Wu and Jimmy Ba left xAI, with half of founding team now departed. Ba cited 2026 as 'most consequential year for humanity'",
+    "tags": [
+      "departures",
+      "safety"
+    ],
+    "source": "X / @jimmylba",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 12, 2026"
+  },
+  {
+    "id": "3e0f1a3da19c",
+    "headline": "X Tests Collaborative AI Community Notes",
+    "summary": "[February 5, 2026] AI drafts Community Notes, then human contributors refine them through ratings and suggestions in real-time",
+    "description": "AI drafts Community Notes, then human contributors refine them through ratings and suggestions in real-time",
+    "tags": [
+      "moderation",
+      "AI"
+    ],
+    "source": "X / @X",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 5, 2026"
+  },
+  {
+    "id": "9ea4886870ca",
+    "headline": "Anthropic Super Bowl Ads Target 'Claude Code' Momentum",
+    "summary": "[February 9, 2026] Two commercials aired during Super Bowl LX as part of marketing push, with Claude staying ad-free unlike ChatGPT",
+    "description": "Two commercials aired during Super Bowl LX as part of marketing push, with Claude staying ad-free unlike ChatGPT",
+    "tags": [
+      "marketing",
+      "competition"
+    ],
+    "source": "X / @AnthropicAI",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "February 9, 2026"
+  },
+  {
+    "id": "16c77ece41b2",
+    "headline": "Grok 5 Multimodal AI Development Announced",
+    "summary": "[February 16, 2026] xAI doubling down on multimodal capabilities including image generation and editing for next Grok version",
+    "description": "xAI doubling down on multimodal capabilities including image generation and editing for next Grok version",
+    "tags": [
+      "multimodal",
+      "development"
+    ],
+    "source": "X / @xai",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 16, 2026"
+  },
+  {
+    "id": "d6d9d33fb086",
+    "headline": "OpenAI Accuses China's DeepSeek of IP Theft",
+    "summary": "[February 13, 2026] Escalating tensions between AI companies over alleged technology stealing, adding to geopolitical AI conflicts",
+    "description": "Escalating tensions between AI companies over alleged technology stealing, adding to geopolitical AI conflicts",
+    "tags": [
+      "IP",
+      "geopolitics"
+    ],
+    "source": "X / Multiple sources",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "3 min read",
+    "isFromX": true,
+    "postedAt": "February 13, 2026"
+  },
+  {
+    "id": "c31f4fcb14ec",
+    "headline": "X Algorithm Now 'Purely AI-Driven' Since November",
+    "summary": "[January 20, 2026] Musk confirms X's 'For You' feed completely powered by AI, with algorithm code published for transparency",
+    "description": "Musk confirms X's 'For You' feed completely powered by AI, with algorithm code published for transparency",
+    "tags": [
+      "algorithm",
+      "AI"
+    ],
+    "source": "X / @elonmusk",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "1 min read",
+    "isFromX": true,
+    "postedAt": "January 20, 2026"
+  },
+  {
+    "id": "0aa0f5b78045",
+    "headline": "AI Employee Exodus Hits OpenAI, xAI, Anthropic",
+    "summary": "[February 10-12, 2026] Multiple senior employees departing with dramatic public statements citing safety concerns over rapid product development",
+    "description": "Multiple senior employees departing with dramatic public statements citing safety concerns over rapid product development",
+    "tags": [
+      "safety",
+      "departures"
+    ],
+    "source": "X / Multiple accounts",
+    "link": "",
+    "time": "Morning Brief — 07:00 CET",
+    "date": "2026-02-21",
+    "readTime": "2 min read",
+    "isFromX": true,
+    "postedAt": "February 10-12, 2026"
+  },
+  {
     "id": "176850809ae5",
     "headline": "Amazon blames human employees for an AI coding agent’s mistake",
     "summary": "Amazon AWS suffered 13-hour outage due to AI coding assistant Kiro's mistake, company blames human employees.",
