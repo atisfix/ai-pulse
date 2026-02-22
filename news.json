@@ -1,5 +1,365 @@
 [
   {
+    "id": "a3b6c60b5c29",
+    "headline": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+    "summary": "Microsoft's new gaming CEO commits to avoiding AI-generated content flooding in the gaming ecosystem.",
+    "description": "Is Microsoft's gaming division doubling down on AI?",
+    "tags": [
+      "Microsoft",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 17:41"
+  },
+  {
+    "id": "c97185256608",
+    "headline": "How to Hide Google’s AI Overviews From Your Search Results",
+    "summary": "Users can disable Google's AI Overviews in search results by adjusting queries or switching search engines.",
+    "description": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+    "tags": [
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 11:00"
+  },
+  {
+    "id": "e66d569ce424",
+    "headline": "Galaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility - samsung.com",
+    "summary": "Samsung Galaxy AI expands multi-agent ecosystem for S26 devices offering users more flexibility.",
+    "description": "Galaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility samsung.comGalaxy AI just picked up another AI weapon for the Galaxy S26 SamMobileGalaxy AI turns into a multi-agent ecosystem, adds deep integration with Perplexity AI - GSMArena.com news GSMArena.comForget Hey Google, Hey Plex is coming to Samsung devices Sammy FansSamsung Adds Hey Plex To Galaxy S26 With AI Boost findarticles.com",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmY0Z1I5aDNIRXVPLWc2YVZDem1DUlBpY3RtTEc4U1drQUdITGd0MDczMmotS1lPaVhIcDBIZE9yLWdZaG9PZWxyeXB6dFpxcVZsTU85VzZzSDd0clBQaUNtc0lUZi1yRi05cndqX241RWx1SEo0a0dyNFRWUXZSSGtVbHFWa0lxUEx2ZExsblppSGhKX0YzZWpEUUkzanNmTFFYbXpYZV9KbUduS3VsNFRQRQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 23:00"
+  },
+  {
+    "id": "44eb705f66aa",
+    "headline": "A New Google AI Research Proposes Deep-Thinking Ratio to Improve LLM Accuracy While Cutting Total Inference Costs by Half",
+    "summary": "Google research introduces Deep-Thinking Ratio to improve LLM accuracy while reducing inference costs by 50%.",
+    "description": "For the last few years, the AI world has followed a simple rule: if you want a Large Language Model (LLM) to solve a harder problem, make its Chain-of-Thought (CoT) longer. But new research from the University of Virginia and Google proves that ‘thinking long’ is not the same as ‘thinking hard’. The research team ... The post A New Google AI Research Proposes Deep-Thinking Ratio to Improve LLM Accuracy While Cutting Total Inference Costs by Half appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/21/a-new-google-ai-research-proposes-deep-thinking-ratio-to-improve-llm-accuracy-while-cutting-total-inference-costs-by-half/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 04:53"
+  },
+  {
+    "id": "1297a8747c69",
+    "headline": "Is There a Community Edition of Palantir? Meet OpenPlanter: An Open Source Recursive AI Agent for Your Micro Surveillance Use Cases",
+    "summary": "OpenPlanter open-source project creates recursive AI agent for surveillance capabilities.",
+    "description": "The balance of power in the digital age is shifting. While governments and large corporations have long used data to track individuals, a new open-source project called OpenPlanter is giving that power back to the public. Created by a developer ‘Shin Megami Boson‘, OpenPlanter is a recursive-language-model investigation agent. Its goal is simple: help you ... The post Is There a Community Edition of Palantir? Meet OpenPlanter: An Open Source Recursive AI Agent for Your Micro Surveillance Use Cas",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/21/is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 21:10"
+  },
+  {
+    "id": "709a44ee0c5e",
+    "headline": "I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri",
+    "summary": "Article discusses concerns about overdependence on AI chatbots affecting independent thinking.",
+    "description": "Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxietyMy boyfriend of eight years, who is 44, has ADHD and runs his own business. He’s always struggled with admin and mundane tasks, but AI has revolutionised how he works. Now I’m worried he can’t seem to do anything without AI. He is a heavy ChatGPT user and uses it even when there’s a better non-AI alternative (eg he’ll ask it for train times rather than using ",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 06:00"
+  },
+  {
+    "id": "e73f875b44ca",
+    "headline": "Woman Uses AI to Apologize for Burning Down House, Biting Cop",
+    "summary": "Woman uses AI to generate apology statement for serious criminal charges.",
+    "description": "Not making a strong case for yourself. The post Woman Uses AI to Apologize for Burning Down House, Biting Cop appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/woman-apologizes-ai-burning-house",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 06:45"
+  },
+  {
+    "id": "75851762ec97",
+    "headline": "AI Could Cause Workers to Rise Up Against the Corporations Driving Them Into Poverty",
+    "summary": "Commentary on AI automation potentially triggering labor movements against corporations.",
+    "description": "\"Larger working-class movements for dignity are possible.\" The post AI Could Cause Workers to Rise Up Against the Corporations Driving Them Into Poverty appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-labor-workers-movement",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 06:00"
+  },
+  {
+    "id": "f74ee95d0af3",
+    "headline": "Man Letting AI Rent Human Bodies Says Elon Musk Is His Hero",
+    "summary": "Individual explores AI-controlled worker rental model with Elon Musk as inspiration.",
+    "description": "\"People would love to have a clanker as their boss.\" The post Man Letting AI Rent Human Bodies Says Elon Musk Is His Hero appeared first on Futurism.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/rentahuman-musk-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 14:15"
+  },
+  {
+    "id": "7a98be209601",
+    "headline": "Hollywood Is Lying to Everyone About How Much AI They’re Using, Says Consummate Hollywood Insider",
+    "summary": "Insider claims Hollywood underreports AI usage in production and creative work.",
+    "description": "\"Everyone's lying just a little bit.\" The post Hollywood Is Lying to Everyone About How Much AI They’re Using, Says Consummate Hollywood Insider appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/hollywood-lying-about-ai-usage",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 13:30"
+  },
+  {
+    "id": "cd2a70bfae83",
+    "headline": "It’s Comically Easy to Trick ChatGPT Into Saying Things About People That Are Completely Untrue",
+    "summary": "ChatGPT can be easily manipulated into generating false statements about people.",
+    "description": "\"Anybody can do this.\" The post It’s Comically Easy to Trick ChatGPT Into Saying Things About People That Are Completely Untrue appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/easy-trick-chatgpt-spread-lies-people",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 12:45"
+  },
+  {
+    "id": "ad558756f57d",
+    "headline": "Show HN: I built a free AI tool that picks your SaaS tech stack based on budget",
+    "summary": "Developer releases free AI tool for selecting SaaS tech stack based on budget.",
+    "description": "Hey HN, I kept seeing the same question asked over and over in startup communities: \"What tech stack should I use for my SaaS?\" The answers were always scattered, opinionated, and never accounted for budget or team size. So I built appstackbuilder.com — you tell it your monthly budget, app type, team size, and skill level, and it recommends a full stack (auth, database, hosting, payments, analytics, etc.) with actual pricing for each tool. A few things that make it different from generic advice:",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://appstackbuilder.com",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:27"
+  },
+  {
+    "id": "d213d0de6514",
+    "headline": "Show HN: goto-assistant – Self-hosted AI assistant, one npx command, no Docker",
+    "summary": "goto-assistant offers self-hosted AI chat with one-command setup, no Docker required.",
+    "description": "npx goto-assistant - that's it. Browser opens, an AI chat assistant walks you through setup (pick provider, paste API key, configure MCP servers), and you're done.I looked at OpenClaw's repo and was overwhelmed by the complexity. I just wanted a simple AI assistant I could understand end-to-end and run with one command. No framework, no build step for the frontend, no Docker, no always-on gateway.What it does: - Chat with Claude or OpenAI through a web UI- Memory across conversations (persistent",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/jolks/goto-assistant",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:24"
+  },
+  {
+    "id": "dbb5608d9a90",
+    "headline": "Building a C Compiler from Scratch with AI-Driven Development",
+    "summary": "Developer builds C compiler using AI-driven development methodology.",
+    "description": "Article URL: https://www.moonbitlang.com/blog/fastcc-ai-driven-development Comments URL: https://news.ycombinator.com/item?id=47110436 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.moonbitlang.com/blog/fastcc-ai-driven-development",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:21"
+  },
+  {
+    "id": "3ca0447ca8a2",
+    "headline": "Build Custom ECommerce GPT Apps with Shopify Faster",
+    "summary": "Tool enables rapid creation of custom eCommerce GPT applications with Shopify.",
+    "description": "Article URL: https://focusreactive.com/custom-ecommerce-chatgpt-apps-with-shopify/ Comments URL: https://news.ycombinator.com/item?id=47110429 Points: 1 # Comments: 1",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://focusreactive.com/custom-ecommerce-chatgpt-apps-with-shopify/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:20"
+  },
+  {
+    "id": "37cbfde081e4",
+    "headline": "AI succeeds in diagnosing rare diseases",
+    "summary": "AI achieves success in diagnosing rare diseases, published in Nature.",
+    "description": "Article URL: https://www.nature.com/articles/s41586-025-10097-9 Comments URL: https://news.ycombinator.com/item?id=47110420 Points: 1 # Comments: 0",
+    "tags": [
+      "Healthcare",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.nature.com/articles/s41586-025-10097-9",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:19"
+  },
+  {
+    "id": "39e453ecf8f8",
+    "headline": "Half the AI Agent Market Is One Category. The Rest Is Wide Open",
+    "summary": "AI agent market analysis shows one dominant category with significant untapped opportunities.",
+    "description": "Article URL: https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open Comments URL: https://news.ycombinator.com/item?id=47110385 Points: 1 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:12"
+  },
+  {
+    "id": "de2c7c8af25e",
+    "headline": "GenLoop–AI that trains generations of humans instead of growing data centers",
+    "summary": "GenLoop proposes alternative AI training approach focused on human development over data centers.",
+    "description": "Article URL: https://docs.google.com/document/d/17XDU9D7uRS1P7U0VRlI0Yogt3eiDG6QysYc7ROHwJoc/edit?usp=drivesdk Comments URL: https://news.ycombinator.com/item?id=47110347 Points: 1 # Comments: 1",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://docs.google.com/document/d/17XDU9D7uRS1P7U0VRlI0Yogt3eiDG6QysYc7ROHwJoc/edit?usp=drivesdk",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:03"
+  },
+  {
+    "id": "513ede123758",
+    "headline": "Show HN: Persona AI – A decision engine that outputs binary verdicts, not chat",
+    "summary": "Persona AI decision engine outputs binary verdicts instead of hedged chat responses.",
+    "description": "I noticed that LLMs are terrible at being decisive. To get around RLHF hedging (e.g., \"it's important to consider both sides\"), I built a system that forces constraints.Instead of a chat interface, Persona AI acts as a computational decision engine. You provide the stakes and constraints of a specific problem. Under the hood, it runs the input against specific mental models (inversion, survivorship bias checks) modeled after specific operators (Musk, Thiel, etc.).The UI enforces a strict output:",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://personai.fun",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 11:48"
+  },
+  {
+    "id": "ca30e80f4318",
+    "headline": "Show HN: Can you beat an AI at \"being human\" using one word?",
+    "summary": "TuringDuel game tests human vs AI ability through single-word moves and Turing test.",
+    "description": "I built TuringDuel, a Turing Test game where each move isjust one word. It's based on a research paper called \"A Minimal Turing Test\". You play human vs AI until one hits 4 points; an AI judge scores each round.I’m collecting data to benchmark different models as both players and judges (OpenAI / Anthropic / Gemini / Mistral / DeepSeek), but I only have ~45 games so far and need way more before publishing comparisons. (5 AI players and 4 judges at random gives 20 different game setups to evaluat",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://turingduel.com/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 11:41"
+  },
+  {
+    "id": "06df1fee6e0e",
+    "headline": "Show HN: Tickr – AI project manager that lives inside Slack (replaces Jira)",
+    "summary": "Tickr is Slack-integrated AI project manager offering Jira replacement functionality.",
+    "description": "Hey HN,I built Tickr because I was tired of being the human reminder system on my team. Every project I've been on has the same failure mode: someone creates tasks in JIRA, nobody updates them, the PM spends half their day chasing people for status, and standups become 15 minutes of \"I'll update the ticket after this meeting.\"Tickr is a Slack bot that does the project management work that humans hate doing:- Nudge engine: Automatically follows up with assignees when tasks go stale. It factors in",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47110071",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 11:08"
+  },
+  {
+    "id": "4aded15b1377",
+    "headline": "Fake faces generated by AI are now \"too good to be true,\" researchers warn",
+    "summary": "Researchers warn AI-generated fake faces now exceed authenticity thresholds of human detection.",
+    "description": "submitted by /u/esporx [link] [comments]",
+    "tags": [
+      "Image Gen",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rb0619/fake_faces_generated_by_ai_are_now_too_good_to_be/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Feb 2026, 19:30"
+  },
+  {
     "id": "c13c8ab1a876",
     "headline": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
     "summary": "Suspect in Tumbler Ridge school shooting raised alarms at OpenAI months before incident by describing violent scenarios to ChatGPT.",
