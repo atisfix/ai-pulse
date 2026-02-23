@@ -1,5 +1,359 @@
 [
   {
+    "id": "719e7b962bc3",
+    "headline": "How many AIs does it take to read a PDF?",
+    "summary": "Researchers explore using multiple AI models to process large document sets, demonstrating practical applications of AI in document analysis.",
+    "description": "Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice ...",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 06:00"
+  },
+  {
+    "id": "972cd95de384",
+    "headline": "Samsung is adding Perplexity to Galaxy AI",
+    "summary": "Samsung integrates Perplexity AI search into Galaxy AI, allowing users voice control access to the search engine alongside Bixby and Gemini.",
+    "description": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths ...",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 17:15"
+  },
+  {
+    "id": "fe0d15c93a88",
+    "headline": "Samsung is adding Perplexity to Galaxy AI - The Verge",
+    "summary": "Samsung expands Galaxy AI with Perplexity integration, offering users multiple AI agent choices for enhanced flexibility.",
+    "description": "Samsung is adding Perplexity to Galaxy AI The VergeGalaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility samsung.comSamsung is adding Perplexity to Galaxy AI for its upcoming S26 series EngadgetGalaxy S26 will have a ‘Hey Plex’ Perplexity hotword alongside ‘Hey Google’ & Bixby 9to5GoogleSamsung adds free repairs and more to its smartphone subscription plan SamMobile",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUNsUXBQRkFxQkJKTTRoZ3E5ano5SHFFRWlyeVhHUDZqZjVad3NUYXBiaUsyRjlWVmJuSC1XMmhfY3V4NTdidHBTbXB1blctODUxZ044bWZ3eTJHVVNZd2kyZUlwdWhfaWw5cmJzTXRZV011a2hOWC0tUEh4M0FRcmprZDc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 22:15"
+  },
+  {
+    "id": "0ea7cde4ba73",
+    "headline": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw - Hacker News",
+    "summary": "Google restricts AI Pro/Ultra subscribers from using third-party OpenClaw tool, raising concerns about API limitations.",
+    "description": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw Hacker NewsGoogle Blocks Paying AI Subscribers Using Third-Party OpenClaw Tool trendingtopics.euOpenClaw creator calls Google draconian after it bans some AI users, Google defends India TodayOpenClaw users lost access to Gemini AI services, Google Antigravity lead Varun Mohan explains why digit.inGoogle Antigravity ban wave hits OpenClaw users, creator weighs ending support PiunikaWeb",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1seWlCZUZvaUl2RWlSY1NSWjk3WHhFYzVPUlk5d1BaNnozeWp5WEQ3eWlOd28yMXJqdTlWNGI0RUNTRDRBOFRqSF9vcnpLd3liQ0kwdUxVTlg?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 23:48"
+  },
+  {
+    "id": "08baaeaf868d",
+    "headline": "Mastercard’s AI payment demo points to agent-led commerce",
+    "summary": "Mastercard demonstrates AI agents handling autonomous payment transactions, pointing toward agent-driven commerce systems.",
+    "description": "A recent demonstration from Mastercard suggests that payment systems may be heading toward a future where software agents, not people, complete purchases. During the India AI Impact Summit 2026, Mastercard showed what it described as its first fully authenticated “agentic commerce” transaction. In the demo, as reported by Times of India, an AI agent searched ... The post Mastercard’s AI payment demo points to agent-led commerce appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 10:00"
+  },
+  {
+    "id": "ab9795cf7d53",
+    "headline": "How Amul is using AI dairy farming to put 36 million farmers first",
+    "summary": "Amul deploys AI dairy farming systems across Gujarat, India, supporting 3.6 million women farmers with intelligent agricultural technology.",
+    "description": "AI dairy farming has found its most ambitious deployment yet – not in a Silicon Valley lab nor a European agri-tech campus, but in the villages of Gujarat, India, where 36 lakh (3.6 million) women milk producers are now being served by an AI assistant named Sarlaben. Amul, the world’s largest dairy cooperative, has launched ... The post How Amul is using AI dairy farming to put 36 million farmers first appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Healthcare"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 09:00"
+  },
+  {
+    "id": "fd341ef537aa",
+    "headline": "Hitachi bets on industrial expertise to win the physical AI race",
+    "summary": "Hitachi leverages industrial expertise to compete in physical AI sector, focusing on real-world robotics and machinery control.",
+    "description": "Physical AI – the branch of artificial intelligence that controls robots and industrial machinery in the real world – has a hierarchy problem. At the top, OpenAI and Google are scaling multimodal foundation models. In the middle, Nvidia is building the platforms and tools for physical AI development. And then there is a third camp: ... The post Hitachi bets on industrial expertise to win the physical AI race appeared first on AI News.",
+    "tags": [
+      "Robotics",
+      "Hardware"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 07:00"
+  },
+  {
+    "id": "36e4c51b0d4b",
+    "headline": "Taalas is replacing programmable GPUs with hardwired AI chips to achieve 17,000 tokens per second for ubiquitous inference",
+    "summary": "Taalas develops hardwired AI inference chips achieving 17,000 tokens/second, replacing traditional programmable GPUs for edge deployment.",
+    "description": "In the high-stakes world of AI infrastructure, the industry has operated under a singular assumption: flexibility is king. We build general-purpose GPUs because AI models change every week, and we need programmable silicon that can adapt to the next research breakthrough. But Taalas, the Toronto-based startup thinks that flexibility is exactly what’s holding AI back. ... The post Taalas is replacing programmable GPUs with hardwired AI chips to achieve 17,000 tokens per second for ubiquitous infe",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/22/taalas-is-replacing-programmable-gpus-with-hardwired-ai-chips-to-achieve-17000-tokens-per-second-for-ubiquitous-inference/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 06:33"
+  },
+  {
+    "id": "0a874598a9f5",
+    "headline": "VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source Vectorless Tree Indexing.",
+    "summary": "VectifyAI releases Mafin 2.5 with open-source vectorless indexing, achieving 98.7% accuracy in financial document retrieval and reasoning.",
+    "description": "Building a Retrieval-Augmented Generation (RAG) pipeline is easy; building one that doesn’t hallucinate during a 10-K audit is nearly impossible. For devs in the financial sector, the ‘standard’ vector-based RAG approach—chunking text and hoping for the best—often results in a ‘text soup’ that loses the vital structural context of tables and balance sheets. VectifyAI is ... The post VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source Vectorle",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/22/vectifyai-launches-mafin-2-5-and-pageindex-achieving-98-7-financial-rag-accuracy-with-a-new-open-source-vectorless-tree-indexing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 04:00"
+  },
+  {
+    "id": "f46f5321de7d",
+    "headline": "A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models",
+    "summary": "Tutorial demonstrates transparent evaluation pipelines for LLM applications using TruLens and OpenAI models for improved monitoring.",
+    "description": "In this tutorial, we focus on building a transparent and measurable evaluation pipeline for large language model applications using TruLens. Rather than treating LLMs as black boxes, we instrument each stage of an application so that inputs, intermediate steps, and outputs are captured as structured traces. We then attach feedback functions that quantitatively evaluate model ... The post A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models app",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 03:39"
+  },
+  {
+    "id": "d525d4c574c6",
+    "headline": "Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training",
+    "summary": "ByteDance research maps molecular bonds in AI reasoning to improve long chain-of-thought performance and reinforcement learning stability.",
+    "description": "ByteDance Seed recently dropped a research that might change how we build reasoning AI. For years, devs and AI researchers have struggled to ‘cold-start’ Large Language Models (LLMs) into Long Chain-of-Thought (Long CoT) models. Most models lose their way or fail to transfer patterns during multi-step reasoning. The ByteDance team discovered the problem: we have ... The post Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/22/forget-keyword-imitation-bytedance-ai-maps-molecular-bonds-in-ai-reasoning-to-stabilize-long-chain-of-thought-performance-and-reinforcement-learning-rl-training/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 20:54"
+  },
+  {
+    "id": "4027563370bf",
+    "headline": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
+    "summary": "Grindr tests AI-powered matchmaking features in Australia as dating app market faces fatigue and safety challenges.",
+    "description": "New subscription features on app for gay and bisexual men come with a price tag – from $109.99 a month in Australia to $349 in the USFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAmid dating app fatigue and concerns over the safety of its users, Grindr is testing out highly priced subscriptions that will incorporate AI into finding people matches.The app for gay and bisexual men shows users’ profiles in a grid for those in the im",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 03:55"
+  },
+  {
+    "id": "5c783ccab5f9",
+    "headline": "In some schools, chatbots interrogate students about their work. But the AI revolution has teachers worried",
+    "summary": "Schools increasingly deploy chatbots to assess student work, though teachers express concerns about educational equity and effectiveness.",
+    "description": "The fast take-up of innovative technology risks creating a ‘two-speed system’, an Independent Schools Australia paper warnsGet our breaking news email, free app or daily news podcastOnce upon a time, school students would submit an essay, and teachers would mark it. Job done.Enter “Thinking Mode”. Now, in some Australian schools, once a student finishes an assignment an AI chatbot will interrogate them about it: put them on the spot in a two-way dialogue, to make sure they really understood what",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 14:00"
+  },
+  {
+    "id": "358ee8a4d062",
+    "headline": "Met police using AI tools supplied by Palantir to flag officer misconduct",
+    "summary": "Metropolitan Police use Palantir AI tools to monitor officer behavior and detect misconduct, sparking Police Federation opposition.",
+    "description": "Exclusive: Police Federation condemns deployment of US firm’s tech to analyse behaviour as ‘automated suspicion’Scotland Yard is using AI tools supplied by the US tech company Palantir to monitor staff behaviour in an attempt to root out failing officers, the Guardian has learned.The Metropolitan police has previously declined to confirm or deny whether it used technology supplied by the company, which also works for the Israeli military and Donald Trump’s ICE operation. It has now confirmed tha",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 12:34"
+  },
+  {
+    "id": "63dbf113ec77",
+    "headline": "AI Is Destroying Grocery Supply Chains",
+    "summary": "Article discusses negative impacts of AI systems on grocery supply chain management and logistics optimization.",
+    "description": "Not great. The post AI Is Destroying Grocery Supply Chains appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-supply-chain-groceries",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 13:45"
+  },
+  {
+    "id": "9a7cbd279642",
+    "headline": "Barrage of Emails From AI Politics Platform Defeats Clean Air Initiative",
+    "summary": "AI-powered advocacy platform floods recipients with emails, successfully defeating clean air policy initiative through automation.",
+    "description": "Powered by CiviClick, a \"Disruptive Digital Advocacy Software.\" The post Barrage of Emails From AI Politics Platform Defeats Clean Air Initiative appeared first on Futurism.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-civiclick-environment",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 13:00"
+  },
+  {
+    "id": "9dbc85e22df1",
+    "headline": "Cities Are Shredding Their AI Surveillance Contracts en Masse",
+    "summary": "Multiple cities cancel AI surveillance contracts amid privacy concerns and growing momentum against algorithmic policing.",
+    "description": "\"We are seeing a lot more momentum.\" The post Cities Are Shredding Their AI Surveillance Contracts en Masse appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-surveillance-flock-contracts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 10:45"
+  },
+  {
+    "id": "c4fb0735b3c0",
+    "headline": "AI “Filmmaker” Gets Funding, Begs For Ideas On What to Actually Make",
+    "summary": "AI-powered filmmaker startup receives funding but publicly requests ideas for actual content projects to create.",
+    "description": "\"Embarrassing state of affairs.\" The post AI “Filmmaker” Gets Funding, Begs For Ideas On What to Actually Make appeared first on Futurism.",
+    "tags": [
+      "Creative AI",
+      "Startup"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-filmmaker-begs-for-ideas",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 10:00"
+  },
+  {
+    "id": "bf8ff771fe5d",
+    "headline": "Introducing EVMbench",
+    "summary": "OpenAI and Paradigm launch EVMbench, a benchmark for evaluating AI agents' ability to find and patch smart contract vulnerabilities.",
+    "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+    "tags": [
+      "OpenAI",
+      "Agents",
+      "Research"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/introducing-evmbench",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 Feb 2026, 00:00"
+  },
+  {
+    "id": "00f84fc51712",
+    "headline": "A tool to tell you what LLMs can run on your machine",
+    "summary": "GitHub tool helps users identify which LLMs can run efficiently on their personal machines based on hardware specifications.",
+    "description": "Article URL: https://github.com/AlexsJones/llmfit Comments URL: https://news.ycombinator.com/item?id=47111615 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/AlexsJones/llmfit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 15:10"
+  },
+  {
+    "id": "4fef30d7eee6",
+    "headline": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "summary": "Security research tests AI models' ability to detect hidden backdoors in binary files using reverse engineering tools.",
+    "description": "Article URL: https://quesma.com/blog/introducing-binaryaudit/ Comments URL: https://news.ycombinator.com/item?id=47111440 Points: 14 # Comments: 2",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://quesma.com/blog/introducing-binaryaudit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Feb 2026, 14:50"
+  },
+  {
     "id": "a3b6c60b5c29",
     "headline": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
     "summary": "Microsoft's new gaming CEO commits to avoiding AI-generated content flooding in the gaming ecosystem.",
