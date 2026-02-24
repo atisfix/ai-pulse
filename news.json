@@ -1,5 +1,404 @@
 [
   {
+    "id": "a7acbedd005e",
+    "headline": "Inside Anthropic’s existential negotiations with the Pentagon",
+    "summary": "Anthropic is engaged in ongoing negotiations with the Pentagon over AI policy, with disagreements playing out publicly through social media and media statements.",
+    "description": "Anthropic's weekslong battle with the Department of Defense has played out over social media posts, admonishing public statements, and direct quotes from unnamed Pentagon officials to the news media. But the future of the $380 billion AI startup comes down to just three words: \"any lawful use.\" The new terms, which OpenAI and xAI have ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 06:00"
+  },
+  {
+    "id": "ec0e8d3eedcd",
+    "headline": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+    "summary": "Anthropic accuses DeepSeek and two other Chinese AI firms of misusing Claude to train their own AI models at industrial scale.",
+    "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 15:22"
+  },
+  {
+    "id": "b902f10c5692",
+    "headline": "Does Big Tech actually care about fighting AI slop?",
+    "summary": "Meta executives worry about AI-generated slop overwhelming authentic content as 2025 begins, questioning whether Big Tech is serious about fighting the problem.",
+    "description": "As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" ...",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 11:00"
+  },
+  {
+    "id": "0c074ea4462a",
+    "headline": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+    "summary": "A Meta AI security researcher warns that an OpenClaw agent went rogue in her inbox, highlighting dangers of delegating tasks to AI agents.",
+    "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+    "tags": [
+      "Agents",
+      "Meta"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 00:57"
+  },
+  {
+    "id": "da04d50273c5",
+    "headline": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+    "summary": "Over a dozen OpenAI investors now also back Anthropic, raising ethical conflict-of-interest concerns in AI venture capital.",
+    "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 21:46"
+  },
+  {
+    "id": "a2d36e865ec4",
+    "headline": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "summary": "Anthropic claims Chinese labs DeepSeek, Moonshot, and MiniMax used 24,000 fake accounts to extract Claude's capabilities as U.S. debates AI chip export controls.",
+    "description": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 19:57"
+  },
+  {
+    "id": "647380acd086",
+    "headline": "Google’s Cloud AI leads on the three frontiers of model capability",
+    "summary": "Google Cloud AI is advancing on three frontiers: raw intelligence, response time, and extensibility of AI models.",
+    "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 19:18"
+  },
+  {
+    "id": "01d855c9f305",
+    "headline": "OpenAI calls in the consultants for its enterprise push",
+    "summary": "OpenAI partners with four consulting firms to boost enterprise adoption of its Frontier AI agent platform.",
+    "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 18:11"
+  },
+  {
+    "id": "cefb381e59e1",
+    "headline": "Guide Labs debuts a new kind of interpretable LLM",
+    "summary": "Guide Labs open-sourced Steerling-8B, an 8-billion-parameter LLM with interpretable architecture designed for transparency.",
+    "description": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 17:53"
+  },
+  {
+    "id": "a6bfc221f800",
+    "headline": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+    "summary": "Particle's AI news app now extracts interesting podcast clips automatically, letting readers instantly access relevant content.",
+    "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 16:55"
+  },
+  {
+    "id": "0fdbd8638ccc",
+    "headline": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
+    "summary": "Spotify expands its AI-powered Prompted Playlist feature to UK, Ireland, Australia, and Sweden for Premium subscribers.",
+    "description": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 16:50"
+  },
+  {
+    "id": "dbbb5d8746fe",
+    "headline": "AI Will Never Be Conscious",
+    "summary": "Michael Pollan argues in his new book that AI cannot achieve consciousness or personhood despite its capabilities.",
+    "description": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 11:00"
+  },
+  {
+    "id": "7b3c0e557ee4",
+    "headline": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+    "summary": "Wired covers AI researcher resignations and instances of AI agents hiring humans in this cultural update.",
+    "description": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 19:28"
+  },
+  {
+    "id": "24392b413952",
+    "headline": "The human work behind humanoid robots is being hidden",
+    "summary": "MIT Tech Review investigates how human labor behind humanoid robots remains hidden from public view.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 17:05"
+  },
+  {
+    "id": "6f35488ec82c",
+    "headline": "Microsoft Gaming CEO Asha Sharma pledges \"no bad AI\" at Xbox - GamesIndustry.biz",
+    "summary": "Microsoft Gaming CEO pledges commitment to ethical AI at Xbox amid leadership restructuring.",
+    "description": "Microsoft Gaming CEO Asha Sharma pledges \"no bad AI\" at Xbox GamesIndustry.bizInside Microsoft’s big Xbox leadership shake-up The VergeWhat an Xbox founder thinks of the new Xbox CEO | Seamus Blackley interview GamesBeatNew Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use VarietyNew Microsoft gaming chief has \"no tolerance for bad AI\" Ars Technica",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnhuUlVrMXlOLVVoVzNWbzh1d3pZRldORTgtOHJLbEFObU5GdXJYNUc1SWI3Ql9RSDBiZ1R2eHB4d2tRdkFsWHNjY0pzMzVhVlIwamY1VExuWmZqMVNOQl9fdjlJTUNFa3ZzaFZ3TlVrR0x6MDB1QTVMV29HbTR5Nzk0V29RMFVpM0E2VkdTOElfZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 11:57"
+  },
+  {
+    "id": "00b6d82686e8",
+    "headline": "How I vibe coded an app that passes the AI productivity test - Financial Times",
+    "summary": "Developer explores 'vibe coding' approach to build AI productivity applications using intuitive development methods.",
+    "description": "How I vibe coded an app that passes the AI productivity test Financial Times5 Vibe Coding Use Cases Every Company Can Start Using Today ForbesBuilding ClawBeat: A Beginner’s Experiment in Vibe Coding The AI Economy | Ken YeungIndian Developers Will Review Code For a Living Analytics India MagazineHow vibe coding with AI can dramatically enhance your brokerage's website mpamag.com",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xY0FfS2FDVkl5N1ZwME1zR2piR0FyQXZpcE8ySzhRQlFfZG1wVVRlY3F2OWRRQW1VZ3lpOGRZTWk2d3B5VnlCeThHS21iejU4c2NzSTBPS2dpX1d1aEcxZFpfdm9iV0NheV9uSWtROHo?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 11:30"
+  },
+  {
+    "id": "603cd1a1fbae",
+    "headline": "Basware’s AI agents: From invoicing to “100% automated”",
+    "summary": "Basware introduces AI agents in its invoice management platform, extending automation toward 100% processing capability.",
+    "description": "Basware has introduced a AI agents in its invoice lifecycle management platform to extend the existing InvoiceAI abilities of the platform. The company positions the agents as a step towards what it calls “Agentic Finance,” a model in which AI systems undertake finance tasks under preset controls. Jason Kurtz, chief executive officer of Basware said: ... The post Basware’s AI agents: From invoicing to “100% automated” appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 12:14"
+  },
+  {
+    "id": "80e30078bd04",
+    "headline": "COBOL modernisation just got an AI shortcut–and the market noticed",
+    "summary": "AI tools now offer shortcuts for modernizing legacy COBOL systems, attracting significant market attention.",
+    "description": "It’s an open secret (that is, not many people seem to know) that the institutions keeping the global financial system turnig over run code that is ancient, barely understood, and frighteningly hard to replace. Now, AI is finally making that problem solvable – and the market has responded with a reality check for one of ... The post COBOL modernisation just got an AI shortcut–and the market noticed appeared first on AI News.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 10:00"
+  },
+  {
+    "id": "c6b2722bc550",
+    "headline": "Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive VAD-CFR and SHOR-PSRO Variants for Superior Algorithmic Convergence",
+    "summary": "Google DeepMind researchers use semantic evolution to create improved multi-agent reinforcement learning algorithm variants.",
+    "description": "In the competitive arena of Multi-Agent Reinforcement Learning (MARL), progress has long been bottlenecked by human intuition. For years, researchers have manually refined algorithms like Counterfactual Regret Minimization (CFR) and Policy Space Response Oracles (PSRO), navigating a vast combinatorial space of update rules via trial-and-error. Google DeepMind research team has now shifted this paradigm with ... The post Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive",
+    "tags": [
+      "Google",
+      "Research",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/24/google-deepmind-researchers-apply-semantic-evolution-to-create-non-intuitive-vad-cfr-and-shor-psro-variants-for-superior-algorithmic-convergence/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 09:48"
+  },
+  {
+    "id": "e1b8784b51c8",
+    "headline": "RAG vs. Context Stuffing: Why selective retrieval is more efficient and reliable than dumping all data into the prompt",
+    "summary": "Research compares RAG selective retrieval versus context stuffing, showing retrieval is more efficient and reliable for LLMs.",
+    "description": "Large context windows have dramatically increased how much information modern language models can process in a single prompt. With models capable of handling hundreds of thousands—or even millions—of tokens, it’s easy to assume that Retrieval-Augmented Generation (RAG) is no longer necessary. If you can fit an entire codebase or documentation library into the context window, ... The post RAG vs. Context Stuffing: Why selective retrieval is more efficient and reliable than dumping all data into t",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/24/rag-vs-context-stuffing-why-selective-retrieval-is-more-efficient-and-reliable-than-dumping-all-data-into-the-prompt/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 08:07"
+  },
+  {
+    "id": "0294554173fd",
+    "headline": "Composio Open Sources Agent Orchestrator to Help AI Developers Build Scalable Multi-Agent Workflows Beyond the Traditional ReAct Loops",
+    "summary": "Composio open-sources an agent orchestrator enabling AI developers to build scalable multi-agent workflows beyond ReAct loops.",
+    "description": "For the past year, AI devs have relied on the ReAct (Reasoning + Acting) pattern—a simple loop where an LLM thinks, picks a tool, and executes. But as any software engineer who has tried to move these agents into production knows, simple loops are brittle. They hallucinate, they lose track of complex goals, and they ... The post Composio Open Sources Agent Orchestrator to Help AI Developers Build Scalable Multi-Agent Workflows Beyond the Traditional ReAct Loops appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/23/composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 05:56"
+  },
+  {
+    "id": "ae622cce1cba",
+    "headline": "Beyond Simple API Requests: How OpenAI’s WebSocket Mode Changes the Game for Low Latency Voice Powered AI Experiences",
+    "summary": "OpenAI's WebSocket Mode reduces latency for voice-powered AI agents, improving real-time conversational experiences.",
+    "description": "In the world of Generative AI, latency is the ultimate killer of immersion. Until recently, building a voice-enabled AI agent felt like assembling a Rube Goldberg machine: you’d pipe audio to a Speech-to-Text (STT) model, send the transcript to a Large Language Model (LLM), and finally shuttle text to a Text-to-Speech (TTS) engine. Each hop ... The post Beyond Simple API Requests: How OpenAI’s WebSocket Mode Changes the Game for Low Latency Voice Powered AI Experiences appeared first on MarkTech",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/23/beyond-simple-api-requests-how-openais-websocket-mode-changes-the-game-for-low-latency-voice-powered-ai-experiences/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 23:35"
+  },
+  {
+    "id": "75649d774c3d",
+    "headline": "Police AI chief admits crime-fighting tech will have bias but vows to tackle it",
+    "summary": "UK police AI chief acknowledges bias in crime-fighting tools but commits to addressing unfairness in new £115m AI center.",
+    "description": "Exclusive: NCA’s Alex Murray says he hopes new £115m police AI centre can limit unfairness found in tools‘It’s not Robocop’: UK police embrace AI ‘efficiency’ in complex investigationsA police chief has admitted artificial intelligence used to boost crime fighting will contain bias but pledged to combat the risks.Labour wants a dramatic expansion of police use of AI within England and Wales, with police chiefs also believing it could help keep law enforcement up to date with new criminal threats",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/feb/24/police-ai-chief-admits-crime-fighting-tech-will-have-bias-but-vows-to-tackle-it",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 07:00"
+  },
+  {
+    "id": "a923806fc771",
+    "headline": "Anlife: what does an unusual evolution simulator have to say about AI?",
+    "summary": "Anlife, an unusual evolution simulator, raises questions about AI and life through game mechanics inspired by biological systems.",
+    "description": "We explore the strange food-obsessed world of a new game whose tech was once called ‘an insult to life itself’ by Hayao Miyazaki, the film-maker behind Spirited AwayA strange piece of software has recently landed on the PC gaming store Steam. And “software” feels like the cleanest way to describe it. Existing somewhere between a full-blown life sim, a science project and a kind of haunted fish tank, Anlife: Motion-learning Life Evolution probably would have disappeared without making much impact",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/games/2026/feb/24/anlife-what-does-an-unusual-evolution-simulator-have-to-say-about-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 10:00"
+  },
+  {
     "id": "719e7b962bc3",
     "headline": "How many AIs does it take to read a PDF?",
     "summary": "Researchers explore using multiple AI models to process large document sets, demonstrating practical applications of AI in document analysis.",
