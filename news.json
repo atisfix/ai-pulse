@@ -1,5 +1,386 @@
 [
   {
+    "id": "9a981751437d",
+    "headline": "OpenAI defeats xAI’s trade secrets lawsuit",
+    "summary": "OpenAI wins motion to dismiss xAI's trade secrets lawsuit alleging poaching and theft of proprietary information.",
+    "description": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the ruling, US District Judge ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 18:05"
+  },
+  {
+    "id": "9eae2f6add3c",
+    "headline": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+    "summary": "ByteDance's Seetaice 2.0 video generation model shows promise but still produces concerning quality issues in generated footage.",
+    "description": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) ...",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 13:30"
+  },
+  {
+    "id": "e7e8af5fcc2d",
+    "headline": "Anthropic’s Claude Cowork is plugging AI into more boring enterprise stuff",
+    "summary": "Anthropic expands Claude Cowork platform with integrations to popular office apps for enterprise task automation.",
+    "description": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, ...",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 11:43"
+  },
+  {
+    "id": "75fa27680982",
+    "headline": "How Claude Code Claude Codes",
+    "summary": "Anthropic's Claude Code developer tool gains adoption across industries beyond software engineering for various applications.",
+    "description": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found ...",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 09:20"
+  },
+  {
+    "id": "ac1583da1be5",
+    "headline": "This Chainsmokers-approved AI music producer is joining Google",
+    "summary": "Google acquires ProducerAI music platform and integrates it with new Lyria AI music generation technology.",
+    "description": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model. ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop ...",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 09:00"
+  },
+  {
+    "id": "d30258b15295",
+    "headline": "India’s AI boom pushes firms to trade near-term revenue for users",
+    "summary": "AI companies test converting India's massive free-tier users to paying customers as promotional periods end.",
+    "description": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 02:00"
+  },
+  {
+    "id": "6b249ca7f4a2",
+    "headline": "Nvidia challenger AI chip startup MatX raised $500M",
+    "summary": "MatX, founded by ex-Google TPU engineers, raises $500M to develop AI chips competing with NVIDIA.",
+    "description": "The startup was founded by former Google TPU engineers in 2023.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 00:45"
+  },
+  {
+    "id": "4c73f2ffad47",
+    "headline": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+    "summary": "Spanish startup Multiverse Computing releases compressed HyperNova 60B model outperforming Mistral's offering.",
+    "description": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
+    "tags": [
+      "Open Source",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 23:32"
+  },
+  {
+    "id": "64f9d8682681",
+    "headline": "Uber engineers built an AI version of their boss",
+    "summary": "Uber employees created AI chatbot of CEO Dara Khosrowshahi to practice pitches as company embraces AI adoption.",
+    "description": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 23:09"
+  },
+  {
+    "id": "4baa74a3c06f",
+    "headline": "Anthropic won’t budge as Pentagon escalates AI dispute",
+    "summary": "Pentagon demands Anthropic loosen AI safety guardrails by Friday or face penalties in escalating dispute.",
+    "description": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 21:18"
+  },
+  {
+    "id": "03bd6b924f07",
+    "headline": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+    "summary": "OpenAI COO states AI has not meaningfully penetrated enterprise business processes despite SaaS replacement hype.",
+    "description": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 17:44"
+  },
+  {
+    "id": "7bf80969c5f3",
+    "headline": "Music generator ProducerAI joins Google Labs",
+    "summary": "ProducerAI joins Google Labs; Wyclef Jean used Google's music generation tools on new song.",
+    "description": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 16:57"
+  },
+  {
+    "id": "ecbba513cdc5",
+    "headline": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+    "summary": "Meta commits up to $100B to AMD AI chips in multiyear deal to diversify from NVIDIA dependency.",
+    "description": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 15:15"
+  },
+  {
+    "id": "579e8c0c1331",
+    "headline": "Oura launches a proprietary AI model focused on women’s health",
+    "summary": "Oura launches proprietary AI model addressing women's health from menstruation through menopause.",
+    "description": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 15:08"
+  },
+  {
+    "id": "445564bba198",
+    "headline": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+    "summary": "Ailias creates hologram avatars of historical figures like Isaac Newton for interactive idea brainstorming.",
+    "description": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ailias-hologram-avatars/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 12:00"
+  },
+  {
+    "id": "6df41dacc10a",
+    "headline": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
+    "summary": "Podcast covers AI researcher resignations, AI agents hiring humans, and conservative magazine event.",
+    "description": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Feb 2026, 19:28"
+  },
+  {
+    "id": "947889fef378",
+    "headline": "A I-designed proteins may help spot cancer",
+    "summary": "MIT and Microsoft developed AI-designed protein sensors for detecting early cancer signs via urine tests.",
+    "description": "Researchers at MIT and Microsoft have used artificial intelligence to create molecular sensors that could detect early signs of cancer via a urine test. The researchers developed an AI model to design short proteins that are targeted by enzymes called proteases, which are overactive in cancer cells. Nanoparticles coated with these proteins, called peptides, can…",
+    "tags": [
+      "Microsoft",
+      "Healthcare",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 22:00"
+  },
+  {
+    "id": "9f839c18bd93",
+    "headline": "Oura launches a proprietary AI model focused on women’s health - TechCrunch",
+    "summary": "Duplicate of article 15 about Oura's proprietary AI model for women's health guidance.",
+    "description": "Oura launches a proprietary AI model focused on women’s health TechCrunchIntroducing Our First Proprietary AI Model to Deliver Personalized, Clinically Grounded Women’s Health Guidance Oura RingWellness Briefing: Oura Ring launches female-focused LLM as demand for wellness personalization grows, plus news glossy.coOura Debuts Women’s Health AI Trained on Clinical Research findarticles.comOura finally gives its AI the knowledge boost many wearers have waited for Android Police",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHlweGRVY245ZVVHMVRVVTJWNm9wd3pSanNqUjBWNDdZb1NQS1FQTDRiOWNXNWpUWkxueDdHT3I5ZzhkQjB1U0gzNTBLMTVSYjZ1NW5aZFc5MGRVX0lta2s0TEFuRjh0WDFwSlNNb0pSTDRJcTFybEYtR2RydUEySGd1ckJFRUtoQ0prdERyNTZEalEybW9tVkltb0Y?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 15:08"
+  },
+  {
+    "id": "1cc2ad49a631",
+    "headline": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
+    "summary": "Nokia and AWS pilot AI agents to automate 5G network slicing and real-time traffic management.",
+    "description": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network conditions and adjust resources automatically. The ... The post Nokia and AWS pilot AI automation for real-time 5G network slicing appeared first on AI News.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 10:00"
+  },
+  {
+    "id": "bde0af8b9dc3",
+    "headline": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
+    "summary": "Anthropic reports competitors conducting large-scale model distillation attacks on Claude via 16M+ exchanges.",
+    "description": "Anthropic has detailed three “industrial-scale” AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve their competing platforms. The extraction technique, known as distillation, involves training a weaker system on the ... The post Anthropic: Claude faces ‘industrial-scale’ AI model distillation appeared ",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 15:56"
+  },
+  {
+    "id": "17ad8132f87b",
+    "headline": "How disconnected clouds improve AI data governance",
+    "summary": "Disconnected cloud infrastructure improves AI data governance under stricter regulatory requirements for businesses.",
+    "description": "Disconnected clouds aim to improve AI data governance as businesses rethink their infrastructure under tighter regulatory expectations. Ensuring operational continuity in isolated environments has become increasingly vital for businesses. Facilities lacking continuous internet access face unique constraints where external dependencies become unacceptable. Microsoft recently expanded its capabilities to allow regulated industries and public sectors to ... The post How disconnected clouds improve ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 14:42"
+  },
+  {
+    "id": "a6f6b2ce41d8",
+    "headline": "Deploying agentic finance AI for immediate business ROI",
+    "summary": "Finance AI agents deliver ROI when deployed with governance frameworks and clear business targets.",
+    "description": "Agentic finance AI improves business efficiency and ROI only when deployed with strict governance and clear return on investment targets. A recent FT Longitude survey of 200 finance leaders across the US, UK, France, and Germany showed 61 percent have deployed AI agents merely as experiments. Meanwhile, one in four executives admit they do not ... The post Deploying agentic finance AI for immediate business ROI appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 13:26"
+  },
+  {
+    "id": "610ee96224ce",
+    "headline": "Basware’s AI agents: From invoicing to ‘100% automated’",
+    "summary": "Basware integrates AI agents into invoice management platform extending automation toward fully autonomous processing.",
+    "description": "Basware has introduced a AI agents in its invoice lifecycle management platform to extend the existing InvoiceAI abilities of the platform. The company positions the agents as a step towards what it calls “Agentic Finance,” a model in which AI systems undertake finance tasks under preset controls. Jason Kurtz, chief executive officer of Basware said: ... The post Basware’s AI agents: From invoicing to ‘100% automated’ appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Feb 2026, 12:14"
+  },
+  {
     "id": "a7acbedd005e",
     "headline": "Inside Anthropic’s existential negotiations with the Pentagon",
     "summary": "Anthropic is engaged in ongoing negotiations with the Pentagon over AI policy, with disagreements playing out publicly through social media and media statements.",
