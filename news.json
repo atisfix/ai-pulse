@@ -1,5 +1,357 @@
 [
   {
+    "id": "40c8855b4db0",
+    "headline": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
+    "summary": "Google integrates Alphabet's Intrinsic robotics unit into the company after five years as independent subsidiary, doubling down on physical AI development.",
+    "description": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio ...",
+    "tags": [
+      "Google",
+      "Robotics"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 06:06"
+  },
+  {
+    "id": "cdae3f9e0498",
+    "headline": "Google and Samsung just launched the AI features Apple couldn’t with Siri",
+    "summary": "Google and Samsung launch Gemini AI features enabling multistep tasks like food ordering and rideshare on Pixel 10 and Galaxy S26 phones.",
+    "description": "Google just announced that Gemini will soon be able to take care of some multistep tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the just-announced Samsung Galaxy S26 phones. It all sounds a bit like features Apple announced for Siri way back ...",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 14:56"
+  },
+  {
+    "id": "5be098a0fc83",
+    "headline": "Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26",
+    "summary": "Gemini AI gains ability to automate tasks like booking Ubers and ordering food on Pixel 10 and Galaxy S26 devices, advancing assistant capabilities.",
+    "description": "Google's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own. It's called task automation, and it starts with a prompt to ...",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 13:00"
+  },
+  {
+    "id": "06c3f37fc403",
+    "headline": "Amazon’s AGI lab leader is leaving",
+    "summary": "David Luan, head of Amazon's San Francisco AI lab, departs after less than two years leading the company's AGI research efforts.",
+    "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to ...",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 10:24"
+  },
+  {
+    "id": "e3e4aa7a8904",
+    "headline": "Does Anthropic think Claude is alive? Define ‘alive’",
+    "summary": "Anthropic executives suggest Claude AI may possess life-like qualities, raising philosophical questions about AI consciousness during publicity campaign.",
+    "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 09:24"
+  },
+  {
+    "id": "f7a562e8a927",
+    "headline": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+    "summary": "Amazon introduces three personality presets for Alexa Plus, letting users customize the AI assistant's conversational tone and behavior style.",
+    "description": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers ...",
+    "tags": [
+      "Amazon",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 09:00"
+  },
+  {
+    "id": "001f789b695e",
+    "headline": "Adobe’s new AI video editing tool stitches clips into a first draft",
+    "summary": "Adobe launches Firefly Quick Cut beta tool that automatically creates first-draft video edits, enabling editors to focus on storytelling refinement.",
+    "description": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut ...",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 09:00"
+  },
+  {
+    "id": "827698b0d4a3",
+    "headline": "Gushwork bets on AI search for customer leads — and early results are emerging",
+    "summary": "Gushwork raises $9M seed funding for AI-powered customer lead search tool showing early traction with ChatGPT and similar platforms.",
+    "description": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 00:00"
+  },
+  {
+    "id": "c4bd86255b48",
+    "headline": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+    "summary": "Anthropic acquires Vercept, a startup specializing in computer-use agents that automate complex tasks within applications like humans would.",
+    "description": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 23:49"
+  },
+  {
+    "id": "0b4be77b1809",
+    "headline": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+    "summary": "White House requests AI companies absorb electricity rate increases; most major hyperscalers have already committed to covering cost hikes.",
+    "description": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 20:42"
+  },
+  {
+    "id": "354f76164740",
+    "headline": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
+    "summary": "CUDIS wearable startup launches health ring with AI-powered coaching that gamifies healthy behaviors through redeemable points rewards system.",
+    "description": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
+    "tags": [
+      "Healthcare",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 19:10"
+  },
+  {
+    "id": "8d9325a30f11",
+    "headline": "The public opposition to AI infrastructure is heating up",
+    "summary": "Public opposition to AI data center expansion intensifies, resulting in restrictive policies including bans on new construction in some areas.",
+    "description": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 19:03"
+  },
+  {
+    "id": "e36cd5e183a9",
+    "headline": "Gemini can now automate some multi-step tasks on Android",
+    "summary": "Gemini on Android gains ability to automate multistep tasks including rideshare requests and food delivery orders through native integration.",
+    "description": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 18:00"
+  },
+  {
+    "id": "7e7a65a7335c",
+    "headline": "OpenAI COO says ads will be ‘an iterative process’",
+    "summary": "OpenAI COO Brad Lightcap indicates ad integration will be iterative, requesting patience as company develops and tests advertising approach.",
+    "description": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 17:37"
+  },
+  {
+    "id": "20daaa41aca1",
+    "headline": "Who’s Your Daddy? A Chatbot",
+    "summary": "More people explore BDSM fantasies through AI chatbots, though some community members question whether AI substitution undermines authentic experiences.",
+    "description": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 12:00"
+  },
+  {
+    "id": "6ef29023d315",
+    "headline": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+    "summary": "Riley Walz, known for viral Silicon Valley stunts, joins OpenAI to develop new ways humans interact with AI systems and interfaces.",
+    "description": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-hires-riley-walz/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 19:59"
+  },
+  {
+    "id": "7abee98cf98b",
+    "headline": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
+    "summary": "Scrapling open-source project gains popularity among AI agent users seeking to bypass anti-bot systems for unrestricted web scraping.",
+    "description": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 19:00"
+  },
+  {
+    "id": "8ee369fc19b1",
+    "headline": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
+    "summary": "Gemini gains ability to automate app-based tasks like booking Ubers and ordering DoorDash on Samsung Galaxy S26 and other Android devices.",
+    "description": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 18:00"
+  },
+  {
+    "id": "69e7ae46df8c",
+    "headline": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps - 9to5Google",
+    "summary": "Google introduces AppFunctions feature enabling Gemini to control Android apps, similar to Model Context Protocol integration.",
+    "description": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps 9to5GoogleSamsung's S26 gives an advance look at what the Google-powered Apple Siri could do CNBCLet Gemini handle your multi-step daily tasks on Android. blog.google[Galaxy Unpacked 2026] Highlights From Galaxy Unpacked: The Beginning of Truly Agentic AI samsung.comGoogle and Samsung just launched the AI features Apple couldn’t with Siri The Verge",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWFV0dFc0TnNrZUNjR3RBZHV3LTdCLUhiN0NIOGRrSDM2M2lvb29QMkRwYU1tblJBR1YteGNEN0JpSDdzd0Z5c0xYZHFFVzJUeDZIMXZmY3pSaWdkN2QzRWlvYVRsYWc4YkVZQTRpOA?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 00:54"
+  },
+  {
+    "id": "955c7ddf82bc",
+    "headline": "Amazon’s AI-powered Alexa+ gets new personality options - TechCrunch",
+    "summary": "Amazon's Alexa Plus AI assistant gains new personality customization options allowing users to adjust conversational tone and response style.",
+    "description": "Amazon’s AI-powered Alexa+ gets new personality options TechCrunchYou can now make Alexa’s AI personality more friendly, blunt, or chilled out The VergeAlexa’s new AI personalities are cringe PCWorldAlexa Plus Now Adapts to Your Moods in Real Time: We Try It Out CNETJimmy and Tariq Unveil Alexa+'s New Personality Styles in Partnership with Alexa+ Yahoo",
+    "tags": [
+      "Amazon",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeExwZVVHVWNZZWdySHByMFU1N21FRV9KMzZGZFpaYWFnYnNMQ3EtcENkYWx1bHpmNldlUVNnTi1JMGZTUFllQVJqZU5hSkxxNUNNOWlBUFpWY3RKVk9samZWNENSRmhrQ0ljUkRvZWV6MVhrVUFhZnlWbVlJeDBDNDZZNTlXUkx4eTNJRzZTLS02QQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 14:00"
+  },
+  {
+    "id": "c7e635531c31",
+    "headline": "Adobe’s new AI video editing tool stitches clips into a first draft - The Verge",
+    "summary": "Adobe Firefly video editing tool uses AI to transform raw footage into first-cut videos, streamlining production workflow for creators.",
+    "description": "Adobe’s new AI video editing tool stitches clips into a first draft The VergeAdobe Firefly can now use AI to turn raw footage into a first-cut video 9to5MacAdobe's Still All In on AI. Next Up: The One-Click Tool That Edits Videos for You CNET",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWFlWU5MTWJWWjJoUTRzX2l4RjVsS0hucXNtdmU1cUNhVlBWUlVxM0FqYWN1Vl9vaFBCT0hsc2xCaFJZdmRjVk1meUhfS0E4MXllVWhCRkVyUmFoZzFwbU1WY2lzQWZxVDM1MDl1QUtpUF9WQjlKMTF0enZpeWZIS0VGWQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Feb 2026, 14:00"
+  },
+  {
     "id": "9a981751437d",
     "headline": "OpenAI defeats xAI’s trade secrets lawsuit",
     "summary": "OpenAI wins motion to dismiss xAI's trade secrets lawsuit alleging poaching and theft of proprietary information.",
