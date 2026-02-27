@@ -1,5 +1,358 @@
 [
   {
+    "id": "a4f5108f791b",
+    "headline": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+    "summary": "Anthropic refuses Pentagon's demands for unrestricted AI access, standing firm on principles against lethal autonomous weapons and mass surveillance.",
+    "description": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 18:22"
+  },
+  {
+    "id": "b2ad0360a412",
+    "headline": "Microsoft’s Copilot Tasks AI uses its own computer to get things done",
+    "summary": "Microsoft previews Copilot Tasks, an AI system designed to automate background busywork and reduce user workload.",
+    "description": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 17:56"
+  },
+  {
+    "id": "4d1a5a624e45",
+    "headline": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+    "summary": "Google rolls out Nano Banana 2, an advanced AI image generation model, to free Gemini users with faster performance.",
+    "description": "Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for ...",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 11:00"
+  },
+  {
+    "id": "04e72db8b21a",
+    "headline": "Anthropic gives its retired Claude AI a Substack",
+    "summary": "Anthropic launches Claude's Corner, a Substack newsletter written by its retired Claude 3 Opus AI model.",
+    "description": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 09:21"
+  },
+  {
+    "id": "a186e5d70aa7",
+    "headline": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+    "summary": "Burger King deploys AI chatbot 'Patty' in employee headsets to monitor service quality and politeness.",
+    "description": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\" Thibault Roux, Burger King's chief digital officer, tells ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 08:00"
+  },
+  {
+    "id": "1c976a471a51",
+    "headline": "Anthropic CEO stands firm as Pentagon deadline looms",
+    "summary": "Anthropic CEO Dario Amodei refuses Pentagon's ultimatum for unrestricted military AI access on ethical grounds.",
+    "description": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 23:19"
+  },
+  {
+    "id": "95625bc52741",
+    "headline": "Mistral AI inks a deal with global consulting giant Accenture",
+    "summary": "Mistral AI partners with consulting giant Accenture, joining OpenAI and Anthropic in strategic collaborations.",
+    "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
+    "tags": [
+      "Market",
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 19:17"
+  },
+  {
+    "id": "99ff437eb3f8",
+    "headline": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+    "summary": "Read AI launches Ada, an email-based AI digital twin that manages schedules and provides knowledge base answers.",
+    "description": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 17:00"
+  },
+  {
+    "id": "ef3fde7aa5ea",
+    "headline": "Bumble adds AI-powered photo feedback and profile guidance tools",
+    "summary": "Bumble adds AI-powered photo feedback and profile guidance tools to compete with other dating apps.",
+    "description": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 16:38"
+  },
+  {
+    "id": "4bcfe978a902",
+    "headline": "Google launches Nano Banana 2 model with faster image generation",
+    "summary": "Google makes Nano Banana 2 the default image generation model in Gemini app for faster performance.",
+    "description": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 16:00"
+  },
+  {
+    "id": "a71d6012c9f7",
+    "headline": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+    "summary": "Huxe app uses AI to generate personalized daily audio summaries from emails and calendars with privacy considerations.",
+    "description": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 12:00"
+  },
+  {
+    "id": "dc3627b99bda",
+    "headline": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+    "summary": "Nano Banana 2 is a powerful AI image editor from Google that generates and manipulates photos with varying accuracy.",
+    "description": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 00:01"
+  },
+  {
+    "id": "450f5dc4f0bf",
+    "headline": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+    "summary": "Podcast discusses Anthropic-Pentagon conflict, agentic AI systems, and undersea cable technology implications.",
+    "description": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 23:20"
+  },
+  {
+    "id": "cde080f7a658",
+    "headline": "This AI Agent Is Designed to Not Go Rogue",
+    "summary": "IronCurtain is an open-source project using novel methods to secure and constrain AI agents from misuse.",
+    "description": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
+    "tags": [
+      "Open Source",
+      "Agents",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 20:54"
+  },
+  {
+    "id": "01bc9c44b5b4",
+    "headline": "How Chinese AI Chatbots Censor Themselves",
+    "summary": "Research reveals Chinese AI models censor themselves more heavily than Western counterparts on political topics.",
+    "description": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 20:08"
+  },
+  {
+    "id": "f55bbf3be629",
+    "headline": "Are You ‘Agentic’ Enough for the AI Era?",
+    "summary": "As AI coding agents handle routine work, deciding what agents should do becomes the most valuable tech skill.",
+    "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 19:00"
+  },
+  {
+    "id": "187a5e0a2c3e",
+    "headline": "OpenAI Announces Major Expansion of London Office",
+    "summary": "OpenAI expands London office and research team, competing directly with Google DeepMind for UK talent.",
+    "description": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
+    "tags": [
+      "OpenAI",
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 15:56"
+  },
+  {
+    "id": "9aa53a2165a6",
+    "headline": "AI is rewiring how the world’s best Go players think",
+    "summary": "AI is transforming how professional Go players think and approach the game at elite competitive levels.",
+    "description": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea. But inside the building, rooms once filled with the soft clatter of hands dipping into…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 10:00"
+  },
+  {
+    "id": "69f48eb2b176",
+    "headline": "Finding value with AI and Industry 5.0 transformation",
+    "summary": "Industry 5.0 transformation integrates AI, cloud, IoT, robotics, and digital twins for human-centered production.",
+    "description": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 15:00"
+  },
+  {
+    "id": "c80fa4ac45b7",
+    "headline": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator - WIRED",
+    "summary": "Nano Banana 2 combines professional image generation capabilities with lightning-fast processing speed.",
+    "description": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator WIREDNano Banana 2: Combining Pro capabilities with lightning-fast speed blog.googleGoogle launches Nano Banana 2, updating its viral AI image generator CNBCNano Banana 2 brings Pro quality at Flash speeds, rolling out to Gemini app 9to5GoogleGoogle's Nano Banana 2 takes aim at the production cost problem that's kept AI image gen out of enterprise workflows VentureBeat",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlFkNjBaNGFnY19FUXBqV3dhVGVrUTJYOWt4cllEV2R2Vy1sbzlmUldqdGl5UE9OMnJXbGVic1VjaUQyUmxZTzdlNnJNQ29ScDZSdXZKQlQ2NS1aYURBeXNad05pYkVfMGM3VjNrbGpKaU9VWUVfcy1ycjdpV3o3WGFuTQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 00:01"
+  },
+  {
+    "id": "139e78be13c6",
+    "headline": "How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times - The New York Times",
+    "summary": "YouTube study reveals AI-generated videos disguised as educational content are proliferating in children's feeds.",
+    "description": "How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times The New York TimesYouTube actively shows children AI videos disguised as educational content – study MezhaInvestigation finds YouTube is serving mindless AI slop to toddlers and preschoolers Digital Trends",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTVJTNERUVzdVR044andmcFFfRGlFQWRyeHhzYmFYeDJvUlh0bzZCRDFYSXV5dmFpc0xwZHJHYmZqazd4aVlQc2RFeDNTQmswajhlUXJNX1FTY2lTVnQ5dHlpaGpzOWlFZUF3aEVLRk9sZDhhOHByTg?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Feb 2026, 17:34"
+  },
+  {
     "id": "40c8855b4db0",
     "headline": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
     "summary": "Google integrates Alphabet's Intrinsic robotics unit into the company after five years as independent subsidiary, doubling down on physical AI development.",
