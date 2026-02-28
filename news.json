@@ -1,5 +1,344 @@
 [
   {
+    "id": "32edf0126c8f",
+    "headline": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+    "summary": "Defense Secretary Pete Hegseth designates Anthropic a supply chain risk after Trump orders federal agencies to ban the AI company's products.",
+    "description": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 21:19"
+  },
+  {
+    "id": "b77744a0354f",
+    "headline": "Trump orders federal agencies to drop Anthropic’s AI",
+    "summary": "Trump orders federal agencies to immediately cease using Anthropic's AI, accusing the company of attempting to coerce the Pentagon.",
+    "description": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 16:30"
+  },
+  {
+    "id": "e37e3945d4fa",
+    "headline": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+    "summary": "Anthropic refuses Pentagon demands for unchecked military access to Claude, raising questions about AI firms' control over their technology use.",
+    "description": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 12:16"
+  },
+  {
+    "id": "8313c26859c8",
+    "headline": "We don’t have to have unsupervised killer robots",
+    "summary": "Anthropic faces Pentagon ultimatum to allow unrestricted military use including mass surveillance and autonomous lethal weapons or face consequences.",
+    "description": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 11:18"
+  },
+  {
+    "id": "26d7a483bc4d",
+    "headline": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+    "summary": "OpenAI secures $110 billion in funding from Amazon, Nvidia, and SoftBank, with 900 million weekly active users for ChatGPT.",
+    "description": "OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consumer subscribers. Amazon is investing $50 billion and striking a deal that includes plans for custom models and more. Nvidia and SoftBank ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 09:55"
+  },
+  {
+    "id": "2ae3c32a8cd1",
+    "headline": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "summary": "Pentagon designates Anthropic as supply-chain risk after company refuses to comply with military contract demands.",
+    "description": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 21:53"
+  },
+  {
+    "id": "4c1e7e01d9ed",
+    "headline": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+    "summary": "Elon Musk criticizes OpenAI in deposition while promoting xAI's Grok, though Grok later faced issues with nonconsensual content.",
+    "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 19:42"
+  },
+  {
+    "id": "609a9a4febbe",
+    "headline": "Anthropic vs. the Pentagon: What’s actually at stake?",
+    "summary": "Anthropic and Pentagon clash over AI use in autonomous weapons and surveillance, raising questions about corporate control and military AI rules.",
+    "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 19:11"
+  },
+  {
+    "id": "ec81853afde1",
+    "headline": "ChatGPT reaches 900M weekly active users",
+    "summary": "OpenAI announces ChatGPT has reached 900 million weekly active users following $110 billion funding round.",
+    "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 18:25"
+  },
+  {
+    "id": "a5eba34f1809",
+    "headline": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+    "summary": "Pentagon pressures Anthropic over AI military control while communities block data center construction amid ongoing AI regulation debates.",
+    "description": "The Pentagon is playing chicken with Anthropic over who gets to control how the military uses AI while communities across the country are blocking data center construction. As the AI debate has been flattened to “doomers versus boomers,” one state legislator is attempting to walk a middle road. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Alex Bores, a New York State Assemblymember and candidate for U.S. Congress. Bores sponsored New York’s ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 17:35"
+  },
+  {
+    "id": "c7711a85602a",
+    "headline": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+    "summary": "Suno AI music generator reaches 2 million paid subscribers with $300M annual recurring revenue.",
+    "description": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 17:22"
+  },
+  {
+    "id": "bfe0af007c32",
+    "headline": "Perplexity’s new Computer is another bet that users need many AI models",
+    "summary": "Perplexity launches Computer, unifying multiple AI model capabilities into a single system for users.",
+    "description": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+    "tags": [
+      "LLM",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 17:00"
+  },
+  {
+    "id": "2f5945d79428",
+    "headline": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "summary": "Google and OpenAI employees sign open letter supporting Anthropic's refusal to allow mass surveillance or autonomous weapons use.",
+    "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 16:23"
+  },
+  {
+    "id": "00af74aab2a5",
+    "headline": "OpenAI raises $110B in one of the largest private funding rounds in history",
+    "summary": "OpenAI raises $110 billion from Amazon, Nvidia, and SoftBank at $730 billion valuation in record-breaking funding round.",
+    "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 14:13"
+  },
+  {
+    "id": "ea2cfca77f95",
+    "headline": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+    "summary": "Anthropic disputes Pentagon's supply chain risk designation, calling it legally unsound after military use restrictions talks failed.",
+    "description": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 03:30"
+  },
+  {
+    "id": "c54bc912f8a0",
+    "headline": "Trump Moves to Ban Anthropic From the US Government",
+    "summary": "Trump orders ban of Anthropic from US government after Pentagon pressured company to remove military use restrictions.",
+    "description": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 21:36"
+  },
+  {
+    "id": "d4e28007bc29",
+    "headline": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+    "summary": "AI is transforming how top Go players think and approach the game.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 13:10"
+  },
+  {
+    "id": "e828affc8354",
+    "headline": "Upgrading agentic AI for finance workflows",
+    "summary": "Enterprise focus on improving trust in agentic AI systems for financial workflow automation.",
+    "description": "Improving trust in agentic AI for finance workflows remains a major priority for technology leaders today. Over the past two years, enterprises have rushed to put automated agents into real workflows, spanning customer support and back-office operations. These tools excel at retrieving information, yet they often struggle to provide consistent and explainable reasoning during multi-step ... The post Upgrading agentic AI for finance workflows appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Feb 2026, 13:15"
+  },
+  {
+    "id": "c722c2b16c19",
+    "headline": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+    "summary": "Google DeepMind introduces Unified Latents framework optimizing latent diffusion models for efficient high-resolution synthesis.",
+    "description": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent space, models can scale effectively. However, a fundamental trade-off persists: lower information density makes latents easier to learn but sacrifices reconstruction quality, while higher density enables near-perfect reconstruction but ... The post Google DeepMind Introduces Unified Latents (UL): A M",
+    "tags": [
+      "Research",
+      "Google"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 03:58"
+  },
+  {
+    "id": "8f5e673bdbef",
+    "headline": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
+    "summary": "Tutorial on building hierarchical planner AI agents using open-source LLMs with multi-agent reasoning architecture.",
+    "description": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggregator agent, where each component plays a specialized role in solving complex tasks. We use the planner agent to decompose high-level goals into actionable steps, the ... The post A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structur",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-02-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 02:18"
+  },
+  {
     "id": "a4f5108f791b",
     "headline": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
     "summary": "Anthropic refuses Pentagon's demands for unrestricted AI access, standing firm on principles against lethal autonomous weapons and mass surveillance.",
