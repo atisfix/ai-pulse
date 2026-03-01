@@ -1,5 +1,371 @@
 [
   {
+    "id": "7101c2ad5e8d",
+    "headline": "The trap Anthropic built for itself",
+    "summary": "Anthropic and other AI labs promised responsible self-governance but lack regulatory oversight to enforce their commitments.",
+    "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 00:08"
+  },
+  {
+    "id": "227df6068d83",
+    "headline": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+    "summary": "Anthropic's Claude chatbot ranks No. 2 on App Store following Pentagon negotiations dispute.",
+    "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 21:05"
+  },
+  {
+    "id": "a4d53999e1f1",
+    "headline": "The billion-dollar infrastructure deals powering the AI boom",
+    "summary": "Major AI infrastructure deals from Meta, Oracle, Microsoft, Google, and OpenAI drive billions in spending.",
+    "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 20:41"
+  },
+  {
+    "id": "e52074ebf920",
+    "headline": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "summary": "OpenAI announces Pentagon contract with technical safeguards addressing concerns raised by Anthropic dispute.",
+    "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 16:17"
+  },
+  {
+    "id": "b5157b1d305d",
+    "headline": "Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory",
+    "summary": "Alibaba open-sources CoPaw, an agent workstation for developers to scale multi-channel AI workflows.",
+    "description": "As the industry moves from simple Large Language Model (LLM) inference toward autonomous agentic systems, the challenge for devs have shifted. It is no longer just about the model; it is about the environment in which that model operates. A team of researchers from Alibaba released CoPaw, an open-source framework designed to address this by ... The post Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory app",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 10:03"
+  },
+  {
+    "id": "b4cf0943def7",
+    "headline": "A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment",
+    "summary": "Tutorial on MLflow for production-grade ML experimentation, hyperparameter optimization, and model deployment.",
+    "description": "In this tutorial, we build a complete, production-grade ML experimentation and deployment workflow using MLflow. We start by launching a dedicated MLflow Tracking Server with a structured backend and artifact store, enabling us to track experiments in a scalable, reproducible manner. We then train multiple machine learning models using a nested hyperparameter sweep while automatically ... The post A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Mode",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 09:16"
+  },
+  {
+    "id": "5eb05a246051",
+    "headline": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
+    "summary": "Trump orders US agencies to stop using Anthropic technology amid AI ethics dispute; OpenAI announces Pentagon deal.",
+    "description": "Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute Sign up for the Breaking News US email to get newsletter alerts in your inboxDonald Trump said Friday he will direct all federal agencies to “IMMEDIATELY CEASE” all use of Anthropic technology in the latest installment of a very public clash over AI safety.The Department of Defense and Anthropic hit an impasse with neither side backing down as a d",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 04:44"
+  },
+  {
+    "id": "d43f638cb970",
+    "headline": "Meta Reels Is Filling Up With AI Slop of Faith Healers Performing Miraculous Cures",
+    "summary": "Meta Reels platform inundated with AI-generated content depicting faith healers.",
+    "description": "\"Be healed in the name of Jesus!\" The post Meta Reels Is Filling Up With AI Slop of Faith Healers Performing Miraculous Cures appeared first on Futurism.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/meta-reels-ai-faith-healing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 06:45"
+  },
+  {
+    "id": "f5e2f9a6a1e5",
+    "headline": "Uber Employees Have Created an AI Clone of Its CEO",
+    "summary": "Uber employees created an AI clone of the company's CEO.",
+    "description": "We wonder if they can tell the difference. The post Uber Employees Have Created an AI Clone of Its CEO appeared first on Futurism.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/uber-employees-ai-ceo",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 15:00"
+  },
+  {
+    "id": "609a2518dee9",
+    "headline": "Creator of Claude Code Fears This Could Be the Last Year That Software Engineers Are Employable",
+    "summary": "Claude Code creator warns software engineers may face employment disruption within a year.",
+    "description": "\"It's going to be painful for a lot of people.\" The post Creator of Claude Code Fears This Could Be the Last Year That Software Engineers Are Employable appeared first on Futurism.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/claude-code-anthropic-labor",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 09:45"
+  },
+  {
+    "id": "4de8e6a2d1af",
+    "headline": "Our agreement with the Department of War",
+    "summary": "OpenAI details Pentagon contract with safety red lines and deployment protocols for classified environments.",
+    "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 12:30"
+  },
+  {
+    "id": "d920f5fcf462",
+    "headline": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+    "summary": "NVIDIA advances autonomous networks with agentic AI blueprints and telco reasoning models.",
+    "description": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows, Read Article",
+    "tags": [
+      "NVIDIA",
+      "Agents"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 07:00"
+  },
+  {
+    "id": "9e4a054813b8",
+    "headline": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+    "summary": "NVIDIA and partners demonstrate software-defined AI-RAN for next-generation wireless networks.",
+    "description": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN Read Article",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 07:00"
+  },
+  {
+    "id": "eaa287a21faa",
+    "headline": "Deleted my GPT account and ported my AI game project to Claude. Wow!",
+    "summary": "User migrates AI game project from GPT to Claude, praising agent capabilities.",
+    "description": "I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. ",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 07:10"
+  },
+  {
+    "id": "1ef43979576d",
+    "headline": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+    "summary": "Claude reaches No. 1 on App Store as ChatGPT users switch in support of Anthropic's Pentagon stance.",
+    "description": "submitted by /u/ControlCAD [link] [comments]",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 10:43"
+  },
+  {
+    "id": "e532dab0dad6",
+    "headline": "Tokens as a Service - (TaaS)",
+    "summary": "Discussion on Tokens as a Service pricing model for AI-native applications.",
+    "description": "I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: \"Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions\" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: \"Softwa",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rhuc9w/tokens_as_a_service_taas/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 10:48"
+  },
+  {
+    "id": "0f0132f810ac",
+    "headline": "How do you handle all these AI subscribtions?",
+    "summary": "Users discuss managing multiple AI subscriptions across platforms like Claude, ChatGPT, and Gemini.",
+    "description": "how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup? submitted by /u/tdjordash [link] [comments]",
+    "tags": [
+      "Market"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 19:44"
+  },
+  {
+    "id": "116f7b6c0062",
+    "headline": "I built a tool to automate your workflow after recording yourself doing the task once (Open Source)",
+    "summary": "Developer shares open-source tool for automating workflows by recording task demonstrations.",
+    "description": "Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 18:44"
+  },
+  {
+    "id": "56385f9f61ca",
+    "headline": "Gemini is already smarter with censorship then it's creators.",
+    "summary": "User discusses Gemini's content censorship policies and their effectiveness.",
+    "description": "I was frustrated about the censorship which hits quite hard with the new 20 free gens. I also forgot googles CEO name and it was able to decode \"satchel punani\" correctly. 🍤 submitted by /u/literally_iliterate [link] [comments]",
+    "tags": [
+      "Google"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhkhi3/gemini_is_already_smarter_with_censorship_then/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 01:45"
+  },
+  {
+    "id": "ffbe13a9ab6a",
+    "headline": "Fast Flux2K inpainting on 8+ mp images without upscale",
+    "summary": "Workflow for Flux2K inpainting on large images without upscaling in ComfyUI.",
+    "description": "https://pastebin.com/dn2GpiJ9 workflow I figured out how to do Flux2 klein inpainting on massive images without needing to upscale. It's using old inpainting stitching nodes that have been around for a while - it prevents the rest of the image from changing at all, and allows you to do multiple inpaints of different areas without running into compounding artifacts from the edit model changing the whole image. Using some custom timer nodes (not included in my workflow to avoid the \"you use too ma",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rh8aza/fast_flux2k_inpainting_on_8_mp_images_without/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 17:21"
+  },
+  {
+    "id": "140af1aa36b8",
+    "headline": "Using controlnets in 2026",
+    "summary": "Discussion on ControlNet usage in 2026 with newer image generation models.",
+    "description": "Hey guys, I am pretty new to comfy(2 months) and I was wondering if anyone still use controlnets and in what ways? Specially with newer models like zit and flux, would love to know how they contribute or are they obsolete now. submitted by /u/eagledoto [link] [comments]",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhlytk/using_controlnets_in_2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 02:56"
+  },
+  {
+    "id": "0c3211739c6d",
+    "headline": "ELI5 why the finetuning community is much less active for Z image turbo and base than for SDXL",
+    "summary": "Question on why fine-tuning community is less active for Zephyr and base models than SDXL.",
+    "description": "SDXL has like every imaginable Lora and Checkpoint on civitai, including weirdest niche things beyond imagination, but the only ones for ZiT and ZiB are some slight style ones for realism and of course some stuff for nudity and sex which, surprisingly, are worse than the ones for SDXL, which is an infinitely worse model. Was ZiB and ZiT overhyped? Because for all the hype I thought people would have created the coolest lora and checkpoints by now, just like they did for SDXL, even taking into ac",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Reddit r/StableDiffusion",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhftq8/eli5_why_the_finetuning_community_is_much_less/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Feb 2026, 22:20"
+  },
+  {
     "id": "32edf0126c8f",
     "headline": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
     "summary": "Defense Secretary Pete Hegseth designates Anthropic a supply chain risk after Trump orders federal agencies to ban the AI company's products.",
