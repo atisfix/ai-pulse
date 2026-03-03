@@ -1,5 +1,343 @@
 [
   {
+    "id": "37c7e285026e",
+    "headline": "Anthropic upgrades Claude’s memory to attract AI switchers",
+    "summary": "Anthropic expands Claude's memory feature to free users to attract switchers from competing AI chatbots.",
+    "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 17:29"
+  },
+  {
+    "id": "3d63561e5fdb",
+    "headline": "Apple might use Google servers to store data for its upgraded AI Siri",
+    "summary": "Apple seeks Google's help setting up servers for Gemini-powered Siri while maintaining privacy standards.",
+    "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple ...",
+    "tags": [
+      "Apple",
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 15:22"
+  },
+  {
+    "id": "509bf439243a",
+    "headline": "AI-generated art can’t be copyrighted after Supreme Court declines to review the rule",
+    "summary": "US Supreme Court declines review of AI-generated art copyright case, affirming they cannot be copyrighted.",
+    "description": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright ...",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 12:58"
+  },
+  {
+    "id": "b54c391da5c3",
+    "headline": "Nvidia’s spending $4 billion on photonics to stay ahead of the curve in AI",
+    "summary": "Nvidia invests $4 billion in photonics companies to advance AI data center infrastructure.",
+    "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 11:56"
+  },
+  {
+    "id": "e2d78944d48d",
+    "headline": "How OpenAI caved to the Pentagon on AI surveillance",
+    "summary": "OpenAI negotiates new terms with Pentagon allowing military use of its AI technologies in classified settings.",
+    "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 09:22"
+  },
+  {
+    "id": "864ccfb47053",
+    "headline": "ChatGPT uninstalls surged by 295% after DoD deal",
+    "summary": "ChatGPT app uninstalls surge 295% following DoD deal announcement, while Claude downloads grow.",
+    "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 00:03"
+  },
+  {
+    "id": "ab63fac8825f",
+    "headline": "No one has a good plan for how AI companies should work with the government",
+    "summary": "OpenAI struggles to balance startup operations with national security infrastructure responsibilities.",
+    "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 22:59"
+  },
+  {
+    "id": "00d27ef60970",
+    "headline": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+    "summary": "Guide for users switching from ChatGPT to Claude following recent controversies.",
+    "description": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 18:42"
+  },
+  {
+    "id": "25dd26d782d7",
+    "headline": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+    "summary": "Tech workers petition DoD to withdraw Anthropic's supply-chain risk designation and resolve dispute quietly.",
+    "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 17:18"
+  },
+  {
+    "id": "40cb9d486f0a",
+    "headline": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "summary": "Startup 14.ai uses AI to replace customer support teams, launching consumer brand to test capabilities.",
+    "description": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 15:14"
+  },
+  {
+    "id": "55db6894b1e0",
+    "headline": "Anthropic’s Claude reports widespread outage",
+    "summary": "Anthropic's Claude AI chatbot experiences widespread outage affecting thousands of users Monday morning.",
+    "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 13:31"
+  },
+  {
+    "id": "094207b94ec5",
+    "headline": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+    "summary": "VCs reveal what criteria they no longer use when evaluating AI SaaS startup investments.",
+    "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Mar 2026, 17:00"
+  },
+  {
+    "id": "68f41dba5e4e",
+    "headline": "This AI Agent Is Ready to Serve, Mid-Phone Call",
+    "summary": "Deutsche Telekom partners with ElevenLabs to deploy AI assistant on all network calls in Germany.",
+    "description": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 00:25"
+  },
+  {
+    "id": "509bd41ffc35",
+    "headline": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "summary": "Research shows LLMs can accurately unmask pseudonymous users at scale, threatening privacy protections.",
+    "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 12:30"
+  },
+  {
+    "id": "3bcf32e97bc7",
+    "headline": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+    "summary": "OpenAI's Pentagon deal to enable military use of AI in classified settings mirrors Anthropic's earlier concerns.",
+    "description": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 17:29"
+  },
+  {
+    "id": "3cbc76a524c5",
+    "headline": "Google fixes Gemini’s biggest Google Home frustrations - Android Police",
+    "summary": "Google updates Gemini integration in Google Home to describe live camera feeds.",
+    "description": "Google fixes Gemini’s biggest Google Home frustrations Android PoliceBig Google Home update lets Gemini describe live camera feeds The VergeGoogle Home just announced a bunch of Gemini, smart home updates rolling out now 9to5GoogleGoogle Home's Gemini AI now sees live camera feeds The Tech BuzzGoogle Home gets new automation starters, Nest x Yale Lock controls, and Gemini upgrades FoneArena.com",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFBsd3daUEt2RmVSZ3Z3eDc4bF9fOUhTY2NuVmpLZkl3OHRWNzF4QkhQQXl6ZEJKN2ZweTlTamJROXpISkh4ZzZTZFlYcEh5THFOSlZjUi1Hd0lvcm9FTHQ5RURSVkYxazZSUlUzeEtwVkhyT0lCQ3N2QWV5eDhYc21fVEJLQUpocDFyTw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 03:12"
+  },
+  {
+    "id": "e2b336e789a5",
+    "headline": "Xbox Insiders: Try Highlight Reels on the ROG Xbox Ally X Starting Today! - Xbox Wire",
+    "summary": "ROG Xbox Ally X handheld enables AI-powered automatic gameplay highlight capture for insiders.",
+    "description": "Xbox Insiders: Try Highlight Reels on the ROG Xbox Ally X Starting Today! Xbox WireROG Xbox Ally X Handheld Can Now Use AI to Capture Gameplay Highlights Thurrott.comROG Xbox Ally X can automatically clip your gameplay when it looks important NeowinThe ROG Xbox Ally X’s new feature is Microsoft’s latest answer to SteamOS's dominance XDAThe Xbox Ally X now lets you let AI record your screen and cut together highlight reels. The Verge",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUFydl9ic2RaTllTYmdQSGRueUU2bjZYMXc3Q0FNYmxVZkVPblZtcmY2SEJWSmxLYWNxbjR0UzdEelpwMk9QZkgwa0lLM0pqczFZRG5mNVVqNmhpSmFGWEhsQklZMXp5THJQOURoay1OMWtzOU55MU5GZVE0Z245aWxKTHRXVEtUTHhFeldKcWVCLTdlay13SlMwSklnb2pQTFFsS0xmNG5TWThqY1QwaQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Mar 2026, 16:31"
+  },
+  {
+    "id": "e7695ef8f9c3",
+    "headline": "Physical AI adoption boosts customer service ROI",
+    "summary": "Physical AI adoption improves customer service ROI by combining digital intelligence with human-like interaction.",
+    "description": "The adoption of physical AI drives ROI in frontline customer service by merging digital intelligence with human-like physical interaction. As businesses navigate shrinking labour pools, they are finding that simply automating routine workflows is no longer enough. A new partnership between KDDI and AVITA demonstrates how companies can address complex operational gaps through humanoid deployment. ... The post Physical AI adoption boosts customer service ROI appeared first on AI News.",
+    "tags": [
+      "Robotics",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 11:32"
+  },
+  {
+    "id": "394560ee0223",
+    "headline": "Santander and Mastercard run Europe’s first AI-executed payment pilot",
+    "summary": "Santander and Mastercard complete Europe's first AI-executed payment in live banking network.",
+    "description": "An artificial intelligence system has, for the first time in Europe, completed a payment inside a live banking network without a human entering the final command. Banco Santander and Mastercard confirmed that they had executed a live end-to-end payment initiated and completed by an AI agent, a software system operating within the bank’s own regulated ... The post Santander and Mastercard run Europe’s first AI-executed payment pilot appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 10:00"
+  },
+  {
+    "id": "786cad6db558",
+    "headline": "AI-Native networks are no longer a 6G promise–MWC 2026 just proved it",
+    "summary": "MWC 2026 demonstrates AI-native networks transitioning from 6G concept to operational reality.",
+    "description": "AI-native networks have been a recurring talking point at Mobile World Congress for years. What made MWC 2026 in Barcelona different was the evidence. A cascade of announcements from the world’s biggest telecom vendors, chipmakers, and operators didn’t just reiterate the vision for AI-RAN–they delivered field trial results, commercial product launches, open-source toolkits, and a ... The post AI-Native networks are no longer a 6G promise–MWC 2026 just proved it appeared first on AI News.",
+    "tags": [
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Mar 2026, 08:00"
+  },
+  {
     "id": "0b5d42d66ca8",
     "headline": "A robot arm with puppy dog eyes is just one of Lenovo’s new desktop AI concepts",
     "summary": "Lenovo unveiled AI-based productivity companion desk concepts at MWC, including a robot arm with expressive features.",
