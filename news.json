@@ -1,5 +1,362 @@
 [
   {
+    "id": "47ef9412ba36",
+    "headline": "The Pentagon formally labels Anthropic a supply-chain risk",
+    "summary": "Pentagon formally designates Anthropic as a supply-chain risk after failed negotiations over AI model access.",
+    "description": "After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 18:02"
+  },
+  {
+    "id": "5c2bdbd9c0d7",
+    "headline": "Netflix is buying Ben Affleck’s AI startup",
+    "summary": "Netflix acquires InterPositive, an AI startup founded by Ben Affleck, for content and production applications.",
+    "description": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers ...",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 13:27"
+  },
+  {
+    "id": "05c71cef5a22",
+    "headline": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+    "summary": "OpenAI launches GPT-5.4 with improvements in reasoning, coding, and professional task automation capabilities.",
+    "description": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 13:00"
+  },
+  {
+    "id": "e3321d7d03a5",
+    "headline": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+    "summary": "Investigation reveals Meta's AI glasses footage is being reviewed by human contractors in Kenya, raising privacy concerns.",
+    "description": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and Göteborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate ...",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 11:37"
+  },
+  {
+    "id": "1ef3b29a5ddd",
+    "headline": "Apple Music adds optional labels for AI songs and visuals",
+    "summary": "Apple Music introduces optional transparency tags for songs and visuals created with AI tools.",
+    "description": "Apple is asking artists and record labels on its music streaming platform to voluntarily label songs that were made using AI. The new \"Transparency Tags\" metadata system for Apple Music was announced in a newsletter to industry partners yesterday, according to Music Business Worldwide, and covers four categories, including track, composition, artwork, and music videos. ...",
+    "tags": [
+      "Apple",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 09:00"
+  },
+  {
+    "id": "12621cc0c75c",
+    "headline": "AI tools can unmask anonymous accounts",
+    "summary": "Study shows AI tools can successfully unmask anonymous online accounts, raising privacy and security concerns.",
+    "description": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study, which hints at some uncomfortable consequences for staying private online - even if it's not quite time to ...",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 08:30"
+  },
+  {
+    "id": "652756559151",
+    "headline": "Anthropic to challenge DOD’s supply-chain label in court",
+    "summary": "Anthropic CEO plans to legally challenge Pentagon's supply-chain risk designation, claiming minimal customer impact.",
+    "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 01:28"
+  },
+  {
+    "id": "4be9380af5eb",
+    "headline": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+    "summary": "DiligenceSquared uses AI voice agents to conduct M&A customer interviews, reducing consulting costs for PE firms.",
+    "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 23:14"
+  },
+  {
+    "id": "2e1b61ec5bfa",
+    "headline": "AWS launches a new AI agent platform specifically for healthcare",
+    "summary": "AWS launches Amazon Connect Health, an AI agent platform for patient scheduling, documentation, and verification.",
+    "description": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+    "tags": [
+      "Agents",
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 21:54"
+  },
+  {
+    "id": "7d1b801ef5a5",
+    "headline": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+    "summary": "Pentagon officially labels Anthropic a supply-chain risk, making it the first U.S. AI company with this designation.",
+    "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 20:24"
+  },
+  {
+    "id": "86d914229a50",
+    "headline": "Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+    "summary": "Luma launches AI agents powered by Unified Intelligence models for coordinated creative work across multiple formats.",
+    "description": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+    "tags": [
+      "Agents",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 18:11"
+  },
+  {
+    "id": "aed8bc77c552",
+    "headline": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+    "summary": "OpenAI releases GPT-5.4 with Pro and Thinking versions, positioning it as most capable frontier model for professional work.",
+    "description": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 18:00"
+  },
+  {
+    "id": "ca6c232c2f32",
+    "headline": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+    "summary": "Meta faces lawsuit over AI glasses privacy violations after contractors reviewed sensitive user footage without consent.",
+    "description": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 16:50"
+  },
+  {
+    "id": "53b2ba6340a0",
+    "headline": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+    "summary": "Anthropic's $200M Pentagon contract collapsed over disagreements about military unrestricted access to AI models.",
+    "description": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 16:45"
+  },
+  {
+    "id": "30b0ca79d7f4",
+    "headline": "Why Is Alexa+ So Bad?",
+    "summary": "Wired reviews Amazon's Alexa+ AI assistant on Echo Show 15, finding significant performance and usability issues.",
+    "description": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+    "tags": [
+      "Amazon",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 11:00"
+  },
+  {
+    "id": "7e1b52b98eb9",
+    "headline": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+    "summary": "Wired podcast discusses AI industry's increasing military entanglement and implications for Middle East conflicts.",
+    "description": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 22:17"
+  },
+  {
+    "id": "cbfccf39bfac",
+    "headline": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "summary": "Pentagon tested OpenAI models through Microsoft despite ChatGPT-maker's previous military use ban.",
+    "description": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+    "tags": [
+      "OpenAI",
+      "Microsoft",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 22:00"
+  },
+  {
+    "id": "45787d34cb7c",
+    "headline": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+    "summary": "ByteDance's Seedance 2.0 AI video model faces compute constraints and copyright complaints limiting deployment.",
+    "description": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 21:14"
+  },
+  {
+    "id": "cc1a10535aa6",
+    "headline": "The Download: an AI agent’s hit piece, and preventing lightning",
+    "summary": "MIT Tech Review newsletter covers AI agents' role in online harassment and emerging technology trends.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things…",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Mar 2026, 14:28"
+  },
+  {
+    "id": "c9d6d01a9f3b",
+    "headline": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
+    "summary": "Rowspace launches with $50M funding to build AI tools for private equity deal analysis and scaling.",
+    "description": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s desk, analysts start from scratch, even when the answers ... The post The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 10:00"
+  },
+  {
+    "id": "73b5df3153cd",
+    "headline": "Liquid AI Releases LocalCowork Powered By LFM2-24B-A2B to Execute Privacy-First Agent Workflows Locally Via Model Context Protocol (MCP)",
+    "summary": "Liquid AI releases LFM2-24B-A2B model and LocalCowork agent application for privacy-first local workflows.",
+    "description": "Liquid AI has released LFM2-24B-A2B, a model optimized for local, low-latency tool dispatch, alongside LocalCowork, an open-source desktop agent application available in their Liquid4All GitHub Cookbook. The release provides a deployable architecture for running enterprise workflows entirely on-device, eliminating API calls and data egress for privacy-sensitive environments. Architecture and Serving Configuration To achieve low-latency execution ... The post Liquid AI Releases LocalCowork Powere",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 05:45"
+  },
+  {
     "id": "753f8d618306",
     "headline": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
     "summary": "Anthropic CEO Dario Amodei is negotiating with the Pentagon to salvage the company's military contract after previous disagreements over AI safety.",
