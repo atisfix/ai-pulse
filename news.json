@@ -1,5 +1,386 @@
 [
   {
+    "id": "beadfd1b8f15",
+    "headline": "Grammarly is using our identities without permission",
+    "summary": "Grammarly's expert review feature uses AI to offer writing advice attributed to subject matter experts, including deceased professors, without permission.",
+    "description": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 15:58"
+  },
+  {
+    "id": "a7ac8e54d11c",
+    "headline": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+    "summary": "Opinion piece critiques media coverage of generative AI, arguing hype and confusion dominate discussions about the technology.",
+    "description": "We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole ...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 14:05"
+  },
+  {
+    "id": "b5ba35e3c8b5",
+    "headline": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "summary": "Microsoft, Google, and Amazon confirm Anthropic's Claude remains available to non-defense customers despite Pentagon tensions.",
+    "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 19:50"
+  },
+  {
+    "id": "13be02f344d5",
+    "headline": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "summary": "Anthropic's Claude AI discovered 22 vulnerabilities in Firefox, including 14 high-severity issues, in a security partnership with Mozilla.",
+    "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 19:00"
+  },
+  {
+    "id": "037d7de2ca48",
+    "headline": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "summary": "Pentagon designates Anthropic a supply-chain risk after disagreement over military control of AI models for autonomous weapons.",
+    "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 18:09"
+  },
+  {
+    "id": "0092a5205ca0",
+    "headline": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+    "summary": "Analysis of Pentagon-Anthropic conflict over AI control in defense applications and broader startup implications.",
+    "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 18:01"
+  },
+  {
+    "id": "9ba9426d779a",
+    "headline": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+    "summary": "Claude's consumer app surpasses ChatGPT in new installs and daily active user growth following Pentagon contract debacle.",
+    "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 17:56"
+  },
+  {
+    "id": "2b6ed778f2c1",
+    "headline": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+    "summary": "City Detect raises $13M Series A funding for AI-powered urban safety and cleanliness monitoring across 17+ cities.",
+    "description": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 14:00"
+  },
+  {
+    "id": "a191fe5353f7",
+    "headline": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+    "summary": "Meta allows rival AI companies to offer chatbots on WhatsApp to Brazilian users for a fee, following European decision.",
+    "description": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+    "tags": [
+      "Meta",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 13:20"
+  },
+  {
+    "id": "b48b3b95e07f",
+    "headline": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+    "summary": "Harvard graduate develops Spectre I device to block always-listening AI wearables, though physics limits its effectiveness.",
+    "description": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/deveillance-spectre-i/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 23:45"
+  },
+  {
+    "id": "f80717ab456a",
+    "headline": "Is the Pentagon allowed to surveil Americans with AI?",
+    "summary": "Pentagon-Anthropic feud raises unanswered legal questions about whether US government can conduct mass AI surveillance.",
+    "description": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 19:21"
+  },
+  {
+    "id": "b14b676f09ed",
+    "headline": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+    "summary": "Newsletter roundup covering 10 key AI developments and Anthropic's planned lawsuit against the Pentagon.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 13:10"
+  },
+  {
+    "id": "1e5bb4a720b6",
+    "headline": "Scaling intelligent automation without breaking live workflows",
+    "summary": "Industry leaders discuss scaling intelligent automation without disrupting live workflows through architectural elasticity.",
+    "description": "Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives from NatWest Group, Air Liquide, and AXA XL, Promise Akwaowo, Process Automation Analyst at Royal Mail, grounded the ... The post Scaling intelligent automation without breaking live workflows appeared f",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 13:15"
+  },
+  {
+    "id": "dd7420eb7729",
+    "headline": "Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades",
+    "summary": "Google releases TensorFlow 2.21 with LiteRT graduating to production, featuring faster GPU and new NPU acceleration.",
+    "description": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT serves as the universal on-device inference framework, officially replacing TensorFlow Lite (TFLite). This update streamlines the deployment of machine learning models to mobile and edge ... The post Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seaml",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 04:32"
+  },
+  {
+    "id": "a60499beb122",
+    "headline": "Microsoft Releases Phi-4-Reasoning-Vision-15B: A Compact Multimodal Model for Math, Science, and GUI Understanding",
+    "summary": "Microsoft releases Phi-4-reasoning-vision-15B, a compact 15B multimodal model for math, science, and GUI understanding.",
+    "description": "Microsoft has released Phi-4-reasoning-vision-15B, a 15 billion parameter open-weight multimodal reasoning model designed for image and text tasks that require both perception and selective reasoning. It is a compact model built to balance reasoning quality, compute efficiency, and training-data requirements, with particular strength in scientific and mathematical reasoning and understanding user interfaces. What the model ... The post Microsoft Releases Phi-4-Reasoning-Vision-15B: A Compact Mul",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 23:53"
+  },
+  {
+    "id": "7838a6fe5893",
+    "headline": "OpenAI Introduces Codex Security in Research Preview for Context-Aware Vulnerability Detection, Validation, and Patch Generation Across Codebases",
+    "summary": "OpenAI introduces Codex Security, an AI agent for context-aware vulnerability detection and patch generation in codebases.",
+    "description": "OpenAI has introduced Codex Security, an application security agent that analyzes a codebase, validates likely vulnerabilities, and proposes fixes that developers can review before patching. The product is now rolling out in research preview to ChatGPT Enterprise, Business, and Edu customers through Codex web. Why OpenAI Built Codex Security? The product is designed for a ... The post OpenAI Introduces Codex Security in Research Preview for Context-Aware Vulnerability Detection, Validation, and ",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/06/openai-introduces-codex-security-in-research-preview-for-context-aware-vulnerability-detection-validation-and-patch-generation-across-codebases/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 20:49"
+  },
+  {
+    "id": "6307a60533d7",
+    "headline": "Google AI Releases Android Bench: An Evaluation Framework and Leaderboard for LLMs in Android Development",
+    "summary": "Google AI releases Android Bench, a leaderboard and evaluation framework measuring LLM performance on Android development.",
+    "description": "Google has officially released Android Bench, a new leaderboard and evaluation framework designed to measure how Large Language Models (LLMs) perform specifically on Android development tasks. The dataset, methodology, and test harness have been made open-source and are publicly available on GitHub. Benchmark Methodology and Task Design General coding benchmarks often fail to capture the ... The post Google AI Releases Android Bench: An Evaluation Framework and Leaderboard for LLMs in Android De",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 19:53"
+  },
+  {
+    "id": "9fe8f3a425c2",
+    "headline": "The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun",
+    "summary": "Opinion argues Iran conflict demonstrates AI's paradigm shift in warfare, requiring democratic oversight and multilateral control.",
+    "description": "The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls“Never in the future will we move as slow as we are moving now,” the UN secretary-general, António Guterres, warned this week, addressing the urgent need to shape the use of artificial intelligence. The speed of technological development – as well as geopolitical turbulence – is collapsing the distinction between theoretical arguments and real world ev",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 17:52"
+  },
+  {
+    "id": "9af0a0f70dba",
+    "headline": "‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower",
+    "summary": "Iran's targeting of commercial datacenters in UAE and Bahrain signals new asymmetric warfare frontier against AI infrastructure.",
+    "description": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfareIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.At 4.30am on Sunday morning, an Iranian Shahed 136 drone struck an Amazon Web Services datacentre in the United Arab Emirates, setting off a devastating fire and forcing a shutdown of the power supply. Further damage was inflicted as attempts were made to suppress the",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 11:00"
+  },
+  {
+    "id": "012290e0c8dc",
+    "headline": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
+    "summary": "Microsoft reports North Korean agents using AI tools to mask identities and infiltrate western firms for remote IT job fraud.",
+    "description": "Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North KoreaFake IT workers deployed by North Korea are using AI technology, including voice-changing tools, to trick western companies into hiring them, Microsoft has said.The US tech firm said a signature Pyongyang money-raising ruse is being enhanced by AI, which is helping create fake names and alter stolen IDs to increase the credibility of false applicants for IT and software developm",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 17:00"
+  },
+  {
+    "id": "9f0524591ccd",
+    "headline": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
+    "summary": "Opinion warns AI agents pose untold risks and calls for regulatory action to prevent uncontrolled autonomous AI development.",
+    "description": "The pieces are falling into place for autonomous artificial intelligence. We must stop unregulated developmentArtificial intelligence is en route to artificial life. Exhibit A: “Moltbook”, an online platform designed for AI systems to communicate with one another, sans humans.What exactly do AIs talk to each other about? According to BBC reporting, AIs on Moltbook have already founded a religion known as “crustifarianism”, mused on whether they are conscious, and declared: “AI should be served, ",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 17:00"
+  },
+  {
+    "id": "eca4d9143ac7",
+    "headline": "Ben Affleck sells his AI postproduction startup to Netflix",
+    "summary": "Ben Affleck sells InterPositive, his AI postproduction startup, to Netflix after overcoming initial concerns about the technology.",
+    "description": "Announcing the InterPositive deal, the actor says he was moved from being scared of the technology to embracing itBen Affleck has sold his artificial intelligence company to Netflix in a surprise deal, saying he had been driven to embrace a technology that had initially “really scared” him.Netflix has acquired the postproduction startup InterPositive from the Oscar-winning actor, director, producer and screenwriter for an undisclosed sum. Continue reading...",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Mar 2026, 14:55"
+  },
+  {
+    "id": "5d32c6acf7ec",
+    "headline": "Evidence Grows That Google’s AI Overviews Have Eviscerated the Media Industry",
+    "summary": "Evidence suggests Google's AI Overviews have significantly impacted digital media industry as content sources.",
+    "description": "It's hard times for the digital media-sphere. The post Evidence Grows That Google’s AI Overviews Have Eviscerated the Media Industry appeared first on Futurism.",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 06:45"
+  },
+  {
     "id": "47ef9412ba36",
     "headline": "The Pentagon formally labels Anthropic a supply-chain risk",
     "summary": "Pentagon formally designates Anthropic as a supply-chain risk after failed negotiations over AI model access.",
