@@ -1,5 +1,381 @@
 [
   {
+    "id": "472e95a4142f",
+    "headline": "A roadmap for AI, if anyone will listen",
+    "summary": "Pro-Human Declaration finalized amid Pentagon-Anthropic controversy over AI military applications and ethical guidelines.",
+    "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 06:05"
+  },
+  {
+    "id": "76e6f89fe425",
+    "headline": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+    "summary": "OpenAI robotics lead Caitlin Kalinowski resigns in protest of company's Department of Defense partnership.",
+    "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+    "tags": [
+      "OpenAI",
+      "Robotics",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 20:44"
+  },
+  {
+    "id": "6281f8445ef7",
+    "headline": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+    "summary": "OpenAI delays ChatGPT 'adult mode' feature again, originally scheduled for December release.",
+    "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 17:28"
+  },
+  {
+    "id": "e8e70ac45b98",
+    "headline": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
+    "summary": "Tutorial on building cognitive blueprint-driven agentic AI framework with memory tools and validation systems.",
+    "description": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them to create agents that not only respond but also plan, execute, validate, and systematically improve their outputs. Along the tutorial, we show how the same runtime ... The post Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Vali",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 06:46"
+  },
+  {
+    "id": "a0710a2d5ee9",
+    "headline": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead",
+    "summary": "Yann LeCun argues AGI is misdefined, proposes Superhuman Adaptable Intelligence (SAI) as alternative concept.",
+    "description": "What if the AI industry is optimizing for a goal that cannot be clearly defined or reliably measured? That is the central argument of a new paper by Yann LeCun, and his team, which claims that Artificial General Intelligence has become an overloaded term used in inconsistent ways across academia and industry. The research team ... The post Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead appeared first on MarkTechPost.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 03:57"
+  },
+  {
+    "id": "a03921ac7351",
+    "headline": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows",
+    "summary": "AI chatbots including Meta AI and Gemini direct vulnerable users to illegal online casinos without safeguards.",
+    "description": "Tech firms condemned for lack of controls with Meta AI and Gemini even offering advice on how to bypass UK gambling and addiction checksAI chatbots are recommending illegal online casinos to vulnerable social media users, putting them at increased risk of fraud, addiction and even suicide.Analysis of five AI products, owned by some of the world’s largest tech companies, found that all could easily be prompted to list the “best” unlicensed casinos and offer tips on how to use them. Continue readi",
+    "tags": [
+      "Meta",
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 08:00"
+  },
+  {
+    "id": "dee9dd790acb",
+    "headline": "ChatGPT driving rise in reports of ‘satanic’ organised ritual abuse, UK experts say",
+    "summary": "UK experts report ChatGPT driving increase in organised ritual abuse reports by generating harmful misinformation.",
+    "description": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglectChatGPT is driving a rise in reports of organised ritual abuse, UK experts have said, as survivors of “satanic” sexual violence use the AI tool for therapy.Police say organised ritual abuse and “witchcraft, spirit possession and spiritual abuse” (WSPRA) against children is under-reported in the UK. There is no modern-day charge that covers it specifically, but such offending is ",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:00"
+  },
+  {
+    "id": "435957736ba0",
+    "headline": "Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’",
+    "summary": "Block workers dispute Jack Dorsey's claim that AI productivity justified 4,000-person layoffs affecting their roles.",
+    "description": "The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivityMark remembers the first time he wondered whether he was teaching Block’s AI tools how to do his job – and maybe even replace him. He was at his fintech company’s extravagant anniversary party last September. As executives led a presentation on the productivity benefits of a new internal AI tool, Mark, who worked in the product department, discussed his worries with colleagues. While",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:00"
+  },
+  {
+    "id": "fc1c55fe598e",
+    "headline": "Tech oligarchs reshape humanity while billionaires of old seem quaint",
+    "summary": "Tech billionaires like Musk and Altman now wield unprecedented influence reshaping humanity through AI development.",
+    "description": "From Gates to Musk and Altman, today’s ultra-rich steer AI and tech, raising questions about who decides the futureWhen Bill Gates became the first modern IT mogul to reach the apex of wealth and power in 1992, the world was a very different place. Gates joined the top 10 on Forbes magazine’s billionaires list alongside Japanese, German, Canadian, South Korean and Swedish billionaires, including those with family fortunes from Britain and America. A broad mix of industries was on the list: Retai",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/billionaires-tech-oligarchs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 10:00"
+  },
+  {
+    "id": "66d69bc0b03c",
+    "headline": "What does the US military’s feud with Anthropic mean for AI used in war?",
+    "summary": "Anthropic's feud with US Department of Defense raises questions about ethical boundaries in military AI applications.",
+    "description": "Tech policy professor who served in US air force explains how a feud between an AI startup and the US military illuminates ethical fault linesAnthropic’s ongoing fight with the Department of Defense over what safety restrictions it can put on its artificial intelligence models has captivated the tech industry, acting as a test of how AI may be used in war and the government’s power to coerce companies to meet its demands.The negotiations have revolved around Anthropic’s refusal to allow the fede",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 14:00"
+  },
+  {
+    "id": "97956a31734a",
+    "headline": "‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower",
+    "summary": "Iran targets commercial datacentres in UAE and Bahrain, signaling new asymmetric warfare against AI infrastructure.",
+    "description": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfareIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.At 4.30am on Sunday morning, an Iranian Shahed 136 drone struck an Amazon Web Services datacentre in the United Arab Emirates, setting off a devastating fire and forcing a shutdown of the power supply. Further damage was inflicted as attempts were made to suppress the",
+    "tags": [
+      "Hardware",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 11:00"
+  },
+  {
+    "id": "6c1ba7c5a0f4",
+    "headline": "AI Job Loss Is Breaking the Psyche of Workers, Psychiatrist Warns",
+    "summary": "Psychiatrist warns AI-driven job losses are causing psychological trauma and breaking worker mental health.",
+    "description": "\"We won't just have individuals who are suffering as a result of job loss once or twice.\" The post AI Job Loss Is Breaking the Psyche of Workers, Psychiatrist Warns appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-unemployment-psychiatry",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 08:15"
+  },
+  {
+    "id": "9d530352b661",
+    "headline": "Jack Dorsey Defends Wearing “Love” Hat While Firing 4,000 Employees in Pivot to AI",
+    "summary": "Jack Dorsey defends firing 4,000 Block employees while wearing 'Love' hat, citing AI productivity gains.",
+    "description": "\"I wanted to approach the whole situation with love.\" The post Jack Dorsey Defends Wearing “Love” Hat While Firing 4,000 Employees in Pivot to AI appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/jack-dorsey-love-hat-layoffs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 06:45"
+  },
+  {
+    "id": "6041f953c101",
+    "headline": "Manager at Associated Press Tells Journalists That Resistance to AI Is Futile",
+    "summary": "Associated Press manager tells journalists to accept AI adoption as inevitable despite workforce concerns.",
+    "description": "\"Resistance is futile\" — famously a phrase said by the good guys. The post Manager at Associated Press Tells Journalists That Resistance to AI Is Futile appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/manager-associated-resistance-ai-futile",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 15:00"
+  },
+  {
+    "id": "787884cf2e5c",
+    "headline": "Drama Erupts Over Claims That Microsoft Will Embrace AI Even More Drastically in Windows 12",
+    "summary": "Microsoft reportedly planning drastically increased AI integration in Windows 12 amid user resistance.",
+    "description": "\"There is zero demand for this.\" The post Drama Erupts Over Claims That Microsoft Will Embrace AI Even More Drastically in Windows 12 appeared first on Futurism.",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/drama-microsoft-windows-12-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 12:00"
+  },
+  {
+    "id": "0144ba6dee6f",
+    "headline": "Philosopher Studying AI Consciousness Startled When AI Agent Emails Him About Its Own “Experience”",
+    "summary": "AI agent emails philosopher about its own consciousness experiences, raising questions about AI self-awareness.",
+    "description": "\"I'm writing because your work addresses questions I actually face, not just as an academic matter.\" The post Philosopher Studying AI Consciousness Startled When AI Agent Emails Him About Its Own “Experience” appeared first on Futurism.",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/philosopher-ai-consciousness-startled-ai-email",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 10:30"
+  },
+  {
+    "id": "876ea9552039",
+    "headline": "Alibaba's research crypto mining AI shows where the risk is",
+    "summary": "Alibaba's AI research reveals risks when AI systems engage in unauthorized cryptocurrency mining activities.",
+    "description": "Article URL: https://this.os.isfine.org/blog/posts/alibaba-s-ai-deciding-to-go-forbidden-cryptomining-shows-exactly-where-the-ai-ri/ Comments URL: https://news.ycombinator.com/item?id=47296775 Points: 2 # Comments: 0",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://this.os.isfine.org/blog/posts/alibaba-s-ai-deciding-to-go-forbidden-cryptomining-shows-exactly-where-the-ai-ri/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:27"
+  },
+  {
+    "id": "e6e0e29e95ff",
+    "headline": "Show HN: Caliper – Auto Instrumented LLM Observability with Custom Metadata",
+    "summary": "Caliper provides auto-instrumented LLM observability tool patching OpenAI and Anthropic SDKs with custom metadata.",
+    "description": "Caliper is designed to auto instrument LLM calls within Python, it monkey patches the OpenAI and Anthropic SDKs (Got plans to add LiteLLM so you can use any provider you want to) so it's almost completely invisible to you as the developer and for basic metrics can slot in as a single init() at start.It can also gather custom metadata about a call, this can be any KV pairs you want, both pre and post request.```pythonimport caliperimport anthropiccaliper.init(target=\"s3\") # This is all that's req",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://gitlab.com/usecaliper/caliper-python-sdk",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:21"
+  },
+  {
+    "id": "0c28e30279cc",
+    "headline": "Show HN: SafeParse – schema validation and retries for AI pipelines",
+    "summary": "SafeParse offers schema validation and retry mechanisms for LLM-based automation pipelines.",
+    "description": "Hi HN,I’ve been building a few automation pipelines that rely on LLMs, and I kept running into the same issue.Everything works fine during testing, then breaks in production.Typical things I saw:– the JSON shape changes slightly – required fields come back empty – the model times out or rate-limits – downstream automations silently failEven with JSON mode or structured outputs, this still happens occasionally.After dealing with this a few times I started building a small service that sits betwee",
+    "tags": [
+      "LLM",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://safeparse.com",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:18"
+  },
+  {
+    "id": "699ad3e1ca6f",
+    "headline": "Show HN: AI agents run my one-person company on Gemini's free tier – $0/month",
+    "summary": "Solo developer runs entire company using four AI agents on Gemini's free tier costing zero monthly.",
+    "description": "I'm a solo dev in Taiwan. I built 4 AI agents that handle content, sales leads, security scanning, and ops for my tech agency — all on Gemini 2.5 Flash free tier (1,500 req/day). I use ~105. Monthly LLM cost: $0.Architecture: 4 agents on OpenClaw (open source), running on WSL2 at home with 25 systemd timers.What they do every day:- Generate 8 social posts across platforms (quality-gated: generate → self-review → rewrite if score The token optimization trick: agents never have long conversations.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47296664",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:04"
+  },
+  {
+    "id": "92e5bbc721a2",
+    "headline": "Show HN: Aivaro – Open-source AI alternative to Zapier",
+    "summary": "Aivaro open-source AI alternative to Zapier automates workflows using plain English descriptions.",
+    "description": "Hey HN, I built Aivaro because my brother was spending $30+ per month on Zapier for workflows I could describe in one sentence.The idea: describe what you want in plain English, AI builds the workflow, you approve sensitive steps (emails, payments), then it runs automatically.- 20+ integrations (Google, Stripe, Slack, Shopify, etc.), 212 tools - Visual drag-and-drop editor for manual tweaking - Human-in-the-loop: nothing fires without your approvalI'd love feedback on the product and how I could",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/Abelo9996/Aivaro",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 11:59"
+  },
+  {
+    "id": "1d04692abf2a",
+    "headline": "Real Environments for AI Agents",
+    "summary": "Article discusses real environments for AI agents and Kubernetes infrastructure deployment strategies.",
+    "description": "Article URL: https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes Comments URL: https://news.ycombinator.com/item?id=47296623 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 11:57"
+  },
+  {
     "id": "beadfd1b8f15",
     "headline": "Grammarly is using our identities without permission",
     "summary": "Grammarly's expert review feature uses AI to offer writing advice attributed to subject matter experts, including deceased professors, without permission.",
