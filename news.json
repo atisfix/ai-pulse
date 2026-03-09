@@ -1,5 +1,386 @@
 [
   {
+    "id": "7bb1566bb12f",
+    "headline": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "summary": "Pentagon controversy surrounding Anthropic's defense work raises questions about whether AI startups will pursue government contracts.",
+    "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 20:14"
+  },
+  {
+    "id": "d062488e2af6",
+    "headline": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "summary": "AI data center developers are adopting remote work camp housing models to support their infrastructure expansion.",
+    "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 16:30"
+  },
+  {
+    "id": "55c12b75b192",
+    "headline": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
+    "summary": "OpenAI's hardware executive Caitlin Kalinowski resigns over the company's Pentagon defense agreement.",
+    "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+    "tags": [
+      "OpenAI",
+      "Robotics"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 20:44"
+  },
+  {
+    "id": "92920ad814ff",
+    "headline": "Can AI Kill the Venture Capitalist?",
+    "summary": "VCs bet AI will disrupt every industry, but face questions about whether AI will disrupt venture capital itself.",
+    "description": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "tags": [
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 09:00"
+  },
+  {
+    "id": "9ec3cad0ebbf",
+    "headline": "City Union Bank launches AI centre to support banking operations",
+    "summary": "City Union Bank launches AI center to test and deploy AI solutions directly on banking operations.",
+    "description": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence in ... The post City Union Bank launches AI centre to support banking operations appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Healthcare"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 10:00"
+  },
+  {
+    "id": "7d6510278803",
+    "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+    "summary": "Google AI researchers introduce Bayesian upgrade to improve LLM reasoning and belief updating capabilities.",
+    "description": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a ... The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 08:23"
+  },
+  {
+    "id": "d08e5bb4a112",
+    "headline": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
+    "summary": "Andrej Karpathy releases Autoresearch, a 630-line Python tool enabling AI agents to run autonomous ML experiments.",
+    "description": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration ... The post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experi",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 02:47"
+  },
+  {
+    "id": "6f0742861a8c",
+    "headline": "Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression",
+    "summary": "Research examines production fragility caused by excessive redundant features in machine learning regression models.",
+    "description": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In practice, however, this instinct often introduces hidden structural risks. Every additional feature creates another dependency on upstream data pipelines, external systems, ... The post Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regressio",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 19:07"
+  },
+  {
+    "id": "59c3a44deb2a",
+    "headline": "How AI firm Anthropic wound up in the Pentagon’s crosshairs",
+    "summary": "Anthropic's standoff with Pentagon over Claude's military use reignites debate on AI warfare and accountability.",
+    "description": "Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountableUntil recently, Anthropic was one of the quieter names in the artificial intelligence boom. Despite being valued at about $350bn, it rarely generated the flashy headlines or public backlash associated with Sam Altman’s OpenAI or Elon Musk’s xAI. Its CEO and co-founder Dario Amodei was an industry fixture but hardly a household name outside of Silicon Valley, and its chatbot Cl",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/09/anthropic-artificial-intelligence-pentagon",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 11:00"
+  },
+  {
+    "id": "289bab600e0b",
+    "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
+    "summary": "Liverpool and Manchester United complain to X after Grok AI generated offensive posts about players and tragedies.",
+    "description": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 11:08"
+  },
+  {
+    "id": "650ae2ad674f",
+    "headline": "Congress must prevent AI surveillance. The Anthropic feud proves it | Ashley Gorski and Patrick Toomey",
+    "summary": "Opinion piece argues Anthropic-Pentagon dispute highlights need for Congress to prevent AI surveillance of Americans.",
+    "description": "The company’s clash with the Pentagon is a fight over the future of American privacyThe US military wants to use its state-of-the-art AI tools to supercharge surveillance against Americans, making it easier than ever to monitor our movements, our search history, and our private associations. That’s one of the major takeaways from a dramatic dispute between the Department of Defense and some of the leading AI companies in America. What this clash highlights most of all, however, is just how easil",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 10:00"
+  },
+  {
+    "id": "080123462a5f",
+    "headline": "AI allows hackers to identify anonymous social media accounts, study finds",
+    "summary": "Research shows AI technology behind ChatGPT makes it easier for hackers to identify anonymous social media accounts.",
+    "description": "New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacksAI has made it vastly easier for malicious hackers to identify anonymous social media accounts, a new study has warned.In most test scenarios, large language models (LLMs) – the technology behind platforms such as ChatGPT – successfully matched anonymous online users with their actual identities on other platforms, based on the information they posted. Continue reading...",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 14:00"
+  },
+  {
+    "id": "9f470319b0f6",
+    "headline": "ChatGPT driving rise in reports of ‘satanic’ organised and ritual abuse, UK experts say",
+    "summary": "UK experts report ChatGPT is driving rise in reports of alleged satanic ritual and organized abuse.",
+    "description": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglectChatGPT is driving a rise in reports of organised and ritual abuse, UK experts have said, as survivors of “satanic” sexual violence use the AI tool for therapy.Police say organised and ritual abuse, and “witchcraft, spirit possession and spiritual abuse” (WSPRA) against children, is under-reported in the UK. There is no modern-day charge that covers it specifically, but such off",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:00"
+  },
+  {
+    "id": "95809d5a50e4",
+    "headline": "‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower",
+    "summary": "Drone strikes on Gulf commercial datacenters signal new asymmetric warfare targeting AI infrastructure.",
+    "description": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfareIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.At 4.30am on Sunday morning, what is thought to have been an Iranian Shahed 136 drone struck an Amazon Web Services datacentre in the United Arab Emirates, setting off a devastating fire and forcing a shutdown of the power supply. Further damage was inflicted as attem",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Mar 2026, 11:00"
+  },
+  {
+    "id": "f8c6957c180d",
+    "headline": "The Supreme Court Just Dealt a Crushing Blow to “AI Artists”",
+    "summary": "Supreme Court rules AI-generated artwork lacks human authorship required for copyright protection.",
+    "description": "\"Although the Copyright Act does not define the term 'author,' multiple provisions of the act make clear that the term refers to a human rather than a machine.\" The post The Supreme Court Just Dealt a Crushing Blow to “AI Artists” appeared first on Futurism.",
+    "tags": [
+      "Image Gen",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/supreme-court-blow-ai-artists-copyright",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 15:00"
+  },
+  {
+    "id": "35ee5f981436",
+    "headline": "Study Finds That Execs Are Outsourcing Their Thinking to AI",
+    "summary": "Study shows executives are outsourcing decision-making and thinking to AI systems.",
+    "description": "How ironic. The post Study Finds That Execs Are Outsourcing Their Thinking to AI appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-executive-thinking-survey",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 14:15"
+  },
+  {
+    "id": "16d5860f3302",
+    "headline": "OpenAI’s Pivot Into Shopping Has Been a Disaster",
+    "summary": "OpenAI's shopping integration into ChatGPT has underperformed expectations and failed to gain traction.",
+    "description": "What's in store for OpenAI's push to turn ChatGPT into an all-in-one storefront? Not a lot. The post OpenAI’s Pivot Into Shopping Has Been a Disaster appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-pivot-into-shopping-disaster",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:45"
+  },
+  {
+    "id": "ae0186d674ec",
+    "headline": "A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News",
+    "summary": "Machine learning engineer loses job despite believing AI expertise provided job security.",
+    "description": "Talk about digging your own grave. The post A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/machine-learning-engineer-safe-ai-layoffs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 12:00"
+  },
+  {
+    "id": "3b9e02f55b72",
+    "headline": "Using AI to Do Your Taxes Is Likely to Backfire Spectacularly",
+    "summary": "Using AI tools for tax preparation risks significant errors and negative financial consequences.",
+    "description": "As tempting as the idea may be: don't. The post Using AI to Do Your Taxes Is Likely to Backfire Spectacularly appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/taxes-with-ai-disaster",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Mar 2026, 11:15"
+  },
+  {
+    "id": "ad325f825e1a",
+    "headline": "Improving AI models’ ability to explain their predictions",
+    "summary": "MIT research develops new approach to improve AI models' ability to explain predictions for safety-critical applications.",
+    "description": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and autonomous driving.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT News AI",
+    "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 00:00"
+  },
+  {
+    "id": "83439e34b59d",
+    "headline": "Show HN: DalVideo – Screen recorder with offline AI captions and built-in editor",
+    "summary": "DalVideo is a Windows screen recorder featuring offline AI captioning powered by OpenAI Whisper.",
+    "description": "Hi HN, I built DalVideo, a screen recorder for Windows with offline AI features.Key technical details: - AI captions powered by OpenAI Whisper, runs 100% offline – supports 99+ languages - AI noise removal (RNNoise) in real-time - Smart Trim: auto-detects and cuts silent sections - Built-in editor (trim, split, delete) so you don't need a separate tool - Hardware encoding: NVENC, AMF, QuickSync – up to 4K@120fps - Codecs: H.264, H.265, AV1 in MP4/MKV - Drawing overlay, keystroke display, webcam ",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47308317",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:43"
+  },
+  {
+    "id": "0e42a90fbd44",
+    "headline": "Can AI Kill the Venture Capitalist?",
+    "summary": "Hacker News discussion on whether AI will disrupt the venture capital industry.",
+    "description": "Article URL: https://www.wired.com/story/ai-kill-venture-capital/ Comments URL: https://news.ycombinator.com/item?id=47308302 Points: 2 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:41"
+  },
+  {
+    "id": "06de0858b3cc",
+    "headline": "At 25, Wikipedia faces a double threat: rise of AI and decline of local media",
+    "summary": "Wikipedia at 25 faces dual challenges from rising AI and declining local media sources.",
+    "description": "Article URL: https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795 Comments URL: https://news.ycombinator.com/item?id=47308205 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:30"
+  },
+  {
     "id": "472e95a4142f",
     "headline": "A roadmap for AI, if anyone will listen",
     "summary": "Pro-Human Declaration finalized amid Pentagon-Anthropic controversy over AI military applications and ethical guidelines.",
