@@ -1,5 +1,390 @@
 [
   {
+    "id": "b90100c87546",
+    "headline": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+    "summary": "Nearly 40 employees from OpenAI and Google support Anthropic's lawsuit against the Pentagon over supply-chain risk designation.",
+    "description": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's ...",
+    "tags": [
+      "Anthropic",
+      "Regulation",
+      "OpenAI",
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 16:45"
+  },
+  {
+    "id": "d00b5bc99fa6",
+    "headline": "Anthropic is suing the Department of Defense",
+    "summary": "Anthropic sues the US government over its supply-chain risk designation, disputing Pentagon restrictions on military AI use.",
+    "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:37"
+  },
+  {
+    "id": "683da747cbb4",
+    "headline": "Sandbar secures $23M Series A for its AI note-taking ring",
+    "summary": "Sandbar raises $23M Series A for its Stream AI note-taking ring with chat and media playback capabilities.",
+    "description": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Mar 2026, 12:40"
+  },
+  {
+    "id": "112cc5dfe3cc",
+    "headline": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "summary": "Over 30 OpenAI and Google DeepMind employees sign statement supporting Anthropic's DOD lawsuit.",
+    "description": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "tags": [
+      "Anthropic",
+      "Regulation",
+      "OpenAI",
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 21:15"
+  },
+  {
+    "id": "12c6099ed84a",
+    "headline": "Anthropic launches code review tool to check flood of AI-generated code",
+    "summary": "Anthropic launches Code Review tool in Claude Code to automatically analyze AI-generated code and flag errors.",
+    "description": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "tags": [
+      "Anthropic",
+      "Agents",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 19:41"
+  },
+  {
+    "id": "170349c7068c",
+    "headline": "OpenAI acquires Promptfoo to secure its AI agents",
+    "summary": "OpenAI acquires Promptfoo to improve safety of AI agents in critical business operations.",
+    "description": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "tags": [
+      "OpenAI",
+      "Agents",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 17:49"
+  },
+  {
+    "id": "05fd98b52419",
+    "headline": "Anthropic sues Defense Department over supply-chain risk designation",
+    "summary": "Anthropic files lawsuit against Department of Defense after being labeled a supply-chain risk.",
+    "description": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 17:25"
+  },
+  {
+    "id": "c29077607040",
+    "headline": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
+    "summary": "Nvidia-backed British AI infrastructure startup Nscale raises $2B in funding, reaching $14.6B valuation.",
+    "description": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+    "tags": [
+      "Hardware",
+      "Startup",
+      "NVIDIA"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 15:09"
+  },
+  {
+    "id": "c7329bcfa0e4",
+    "headline": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+    "summary": "Yann LeCun raises $1B for AMI startup to build AI that understands the physical world.",
+    "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+    "tags": [
+      "Meta",
+      "Research",
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Mar 2026, 05:00"
+  },
+  {
+    "id": "df2157b0fa46",
+    "headline": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "summary": "Nvidia plans to launch open-source AI agent platform ahead of developer conference.",
+    "description": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "tags": [
+      "NVIDIA",
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 23:11"
+  },
+  {
+    "id": "adaf3581f91b",
+    "headline": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+    "summary": "Anthropic claims Pentagon supply-chain risk designation could cost it billions in lost deals.",
+    "description": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+    "tags": [
+      "Anthropic",
+      "Regulation",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 20:49"
+  },
+  {
+    "id": "d3534da5974e",
+    "headline": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+    "summary": "Google DeepMind chief Jeff Dean and other AI researchers file amicus brief supporting Anthropic against US government.",
+    "description": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+    "tags": [
+      "Anthropic",
+      "Regulation",
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 20:38"
+  },
+  {
+    "id": "c72c22797a4f",
+    "headline": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
+    "summary": "Anthropic sues Department of Defense over supply-chain-risk designation under Trump administration.",
+    "description": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 15:29"
+  },
+  {
+    "id": "8582cc919cab",
+    "headline": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+    "summary": "Report on murky AI surveillance laws and White House enforcement against defiant AI labs.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 13:57"
+  },
+  {
+    "id": "234725265003",
+    "headline": "These smart glasses are similar Meta Ray-Bans, but support Google’s Gemini - 9to5Google",
+    "summary": "Smart glasses similar to Meta Ray-Bans but supporting Google's Gemini AI assistant.",
+    "description": "These smart glasses are similar Meta Ray-Bans, but support Google’s Gemini 9to5GoogleRokid Integrates Google's Gemini, ChatGPT in Major Update to International Smart Glasses in Open Ecosystem Push PR NewswireInternational Smart Glasses Upgrades Trend HunterMove over Meta, Rokid announces an update that claims the AI smart glasses crown PhoneArenaCES 2026: Rokid AI Glasses Style last 12 hours on charge NewsBytes",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WVWZ2cDI5VnVRcFJnZWFBQmVXMll0dTgyc2RlSnhVM1lVQm5zay02YTFtY2tuenZZd1lORGdzRlUxYnIyRGlObnRudlJNOExrN0gtOEZDTjlGa1BwT0J3MUYzb2hSbUFIUjBCZ0tnMEFsT0JEZVlr?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 22:15"
+  },
+  {
+    "id": "c69c2a30494e",
+    "headline": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
+    "summary": "Mastercard completes first live authenticated agent-based payment transaction in Singapore with DBS and UOB.",
+    "description": "Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeast Asia’s largest banks. In the demonstration, an AI agent booked ... The post Mastercard brings agentic payments to life in Singapore with DBS and UOB appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Mar 2026, 07:00"
+  },
+  {
+    "id": "947ea2cc63a6",
+    "headline": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
+    "summary": "Gradient AI secures funding for AI insurance underwriting, advancing insurtech beyond venture stage.",
+    "description": "AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lender with over 25 years of experience backing growth-stage technology companies and ... The post AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it appeared first ",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:51"
+  },
+  {
+    "id": "aca5f4905fa6",
+    "headline": "UK sovereign AI fund to build up domestic computing infrastructure",
+    "summary": "UK sovereign AI fund backed by £500M aims to build domestic computing infrastructure.",
+    "description": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at Balderton Capital, chairs the function to coordinate efforts across ... The post UK sovereign AI fund to build up domestic computing infrastructure appeared first on AI News.",
+    "tags": [
+      "Hardware",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 12:46"
+  },
+  {
+    "id": "f22cadf0d04e",
+    "headline": "How to Build a Risk-Aware AI Agent with Internal Critic, Self-Consistency Reasoning, and Uncertainty Estimation for Reliable Decision-Making",
+    "summary": "Tutorial on building risk-aware AI agents with internal critic and uncertainty estimation frameworks.",
+    "description": "In this tutorial, we build an advanced agent system that goes beyond simple response generation by integrating an internal critic and uncertainty estimation framework. We simulate multi-sample inference, evaluate candidate responses across accuracy, coherence, and safety dimensions, and quantify predictive uncertainty using entropy, variance, and consistency measures. We implement risk-sensitive selection strategies to balance confidence ... The post How to Build a Risk-Aware AI Agent with Inter",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/09/how-to-build-a-risk-aware-ai-agent-with-internal-critic-self-consistency-reasoning-and-uncertainty-estimation-for-reliable-decision-making/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Mar 2026, 06:35"
+  },
+  {
+    "id": "6462934d763e",
+    "headline": "ByteDance Releases DeerFlow 2.0: An Open-Source SuperAgent Harness that Orchestrates Sub-Agents, Memory, and Sandboxes to do Complex Tasks",
+    "summary": "ByteDance releases DeerFlow 2.0, open-source super-agent platform orchestrating sub-agents for complex tasks.",
+    "description": "The era of the ‘Copilot’ is officially getting an upgrade. While the tech world has spent the last two years getting comfortable with AI that suggests code or drafts emails, ByteDance team is moving the goalposts. They released DeerFlow 2.0, a newly open-sourced ‘SuperAgent’ framework that doesn’t just suggest work; it executes it. DeerFlow is ... The post ByteDance Releases DeerFlow 2.0: An Open-Source SuperAgent Harness that Orchestrates Sub-Agents, Memory, and Sandboxes to do Complex Tasks ap",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/09/bytedance-releases-deerflow-2-0-an-open-source-superagent-harness-that-orchestrates-sub-agents-memory-and-sandboxes-to-do-complex-tasks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Mar 2026, 06:10"
+  },
+  {
+    "id": "f7fa49114fee",
+    "headline": "Andrew Ng’s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs",
+    "summary": "Andrew Ng's team launches Context Hub open-source tool providing coding agents up-to-date API documentation.",
+    "description": "In the fast-moving world of agentic workflows, the most powerful AI model is still only as good as its documentation. Today, Andrew Ng and his team at DeepLearning.AI officially launched Context Hub, an open-source tool designed to bridge the gap between an agent’s static training data and the rapidly evolving reality of modern APIs. You ... The post Andrew Ng’s Team Releases Context Hub: An Open Source Tool that Gives Your Coding Agent the Up-to-Date API Documentation It Needs appeared first on",
+    "tags": [
+      "Agents",
+      "Open Source",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/09/andrew-ngs-team-releases-context-hub-an-open-source-tool-that-gives-your-coding-agent-the-up-to-date-api-documentation-it-needs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 20:47"
+  },
+  {
+    "id": "ddacc7bc9e56",
+    "headline": "Anthropic Introduces Code Review via Claude Code to Automate Complex Security Research Using Advanced Agentic Multi-Step Reasoning Loops",
+    "summary": "Anthropic introduces Code Review via Claude Code using agentic multi-step reasoning for security analysis.",
+    "description": "In the frantic arms race of ‘AI for code,’ we’ve moved past the era of the glorified autocomplete. Today, Anthropic is double-downing on a more ambitious vision: the AI agent that doesn’t just write your boilerplate, but actually understands why your Kubernetes cluster is screaming at 3:00 AM. With the recent launch of Claude Code ... The post Anthropic Introduces Code Review via Claude Code to Automate Complex Security Research Using Advanced Agentic Multi-Step Reasoning Loops appeared first on",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/09/anthropic-introduces-code-review-via-claude-code-to-automate-complex-security-research-using-advanced-agentic-multi-step-reasoning-loops/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Mar 2026, 20:28"
+  },
+  {
     "id": "7bb1566bb12f",
     "headline": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
     "summary": "Pentagon controversy surrounding Anthropic's defense work raises questions about whether AI startups will pursue government contracts.",
