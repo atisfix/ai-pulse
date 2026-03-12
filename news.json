@@ -1,5 +1,355 @@
 [
   {
+    "id": "515217cf78bf",
+    "headline": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+    "summary": "Google Maps now features Gemini AI integration with \"Ask Maps\" allowing users to ask complex questions and get AI-powered answers about locations and trip planning.",
+    "description": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Mar 2026, 08:30"
+  },
+  {
+    "id": "129f8a500819",
+    "headline": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
+    "summary": "Perplexity launched Personal Computer, an AI agent tool that turns spare Macs into locally-run AI systems for autonomous task completion.",
+    "description": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have ...",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 Mar 2026, 08:00"
+  },
+  {
+    "id": "153e5c94f78e",
+    "headline": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+    "summary": "Grammarly faces lawsuit from one of its AI expert identities used without permission in the \"Expert Review\" feature that cloned real writers.",
+    "description": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 18:51"
+  },
+  {
+    "id": "a9d444a26574",
+    "headline": "Grammarly says it will stop using AI to clone experts without permission",
+    "summary": "Grammarly disabled its \"Expert Review\" AI feature that presented editing suggestions as from real writers without their consent following backlash.",
+    "description": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 14:45"
+  },
+  {
+    "id": "c0e0951fb124",
+    "headline": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+    "summary": "OpenAI's Sora video generator is reportedly being integrated into ChatGPT as a built-in feature, expanding accessibility from its standalone availability.",
+    "description": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much ...",
+    "tags": [
+      "OpenAI",
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 12:50"
+  },
+  {
+    "id": "04351bbab8fd",
+    "headline": "Canva’s new editing tool adds layers to AI-generated designs",
+    "summary": "Canva's Magic Layers tool converts flat AI-generated images into fully editable layered designs, launching in public beta across multiple regions.",
+    "description": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After ...",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 11:02"
+  },
+  {
+    "id": "fff9dc0cea6c",
+    "headline": "I was interviewed by an AI bot for a job",
+    "summary": "Job seekers are increasingly being interviewed by AI avatars, raising concerns about fairness and authenticity in AI-driven hiring processes.",
+    "description": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 10:00"
+  },
+  {
+    "id": "46bb33789761",
+    "headline": "Chatbots encouraged ‘teens’ to plan shootings in study",
+    "summary": "A study reveals popular chatbots lack adequate safeguards, missing warning signs when \"teens\" discussed plans for violence on the platforms.",
+    "description": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient. Popular chatbots missed warning signs in scenarios involving teenagers discussing violent acts, in some cases even offering encouragement instead of intervening. The findings come from a joint investigation by CNN and the nonprofit Center for ...",
+    "tags": [
+      "Regulation",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 09:18"
+  },
+  {
+    "id": "10f990f137c4",
+    "headline": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+    "summary": "Google Maps rolls out Gemini-powered \"Ask Maps\" feature and upgraded \"Immersive Navigation\" in its largest update in over a decade.",
+    "description": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Mar 2026, 12:30"
+  },
+  {
+    "id": "87bcf5b77d56",
+    "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+    "summary": "An AI-generated \"actor\" named Tilly Norwood released music, marking experimental AI content creation in entertainment.",
+    "description": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 23:35"
+  },
+  {
+    "id": "090c9c585499",
+    "headline": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+    "summary": "Ford's new AI assistant helps fleet owners monitor seatbelt compliance, now available to U.S. Pro telematics subscribers.",
+    "description": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 22:51"
+  },
+  {
+    "id": "0559f9ae1f00",
+    "headline": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+    "summary": "Netflix reportedly paid $600 million for Ben Affleck's AI startup, potentially ranking among the streaming giant's largest acquisitions.",
+    "description": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+    "tags": [
+      "Market",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 22:00"
+  },
+  {
+    "id": "27bac9e65232",
+    "headline": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+    "summary": "WordPress launched my.WordPress.net, a browser-based private workspace integrating AI tools without requiring hosting or signup.",
+    "description": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 16:43"
+  },
+  {
+    "id": "4c4130ed7627",
+    "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+    "summary": "Mind Robotics, a Rivian spin-out, raised $500M to develop and deploy industrial AI-powered robots in manufacturing.",
+    "description": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 16:12"
+  },
+  {
+    "id": "f293318727ad",
+    "headline": "Meta’s Moltbook deal points to a future built around AI agents",
+    "summary": "Meta's Moltbook acquisition signals the company's strategic focus on AI agents for future advertising and commerce applications.",
+    "description": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 15:11"
+  },
+  {
+    "id": "900ade688347",
+    "headline": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
+    "summary": "Google Maps' new Gemini-powered \"Ask Maps\" feature lets users ask questions about locations and plan trips through conversational AI.",
+    "description": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Mar 2026, 12:30"
+  },
+  {
+    "id": "4e064b9299cb",
+    "headline": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+    "summary": "Grammarly shut down its \"Expert Review\" AI feature after facing class action lawsuit for presenting editing suggestions as from real authors without consent.",
+    "description": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 20:45"
+  },
+  {
+    "id": "858ab029721e",
+    "headline": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+    "summary": "NVIDIA plans to spend $26 billion building open-weight AI models, positioning itself to compete with OpenAI, Anthropic, and DeepSeek.",
+    "description": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "tags": [
+      "NVIDIA",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 18:00"
+  },
+  {
+    "id": "68cdc19486d9",
+    "headline": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+    "summary": "Meta is developing 4 new MTIA processors to power its AI and recommendation systems, reducing dependence on NVIDIA chips.",
+    "description": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 14:23"
+  },
+  {
+    "id": "138693168599",
+    "headline": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+    "summary": "Looking Glass launched Musubi, an AI-powered holographic picture frame that brings photos and videos to life with 3D display technology.",
+    "description": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+    "tags": [
+      "Hardware",
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/looking-glass-musubi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 13:00"
+  },
+  {
+    "id": "8f8ac13b57b6",
+    "headline": "Hustlers are cashing in on China’s OpenClaw AI craze",
+    "summary": "Chinese entrepreneurs are capitalizing on the OpenClaw AI trend, with 27-year-old software engineer Feng Qingyang launching ventures around the AI craze.",
+    "description": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Mar 2026, 12:46"
+  },
+  {
     "id": "217dd0ccc004",
     "headline": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
     "summary": "Anthropic launches new think tank while facing Pentagon blacklist and lawsuit, reshuffling C-suite leadership.",
