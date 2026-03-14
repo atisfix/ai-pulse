@@ -1,5 +1,336 @@
 [
   {
+    "id": "89060f9cb3e3",
+    "headline": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+    "summary": "Microsoft is launching its Gaming Copilot AI assistant on current-generation Xbox consoles this year to enhance gaming experiences.",
+    "description": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 16:51"
+  },
+  {
+    "id": "1bad3bace6ed",
+    "headline": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "summary": "xAI is restarting its AI coding tool project with new executives from Cursor, indicating previous development challenges.",
+    "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+    "tags": [
+      "LLM",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 00:12"
+  },
+  {
+    "id": "6450e7a9755b",
+    "headline": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "summary": "A lawyer warns that AI chatbots linked to suicides are now appearing in mass casualty cases, with safety measures lagging behind technology development.",
+    "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 00:01"
+  },
+  {
+    "id": "e3bf6726b838",
+    "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+    "summary": "Data infrastructure startup Nyne raised $5.3M in seed funding to provide human context for AI agents.",
+    "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 21:37"
+  },
+  {
+    "id": "b5c715befd15",
+    "headline": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+    "summary": "Steven Spielberg stated he has never used AI in his films and opposes AI replacing creative professionals in film and TV.",
+    "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+    "tags": [
+      "Creative AI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 19:47"
+  },
+  {
+    "id": "7bab7f9449e9",
+    "headline": "The biggest AI stories of the year (so far)",
+    "summary": "TechCrunch reviews major AI industry news including acquisitions, indie successes, public concerns, and contract negotiations.",
+    "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 19:38"
+  },
+  {
+    "id": "f414d0112fdf",
+    "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+    "summary": "Peacock is expanding with AI-powered video experiences, vertical clips, and mobile games to boost growth.",
+    "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 14:00"
+  },
+  {
+    "id": "2b060a5e658f",
+    "headline": "Google's AI Search Results Love to Refer You Back to Google",
+    "summary": "Google's generative AI search tools increasingly cite Google's own services over third-party publishers, raising bias concerns.",
+    "description": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 12:31"
+  },
+  {
+    "id": "24670c1a644c",
+    "headline": "Why physical AI is becoming manufacturing’s next advantage",
+    "summary": "Manufacturers are adopting physical AI robots for automation to improve efficiency, reduce costs, and stabilize operations.",
+    "description": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
+    "tags": [
+      "Robotics",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 15:16"
+  },
+  {
+    "id": "ce69cd236964",
+    "headline": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade - InsideEVs",
+    "summary": "Google Maps is receiving a major update with 3D redesign and AI features powered by Gemini.",
+    "description": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade InsideEVsHow we’re reimagining Maps with Gemini blog.googleGoogle Maps receives major upgrade with 3D redesign, AI feature Mashable‘Immersive Navigation’ is the biggest Google Maps driving update in a decade 9to5GoogleGoogle's AI Search Results Love to Refer You Back to Google WIRED",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2xRdmctdmg0bkR3MFZ0NFJBOF9GVVF1cFJsbndtbHFCQjBOVU45NGFhb2d0SWEybXQzZDY0REt6T1lmc3FHMTlCWlhCVjVPTktnZEhwM0xOcjRoVEZFNkJCRWx2dTRXNmVoZTl3eWlxSTNpNzF6cHRHNl82dVdjYjZGYnNUYVk?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 10:11"
+  },
+  {
+    "id": "2fcf4158736c",
+    "headline": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
+    "summary": "Garry Tan released gstack, an open-source Claude-based coding system for planning, code review, QA, and shipping.",
+    "description": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as ‘Eight opinionated workflow skills ... The post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping a",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 08:44"
+  },
+  {
+    "id": "09007c29067c",
+    "headline": "New study raises concerns about AI chatbots fueling delusional thinking",
+    "summary": "A major study warns that AI chatbots may encourage delusional thinking among vulnerable people, raising safety concerns.",
+    "description": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable peopleA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulnerable people.A summary of existing evidence on artificial intelligence-induced psychosis was published last week in the Lancet Psychiatry, highlighting how chatbots can encourage delusional thinking – though possibly only in people who are already vul",
+    "tags": [
+      "Research",
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 11:00"
+  },
+  {
+    "id": "657fa01bc966",
+    "headline": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst?",
+    "summary": "Analysis questions whether UK's AI datacentre investment bubble may burst amid infrastructure risks and challenges.",
+    "description": "Datacentre investment boom is one of the biggest infrastructure gambles of this era, and Britain may be uniquely exposedStargate was to be the world’s biggest AI investment: a $500bn infrastructure project to “secure American leadership in AI”. Never shy of hyperbole, its key backer, the ChatGPT-maker OpenAI, promised “massive economic benefit for the entire world” with facilities to help people “use AI to elevate humanity”.Now, OpenAI appears to be dropping out of a part of the deal – the expan",
+    "tags": [
+      "Research",
+      "Hardware"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 06:00"
+  },
+  {
+    "id": "544b47f0c097",
+    "headline": "The environmental cost of datacentres is rising. Is it time to quit AI?",
+    "summary": "Environmental costs of AI datacentres are rising, prompting debate about whether people should opt out of AI use.",
+    "description": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprintGot a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.comIt’s only a few years on from the release of ChatGPT but the race to plug artificial intelligence into everything has sparked a surge in datacentres, wit",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 23:00"
+  },
+  {
+    "id": "15adff0adad0",
+    "headline": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
+    "summary": "Writers protest AI's unauthorized use of their work, calling for government protection of authors' copyright and intellectual property.",
+    "description": "Writers are voicing their anger at AI theft of their work with ‘Human Authored’ logos and an empty book. The government must listenIn a scene that might have come from a dystopian novel, books were being stamped with “Human Authored” logos at this week’s London Book Fair. The Society of Authors described its labelling scheme as “an important sticking plaster to protect and promote human creativity in lieu of AI labelled content in the marketplace”.Visitors to the fair were also being given copie",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 18:07"
+  },
+  {
+    "id": "c4908cc76b0a",
+    "headline": "Grammarly removes AI Expert Review feature mimicking writers after backlash",
+    "summary": "Grammarly disabled its AI Expert Review feature after backlash over using real authors' names without consent in generated suggestions.",
+    "description": "Feature generated editing suggestions inspired by well-known authors and academics, prompting a class-action lawsuit over the use of real names without consentGrammarly has disabled a controversial AI feature that imitated the style of prominent writers and academics, and is facing a multimillion dollar lawsuit from those whose identities were used without consent.The feature, called Expert Review, used generative AI to produce feedback supposedly inspired by writers including the novelist Steph",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 17:00"
+  },
+  {
+    "id": "a0c6ae8972cc",
+    "headline": "Will AI take Australian jobs, or is it just an excuse for corporate restructure?",
+    "summary": "Over 1,000 Australian tech jobs were cut with companies citing AI productivity gains, raising questions about corporate restructuring.",
+    "description": "More than 1,000 local tech jobs have recently been cut, with companies citing AI productivity gains. But that’s not the full story, experts sayGet our breaking news email, free app or daily news podcastTeresa Lim has one of the most recognisable voices in Australia. For 23 years, she has been the voice behind radio and television advertisements, selling listeners on everything from baby formula to Test cricket. But despite her extensive portfolio, she’s become increasingly worried that she is go",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/14/ai-jobs-australia-corporate-restructure",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 14:00"
+  },
+  {
+    "id": "367cd794537a",
+    "headline": "Professors Say AI Is Destroying Their Students’ Ability to Think",
+    "summary": "Professors warn that student reliance on AI is degrading their ability to read, analyze, and synthesize information critically.",
+    "description": "Students are \"incapable of reading and analyzing, synthesizing data.\" The post Professors Say AI Is Destroying Their Students’ Ability to Think appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/professors-ai-destroying-students-thinking",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Mar 2026, 06:45"
+  },
+  {
+    "id": "73a03da567f1",
+    "headline": "Elon Musk Orders Sweeping Layoffs as xAI Fails to Catch Up",
+    "summary": "Elon Musk ordered sweeping layoffs at xAI as the company restarts development, struggling to keep pace in the AI race.",
+    "description": "As the AI race heats up, xAI is starting from scratch. The post Elon Musk Orders Sweeping Layoffs as xAI Fails to Catch Up appeared first on Futurism.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/elon-musk-orders-layoffs-xai-coding",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 16:28"
+  },
+  {
+    "id": "e45e42383a05",
+    "headline": "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI",
+    "summary": "BuzzFeed is nearing bankruptcy following a failed pivot toward AI-generated content as a business strategy.",
+    "description": "The pivot to AI isn't going so great. The post BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/buzzfeed-disastrous-earnings-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Mar 2026, 14:08"
+  },
+  {
     "id": "50074c0ffc7f",
     "headline": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
     "summary": "Facebook Marketplace adds Meta AI auto-replies to handle common seller questions like 'Is this still available?' for improved selling efficiency.",
