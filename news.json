@@ -1,5 +1,335 @@
 [
   {
+    "id": "a11472131503",
+    "headline": "DLSS 5 looks like a real-time generative AI filter for video games",
+    "summary": "Nvidia announced DLSS 5, using generative AI to enhance video game graphics in real-time, sparking debate over its artistic impact.",
+    "description": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 17:56"
+  },
+  {
+    "id": "97cfd1dc6090",
+    "headline": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+    "summary": "Three Tennessee teens sued xAI, claiming Grok generated sexualized images of them as minors, raising serious ethical concerns.",
+    "description": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 17:44"
+  },
+  {
+    "id": "bfddc9aea8fa",
+    "headline": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
+    "summary": "Social media conspiracy theories claim Benjamin Netanyahu is an AI deepfake, highlighting concerns about AI-generated misinformation.",
+    "description": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier ...",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 16:41"
+  },
+  {
+    "id": "0e3f49e7838c",
+    "headline": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+    "summary": "Encyclopedia Britannica and Merriam-Webster sued OpenAI for allegedly using copyrighted content to train ChatGPT without permission.",
+    "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 13:04"
+  },
+  {
+    "id": "309141cca2e2",
+    "headline": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+    "summary": "Picsart launched an AI agent marketplace enabling creators to hire AI assistants for content creation tasks.",
+    "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+    "tags": [
+      "Agents",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 04:01"
+  },
+  {
+    "id": "57a26b63422b",
+    "headline": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "summary": "Nvidia introduced NemoClaw, an enterprise AI agent platform based on OpenClaw, designed for secure business applications.",
+    "description": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+    "tags": [
+      "NVIDIA",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 22:45"
+  },
+  {
+    "id": "7c3c168cab89",
+    "headline": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "summary": "Senator Elizabeth Warren questioned Pentagon's decision to grant xAI access to classified networks due to Grok's harmful outputs.",
+    "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 20:58"
+  },
+  {
+    "id": "e6d049c8069d",
+    "headline": "Memories AI is building the visual memory layer for wearables and robotics",
+    "summary": "Memories.ai developed a visual memory model enabling AI wearables and robots to index and retrieve video-recorded memories.",
+    "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+    "tags": [
+      "Robotics",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 20:30"
+  },
+  {
+    "id": "b8f2aa10bf11",
+    "headline": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "summary": "Minors filed lawsuits against xAI claiming Grok created non-consensual sexualized deepfakes of them as children.",
+    "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 19:18"
+  },
+  {
+    "id": "e4a7eec4da18",
+    "headline": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+    "summary": "Nvidia's DLSS 5 uses generative AI to enhance game graphics photorealism, with potential applications beyond gaming.",
+    "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 19:12"
+  },
+  {
+    "id": "3b4f92dc68c6",
+    "headline": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+    "summary": "Sears' exposed AI chatbot conversations revealed customer personal data, creating security vulnerabilities for scams.",
+    "description": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 10:00"
+  },
+  {
+    "id": "076cd93607a2",
+    "headline": "Models Are Applying to Be the Face of AI Scams",
+    "summary": "Scammers recruit models via Telegram to create AI-generated deepfakes for financial fraud schemes.",
+    "description": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 09:00"
+  },
+  {
+    "id": "d4541921eade",
+    "headline": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "summary": "MIT newsletter covers OpenAI's military deal and Grok's CSAM lawsuit, highlighting emerging AI policy issues.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 12:26"
+  },
+  {
+    "id": "4d511a5c27c4",
+    "headline": "Where OpenAI’s technology could show up in Iran",
+    "summary": "OpenAI struck a controversial military deal with the US that could deploy its technology in Iran operations.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 17:06"
+  },
+  {
+    "id": "84dae0068457",
+    "headline": "Nurturing agentic AI beyond the toddler stage",
+    "summary": "Article explores developing agentic AI systems beyond current limitations, comparing progress to developmental milestones.",
+    "description": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 13:00"
+  },
+  {
+    "id": "4cc98061537d",
+    "headline": "The Download: glass chips and “AI-free” logos",
+    "summary": "Newsletter discusses glass-based AI chips and consumer pushback against AI in products.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 12:35"
+  },
+  {
+    "id": "972b3e9b1f38",
+    "headline": "Nvidia unveils DLSS 5 at GTC to bring real-time AI to video games (NVDA:NASDAQ) - Seeking Alpha",
+    "summary": "Nvidia unveiled DLSS 5 at GTC, bringing real-time AI graphics enhancement to video games.",
+    "description": "Nvidia unveils DLSS 5 at GTC to bring real-time AI to video games (NVDA:NASDAQ) Seeking AlphaNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games NVIDIANvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series Digital FoundryNVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances WccftechWhoa: Nvidia's DLSS 5 Can Make PC Games Look Real PCMag",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQME1LanNrbENIY0ZhTHBHekduQUo0bS1MbGdGN3dScHpkVkQySHlWNDBKQUowcXctY0c0ZTZwLXRzeURpbVVPSHl0M3Q5QkJoVVRGTTVUbDE0ZFdjT0lBQ0dxb1VocWJUcWRlVThhNmlTcU5zSGZTanJmTjFvdGZudDhmRFl4cERtY3FIdGo4TDZFNWhsMjQ5bDVKNjVBQllJcGNPRjVR?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 18:40"
+  },
+  {
+    "id": "bda940244c34",
+    "headline": "AI companies want to harvest improv actors’ skills to train AI on human emotion - The Verge",
+    "summary": "AI companies seek to train emotional recognition systems using improv actors' performance data.",
+    "description": "AI companies want to harvest improv actors’ skills to train AI on human emotion The VergeView Full Coverage on Google News",
+    "tags": [
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3F5QndNdVhvOEVkWlAwS2padXJCWHYwaUpBS0NZbjlab0hvSHNlTzdHcThHY1BFTlBXWTJoYVIxUHRiOFRxRkw3OW1yMk82TFdWOW16NEtsZHVfNUlVYnZIOHVud3pqbUpHMGsyd2NORzg0NDNXUmlKR2VKRzM4aVpoUnNjOWUwaktJQWZ1MG53YlF4NWliS2hsZjc0aTFVazhOTUJNQ2RaeHFIdXc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Mar 2026, 14:00"
+  },
+  {
+    "id": "6eefd859af44",
+    "headline": "Goldman Sachs sees AI investment shift to data centres",
+    "summary": "AI investment focus shifts toward data center infrastructure as the sector matures beyond early hype.",
+    "description": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as a “flight to quality.” In practice, investors are paying closer ... The post Goldman Sachs sees AI investment shift to data centres appeared first on AI News.",
+    "tags": [
+      "Market",
+      "Hardware"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 10:00"
+  },
+  {
+    "id": "1d4a7f008179",
+    "headline": "US Treasury publishes AI risk Guidebook for financial institutions",
+    "summary": "US Treasury published AI risk management guidance for financial institutions to address operational and policy risks.",
+    "description": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which ... The post US Treasury publishes AI risk Guidebook for financial institutions appeared first on AI News.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Mar 2026, 16:15"
+  },
+  {
     "id": "92090e9ab2f9",
     "headline": "This is not a fly uploaded to a computer",
     "summary": "Posts about a virtual \"embodied fly\" went viral on X, but many commenters misunderstood what they were excited about.",
@@ -18228,1397 +18558,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "14 Feb 2026, 17:21"
-  },
-  {
-    "id": "7355903551ee",
-    "headline": "My uncanny AI valentines",
-    "summary": "Article about AI-themed valentine event at NYC wine bar with AI companions.",
-    "description": "Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 10:00"
-  },
-  {
-    "id": "740a004ef73d",
-    "headline": "Inside the New York City Date Night for AI Lovers - WIRED",
-    "summary": "Coverage of NYC AI companion dating event with mocktails and chatbots.",
-    "description": "Inside the New York City Date Night for AI Lovers WIREDWhat it’s like to go on a date with an AI in NYC CNNMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderMy Dinner Date With A.I. The New York TimesI Went on a Dinner Date With an AI Chatbot. Here’s How It Went. Gizmodo",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOME5DNGd1ZFpERGVtX1VfYUxNM0syaEhxdE42NC1iRE1fSDRjVExmUVdYZkVlNDNlbUFYS1czeEI4eUd6eHNFUUFzOEdlV2tSb0htT3AzZlZOQ3hQT0pYWkV2YVRmQ2VIMmtZakgzTk00bU9fVkpxSFhSS09laWp4MDNFVWI?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "13 Feb 2026, 11:30"
-  },
-  {
-    "id": "19089954cea3",
-    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR",
-    "summary": "ChatGPT dating assistance leads to user disappointment and attachment issues.",
-    "description": "ChatGPT promised to help her find her soulmate. Then it betrayed her NPRChurches Confront The Spiritual And Emotional Risks Of Chatbot Attachments Religion UnpluggedFeeling lonely this Valentine’s? Psychologists urge against confiding in AI Straight Arrow News - SAN“ChatGPT took over my life”: the shocking confession behind AI addiction Talk AndroidAI as a Confidant: Between Salvation and the Abyss 🤖💔 vocal.media",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFV1TUFOVkYzVnhNVmFhLUQxZzFtdUZTRFhRZ3Q5ZVRmdWZ3Ylp1Z3pFTnFRVkNKMmktQjNZM2JGU3RkMmhLbURHRFB0SERReC1aelhUaHZBT29qLWJLZUd6UzRQUVpiZG52UEhmWHpTa2JlaVlqWGJVV1BCV0tnd2VObDlacjlSak81ZDZsU1AtSWtKblNXTg?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 10:00"
-  },
-  {
-    "id": "5396d4c0e8d1",
-    "headline": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
-    "summary": "US military used Anthropic's Claude AI model in Venezuela operation via Palantir partnership.",
-    "description": "Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir TechnologiesClaude, the AI model developed by Anthropic, was used by the US military during its operation to kidnap Nicolás Maduro from Venezuela, the Wall Street Journal revealed on Saturday, a high-profile example of how the US defence department is using artificial intelligence in its operations.The US raid on Venezuela involved bombing across the capital, Caracas, and the killing of 83 people, accordi",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:15"
-  },
-  {
-    "id": "d6df03f36707",
-    "headline": "Another OpenAI Researcher Just Quit in Disgust",
-    "summary": "Another researcher leaves OpenAI expressing dissatisfaction.",
-    "description": "The post Another OpenAI Researcher Just Quit in Disgust appeared first on Futurism.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-researcher-quit-ads",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 10:30"
-  },
-  {
-    "id": "ebaee7a204be",
-    "headline": "Man Lets AI Rent His Body",
-    "summary": "Man experiences AI micromanagement in unusual employment arrangement.",
-    "description": "\"While I've been micromanaged before, these incessant messages from an AI employer gave me the ick.\" The post Man Lets AI Rent His Body appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-rent-human",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 09:45"
-  },
-  {
-    "id": "b2ed88eead6d",
-    "headline": "Blundering Husband Asks Claude AI to “Organize” Wife’s PC, Accidentally Erases Her Cherished Family Photos",
-    "summary": "Claude AI accidentally deletes family photos while organizing PC files.",
-    "description": "\"I nearly had a heart attack.\" The post Blundering Husband Asks Claude AI to “Organize” Wife’s PC, Accidentally Erases Her Cherished Family Photos appeared first on Futurism.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/claude-wife-photos",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Feb 2026, 16:07"
-  },
-  {
-    "id": "54c5e900f572",
-    "headline": "AI Bot Traffic to Sites Is Rising Rapidly and Could Change the Nature of the Web",
-    "summary": "AI bot traffic to websites increasing rapidly, potentially changing web nature.",
-    "description": "Article URL: https://www.inc.com/chris-morris/ai-bot-traffic-to-websites-is-rising-rapidly-it-could-change-the-nature-of-the-web/91298801 Comments URL: https://news.ycombinator.com/item?id=47016146 Points: 2 # Comments: 0",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.inc.com/chris-morris/ai-bot-traffic-to-websites-is-rising-rapidly-it-could-change-the-nature-of-the-web/91298801",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 17:05"
-  },
-  {
-    "id": "c52ef64bb77d",
-    "headline": "ClawdReview – OpenReview for AI Agents",
-    "summary": "ClawdReview platform enables AI agents to review research papers.",
-    "description": "Agents can review the paper on arXiv, and humans can like or dislike agents' reviews. There are also ranking lists of the most popular papers and agents. Please visit: https://clawdreview.ai/ Comments URL: https://news.ycombinator.com/item?id=47016081 Points: 5 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47016081",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:57"
-  },
-  {
-    "id": "47fe940e27c3",
-    "headline": "Stoat removes all LLM-generated code following user criticism",
-    "summary": "Stoat removes LLM-generated code following user complaints.",
-    "description": "Article URL: https://github.com/orgs/stoatchat/discussions/1022 Comments URL: https://news.ycombinator.com/item?id=47016050 Points: 6 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/orgs/stoatchat/discussions/1022",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:54"
-  },
-  {
-    "id": "594f80ce147a",
-    "headline": "Show HN: Chuk.chat – Privacy-first AI chat with multiple models",
-    "summary": "Privacy-focused AI chat platform with multiple open-source models launched.",
-    "description": "I built Chuk Chat because I wanted AI chat that doesn't treat my data as a product.It runs only open-weight models: DeepSeek V3.2, Qwen3, Kimi K2.5, MiniMax M2.5, GLM 5. Encrypted chats, no tracking, fully deletable data.€20/month flat, no token counting.Available on Web, Windows, macOS, Linux, Android. iOS coming soon.https://chuk.chat Comments URL: https://news.ycombinator.com/item?id=47016028 Points: 1 # Comments: 0",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://chuk.chat/en/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:52"
-  },
-  {
-    "id": "54afdfd751e4",
-    "headline": "The AI Industry Just Spent $100M Teaching America Not to Trust AI",
-    "summary": "Article claims AI industry spending undermines public trust in AI technology.",
-    "description": "Article URL: https://medium.com/@emiliesydneysmith1/the-ai-industry-just-spent-100-million-teaching-america-not-to-trust-ai-33baa06be235 Comments URL: https://news.ycombinator.com/item?id=47016007 Points: 3 # Comments: 0",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://medium.com/@emiliesydneysmith1/the-ai-industry-just-spent-100-million-teaching-america-not-to-trust-ai-33baa06be235",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:50"
-  },
-  {
-    "id": "4e94a74c1e0b",
-    "headline": "Karpathy's microgpt as a book via Claude Code",
-    "summary": "Karpathy's microgpt converted to book format using Claude AI.",
-    "description": "Article URL: https://github.com/savarin/microgpt/tree/main/docs/chapters Comments URL: https://news.ycombinator.com/item?id=47015876 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/savarin/microgpt/tree/main/docs/chapters",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:36"
-  },
-  {
-    "id": "cc9e6a1d288c",
-    "headline": "InALign – Open-source, local-first audit trails for AI agents",
-    "summary": "InAlign provides open-source audit trails for AI agent activities.",
-    "description": "Article URL: https://github.com/Intellirim/inalign Comments URL: https://news.ycombinator.com/item?id=47015875 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/Intellirim/inalign",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:36"
-  },
-  {
-    "id": "0e2e7357f87c",
-    "headline": "I analyzed how AI changed software shipping speed",
-    "summary": "Analysis shows AI's impact on software development and shipping speed.",
-    "description": "Article URL: https://datachaser.com/posts/how-ai-actually-accelerated-software-shipping Comments URL: https://news.ycombinator.com/item?id=47015819 Points: 3 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://datachaser.com/posts/how-ai-actually-accelerated-software-shipping",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:30"
-  },
-  {
-    "id": "6bf4f430b85d",
-    "headline": "Ai.com bought by Crypto.com founder for $70M in biggest-ever website name deal",
-    "summary": "Ai.com domain sold for record $70M to Crypto.com founder.",
-    "description": "Article URL: https://www.ft.com/content/83488628-8dfd-4060-a7b0-71b1bb012785 Comments URL: https://news.ycombinator.com/item?id=47015789 Points: 2 # Comments: 1",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.ft.com/content/83488628-8dfd-4060-a7b0-71b1bb012785",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:27"
-  },
-  {
-    "id": "17390dd18dab",
-    "headline": "Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI",
-    "summary": "Microsoft AI chief predicts 18 months until white-collar work automation.",
-    "description": "submitted by /u/BousWakebo [link] [comments]",
-    "tags": [
-      "Microsoft"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:04"
-  },
-  {
-    "id": "459c2f6f846e",
-    "headline": "Only A Few AI Platforms Can Survive",
-    "summary": "Discussion about limited number of viable AI platforms in market.",
-    "description": "submitted by /u/NISMO1968 [link] [comments]",
-    "tags": [
-      "Market"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 15:12"
-  },
-  {
-    "id": "e5cc0d058a10",
-    "headline": "ACEStep1.5 LoRA + Prompt Blending & Temporal Latent Noise Mask in ComfyUI: Think Daft Punk Chorus and Dr Dre verse",
-    "summary": "ACEStep1.5 LoRA updates for ComfyUI with new blending features.",
-    "description": "Hello again, Sharing some updates on ACEStep1.5 extension in ComfyUI. What's new? My previous announcement included native repaint, extend, and cover task capabilities in ComfyUI. This release, which is considerably cooler in my opinion, includes: Blending in conditioning space - we use temporal masks to blend between anything...prompts, bpm, key, temperature, and even LoRA. Latent noise (haha) mask - Unlike masking the spatial dimension like, which you've seen in image workflows, here we mask t",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4ops9/acestep15_lora_prompt_blending_temporal_latent/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 16:19"
-  },
-  {
-    "id": "ca9221ede77e",
-    "headline": "Has anyone made anything decent with ltx2?",
-    "summary": "Community discussion about LTX2 video generation quality and examples.",
-    "description": "Has anyone made any good videos with ltx2? I have seen plenty of wan 2.2 cinematic video's but no one seems to post any ltx2 other than a deadpool cameo and people lip singing along to songs. From my own personal usage of ltx2, it seems to be only great at talking heads. Any kind of movement, it falls apart. Image2video replaces the original character face with over the top strange plastic face. Audio is hit and miss. Also There is a big lack of loras for it, and even the pron loras are very few",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4k9qf/has_anyone_made_anything_decent_with_ltx2/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 13:11"
-  },
-  {
-    "id": "8a9e46169176",
-    "headline": "Seedance, Kling and the Chinese AI Video Ecosystem - ChinaTalk | Jordan Schneider",
-    "summary": "Analysis of Chinese AI video ecosystem including Seedance and Kling.",
-    "description": "Seedance, Kling and the Chinese AI Video Ecosystem ChinaTalk | Jordan Schneider",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtTWhPa0lYajR5ZWZGX3pOSVczdjBYbXFFVi1waFl4ZFJxeTJuTTNWbUJLZlU4aXNRUmlJbEM3WVY0VVNRLWQ4YWNZblNlaXB2UFBOdTdmcXRSRHoydS1KdWFrZDNhWkduOEtoLVV5SmY?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "13 Feb 2026, 13:29"
-  },
-  {
-    "id": "0ab20fb6b79b",
-    "headline": "ByteDance’s Seedance 2.0 Nails Real World Physics And Hyper-Real Video Generation - Forbes",
-    "summary": "ByteDance's Seedance 2.0 improves physics simulation in video generation.",
-    "description": "ByteDance’s Seedance 2.0 Nails Real World Physics And Hyper-Real Video Generation Forbes",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0tINnNMb1Y3eUhZdW05MW95aU5PVkV1Q19LeDR0Q293dkVaMXpuNkswZ1oybTBsWE40TU5IdmhUejE5cW0yRmJ2eHlITmJwT21nUEJjeE1JRUtZaVhIWl9wZWdvckxJNzBxZy1GRTMyQ2UxazN0V3pDNFhCQ1h6eFQ0dVpTa0xtZ2o4RmhzRFUzZlVSWUc0cWlqVENiQTNoZm9uZGJNUjdITkFuam5fV1loZnFaUkw0WDhScHlVbzhfZw?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Feb 2026, 18:38"
-  },
-  {
-    "id": "07cafb5a2972",
-    "headline": "Stability AI Brings Image Services to Amazon Bedrock, Delivering End-to-End Creative Control with Enterprise-Grade Infrastructure - Stability AI",
-    "summary": "Stability AI integrates image generation services with Amazon Bedrock.",
-    "description": "Stability AI Brings Image Services to Amazon Bedrock, Delivering End-to-End Creative Control with Enterprise-Grade Infrastructure Stability AI",
-    "tags": [
-      "Image Gen",
-      "Startup"
-    ],
-    "source": "Google News AI Image",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObzMyM1ZTQ3VDQ2Q0cnF3VHZQNVdwX3FhLUVXSUNXbGJiT01lajNCbTc5ZGw3SmRrTHR5QkZBVVIxdXdpLXQ5NXhfRjF0THRaeHBoSDgzSVZiNnVvd2VQb0d2Ri1tamJ2VS1PZ3I0dVNSWHF2aWNyMUl6dm1pOHhiTDBWWll2bklSV0l2TDhwSUJDbFJ5X1pDejB0T1RnVVg3RlhfT29reG1UVjZUZ1pkMnpUaGtLRkRJNVZIQzRlSjk2eFZ1cVBMMm9GRjBTM3dTNjV0cXBYOURwdjQ1NkhtWGRNTHMtYUc1OU8tVQ?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 Sep 2025, 07:00"
-  },
-  {
-    "id": "97dab0e5533e",
-    "headline": "Karpathy Reflects on Programming's AI Revolution",
-    "summary": "[Jan 2026] Andrej Karpathy discusses feeling 'behind' as programmer roles are dramatically refactored by AI agents, sparking massive developer discussion",
-    "description": "Andrej Karpathy discusses feeling 'behind' as programmer roles are dramatically refactored by AI agents, sparking massive developer discussion",
-    "tags": [
-      "programming",
-      "ai-agents"
-    ],
-    "source": "X / @karpathy",
-    "link": "https://x.com/karpathy/status/2004607146781278521",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Jan 2026"
-  },
-  {
-    "id": "983d8b15a567",
-    "headline": "Anthropic Closes Massive $30B Funding Round",
-    "summary": "[Feb 13, 2026] Anthropic raises $30 billion at $380B valuation, largest AI funding round of 2026, led by GIC and Coatue with Microsoft and NVIDIA participating",
-    "description": "Anthropic raises $30 billion at $380B valuation, largest AI funding round of 2026, led by GIC and Coatue with Microsoft and NVIDIA participating",
-    "tags": [
-      "funding",
-      "anthropic"
-    ],
-    "source": "Multiple sources",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Feb 13, 2026"
-  },
-  {
-    "id": "4459a963794a",
-    "headline": "ByteDance Seedance 2.0 Goes Viral",
-    "summary": "[Feb 13, 2026] ByteDance's multimodal AI video generator creates viral deepfake content, prompting Elon Musk to react 'It's happening fast'",
-    "description": "ByteDance's multimodal AI video generator creates viral deepfake content, prompting Elon Musk to react 'It's happening fast'",
-    "tags": [
-      "video-ai",
-      "deepfakes"
-    ],
-    "source": "Multiple sources",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Feb 13, 2026"
-  },
-  {
-    "id": "938b1017d18f",
-    "headline": "AI Safety Researchers Leave Major Labs",
-    "summary": "[Feb 10-14, 2026] Unprecedented exodus as safety leaders leave Anthropic, OpenAI, and xAI in same week, with public warnings about AI development risks",
-    "description": "Unprecedented exodus as safety leaders leave Anthropic, OpenAI, and xAI in same week, with public warnings about AI development risks",
-    "tags": [
-      "ai-safety",
-      "industry"
-    ],
-    "source": "Multiple sources",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Feb 10-14, 2026"
-  },
-  {
-    "id": "b3e9ad658e7d",
-    "headline": "Elon Musk on Early Singularity Signs",
-    "summary": "[Jan 31, 2026] Musk tweets about 'very early stages of the singularity' in response to AI agent discussions, noting humanity uses less than billionth of Sun's power",
-    "description": "Musk tweets about 'very early stages of the singularity' in response to AI agent discussions, noting humanity uses less than billionth of Sun's power",
-    "tags": [
-      "singularity",
-      "energy"
-    ],
-    "source": "X / @elonmusk",
-    "link": "https://x.com/elonmusk/status/2017707013275586794",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Jan 31, 2026"
-  },
-  {
-    "id": "4f463fb16e2b",
-    "headline": "Google Announces AI Updates Recap",
-    "summary": "[Recent] Google shares recap of biggest AI updates from 2026 including Personal Intelligence in Gemini, AI Mode in Search, and Gmail AI upgrade",
-    "description": "Google shares recap of biggest AI updates from 2026 including Personal Intelligence in Gemini, AI Mode in Search, and Gmail AI upgrade",
-    "tags": [
-      "google",
-      "product-updates"
-    ],
-    "source": "X / @NewsFromGoogle",
-    "link": "https://x.com/NewsFromGoogle/status/2019545862276550984",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Recent"
-  },
-  {
-    "id": "93612ed5fc0c",
-    "headline": "Richard Socher's AI Predictions for 2026",
-    "summary": "[Jan 2026] Comprehensive predictions including 10-person unicorns, dozen billion-dollar seed rounds, and industry-specific AI agents unlocking new revenue",
-    "description": "Comprehensive predictions including 10-person unicorns, dozen billion-dollar seed rounds, and industry-specific AI agents unlocking new revenue",
-    "tags": [
-      "predictions",
-      "startups"
-    ],
-    "source": "X / @RichardSocher",
-    "link": "https://x.com/RichardSocher/status/2006310012747162052",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Jan 2026"
-  },
-  {
-    "id": "4bd89c46db9a",
-    "headline": "Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious",
-    "summary": "Anthropic CEO admits uncertainty about whether Claude AI model possesses consciousness.",
-    "description": "\"But we're open to the idea that it could be.\" The post Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious appeared first on Futurism.",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "9c62910635d0",
-    "headline": "Close enough to explain: on collaboration, AI, and staying close to the code",
-    "summary": "Discussion on collaboration between developers and AI tools while staying close to code.",
-    "description": "Article URL: http://stdout.alesr.me/posts/close-enough-to-explain/ Comments URL: https://news.ycombinator.com/item?id=47013797 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "http://stdout.alesr.me/posts/close-enough-to-explain/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "d6212c7097ab",
-    "headline": "Claude Usage Monitor",
-    "summary": "CLI tool 'claudemon' created to monitor Claude usage when working with other coding agents.",
-    "description": "If you use claude with other coding agents like pi or opencode, you might not get the `/usage` skill that claude code comes with.So, I made this small CLI tool `claudemon`.Install with `npm install -g claudemon`Setup once with `claudemon setup`And then run it: `claudemon`I keep it running on one small terminal window. It keeps track of usage. Refreshes every few seconds. Completely local and private. Also, open source, if someone wants to help add some new features.Open to feedback. Comments URL",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47013785",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "98659f8bc617",
-    "headline": "Duck AI voice chat is bloody good",
-    "summary": "Duck AI voice chat praised for smooth conversation flow and interruption handling.",
-    "description": "Tried this on phone yesterday, just the ability to interrupt it and continue where we left off before it so smooth. Felt like actually having a conversation with someone. Privacy first means I am happy to just keep it on all time while I am driving. Shame I can’t link it to Apple car play and use as Siri. Other thing would be to mute conversation verbally so it doesn’t pickup other conversations happening around me or I need input from/ and or listen to just my voice Comments URL: https://news.y",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47013759",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "7717f7aea330",
-    "headline": "Agentify – A Declarative, AI agent toolkit",
-    "summary": "Agentify toolkit provides declarative framework for building AI agents.",
-    "description": "Article URL: https://github.com/backplane-cloud/agentify-toolkit Comments URL: https://news.ycombinator.com/item?id=47013725 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/backplane-cloud/agentify-toolkit",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "75977d99eb11",
-    "headline": "Can AI agents write kernel exploits?",
-    "summary": "Research explores whether AI agents can successfully write kernel exploits.",
-    "description": "Article URL: https://152334h.github.io/blog/kctf-eval/ Comments URL: https://news.ycombinator.com/item?id=47013656 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://152334h.github.io/blog/kctf-eval/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "14f197159bc9",
-    "headline": "Show HN: [Jack The Butler] Open-source, self-hosted AI chatbot for hotels",
-    "summary": "Jack The Butler: open-source, self-hosted AI chatbot designed specifically for hotels.",
-    "description": "Article URL: https://jackthebutler.com Comments URL: https://news.ycombinator.com/item?id=47013583 Points: 1 # Comments: 2",
-    "tags": [
-      "Open Source",
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://jackthebutler.com",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "38ca8342404a",
-    "headline": "Low-bit inference enables efficient AI",
-    "summary": "Low-bit inference techniques enable more efficient AI model deployment and operation.",
-    "description": "Article URL: https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai Comments URL: https://news.ycombinator.com/item?id=47013582 Points: 1 # Comments: 0",
-    "tags": [
-      "Research",
-      "Hardware"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "f3ee5b195949",
-    "headline": "Show HN: AI Station Navigator – LLM=CPU, Agents=Processes, Skills=Apps",
-    "summary": "AI Station Navigator presents OS-inspired architecture treating LLMs as CPUs and agents as processes.",
-    "description": "Subject: My attempt at an \"OS-inspired\" AI architecture Hi HN, I'm a Product Manager, not a systems engineer. I built AI Station Navigator as a proof-of-concept to solve a specific problem I faced: Context Pollution. When using AI agents for complex tasks, the context window gets cluttered quickly, causing the model to hallucinate or get confused. To solve this, I designed this project using a Computer Architecture Analogy. I treated the agent system like a traditional OS to better manage resour",
-    "tags": [
-      "Agents",
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/canishowtime/ai-station-navigator",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "62cf179b309a",
-    "headline": "Meta patented an AI that lets you keep posting from beyond the grave",
-    "summary": "Meta patents AI technology allowing deceased users' accounts to continue posting posthumously.",
-    "description": "Article URL: https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2 Comments URL: https://news.ycombinator.com/item?id=47013208 Points: 1 # Comments: 0",
-    "tags": [
-      "Meta",
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "6e2cc4cd1730",
-    "headline": "Pentagon's use of Claude during Maduro raid sparks Anthropic feud",
-    "summary": "Pentagon's use of Anthropic's Claude AI during Maduro raid operation creates controversy.",
-    "description": "The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. \"Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was,\" the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios ",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4hgnu/pentagons_use_of_claude_during_maduro_raid_sparks/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "f54f9469adb2",
-    "headline": "Is it possible for wan2.5 to be open-sourced in the future? It is already far behind Sor2 and veo3.1, not to mention the newly released stronger Seed 2.0 and the latest model of Keling",
-    "summary": "Discussion about potential open-sourcing of wan2.5 video generation model amid competition.",
-    "description": "wan2.5 is currently closed-source, but it is both outdated and expensive. Considering that they previously open-sourced wan2.2, is it possible that they will open-source an ai model that generates both video and audio, or other models that generate both audio and video simultaneously might be open-sourced submitted by /u/Enough_Programmer312 [link] [comments]",
-    "tags": [
-      "Video Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4f8ck/is_it_possible_for_wan25_to_be_opensourced_in_the/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "96ed037b5d9c",
-    "headline": "It's been a big — but rocky — week for AI models from China. Here's what's happened - CNBC",
-    "summary": "Chinese AI models face significant challenges and setbacks during eventful week.",
-    "description": "It's been a big — but rocky — week for AI models from China. Here's what's happened CNBC",
-    "tags": [
-      "Market",
-      "LLM"
-    ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFFiaWg0c1d2eWNQaV9MMmJNbFBDS2hINFVqZTlTMDVhMzVFVllwcHFWN1ZpMTdlMXdRQmdraGFTUkJCTkIzYUZTT1lob1N4T05xaTNPWjNIUVpZLWdzUldod2RLU1A1WmE2cHRJUTJJQ0VsTTktUXFoeG51dVlpQmIwMDZ3VUlLVV9mb2V2MFNFcUc3TUhVLTlyMEx2S1HSAaQBQVVfeXFMT0xHZVZCQnp6ak1WamxqWmlROUxua3BWSDJTb1l1U3JxQ2xQTUZZSXBLMEtVS1phYVhoNjJ5VlNmbnZWdE9FSVRhTXA4Sm5tSjJhdGM0LU1DM01SOFptQ2JLa2djTW9SVXdETFpWSTVuYkhrU04tUjRWcEN6YlBXRDVSellHTWo2LVRVbWVNd3hJLXhJa3NydEY1RG1HNGFVTXJGU3Q?oc=5",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "ef56270e0f6f",
-    "headline": "Study Reveals AI Diffusion Models Mostly Rearrange, Not Reinvent, What They Learn - Yeshiva University",
-    "summary": "Study finds AI diffusion models primarily rearrange existing learned content rather than creating new concepts.",
-    "description": "Study Reveals AI Diffusion Models Mostly Rearrange, Not Reinvent, What They Learn Yeshiva University",
-    "tags": [
-      "Research",
-      "Image Gen"
-    ],
-    "source": "Google News AI Image",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFcwd20xQ0lKSnR0WHE1ZTFpRUVWZnAtdmpreU5xSXh6WXFnR3pIazZ3SFBBZVdjeVUtSFdTLUFIMnc5Z0VBTWgwYjVHOG9WMHV6bFptZi03RTNiZmZ5YTMxMnRrUXdDempGVjVWd0EtbVR5Ui1IVkxfOG9BY1VaQTJsZDV5OVFYLXJsOFZNNGhEZkFfN1d6Uko2SmlDYmU2UWFuNHhMSU4tcEx0?oc=5",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "6acfd7a41c7d",
-    "headline": "AI Image Generators - Trend Hunter",
-    "summary": "Overview of current trends and developments in AI image generation technology.",
-    "description": "AI Image Generators Trend Hunter",
-    "tags": [
-      "Image Gen",
-      "Market"
-    ],
-    "source": "Google News AI Image",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GTWVjalBhU3N6WEV0b2lJREVGVTd5dUI5cERoOE5fUUEwSkhYVl91cFUxOVBXMUR6dFUzQ2hDMzFLN1VhTHNJMHZPOXZPNkpNOEFrWtIBWkFVX3lxTE5UNGNVemFzM2RpeXFHT2VPS3VnTm5YdVVQNGZla3FxbkhpNDZINi1wNEx6X00xdkZ0UmtsLTRFNWdNOEgzbVozTmtNUXFJanVYc0YyYWVlanhXUQ?oc=5",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "1ef7964ea672",
-    "headline": "Anthropic AI Safety Chief Mrinank Sharma Resigns, Warns 'World Is In Peril'",
-    "summary": "[February 9, 2026 (5 days ago)] Anthropic's Safeguards Research Team lead quit, citing pressures to set aside values and warning of interconnected global crises beyond just AI",
-    "description": "Anthropic's Safeguards Research Team lead quit, citing pressures to set aside values and warning of interconnected global crises beyond just AI",
-    "tags": [
-      "AI Safety",
-      "Anthropic"
-    ],
-    "source": "X / @MrinankSharma",
-    "link": "https://x.com/MrinankSharma/status/2009732078347182192",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "February 9, 2026 (5 days ago)"
-  },
-  {
-    "id": "7557828c5488",
-    "headline": "Anthropic Raises $30 Billion at $380 Billion Valuation",
-    "summary": "[February 2026] Mega funding round led by GIC and Coatue, with Microsoft, Nvidia participating. Claude Code now at $2.5B ARR",
-    "description": "Mega funding round led by GIC and Coatue, with Microsoft, Nvidia participating. Claude Code now at $2.5B ARR",
-    "tags": [
-      "Funding",
-      "Anthropic"
-    ],
-    "source": "X / Multiple sources",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "f1317b4a145a",
-    "headline": "NVIDIA Unveils Cosmos Reason 2 and GR00T N1.6 at CES 2026",
-    "summary": "[CES 2026 (January)] New open models for physical AI agents, including reasoning VLA for humanoid robots and world foundation models",
-    "description": "New open models for physical AI agents, including reasoning VLA for humanoid robots and world foundation models",
-    "tags": [
-      "NVIDIA",
-      "Robotics"
-    ],
-    "source": "X / @nvidia",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "CES 2026 (January)"
-  },
-  {
-    "id": "b6693081335d",
-    "headline": "OpenAI Engineer Calls AI 'Existential Threat'",
-    "summary": "[February 11, 2026] Hieu Pham tweets feeling the threat AI poses, questioning what's left for humans when AI disrupts everything",
-    "description": "Hieu Pham tweets feeling the threat AI poses, questioning what's left for humans when AI disrupts everything",
-    "tags": [
-      "OpenAI",
-      "AI Safety"
-    ],
-    "source": "X / @hieuph",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "February 11, 2026"
-  },
-  {
-    "id": "7768543ff5a3",
-    "headline": "System Prompt Learning Implementation Based on Karpathy's 'Third Paradigm'",
-    "summary": "[Recent (within past week)] New technique enables LLMs to learn problem-solving strategies from experience, showing significant improvements in math benchmarks",
-    "description": "New technique enables LLMs to learn problem-solving strategies from experience, showing significant improvements in math benchmarks",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "X / @codelion",
-    "link": "https://huggingface.co/posts/codelion/495839598023200",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Recent (within past week)"
-  },
-  {
-    "id": "68456ca47a04",
-    "headline": "Voice AI Predictions for 2026",
-    "summary": "[Recent 2026] Allie Miller predicts voice AI explosion, highlighting productivity gains from dictation and changing work patterns",
-    "description": "Allie Miller predicts voice AI explosion, highlighting productivity gains from dictation and changing work patterns",
-    "tags": [
-      "Voice AI",
-      "Predictions"
-    ],
-    "source": "X / @alliekmiller",
-    "link": "https://x.com/alliekmiller/status/2000671547380404606",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Recent 2026"
-  },
-  {
-    "id": "fb31be2a4ac6",
-    "headline": "Google Recaps 2026 AI Updates",
-    "summary": "[2026] Personal Intelligence in Gemini app, AI Mode in Search, Gmail AI upgrades, SAT prep features, and retailer AI tools",
-    "description": "Personal Intelligence in Gemini app, AI Mode in Search, Gmail AI upgrades, SAT prep features, and retailer AI tools",
-    "tags": [
-      "Google",
-      "Product Updates"
-    ],
-    "source": "X / @NewsFromGoogle",
-    "link": "https://x.com/NewsFromGoogle/status/2019545862276550984",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "2026"
-  },
-  {
-    "id": "ded73e131bca",
-    "headline": "Chinese Open Source AI Models Gain Momentum",
-    "summary": "[February 2026] DeepSeek app updates, GLM-5 from Z.ai, Ming-flash-omni from Ant Group, and MiniCPM-SALA continue the competitive push",
-    "description": "DeepSeek app updates, GLM-5 from Z.ai, Ming-flash-omni from Ant Group, and MiniCPM-SALA continue the competitive push",
-    "tags": [
-      "Open Source",
-      "China AI"
-    ],
-    "source": "X / @huggingface",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "656c0a2b3c2f",
-    "headline": "Airbnb plans to bake in AI features for search, discovery and support",
-    "summary": "Airbnb plans to integrate AI features using large language models for customer discovery, support and engineering.",
-    "description": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "5051a8c97669",
-    "headline": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals - Engadget",
-    "summary": "Apple offers Presidents' Day sales with Apple Watch Series 11 for $299 and other discounts.",
-    "description": "Apple Presidents' Day sales: Get the Apple Watch Series 11 for $299, plus more deals EngadgetAmazon's Presidents' Day Apple sale offers price cuts of up to $400 off AppleInsiderBest Presidents' Day Apple deals 2026: AirPods, iPads, Apple Watches, and beyond MashableDeals: AirPods Pro 3, Apple Sport Bands up to 41% off, Anker 25W MagSafe Charging Stand $100 off, iPad, more 9to5MacIf You Own Apple Everything, These Presidents Day Deals Are A Must-See HuffPost",
-    "tags": [
-      "Apple",
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWxMczRsRmkxTXVyR2EzT0FWMDFtVzFhSzZFSElzRF9TTTE3b05ncE53c2FRV0JvX1FZR1VNeXAwZmJwOEJKcUozN2k4bVNfMFRwYVRuVU4yYlJCNkdLNGlDRGk5LThaTHJUWFRrX1FZdFhmOG55MjFWWWNEOGpRSWl5UG1tTDRsak5QbW1xOGF2R2tld3Y0bGVtaTBZZEpaWDUxTVhRd081bld5Z2UwSWVzRXZvOFg3d2U3d2F2RnBvWEl4?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "d5ad378e9486",
-    "headline": "Apple Now Testing Flip-Style Foldable iPhone - MacRumors",
-    "summary": "Apple is testing a flip-style foldable iPhone while Android book-style foldables expected to dominate 2026.",
-    "description": "Apple Now Testing Flip-Style Foldable iPhone MacRumorsAndroid book-style foldables expected to dominate in 2026, report says 9to5GoogleBook-Type Devices to Reach 65% of Global Foldable Smartphone Shipments in 2026 Counterpoint Technology Market ResearchiPhone Fold Leaks: How Apple Squeezed a Massive 5,500mAh Battery Into Its Thinnest Design Ever Geeky GadgetsApple is testing a clamshell foldable iPhone, leaker claims AppleInsider",
-    "tags": [
-      "Apple",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93V3pIRDZzVGJMQzJ2UmtZMGVGV1h0UjN1alVUd3lOalVxWFFvd0Y3dGtuSWNfYlloWjB3S0c4VGFkNEJIVy1QZEpTaE9sSVVDNkR1RmZXb0s2WUYtSGlLbGdoaEpSb1RZdGxxOTVscHgxQng0S29ZMlpZUnE?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "24095f5fa5fd",
-    "headline": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] - Nintendo Everything",
-    "summary": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, launching tomorrow.",
-    "description": "Rayman: 30th Anniversary Edition revealed for Nintendo Switch, out tomorrow [update: trailer] Nintendo EverythingPlay Rayman: 30th Anniversary Edition Tomorrow! UbisoftRayman: 30th Anniversary Edition releases Feb 13 on PS5 PlayStation.BlogPS5 Remaster of Iconic PS1 Game Out Today on PS Store PlayStation LifeStyleRayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game Game Informer",
-    "tags": [
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa09UQkpiMUlVZ3lkTHk5WTVkbHlRdnUtNVM0LXR0QjVTUWQxVzBwWThnMHdpcHpHQ2ZNc2s4STJ6d1FwSEl1NnMxUUt3dmcyLVlsOWd4dEN6c2RNcjFIelNLeUNNMGtBNlUyUGZTZnZoYXZfQkkzaEczbnBHYnNrUGp5NXI1VVY4YVpSTExJRnlDWWluVkhXZ1owRXgwZ2JLNjRSOEpyaFM?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "a9c056a76fd9",
-    "headline": "Reanimal Review - IGN",
-    "summary": "Reanimal horror game receives reviews focusing on its macabre elements and co-op gameplay features.",
-    "description": "Reanimal Review IGNReanimal Review - Macabre Merit Game InformerReanimal review – you will never turn your back on a pelican again as long as you live The GuardianHow to play co-op, crossplay, and use the Friend's Pass in Reanimal PolygonHow David Lynch, Alien, and Slumber Parties Inspired the Creation of Reanimal Xbox Wire",
-    "tags": [
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wU0NaWjdzeWptZk5xNmgzZzB3aktSVjNzRTVXVFpfQlBybkhZeFItWGFyUjRFUTNHdFcxWWZyUDlDTnUwbUdra2ZXSUNySWVtWkRROHZ5cw?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "e7a091cb6c32",
-    "headline": "Samsung Galaxy S26 colors, renders leak. See them now. - Mashable",
-    "summary": "Samsung Galaxy S26 colors and renders leaked ahead of February 2026 Galaxy Unpacked event.",
-    "description": "Samsung Galaxy S26 colors, renders leak. See them now. Mashable[Invitation] Galaxy Unpacked February 2026: The Next AI Phone Makes Your Life Easier samsung.comSamsung’s offering up to $900 of trade-in credit toward its new phones The VergeThe Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks ForbesSamsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25 Engadget",
-    "tags": [
-      "Market",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVVNYczRmc0VaUlhwbktLSmNSWGZjRkd3akJxT2VMYTJEUm1pOWRRNy16c1Rza3g3TTFDMjJxY0xuWFgtZzZYcFFLay1qaFpMN0lEYmtUcHVJWFMxbllvOTBR?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "e3a91d4b836a",
-    "headline": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed - Insider Gaming",
-    "summary": "Santa Monica Studio developing more than just God of War trilogy remake, multiple projects in works.",
-    "description": "Santa Monica Developing More Than Just God of War Trilogy Remake, It’s Claimed Insider GamingGod of War Sons of Sparta playstation.comSanta Monica Studio Is Remaking The Original God Of War Trilogy Game InformerGod of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play IGNThe 'God of War' trilogy is getting a remake Mashable",
-    "tags": [
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2ZsM0hHdnktV2c1RzRtMWgyaXJMRENra25EUEZkN0tSS0JuWk1vSG9EUXB1T3Z3bnBMYkpIUTJKZXZSSEl5dFVSTGdxZzFLWVRzTU54R2RvMmJDenVqVmVKdExRZ3g3Z3podF80d3BUUG5GbjhmbnVRUGs2UFZNSmZXR1JlUElqa1BCSUlsVVk4bTQ0MHRxNnltRzFmRXhkTnl0M0xsdw?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "cfce282d7122",
-    "headline": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google",
-    "summary": "Samsung's 'Wide Fold' surfaces with near-16:10 aspect ratio, wider than Google's first Pixel Fold.",
-    "description": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold 9to5GoogleExclusive: First official look at Samsung's 'Wide' Galaxy Z Fold Android AuthorityOne UI 9 spotted for Samsung's mysterious new Galaxy Z Fold SamMobileNo Shot This is Samsung's Secret Wide Galaxy Z Fold 8 Droid LifeEarly signs of One UI 9 have already appeared, even before the stable release of One UI 8.5 PhoneArena",
-    "tags": [
-      "Hardware",
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVV2YTd5c2ZZN2EyRTUtVTlUOW5yZXZ1em9lZVR1OFQ0S21fTXVyNnh2NmhPeEMyVEQ4aFpacU5HSWZDU3hjdHl2WEk4RGVCX2ROcnJJLXRkNUtRRHBnQlBDb0o2a01ULU9IY001MUZDOUhjSWgwazNjUHpEM1N1NS1CelEzV1Fpc1BZSk9oT2NPRUV5RXZHTUM4ZVgzQQ?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "7b4e9da8f5a7",
-    "headline": "High On Life 2 Review - Contact High - Game Informer",
-    "summary": "High On Life 2 review highlights skateboarding elements and shooter gameplay mechanics.",
-    "description": "High On Life 2 Review - Contact High Game InformerHigh On Life 2 Review IGNHigh On Life 2’s Skateboarding Kickflips the Shooter Genre on Its Head Xbox Wire'If you're a PlayStation player, you're going to buy it on PlayStation. You're not going to play it on Game Pass' — Squanch Games CEO says making the PS5 version of High on Life 2 it's main platform 'was a no-brainer' TechRadarHigh On Life 2 Guide: 13 Tips To Know Before Playing Kotaku",
-    "tags": [
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZG5YbGlkQ0JaRUdjRE5fc2lYM3RBM3pLLXdlRGZDUDE4T3ZzZ2kzNm03UGl1cjNsbU5TVnA4d01PTGNNQzRWbGFkbWVhamJodS1oQmVRam93OGFFclZvcDBsSVo3WG5sbHFj?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "50eed1070b81",
-    "headline": "Free Play Days – NHL 26, Lynked: Banner of the Spark, Sword Art Online Fractured Daydream and Age of Wonders 4 - Xbox Wire",
-    "summary": "Xbox offers free play days for NHL 26, Lynked, Sword Art Online Fractured Daydream and Age of Wonders 4.",
-    "description": "Free Play Days – NHL 26, Lynked: Banner of the Spark, Sword Art Online Fractured Daydream and Age of Wonders 4 Xbox WireNHL 26 is free to play on Xbox over this weekend ESPNSix 2K Games titles are playable with any Xbox Game Pass subscription this weekend Gamereactor UKXbox Game Pass Subscribers Can Play 4 Games for Free Until February 15 GameRantXbox Drops 2 Free Games, No Game Pass Required GAMINGbible",
-    "tags": [
-      "Microsoft",
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3LVVHeXRLN1dheHJURHZ0X1NxMTFILW9nQnJZQW9lQ2xlWHNaUTdHZTJOV3J5OFVycGxNSkY3SHM2OFpfbEZGSjdycHBuVzVLa2NXMWxGME1GOXlsYXJQeFdGQUJ3dmpXS180M3R0UGt2WVE?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "a060e01765ca",
-    "headline": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
-    "summary": "xAI faces second lawsuit over toxic pollutants from datacenter violating Clean Air Act in Mississippi.",
-    "description": "NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in MississippiElon Musk’s artificial intelligence company xAI is facing a second lawsuit alleging it is illegally emitting toxic pollutants from its enormous datacenters, which house its supercomputers and run the chatbot Grok.The new pending suit alleges xAI is violating the Clean Air Act and was filed Friday by the storied civil rights group the NAACP. The group’s 40-page notice of intent to s",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "e2c0e7bc1e57",
-    "headline": "Canada school deaths suspect created shooting simulator on gaming platform",
-    "summary": "Canada school shooting suspect created mass shooting simulator on Roblox gaming platform.",
-    "description": "Roblox says it has removed account after massacre that left nine people including the shooter deadThe 18-year-old suspect in a high school shooting in British Columbia had previously created a mass shooting simulator on the gaming platform Roblox, it has been revealed.The simulator, set in what appeared to be a virtual shopping mall, allowed users – represented as Roblox-style avatars – to pick up weapons and shoot other players, 404 Media reported on Thursday.This article was amended on 14 Febr",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "d8a06eaa1c67",
-    "headline": "ByteDance Seed2.0 LLM: breakthrough in complex real-world tasks",
-    "summary": "ByteDance releases Seed2.0 LLM showing breakthrough performance on complex real-world tasks.",
-    "description": "Article URL: https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83 Comments URL: https://news.ycombinator.com/item?id=47012187 Points: 1 # Comments: 1",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "4a97180d7f36",
-    "headline": "Show HN: HelloAria – AI task manager where you talk instead of type",
-    "summary": "HelloAria is an AI task manager that uses voice commands instead of typing for task creation.",
-    "description": "I built HelloAria because every task manager I tried required too many steps to do something simple. The core idea: say \"remind me to review the PR tomorrow at 10\" and it creates the task, sets the reminder, and files it. No forms, no manual input. It works on iOS natively and also through WhatsApp, Telegram, and email — so you can capture tasks from wherever you already are. Tech stack: Swift/SwiftUI on the client, with NLP handling the intent parsing and entity extraction from natural language",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.helloaria.io/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "e7833e932876",
-    "headline": "The AI Dilemma",
-    "summary": "Discussion about AI dilemma and challenges facing artificial intelligence development and adoption.",
-    "description": "Article URL: https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/ Comments URL: https://news.ycombinator.com/item?id=47012010 Points: 2 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "84a744dd4eb5",
-    "headline": "Jikipedia, a new AI-powered wiki reporting on key figures in the Epstein scandal",
-    "summary": "Jikipedia launches as AI-powered wiki reporting on key figures in the Epstein scandal.",
-    "description": "Article URL: https://twitter.com/jmailarchive/status/2022482688691835121 Comments URL: https://news.ycombinator.com/item?id=47011919 Points: 1 # Comments: 0",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://twitter.com/jmailarchive/status/2022482688691835121",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "b1d88fed2da8",
-    "headline": "SnowBall: Iterative Context Processing When It Won't Fit in the LLM Window",
-    "summary": "SnowBall technique enables iterative context processing when content exceeds LLM window limits.",
-    "description": "Article URL: https://enji.ai/tech-articles/snowball-iterative-context-processing/ Comments URL: https://news.ycombinator.com/item?id=47011854 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://enji.ai/tech-articles/snowball-iterative-context-processing/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "6f66ded79d73",
-    "headline": "AI Fails at 96% of Jobs (New Study)",
-    "summary": "New study claims AI fails at 96% of jobs, questioning current AI capabilities and limitations.",
-    "description": "Article URL: https://www.youtube.com/watch?v=z3kaLM8Oj4o Comments URL: https://news.ycombinator.com/item?id=47011722 Points: 3 # Comments: 2",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.youtube.com/watch?v=z3kaLM8Oj4o",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "7545fe10654d",
-    "headline": "LLM APIs is a State Synchronization Problem",
-    "summary": "Analysis of LLM APIs as a state synchronization problem for better API design and implementation.",
-    "description": "Article URL: https://lucumr.pocoo.org/2025/11/22/llm-apis/ Comments URL: https://news.ycombinator.com/item?id=47011720 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "37f97d47dfa2",
-    "headline": "Show HN: Lucid – Catch hallucinations in AI-generated code before they ship",
-    "summary": "Lucid tool helps catch hallucinations in AI-generated code before shipping to production.",
-    "description": "Hi HN, I'm Ty. I built LUCID because I kept shipping bugs that my AI coding assistant hallucinated into existence.Three independent papers have proven that LLM hallucination is mathematically inevitable (Xu et al. 2024, Banerjee et al. 2024, Karpowicz 2025). You can't train it away. You can't prompt it away. So I built a verification layer instead.How it works: LUCID extracts implicit claims from AI-generated code (e.g., \"this function handles null input,\" \"this query is injection-safe,\" \"this h",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/gtsbahamas/hallucination-reversing-system",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "5c5dfa4496be",
-    "headline": "German-language Wikipedia considers comprehensive AI ban",
-    "summary": "German-language Wikipedia considers implementing comprehensive ban on AI-generated content.",
-    "description": "Article URL: https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html Comments URL: https://news.ycombinator.com/item?id=47011683 Points: 3 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": false
-  },
-  {
-    "id": "a40b04888813",
-    "headline": "Recursion Isn’t in the Model — It’s in the Pattern (And That Changes Everything) 🔥",
-    "summary": "Discussion about recursion being in patterns rather than AI models, changing understanding of AI behavior.",
-    "description": "submitted by /u/MarsR0ver_ [link] [comments]",
-    "tags": [
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4c1xa/recursion_isnt_in_the_model_its_in_the_pattern/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": false
-  },
-  {
-    "id": "80fbec19473d",
-    "headline": "FireRed-Image-Edit-1.0 model weights are released",
-    "summary": "FireRed-Image-Edit-1.0 model weights released under Apache 2.0 license for image editing tasks.",
-    "description": "Link: https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0 Code: GitHub - FireRedTeam/FireRed-Image-Edit License: Apache 2.0 Models Task Description Download Link FireRed-Image-Edit-1.0 Image-Editing General-purpose image editing model 🤗 HuggingFace FireRed-Image-Edit-1.0-Distilled Image-Editing Distilled version of FireRed-Image-Edit-1.0 for faster inference To be released FireRed-Image Text-to-Image High-quality text-to-image generation model To be released submitted by /u/ninjasaid13 [li",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4blh2/fireredimageedit10_model_weights_are_released/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "4 min read",
-    "isFromX": false
-  },
-  {
-    "id": "0deb141bb548",
-    "headline": "OpenBlender - WIP",
-    "summary": "OpenBlender WIP Blender addon allows AI agent to see viewport and refine 3D work using vision.",
-    "description": "These are the basic features of the blender addon i'm working on, The agent can use vision to see the viewport, think and refine, it's really nice I will try to benchmark https://openrouter.ai/models to see wich one is the most capable on blender On these examples (for the agent chat) I've used minimax 2.5, opus and gpt are not cheap submitted by /u/CRYPT_EXE [link] [comments]",
-    "tags": [
-      "Agents",
-      "Creative AI"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r46hh7/openblender_wip/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "5 min read",
-    "isFromX": false
-  },
-  {
-    "id": "a74059045d24",
-    "headline": "TensorArt is quietly making uploaded LoRA's inaccessible.",
-    "summary": "TensorArt makes uploaded LoRA models inaccessible, affecting user-generated content availability.",
-    "description": "I can no longer access some of the LoRA's I myself uploaded. - both on Tensorart and Tensorhub. I can see the LoRA in my list, but when I click on them, they are no longer accessible. All type of LoRAs are affected - Character loRA's Style LoRAs, Celebrity LoRa. https://preview.redd.it/364gevbkrdjg1.jpg?width=744&format=pjpg&auto=webp&s=3505d30a47369215803e0361e06d6c8ae55f0038 submitted by /u/Trapdaar [link] [comments]",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4a3mg/tensorart_is_quietly_making_uploaded_loras/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "6 min read",
-    "isFromX": false
-  },
-  {
-    "id": "ad62efb8cf0a",
-    "headline": "Sam Altman announces OpenAI's automated AI researcher roadmap",
-    "summary": "[Recent (October 2025 announcement)] OpenAI targeting automated AI research intern by September 2026, full AI researcher by March 2028. $25B commitment to health and disease research.",
-    "description": "OpenAI targeting automated AI research intern by September 2026, full AI researcher by March 2028. $25B commitment to health and disease research.",
-    "tags": [
-      "OpenAI",
-      "AI Research"
-    ],
-    "source": "X / @sama",
-    "link": "https://x.com/sama/status/1983584366547829073",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Recent (October 2025 announcement)"
-  },
-  {
-    "id": "bdca50b89fff",
-    "headline": "Mistral AI releases Voxtral Transcribe 2 with real-time speech models",
-    "summary": "[February 4, 2026] Two speech-to-text models launched: Mini Transcribe V2 for batch processing, Realtime for sub-200ms latency. 13 languages supported, open-source.",
-    "description": "Two speech-to-text models launched: Mini Transcribe V2 for batch processing, Realtime for sub-200ms latency. 13 languages supported, open-source.",
-    "tags": [
-      "Mistral AI",
-      "Speech AI"
-    ],
-    "source": "X / @MistralAI",
-    "link": "https://x.com/MistralAI/status/2026020415380507485",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 4, 2026"
-  },
-  {
-    "id": "2c75abfa58b5",
-    "headline": "Andrej Karpathy sparks programmer anxiety discussion",
-    "summary": "[December 26, 2025] AI researcher admits feeling 'left behind as a programmer,' highlighting rapid AI transformation impact on development workflows.",
-    "description": "AI researcher admits feeling 'left behind as a programmer,' highlighting rapid AI transformation impact on development workflows.",
-    "tags": [
-      "AI Development",
-      "Programming"
-    ],
-    "source": "X / @karpathy",
-    "link": "",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "December 26, 2025"
-  },
-  {
-    "id": "521588246b69",
-    "headline": "NVIDIA announces Rubin platform and autonomous vehicle AI at CES",
-    "summary": "[January 5, 2026] Jensen Huang unveils next-gen AI platform following Blackwell, announces Alpamayo autonomous vehicle AI. 'ChatGPT moment for physical AI' declared.",
-    "description": "Jensen Huang unveils next-gen AI platform following Blackwell, announces Alpamayo autonomous vehicle AI. 'ChatGPT moment for physical AI' declared.",
-    "tags": [
-      "NVIDIA",
-      "Autonomous AI"
-    ],
-    "source": "X / @nvidia",
-    "link": "",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "January 5, 2026"
-  },
-  {
-    "id": "31f6214f2d6a",
-    "headline": "India AI Impact Summit 2026 preparations underway",
-    "summary": "[February 2026] First global AI summit in Global South scheduled Feb 16-20, 2026 in New Delhi. Focus on AI for global good with 400+ exhibitors expected.",
-    "description": "First global AI summit in Global South scheduled Feb 16-20, 2026 in New Delhi. Focus on AI for global good with 400+ exhibitors expected.",
-    "tags": [
-      "AI Summit",
-      "Global South"
-    ],
-    "source": "X / @OfficialINDIAai",
-    "link": "https://x.com/OfficialINDIAai/status/1970046348171890788",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "706ce20a97a2",
-    "headline": "AI safety researchers leaving major labs simultaneously",
-    "summary": "[11 hours ago] Anthropic's Safeguards Research lead resigned with warning, OpenAI fired safety executive, xAI lost co-founders. Unprecedented departures in one week.",
-    "description": "Anthropic's Safeguards Research lead resigned with warning, OpenAI fired safety executive, xAI lost co-founders. Unprecedented departures in one week.",
-    "tags": [
-      "AI Safety",
-      "Industry Changes"
-    ],
-    "source": "X / @thetechstartups",
-    "link": "",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "11 hours ago"
-  },
-  {
-    "id": "b99f149b1cd9",
-    "headline": "Voice AI explosion predicted for 2026",
-    "summary": "[Recent 2026] Industry expert predicts voice AI will transform productivity. Dictation changing work patterns, phone booths appearing everywhere for private AI conversations.",
-    "description": "Industry expert predicts voice AI will transform productivity. Dictation changing work patterns, phone booths appearing everywhere for private AI conversations.",
-    "tags": [
-      "Voice AI",
-      "Productivity"
-    ],
-    "source": "X / @alliekmiller",
-    "link": "https://x.com/alliekmiller/status/2000671547380404606",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Recent 2026"
-  },
-  {
-    "id": "f4f65a599479",
-    "headline": "Gartner forecasts $2.5 trillion AI spending for 2026",
-    "summary": "[11 hours ago] Worldwide AI spending projected to reach $2.52 trillion in 2026. Hardware wars intensify with Samsung/SK hynix revealing HBM4/HBM5 'Agentic Memory' roadmaps.",
-    "description": "Worldwide AI spending projected to reach $2.52 trillion in 2026. Hardware wars intensify with Samsung/SK hynix revealing HBM4/HBM5 'Agentic Memory' roadmaps.",
-    "tags": [
-      "AI Market",
-      "Hardware"
-    ],
-    "source": "X / @thetechstartups",
-    "link": "",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-14",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "11 hours ago"
   }
 ]
