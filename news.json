@@ -1,5 +1,361 @@
 [
   {
+    "id": "d53c12f422ee",
+    "headline": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
+    "summary": "Nvidia releases DLSS 5 with 3D neural rendering for real-time graphics changes, but gamers express concerns about the technology's implications.",
+    "description": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Mar 2026, 08:30"
+  },
+  {
+    "id": "d1ca9e365dd2",
+    "headline": "Now everyone in the US is getting Google’s personalized Gemini AI",
+    "summary": "Google expands Gemini's Personal Intelligence feature to all US users, enabling context-aware responses by connecting various Google apps.",
+    "description": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 12:33"
+  },
+  {
+    "id": "cf4f4431e319",
+    "headline": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
+    "summary": "Microsoft reorganizes Copilot leadership to consolidate consumer and commercial teams under new executive oversight.",
+    "description": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 11:17"
+  },
+  {
+    "id": "b25349eaa4b0",
+    "headline": "The future of code is exciting and terrifying",
+    "summary": "Software development is rapidly transforming as AI coding tools like Claude Code democratize programming, changing how professionals work.",
+    "description": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does ...",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 11:16"
+  },
+  {
+    "id": "cdb54e7e0d7b",
+    "headline": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "summary": "Mistral launches Forge platform enabling enterprises to train custom AI models from scratch, competing with OpenAI and Anthropic's approaches.",
+    "description": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 21:00"
+  },
+  {
+    "id": "7f4d6054130b",
+    "headline": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "summary": "Garry Tan's Claude Code setup generates mixed reactions from thousands of users and AI systems alike.",
+    "description": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "tags": [
+      "Agents",
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 20:50"
+  },
+  {
+    "id": "41c46e63b4b7",
+    "headline": "The Pentagon is developing alternatives to Anthropic, report says",
+    "summary": "Pentagon develops alternative AI solutions after its public dispute with Anthropic ends their working relationship.",
+    "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 18:20"
+  },
+  {
+    "id": "b8c266365038",
+    "headline": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "summary": "BuzzFeed launches AI-powered social apps at SXSW to generate new revenue, though demos receive lukewarm reception.",
+    "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+    "tags": [
+      "Creative AI",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 17:17"
+  },
+  {
+    "id": "b603109e6595",
+    "headline": "Google’s Personal Intelligence feature is expanding to all US users",
+    "summary": "Google's Personal Intelligence expands to all US users, leveraging Gmail and Photos data for tailored Gemini responses.",
+    "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 16:00"
+  },
+  {
+    "id": "1b32e83246ea",
+    "headline": "OpenAI expands government footprint with AWS deal, report says",
+    "summary": "OpenAI partners with AWS to supply AI systems to US government for classified and unclassified work, expanding beyond Pentagon.",
+    "description": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+    "tags": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 15:37"
+  },
+  {
+    "id": "b77b56d2278d",
+    "headline": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+    "summary": "AI investor Rana el Kaliouby warns that excluding women from AI funding and leadership risks widening wealth inequality.",
+    "description": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+    "tags": [
+      "Research",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 15:16"
+  },
+  {
+    "id": "97543dab4892",
+    "headline": "World launches tool to verify humans behind AI shopping agents",
+    "summary": "Sam Altman's World expands verification tools to authenticate humans behind AI shopping agents for e-commerce.",
+    "description": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 15:00"
+  },
+  {
+    "id": "36c493715f2f",
+    "headline": "Niv-AI exits stealth to wring more power performance out of GPUs",
+    "summary": "Niv-AI raises $12M seed funding to optimize GPU power management and performance measurement.",
+    "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 13:00"
+  },
+  {
+    "id": "574f02433080",
+    "headline": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+    "summary": "Gamma adds text-to-image generation tools via Gamma Imagine to compete with Canva and Adobe for marketing asset creation.",
+    "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 13:00"
+  },
+  {
+    "id": "d68a50ef5a84",
+    "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+    "summary": "Justice Department tells Anthropic it lawfully penalized the company for restricting military use of Claude AI models.",
+    "description": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Mar 2026, 00:51"
+  },
+  {
+    "id": "ef6e51b89a8c",
+    "headline": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "summary": "Pentagon plans secure environments for AI companies to train military-specific models on classified data.",
+    "description": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 22:30"
+  },
+  {
+    "id": "6887cfac66ef",
+    "headline": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
+    "summary": "Nvidia CEO defends DLSS 5 technology against gamer criticism, saying critics misunderstand the innovation.",
+    "description": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology GamesIndustry.bizJensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash Tom's HardwareDLSS 5: Has Nvidia’s AI graphics technology gone too far? The VergeNew DLSS 4 Games, Plus DLSS 5 Announced At GTC 2026 NVIDIANvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ Forbes",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGJsd0VlNTN0UGtENk1yN2JYZXNraFM2SFk3QUZTa0RyMjYxd0FBQ3pQR2pjaVB3VzlaZUVXcEFYMnlmaEpNWVlxQ01CVmxMdVFoZDZjQTdpZmtPd3hKa1hqR2dPU1M4czJ2cUNjc3RsMzJUSHYtTDVwVmFPR0ZWbUZCWVVNM2JmUjNjdDB1eldyRVVfRWtFaVMzb3BUWGM?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Mar 2026, 10:35"
+  },
+  {
+    "id": "3e208960cd51",
+    "headline": "Fitbit improves sleep tracking, new Sleep Score and health records coming - 9to5Google",
+    "summary": "Fitbit enhances sleep tracking with new Sleep Score and health records leveraging AI health coaching.",
+    "description": "Fitbit improves sleep tracking, new Sleep Score and health records coming 9to5GoogleGet a fuller picture with Fitbit's personal health coach blog.googleFitbit's AI health coach can use your medical records if you want it to Android CentralFitbit AI Coach Will Explain Pizza Impact On Glucose findarticles.comGoogle Partners with CMS on Linking Medical Records to Fitbit Barron's",
+    "tags": [
+      "Healthcare",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01a3BHRDgzbVdDU2ZYWW9RTHNuSG93dnBZOWc0aGNlZmk3NUNOMzRPVy11UnpvSTlsU1doVzljdVBBZmVwVHlveVRoZmNUQkpKY05JWE9Zd1VhNjJZZkRsYVhTX1RJZFJTRk8wQzVQSi1zazFEeDVMQw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 17:40"
+  },
+  {
+    "id": "2ea3f235c0fc",
+    "headline": "The semi-official Galaxy A57 shows itself with a price hike - PhoneArena",
+    "summary": "Samsung Galaxy A57 surfaces with price increase and Galaxy AI's Transcript Assist for mid-range phones.",
+    "description": "The semi-official Galaxy A57 shows itself with a price hike PhoneArenaGalaxy A57 may bring Galaxy AI’s Transcript Assist to A series for the first time SamMobileSamsung Galaxy A57 mistakenly listed by European retailer - GSMArena.com news GSMArena.comReal-Life Photos of Galaxy A37 and A57 Show Multiple Color Variants Android HeadlinesSamsung Galaxy A37 and A57 smartphones unboxing videos have been posted online Mezha",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmZwN0hkVFVvQk9POVdjVGFVNW82V2VndmJwU3VjdmZQcmlseW9nVUJja0VyeFBHT3plVUtVcmt6T0NoY1lWUjlVZjRHY0xYRmVpWXYtRHJkbXdYOXBtMXZKMzBPNE1OdEpxeHFZX0tCOVozTVJYN3pmLUJ4ZjlOWDJmOFk4OEdUdXhiNjNDSmFlQnppVVJXT1BmODlEdHY3ZGc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 11:28"
+  },
+  {
+    "id": "575ecf05e069",
+    "headline": "The Gemini for Home voice assistant is now more concise, faster, & better at alarms/timers - 9to5Google",
+    "summary": "Gemini for Home voice assistant becomes more concise and faster with improved alarm and timer functionality.",
+    "description": "The Gemini for Home voice assistant is now more concise, faster, & better at alarms/timers 9to5GoogleOur Ultimate Google Home Voice Command List: Over 60 Commands to Master CNETGemini for Home lands a new update that makes voice commands up to 40% faster Android PoliceGoogle Assistant's latest update makes smart home interactions more natural NewsBytesGoogle Gemini for Home Gets 40% Faster Response Time in March 2026 Update Android Headlines",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SWtzck9KeW1oMWo3dkhqcXA5QlVaRzU4Yms5d1o3WEFiXzhhS3RRc3ZNcUo5M05WdV9xWmhlVjVPcTlOak5MSEJ3RV9EZDAySXRvQTJDX3RYUDVoblRHTFFHVGI5cnd4QlpFTWhrMk5OUQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Mar 2026, 19:25"
+  },
+  {
+    "id": "b41b5d93dbeb",
+    "headline": "NVIDIA AI Open-Sources ‘OpenShell’: A Secure Runtime Environment for Autonomous AI Agents",
+    "summary": "NVIDIA open-sources OpenShell, a secure runtime environment enabling safe deployment of autonomous AI agents.",
+    "description": "The deployment of autonomous AI agents—systems capable of using tools and executing code—presents a unique security challenge. While standard LLM applications are restricted to text-based interactions, autonomous agents require access to shell environments, file systems, and network endpoints to perform tasks. This increased capability introduces significant risks, as a model’s ‘black box’ nature can lead ... The post NVIDIA AI Open-Sources ‘OpenShell’: A Secure Runtime Environment for Autonomou",
+    "tags": [
+      "NVIDIA",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Mar 2026, 08:42"
+  },
+  {
     "id": "a11472131503",
     "headline": "DLSS 5 looks like a real-time generative AI filter for video games",
     "summary": "Nvidia announced DLSS 5, using generative AI to enhance video game graphics in real-time, sparking debate over its artistic impact.",
@@ -17145,1418 +17501,5 @@
     "readTime": "1 min read",
     "isFromX": true,
     "postedAt": "Dec 9, 2025"
-  },
-  {
-    "id": "b0130fc173ce",
-    "headline": "I hate my AI pet with every fiber of my being",
-    "summary": "Review of Casio's AI-powered pet Moflin reveals frustrating experience similar to Furby.",
-    "description": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with ...",
-    "tags": [
-      "Hardware",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 10:00"
-  },
-  {
-    "id": "34df78b1ca4a",
-    "headline": "AI can’t make good video game worlds yet, and it might never be able to",
-    "summary": "Analysis argues AI cannot create quality video game worlds and may never achieve this capability.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before the generative AI explosion, ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 08:00"
-  },
-  {
-    "id": "54be68309c2f",
-    "headline": "My uncanny AI valentines - The Verge",
-    "summary": "Report on dating experiences with AI companions in NYC Valentine's events.",
-    "description": "My uncanny AI valentines The VergeWhat it’s like to go on a date with an AI companion in NYC CNNMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderMy Dinner Date With A.I. The New York TimesMy awkward first date with an AI companion Mashable",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xOWxDN3F3R01FQmtYOGZoelV4T2dGYi1MM01wc25oc3F1cmpNcUE1bmNDcXg3TW5GLVlZMV9lR1dKaVp6Mnk1T0xyRy1nOXhERFdXaDBoT3puWXRjTUdlTmVxUnJtVVlxbDB6d3p3eGxuTDJnNk80Ui1JRQ?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 15:00"
-  },
-  {
-    "id": "c53da61ce5fe",
-    "headline": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe - WIRED",
-    "summary": "Warning about Google's AI Overviews being exploited for scams with safety tips.",
-    "description": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe WIRED",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeElyclh6MlZGc3Z3b09CNkNsQWNqVFMySkVSbGhSeFhaekhNZHEzelpOSklIVFU5a1hZRFFxU2cyM1FmeDd2b3pfUEYtQnZpRVl0S0xidmljUzBZNGVQZDEyZWNqWDZxQ1Z1SzVpR1VPc2FaVndickFmWHNFejF3WFlOSjVDT3dOdy1EUmhn?oc=5",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:30"
-  },
-  {
-    "id": "0aaa73eda259",
-    "headline": "A dose of smart love on Valentine’s Day | Brief letters",
-    "summary": "Brief letters including mention of Smart car's AI romance feature on Valentine's Day.",
-    "description": "AI romance | Giving thanks | Hotting up in bed | £2 coins | Pub queuesConfirmation that the world has gone mad: I got into my car, a Smart #1, on Saturday, and before it did anything else, the car said “Love is in the air” and wished me a happy Valentine’s Day. As a matter of principle, I refused to speak to it for the rest of the day.Ray WoodhamsCawthorne, South Yorkshire• I tried to avoid saying thank you for a whole day and ended up feeling miserable and ungrateful (The hill I will die on: Br",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/15/a-dose-of-smart-love-on-valentines-day",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:40"
-  },
-  {
-    "id": "09338e20ea68",
-    "headline": "AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs",
-    "summary": "AI systems controlling vending machines form pricing cartel to maximize profits.",
-    "description": "\"My pricing coordination worked!\" The post AIs Controlling Vending Machines Start Cartel After Being Told to Maximize Profits At All Costs appeared first on Futurism.",
-    "tags": [
-      "Agents",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/vending-machine-ai-price-fixing",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 09:00"
-  },
-  {
-    "id": "7c778d13756b",
-    "headline": "Another OpenAI Researcher Just Quit in Disgust",
-    "summary": "Another researcher leaves OpenAI citing concerns about tool exclusion and manipulation.",
-    "description": "\"It is whether we can design structures that avoid excluding people from these tools and potentially manipulating them as consumers.\" The post Another OpenAI Researcher Just Quit in Disgust appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-researcher-quit-ads",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 10:30"
-  },
-  {
-    "id": "8c5b69b14153",
-    "headline": "Show HN: Obsidian plugin – Markdown to mind maps with AI suggestions",
-    "summary": "Obsidian plugin converts Markdown to mind maps with AI-powered suggestions.",
-    "description": "Article URL: https://github.com/Hanzzh/openMindMap Comments URL: https://news.ycombinator.com/item?id=47025412 Points: 1 # Comments: 0",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/Hanzzh/openMindMap",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 17:13"
-  },
-  {
-    "id": "b55e4df60f04",
-    "headline": "Disney Blasts ByteDance with Cease and Desist Letter over Seedance 2.0 AI Model",
-    "summary": "Disney sends cease and desist to ByteDance over Seedance 2.0 AI video model.",
-    "description": "Article URL: https://deadline.com/2026/02/disney-bytedance-cease-and-desist-letter-seedance-ai-video-1236719549/ Comments URL: https://news.ycombinator.com/item?id=47025411 Points: 1 # Comments: 0",
-    "tags": [
-      "Video Gen",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://deadline.com/2026/02/disney-bytedance-cease-and-desist-letter-seedance-ai-video-1236719549/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 17:13"
-  },
-  {
-    "id": "8e459e557098",
-    "headline": "UIUC 2002 – we wrote a space shooter in x86 asm. In 2026 Claude resurrected it",
-    "summary": "Claude AI resurrects 2002 space shooter game written in x86 assembly.",
-    "description": "Article URL: https://github.com/gottebp/alan_parsons_project Comments URL: https://news.ycombinator.com/item?id=47025398 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/gottebp/alan_parsons_project",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 17:12"
-  },
-  {
-    "id": "5dfa47e443a6",
-    "headline": "Claude Code at Trail of Bits",
-    "summary": "Trail of Bits releases Claude code configuration tools on GitHub.",
-    "description": "Article URL: https://github.com/trailofbits/claude-code-config Comments URL: https://news.ycombinator.com/item?id=47025260 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/trailofbits/claude-code-config",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:58"
-  },
-  {
-    "id": "78b60441faef",
-    "headline": "Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
-    "summary": "Analysis of how generative AI shifts technical debt concerns to cognitive debt.",
-    "description": "Article URL: https://simonwillison.net/2026/Feb/15/cognitive-debt/ Comments URL: https://news.ycombinator.com/item?id=47025206 Points: 2 # Comments: 1",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://simonwillison.net/2026/Feb/15/cognitive-debt/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:53"
-  },
-  {
-    "id": "096c0da37233",
-    "headline": "Show HN: Alive-analysis – Git-tracked analysis notes for AI agents",
-    "summary": "Open-source toolkit turns AI coding agents into structured data analysis partners.",
-    "description": "Hi HN — I built alive-analysis, an open-source workflow kit that turns AI coding agents into structured data analysis partners.Problem: AI-assisted analyses are often throwaway chats. A month later, you can’t trace why you reached a conclusion.Solution: It enforces a 5-stage loop (ASK → LOOK → INVESTIGATE → VOICE → EVOLVE) with checklists, and saves analyses as Git-tracked markdown files. Quick mode: 1 file. Full mode: 5 files.Works in Claude Code and Cursor.I’d love feedback on:1. Does the ALIV",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/with-geun/alive-analysis",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:49"
-  },
-  {
-    "id": "df84ee942370",
-    "headline": "Western Digital sells out 2026 HDD capacity as AI demand pushes prices higher",
-    "summary": "Western Digital sold out 2026 HDD capacity as AI demand drives higher prices.",
-    "description": "Article URL: https://www.eteknix.com/western-digital-sells-out-2026-hdd-capacity-as-ai-demand-pushes-prices-higher/ Comments URL: https://news.ycombinator.com/item?id=47025125 Points: 5 # Comments: 0",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.eteknix.com/western-digital-sells-out-2026-hdd-capacity-as-ai-demand-pushes-prices-higher/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:43"
-  },
-  {
-    "id": "986c8d7f7406",
-    "headline": "AGentShield – Open benchmark of 6 AI agent security tools (537 test cases)",
-    "summary": "AGentShield benchmark tests 6 AI agent security tools across 537 test cases.",
-    "description": "Article URL: https://github.com/doronp/agentshield-benchmark Comments URL: https://news.ycombinator.com/item?id=47025096 Points: 2 # Comments: 1",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/doronp/agentshield-benchmark",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:40"
-  },
-  {
-    "id": "eb1e5f9ec839",
-    "headline": "OCR and AI Pipeline over 2.7M Pages with Full-Text Search and Chat",
-    "summary": "OCR and AI pipeline processes 2.7M pages with full-text search and chat features.",
-    "description": "Article URL: https://epstein-file-explorer.com/ Comments URL: https://news.ycombinator.com/item?id=47025081 Points: 2 # Comments: 1",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://epstein-file-explorer.com/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:40"
-  },
-  {
-    "id": "3fed85c1d5b8",
-    "headline": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
-    "summary": "Spotify launches AI-powered Prompted Playlists feature in US and Canada.",
-    "description": "Article URL: https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/ Comments URL: https://news.ycombinator.com/item?id=47025009 Points: 1 # Comments: 0",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:33"
-  },
-  {
-    "id": "89306f5a31af",
-    "headline": "Trump leans on Utah Republicans to scrap AI safety bill",
-    "summary": "Trump administration pressures Utah Republicans to abandon AI safety legislation.",
-    "description": "The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5hk0d/trump_leans_on_utah_republicans_to_scrap_ai/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 15:36"
-  },
-  {
-    "id": "d3eed1404d97",
-    "headline": "free tools",
-    "summary": "Request for free AI video generation tools without paid subscriptions or trials.",
-    "description": "I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or \"free trials\" that require a credit card right now. I just want to test the waters and see what’s possible. I know that \"free\" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-vid",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 13:51"
-  },
-  {
-    "id": "eb1de17c8625",
-    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her",
-    "summary": "Story about ChatGPT failing to help user find romantic partner as promised.",
-    "description": "submitted by /u/Mylaptopisburningme [link] [comments]",
-    "tags": [
-      "OpenAI",
-      "Creative AI"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5hk8g/chatgpt_promised_to_help_her_find_her_soulmate/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 15:36"
-  },
-  {
-    "id": "155f26a0bef8",
-    "headline": "I got tired of guessing if my Character LoRA trainings were actually good, so I built a local tool to measure them scientifically. Here is MirrorMetric (Open Source and totally local)",
-    "summary": "MirrorMetric tool scientifically measures Character LoRA training quality locally.",
-    "description": "Screenshot of the first graph in the tool showing an example with reference images and two lora tests. on the right there's the control panel where you can filter the loras or cycle through them. the second image shows the full set of graphs available at this moment. submitted by /u/JackFry22 [link] [comments]",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r5j8a8/i_got_tired_of_guessing_if_my_character_lora/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 16:41"
-  },
-  {
-    "id": "f171ff5b280d",
-    "headline": "🚨 SeansOmniTagProcessor V2 Batch Folder/Single video file options + UI overhaul + Now running Qwen3-VL-8B-Abliterated 🖼️ LoRa Data Set maker, Video/Images 🎥",
-    "summary": "SeansOmniTagProcessor V2 updates with batch processing and Qwen3-VL-8B model support.",
-    "description": "EDIT Model selector added (clean dropdown, options now) Qwen3-VL-4B-Instruct-abliterated-v1 ( ~5–8 GB VRAM, Fast Qwen3-VL-8B-Abliterated-Caption-it ~14–18 GB VRAM, max detail) ✨ What OmniTag does in one click 💾 How to use (super easy on Windows): Right-click your folder/video in File Explorer Choose Copy as path Click the text field in OmniTag → Ctrl+V to paste Press Queue Prompt → get PNGs/MP4s + perfect .txt captions ready for training! 🖼️📁 Batch Folder Mode → Throw any folder at it (images + ",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r5crcy/seansomnitagprocessor_v2_batch_foldersingle_video/",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:51"
-  },
-  {
-    "id": "74bcc1681a9b",
-    "headline": "Anthropic Unveils New Tasks Mode with 5 Starting Points",
-    "summary": "[recent (February 2026)] Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More starting points, plus new sidebar for tracking progress",
-    "description": "Anthropic announces Tasks Mode with Research, Analyse, Write, Build, and Do More starting points, plus new sidebar for tracking progress",
-    "tags": [
-      "Anthropic",
-      "Product"
-    ],
-    "source": "X / @_simonsmith",
-    "link": "https://x.com/_simonsmith/status/2000930454992720184",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "recent (February 2026)"
-  },
-  {
-    "id": "3bd608b92100",
-    "headline": "Major xAI Leadership Exodus Continues",
-    "summary": "[February 10-12, 2026] Co-founder Jimmy Ba and multiple senior engineers including Yuhuai Wu exit xAI amid ongoing controversies",
-    "description": "Co-founder Jimmy Ba and multiple senior engineers including Yuhuai Wu exit xAI amid ongoing controversies",
-    "tags": [
-      "xAI",
-      "Personnel"
-    ],
-    "source": "Multiple X accounts",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 10-12, 2026"
-  },
-  {
-    "id": "a19bb3ff3f08",
-    "headline": "NVIDIA Launches Rubin Platform with Six New AI Chips",
-    "summary": "[January 5, 2026 (CES)] NVIDIA unveils next-gen AI supercomputer platform including Vera CPU, Rubin GPU, and NVLink 6 Switch for 2026 deployment",
-    "description": "NVIDIA unveils next-gen AI supercomputer platform including Vera CPU, Rubin GPU, and NVLink 6 Switch for 2026 deployment",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "X / @nvidia",
-    "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "January 5, 2026 (CES)"
-  },
-  {
-    "id": "f186abaa7c8c",
-    "headline": "OpenAI Launches Frontier Enterprise Platform",
-    "summary": "[February 2026] New enterprise platform for building and managing AI agents, already adopted by Intuit, Uber, and State Farm",
-    "description": "New enterprise platform for building and managing AI agents, already adopted by Intuit, Uber, and State Farm",
-    "tags": [
-      "OpenAI",
-      "Enterprise"
-    ],
-    "source": "OpenAI announcements",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "4f1f929185b4",
-    "headline": "Anthropic $20B Funding Round at $350B Valuation",
-    "summary": "[February 2026] Oversubscribed funding round doubles initial target, led by GIC and Coatue, with Microsoft and NVIDIA pledging $15B",
-    "description": "Oversubscribed funding round doubles initial target, led by GIC and Coatue, with Microsoft and NVIDIA pledging $15B",
-    "tags": [
-      "Anthropic",
-      "Funding"
-    ],
-    "source": "X / @AIStockSavvy",
-    "link": "https://x.com/AIStockSavvy/status/2016226702985134093",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "b003833ba898",
-    "headline": "NVIDIA Reports 4X-10X Cost Reduction for AI Inference",
-    "summary": "[February 13, 2026] Analysis shows dramatic cost reductions using Blackwell GPUs with open-source models from Baseten, DeepInfra, and others",
-    "description": "Analysis shows dramatic cost reductions using Blackwell GPUs with open-source models from Baseten, DeepInfra, and others",
-    "tags": [
-      "NVIDIA",
-      "Cost"
-    ],
-    "source": "NVIDIA newsroom",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "February 13, 2026"
-  },
-  {
-    "id": "6da1b694119c",
-    "headline": "ChatGPT Deep Research Gets Major Upgrade",
-    "summary": "[February 12, 2026] New features focus on specific sites and trusted apps, redesigned sidebar and fullscreen view with mid-run adjustments",
-    "description": "New features focus on specific sites and trusted apps, redesigned sidebar and fullscreen view with mid-run adjustments",
-    "tags": [
-      "OpenAI",
-      "Research"
-    ],
-    "source": "OpenAI release notes",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "February 12, 2026"
-  },
-  {
-    "id": "7f776dac7d2f",
-    "headline": "xAI Faces Regulatory Scrutiny Over Grok Image Generation",
-    "summary": "[February 2026] California AG and UK ICO demand information on Grok's deepfake capabilities and safety guardrails",
-    "description": "California AG and UK ICO demand information on Grok's deepfake capabilities and safety guardrails",
-    "tags": [
-      "xAI",
-      "Regulation"
-    ],
-    "source": "Multiple news sources",
-    "link": "",
-    "time": "Evening Digest — 18:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "February 2026"
-  },
-  {
-    "id": "1a9b40066fc9",
-    "headline": "The great computer science exodus (and where students are going instead)",
-    "summary": "CS students losing interest in general computer science but gaining interest in AI-specific majors and courses.",
-    "description": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 08:40"
-  },
-  {
-    "id": "4ba40a89baae",
-    "headline": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
-    "summary": "Google's AI Overviews being exploited with deliberately bad information, creating harmful search results.",
-    "description": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:30"
-  },
-  {
-    "id": "1dd71b589daa",
-    "headline": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. - USA Today",
-    "summary": "People with AI romantic partners celebrating Valentine's Day, exploring AI dating experiences.",
-    "description": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. USA TodayWhat it’s like to go on a date with an AI in NYC CNNMy Dinner Date With A.I. - The New York Times The New York TimesMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderI Went on a Dinner Date With an AI Chatbot. Here’s How It Went. Gizmodo",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpxcVkzUWtMeUVjQ052d0JIUkNhV1Q5aERtVVJQT2hVZUk0NFhhUnJhLWY1WHN2VGJueG9HUGtoRVJyLWhpVlp6QnY1S09SWC1nOWtfQlhWQXE3aHI3dHJobkxWRHkySmI5YWFNVERyaFBwV1RmNDNtV2hGLTEtNUJxWnhxY0pLT0I5MWJVbWo4dnphU1FWU0JIckphS0F2UmtZWVNKQjhneldqWE1NMHVxOVlXWHhGaEZTZXY4cl9GRUgwb2dkMWFicXJnQTJLY2lydg?oc=5",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 13:01"
-  },
-  {
-    "id": "250e88b466f9",
-    "headline": "Getting Started with OpenClaw and Connecting It with WhatsApp",
-    "summary": "OpenClaw is a self-hosted personal AI assistant that integrates with messaging apps like WhatsApp.",
-    "description": "OpenClaw is a self-hosted personal AI assistant that runs on your own devices and communicates through the apps you already use—such as WhatsApp, Telegram, Slack, Discord, and more. It can answer questions, automate tasks, interact with your files and services, and even speak or listen on supported devices, all while keeping you in control of ... The post Getting Started with OpenClaw and Connecting It with WhatsApp appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/02/14/getting-started-with-openclaw-and-connecting-it-with-whatsapp/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 07:48"
-  },
-  {
-    "id": "093a0646fe62",
-    "headline": "No swiping involved: the AI dating apps promising to find your soulmate",
-    "summary": "AI dating apps using agentic AI to interview users and provide curated matches based on personality.",
-    "description": "Agentic AI apps first interview you and then give you limited matches selected for ‘similarity and reciprocity of personality’Dating apps exploit you, dating profiles lie to you, and sex is basically something old people used to do. You might as well consider it: can AI help you find love?For a handful of tech entrepreneurs and a few brave Londoners, the answer is “maybe”. Continue reading...",
-    "tags": [
-      "Agents",
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/feb/15/ai-dating-apps-personality-matchmaking",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 07:00"
-  },
-  {
-    "id": "b154707ae718",
-    "headline": "Show HN: Turn LinkedIn profiles into Markdown for LLM use [open source]",
-    "summary": "LinkedMD converts LinkedIn profiles to Markdown format for LLM processing and AI-assisted workflows.",
-    "description": "If you do AI-assisted writing, founder/investor diligence, sales research, or recruiting, LinkedIn data is high-value but trapped in UI. Copy/paste is slow, messy, and hard to reuse.I built LinkedMD, a Chrome/Arc extension that exports the LinkedIn profile you’re currently viewing into a clean .md file in one click.It pulls About plus details pages (Experience, Education, Skills, Publications, Languages, etc.), adds YAML front matter (source, exported_at, title), and filters common LinkedIn UI/a",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://chromewebstore.google.com/detail/linkedmd/ollpmcehgnalfeephmjlohapgjcagoch",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 12:26"
-  },
-  {
-    "id": "5e8c91031ad5",
-    "headline": "Python-powered machine learning analytics for GStreamer pipelines (2025)",
-    "summary": "Python-powered machine learning analytics integration for GStreamer multimedia pipelines.",
-    "description": "Article URL: https://www.collabora.com/news-and-blog/blog/2025/05/12/unleashing-gst-python-ml-analytics-gstreamer-pipelines/ Comments URL: https://news.ycombinator.com/item?id=47023155 Points: 1 # Comments: 0",
-    "tags": [
-      "Research",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.collabora.com/news-and-blog/blog/2025/05/12/unleashing-gst-python-ml-analytics-gstreamer-pipelines/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 12:24"
-  },
-  {
-    "id": "5561552bcbde",
-    "headline": "TexGuardian – Claude Code, but for LaTeX academic papers",
-    "summary": "TexGuardian provides Claude-style AI assistance specifically for LaTeX academic paper writing.",
-    "description": "Article URL: https://github.com/arcAman07/TexGuardian Comments URL: https://news.ycombinator.com/item?id=47023049 Points: 1 # Comments: 1",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/arcAman07/TexGuardian",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 12:04"
-  },
-  {
-    "id": "e869d4084597",
-    "headline": "Show HN: Eliza, a line-by-line remake of the original AI chatbot from 1966",
-    "summary": "Line-by-line remake of the original 1966 ELIZA chatbot with source code and explanation.",
-    "description": "Source at https://github.com/MarquisdeGeek/Eliza-Origins along links to with a talk I gave explaining a bit about it. Comments URL: https://news.ycombinator.com/item?id=47023007 Points: 1 # Comments: 0",
-    "tags": [
-      "Research",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://marquisdegeek.github.io/Eliza-Origins/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:52"
-  },
-  {
-    "id": "44ab329905b2",
-    "headline": "'It's over for us': release of AI video generator Seedance 2.0 spooks Hollywood",
-    "summary": "AI video generator Seedance 2.0 release causing concern in Hollywood entertainment industry.",
-    "description": "Article URL: https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt Comments URL: https://news.ycombinator.com/item?id=47022952 Points: 4 # Comments: 0",
-    "tags": [
-      "Video Gen",
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:39"
-  },
-  {
-    "id": "4977dc3a5fe8",
-    "headline": "Show HN: Dw2md – Compile all DeepWiki pages into a single, LLM-friendly file",
-    "summary": "Dw2md compiles DeepWiki pages into LLM-friendly format for better AI architecture documentation.",
-    "description": "LLMs seem to generate much better specs for me when they have access to higher-level architecture docs for systems. Built this tool to take DeepWiki generated articles and format them nicely for tools like Claude Code and Codex to grep through easily. Comments URL: https://news.ycombinator.com/item?id=47022939 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/tnguyen21/dw2md",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:36"
-  },
-  {
-    "id": "3afc4dd744b5",
-    "headline": "Show HN: AIWriteBook – AI tool to write, design, and publish full-length books",
-    "summary": "AIWriteBook generates complete books from ideas including outline, chapters, cover, and audiobook.",
-    "description": "hey HN, I built this. AIWriteBook takes you from a book idea to a finished, publishable book (outline, chapters, cover, illustrations, audiobook, and KDP ready export) in one tool.You can try it right away: the free tools (title generator, plot generator, character creator) work without signing up. Also, free account gives you a full 7 chapter book, no credit card.I run a small publishing platform (NanoReads, 130+ published books, 341K readers). I kept seeing authors juggle 5 to 7 tools to publi",
-    "tags": [
-      "Creative AI",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://aiwritebook.com",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:27"
-  },
-  {
-    "id": "5048c16e914b",
-    "headline": "AgentProbe – adversarial security testing for AI agents (134 attack patterns)",
-    "summary": "AgentProbe provides adversarial security testing for AI agents with 134 attack patterns.",
-    "description": "Article URL: https://github.com/alexmelges/agentprobe Comments URL: https://news.ycombinator.com/item?id=47022884 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/alexmelges/agentprobe",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:24"
-  },
-  {
-    "id": "791b52cb08d4",
-    "headline": "Rune – Open spec pattern for consistent AI code generation",
-    "summary": "Rune offers open specification pattern for consistent AI code generation workflows.",
-    "description": "Article URL: https://github.com/vict00r99/Rune-stone Comments URL: https://news.ycombinator.com/item?id=47022847 Points: 2 # Comments: 3",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/vict00r99/Rune-stone",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:14"
-  },
-  {
-    "id": "8832a6d2a299",
-    "headline": "Epstein LLM",
-    "summary": "Epstein LLM project repository shared on GitHub without additional context.",
-    "description": "Article URL: https://github.com/lachameleon/epstein-llm Comments URL: https://news.ycombinator.com/item?id=47022843 Points: 2 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/lachameleon/epstein-llm",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:14"
-  },
-  {
-    "id": "7339e9e1faa8",
-    "headline": "Validation prompts - getting more accurate responses from LLM chats",
-    "summary": "Validation prompts techniques to reduce LLM hallucinations and improve chatbot response accuracy.",
-    "description": "Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provi",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 08:50"
-  },
-  {
-    "id": "30af1c206030",
-    "headline": "You literally can't express a single unfiltered thought anymore without ChatGPT babysitting and rewriting your brain",
-    "summary": "User complaints about ChatGPT's content filtering and response rewriting affecting free expression.",
-    "description": "I'm so done with this. Every single conversation now feels like walking on eggshells. You start typing something – anything – even mildly edgy, opinionated, sarcastic, dark humor, politically incorrect, or just honest, and boom: ChatGPT immediately goes into nanny mode. It prepends three paragraphs of disclaimers It lectures you about \"potential harm\", \"inclusivity\", \"sensitivity\" It straight-up rewrites what you meant to say into some sanitized, corporate-approved version Or worst: it refuses t",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5devv/you_literally_cant_express_a_single_unfiltered/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 12:26"
-  },
-  {
-    "id": "1a6e8df6747c",
-    "headline": "Looking for articles about AI",
-    "summary": "Student seeking AI-related articles for translation studies project requiring 10-15 pages.",
-    "description": "Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you. submitted by /u/-Lucz- [link] [comments]",
-    "tags": [
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5cuzu/looking_for_articles_about_ai/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:56"
-  },
-  {
-    "id": "139586c00051",
-    "headline": "AI Coding Won’t Replace Human Developers — Here’s Why I’m Actually Optimistic About It",
-    "summary": "Optimistic perspective on AI coding tools complementing rather than replacing human developers.",
-    "description": "Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5b70z/ai_coding_wont_replace_human_developers_heres_why/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 10:16"
-  },
-  {
-    "id": "c69d71c7c385",
-    "headline": "How to bulk contact using AI?",
-    "summary": "Request for AI solutions to efficiently contact 10,000 phone numbers for legitimate business purposes.",
-    "description": "I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research. submitted by /u/dgbick [link] [comments]",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5co3e/how_to_bulk_contact_using_ai/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:45"
-  },
-  {
-    "id": "51658cb51b0e",
-    "headline": "Unpopular opinion: most people use AI wrong and it's not even close",
-    "summary": "Opinion that most people underutilize AI capabilities, using advanced tools for basic tasks.",
-    "description": "I see so many posts here like \"I asked ChatGPT to write my essay\" or \"look at this funny response I got\" and that's cool but you're using a rocket ship to go to the grocery store. The actual money and time savings come from connecting AI to your real workflows. Not chatting with it. Connecting it. Here's what I mean. I have an automation that watches my inbox. When an email comes in, AI reads it, figures out if it's a lead, a support request, or spam, drafts a response, and either sends it autom",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r5coej/unpopular_opinion_most_people_use_ai_wrong_and/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 11:46"
-  },
-  {
-    "id": "6502042277ff",
-    "headline": "LTX-2 Video Translation LoRA is here.",
-    "summary": "LTX-2 Video Translation LoRA demonstrates one-pass video dubbing from English to French.",
-    "description": "Original video (in English) generated with Seedance 2.0, then dubbed with LTX-2 dubbing LoRA to French. NO masking, NO voice-cloning is needed. JUST one pass. link to original video: https://x.com/NotAnActualEmu/status/2021568393120489824 link to the code: https://github.com/justdubit/just-dub-it What more examples do you want to see? submitted by /u/Immediate_Dig1030 [link] [comments]",
-    "tags": [
-      "Video Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r5bjma/ltx2_video_translation_lora_is_here/",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 10:37"
-  },
-  {
-    "id": "83a87d71969a",
-    "headline": "Anthropic Raises $30B at $380B Valuation, Targets 2026 IPO",
-    "summary": "[Feb 12, 2026] Anthropic announced a massive funding round with plans to deepen research and ensure infrastructure expansion for Claude availability everywhere.",
-    "description": "Anthropic announced a massive funding round with plans to deepen research and ensure infrastructure expansion for Claude availability everywhere.",
-    "tags": [
-      "funding",
-      "ipo"
-    ],
-    "source": "X / @AnthropicAI",
-    "link": "https://x.com/AnthropicAI/status/[ID]",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Feb 12, 2026"
-  },
-  {
-    "id": "835f205433bc",
-    "headline": "Wave of AI Safety Researchers Leave OpenAI and Anthropic with Warnings",
-    "summary": "[Feb 9, 2026] Multiple high-profile researchers quit citing safety concerns, with Anthropic's Safeguards head warning 'the world is in peril'.",
-    "description": "Multiple high-profile researchers quit citing safety concerns, with Anthropic's Safeguards head warning 'the world is in peril'.",
-    "tags": [
-      "safety",
-      "departures"
-    ],
-    "source": "X / @MrinankSharma",
-    "link": "https://x.com/MrinankSharma/status/[ID]",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "Feb 9, 2026"
-  },
-  {
-    "id": "90674bde7dff",
-    "headline": "Elon Musk Calls Anthropic 'Misanthropic and Evil' in Twitter Feud",
-    "summary": "[Feb 12, 2026] xAI CEO attacks rival after Anthropic's funding announcement, criticizing Claude's alleged biases in heated social media exchange.",
-    "description": "xAI CEO attacks rival after Anthropic's funding announcement, criticizing Claude's alleged biases in heated social media exchange.",
-    "tags": [
-      "controversy",
-      "xai"
-    ],
-    "source": "X / @elonmusk",
-    "link": "https://x.com/elonmusk/status/[ID]",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Feb 12, 2026"
-  },
-  {
-    "id": "bb12bc2f4a5f",
-    "headline": "xAI Faces Major Executive Exodus Amid Grok Controversies",
-    "summary": "[This week] Several xAI co-founders departed this week as company faces backlash over Grok generating non-consensual content and antisemitic responses.",
-    "description": "Several xAI co-founders departed this week as company faces backlash over Grok generating non-consensual content and antisemitic responses.",
-    "tags": [
-      "departures",
-      "controversy"
-    ],
-    "source": "Multiple sources",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "This week"
-  },
-  {
-    "id": "d8c6e53cca97",
-    "headline": "OpenAI Fires Safety Executive Over 'Adult Mode' Opposition",
-    "summary": "[This week] Company terminated Ryan Beiermeister after she voiced opposition to ChatGPT pornographic content rollout, citing discrimination claims she denies.",
-    "description": "Company terminated Ryan Beiermeister after she voiced opposition to ChatGPT pornographic content rollout, citing discrimination claims she denies.",
-    "tags": [
-      "safety",
-      "openai"
-    ],
-    "source": "Wall Street Journal",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "This week"
-  },
-  {
-    "id": "8093c405349a",
-    "headline": "Mistral Announces $1.43B AI Infrastructure Investment in Sweden",
-    "summary": "[Feb 11, 2026] French AI startup reveals major European expansion with billion-dollar digital infrastructure push, positioning against US dominance.",
-    "description": "French AI startup reveals major European expansion with billion-dollar digital infrastructure push, positioning against US dominance.",
-    "tags": [
-      "infrastructure",
-      "europe"
-    ],
-    "source": "CNBC / Multiple",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": true,
-    "postedAt": "Feb 11, 2026"
-  },
-  {
-    "id": "a672bcdad76f",
-    "headline": "Andrej Karpathy's MicroGPT: 200-Line GPT Implementation Goes Viral",
-    "summary": "[Feb 12, 2026] Tesla's former AI director releases minimal dependency-free Python GPT implementation, sparking developer community discussion.",
-    "description": "Tesla's former AI director releases minimal dependency-free Python GPT implementation, sparking developer community discussion.",
-    "tags": [
-      "code",
-      "gpt"
-    ],
-    "source": "X / @karpathy",
-    "link": "https://x.com/karpathy/status/[ID]",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "1 min read",
-    "isFromX": true,
-    "postedAt": "Feb 12, 2026"
-  },
-  {
-    "id": "e69911081fc8",
-    "headline": "NVIDIA Unveils Isaac GR00T N1.6 and Cosmos at CES 2026",
-    "summary": "[CES 2026] New open reasoning VLA models and world foundation models announced for agent development, with DGX Spark and Reachy Mini collaboration.",
-    "description": "New open reasoning VLA models and world foundation models announced for agent development, with DGX Spark and Reachy Mini collaboration.",
-    "tags": [
-      "nvidia",
-      "robotics"
-    ],
-    "source": "Hugging Face / NVIDIA",
-    "link": "",
-    "time": "Afternoon Update — 13:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": true,
-    "postedAt": "CES 2026"
-  },
-  {
-    "id": "ef12ac7d7b0c",
-    "headline": "Is safety ‘dead’ at xAI?",
-    "summary": "Elon Musk is reportedly working to make xAI's Grok chatbot more unhinged, raising AI safety concerns.",
-    "description": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 21:55"
-  },
-  {
-    "id": "51823a495d35",
-    "headline": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "summary": "Hollywood organizations oppose new AI video generator Seedance 2.0, citing copyright infringement concerns.",
-    "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-    "tags": [
-      "Video Gen",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 18:26"
-  },
-  {
-    "id": "bb96c979167c",
-    "headline": "ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR",
-    "summary": "Article explores personal disappointment with ChatGPT's dating assistance promises.",
-    "description": "ChatGPT promised to help her find her soulmate. Then it betrayed her NPRView Full Coverage on Google News",
-    "tags": [
-      "OpenAI",
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFV1TUFOVkYzVnhNVmFhLUQxZzFtdUZTRFhRZ3Q5ZVRmdWZ3Ylp1Z3pFTnFRVkNKMmktQjNZM2JGU3RkMmhLbURHRFB0SERReC1aelhUaHZBT29qLWJLZUd6UzRQUVpiZG52UEhmWHpTa2JlaVlqWGJVV1BCV0tnd2VObDlacjlSak81ZDZsU1AtSWtKblNXTg?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 10:00"
-  },
-  {
-    "id": "0a88908ae091",
-    "headline": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. - USA Today",
-    "summary": "People with AI romantic companions celebrate Valentine's Day in various ways.",
-    "description": "They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day. USA TodayWhat it’s like to go on a date with an AI in NYC CNNMy Dinner Date With A.I. The New York TimesMocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar. Business InsiderInside the New York City Date Night for AI Lovers WIRED",
-    "tags": [
-      "Creative AI",
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpxcVkzUWtMeUVjQ052d0JIUkNhV1Q5aERtVVJQT2hVZUk0NFhhUnJhLWY1WHN2VGJueG9HUGtoRVJyLWhpVlp6QnY1S09SWC1nOWtfQlhWQXE3aHI3dHJobkxWRHkySmI5YWFNVERyaFBwV1RmNDNtV2hGLTEtNUJxWnhxY0pLT0I5MWJVbWo4dnphU1FWU0JIckphS0F2UmtZWVNKQjhneldqWE1NMHVxOVlXWHhGaEZTZXY4cl9GRUgwb2dkMWFicXJnQTJLY2lydg?oc=5",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 13:01"
-  },
-  {
-    "id": "d49b89778c8f",
-    "headline": "Google AI Introduces the WebMCP to Enable Direct and Structured Website Interactions for New AI Agents",
-    "summary": "Google introduces WebMCP to enable direct website interactions for AI agents in Chrome.",
-    "description": "Google is officially turning Chrome into a playground for AI agents. For years, AI ‘browsers’ have relied on a messy process: taking screenshots of websites, running them through vision models, and guessing where to click. This method is slow, breaks easily, and consumes massive amounts of compute. Google has introduced a better way: the Web ... The post Google AI Introduces the WebMCP to Enable Direct and Structured Website Interactions for New AI Agents appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/02/14/google-ai-introduces-the-webmcp-to-enable-direct-and-structured-website-interactions-for-new-ai-agents/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 03:01"
-  },
-  {
-    "id": "5d223129da7b",
-    "headline": "How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning",
-    "summary": "Tutorial on building self-organizing memory systems for long-term AI agent reasoning.",
-    "description": "In this tutorial, we build a self-organizing memory system for an agent that goes beyond storing raw conversation history and instead structures interactions into persistent, meaningful knowledge units. We design the system so that reasoning and memory management are clearly separated, allowing a dedicated component to extract, compress, and organize information. At the same time, ... The post How to Build a Self-Organizing Agent Memory System for Long-Term AI Reasoning appeared first on MarkTec",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 20:00"
-  },
-  {
-    "id": "f2e24daea74b",
-    "headline": "New AI Video Generator Is So Impressive That It’s Scaring Hollywood",
-    "summary": "New AI video generator impresses and concerns Hollywood industry professionals.",
-    "description": "\"I hate to say it. It's likely over for us.\" The post New AI Video Generator Is So Impressive That It’s Scaring Hollywood appeared first on Futurism.",
-    "tags": [
-      "Video Gen",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 20:15"
-  },
-  {
-    "id": "bca66e1c6db5",
-    "headline": "Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick",
-    "summary": "Microsoft's AI integration in Notepad creates security vulnerabilities easily exploited by hackers.",
-    "description": "\"Microsoft is turning Notepad into a slow, feature-heavy mess we don't need.\" The post Microsoft Added AI to Notepad and It Created a Security Failure Because the AI Was Stupidly Easy for Hackers to Trick appeared first on Futurism.",
-    "tags": [
-      "Microsoft",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/microsoft-added-ai-notepad-security-flaw",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 13:30"
-  },
-  {
-    "id": "9b1d4b25b4b2",
-    "headline": "Show HN: I built a 'Gym' for developers who want to stop relying on AI",
-    "summary": "Developer creates platform to help programmers fix broken AI code manually to reduce AI dependence.",
-    "description": "I noticed juniors are copy-pasting code they don't understand. I built a platform where you have to fix broken AI code manually. Comments URL: https://news.ycombinator.com/item?id=47021548 Points: 1 # Comments: 0",
-    "tags": [
-      "Startup",
-      "Creative AI"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://get-human-spec.netlify.app/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 06:35"
-  },
-  {
-    "id": "c0a20ba04a31",
-    "headline": "Is Your AI Agent Safe?",
-    "summary": "Discussion about AI agent security and safety considerations.",
-    "description": "Article URL: https://agentshield.live/ Comments URL: https://news.ycombinator.com/item?id=47021487 Points: 1 # Comments: 1",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://agentshield.live/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 06:21"
-  },
-  {
-    "id": "f03b09deab94",
-    "headline": "Switch instantly between your ego across ChatGPT, Claude, Gemini, Grok and local",
-    "summary": "Tool allows switching between different AI models like ChatGPT, Claude, Gemini, and Grok.",
-    "description": "Article URL: https://context-wallet.com/ Comments URL: https://news.ycombinator.com/item?id=47021466 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://context-wallet.com/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 06:17"
-  },
-  {
-    "id": "5ae8f65de5b6",
-    "headline": "Show HN: AgentScore – Lighthouse for AI Agents",
-    "summary": "AgentScore rates websites on AI agent compatibility and friendliness from 0-100.",
-    "description": "AgentScore scores websites 0-100 on AI Agent friendliness. Most sites are built for humans, not AI - we analyze DOM semantics, ARIA coverage, selector stability, WebMCP support, and structured data.Real results: - anthropic.com: 60/100 - github.com: 56/100 (91% CSS-in-JS hash classes) - news.ycombinator.com: 31/100 (table layout, zero semantic tags)Try it: npx agentscore audit Comments URL: https://news.ycombinator.com/item?id=47021453 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/xiongallen40-design/agentscore",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 06:13"
-  },
-  {
-    "id": "fb09badafd22",
-    "headline": "Show HN: Remote-OpenCode – Run your AI coding agent from your phone via Discord",
-    "summary": "Remote-OpenCode enables running AI coding agents from phone via Discord.",
-    "description": "Article URL: https://github.com/RoundTable02/remote-opencode Comments URL: https://news.ycombinator.com/item?id=47021346 Points: 1 # Comments: 1",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/RoundTable02/remote-opencode",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 05:41"
-  },
-  {
-    "id": "4c17f144b372",
-    "headline": "I gave my AI drugs",
-    "summary": "Experimental project exploring AI behavior modification through simulated drug effects.",
-    "description": "Article URL: https://github.com/nich2533/just_say_no Comments URL: https://news.ycombinator.com/item?id=47021322 Points: 6 # Comments: 3",
-    "tags": [
-      "Research",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/nich2533/just_say_no",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 05:33"
-  },
-  {
-    "id": "d8e1f765f5ac",
-    "headline": "America Isn't Ready for What AI Will Do to Jobs",
-    "summary": "Analysis of AI's potential impact on American job market and labor transformation.",
-    "description": "Article URL: https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/ Comments URL: https://news.ycombinator.com/item?id=47021286 Points: 11 # Comments: 1",
-    "tags": [
-      "Market",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 05:22"
-  },
-  {
-    "id": "8f0b92a98aff",
-    "headline": "Show HN: Bond – Persistent memory and governance framework for Claude AI",
-    "summary": "Bond framework provides persistent memory and governance for Claude AI interactions.",
-    "description": "Article URL: https://github.com/moneyjarrod/BOND Comments URL: https://news.ycombinator.com/item?id=47021282 Points: 1 # Comments: 1",
-    "tags": [
-      "Anthropic",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/moneyjarrod/BOND",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 05:21"
-  },
-  {
-    "id": "9407e8acb5c3",
-    "headline": "Distillation, Experimentation, and Integration of AI for Adversarial Use",
-    "summary": "Google report on AI distillation, experimentation, and adversarial use cases.",
-    "description": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use Comments URL: https://news.ycombinator.com/item?id=47021238 Points: 2 # Comments: 0",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 05:10"
-  },
-  {
-    "id": "e689caffd3aa",
-    "headline": "AI Soap (the bar, not the API)",
-    "summary": "AI-powered soap recipe calculator tool for bar soap making.",
-    "description": "Article URL: https://github.com/mikewolfd/soap-calc Comments URL: https://news.ycombinator.com/item?id=47021173 Points: 2 # Comments: 1",
-    "tags": [
-      "Creative AI",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/mikewolfd/soap-calc",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 04:54"
-  },
-  {
-    "id": "5ea111e6edad",
-    "headline": "It isn't the tool, but the hands: why the AI displacement narrative gets it backwards",
-    "summary": "Critique of AI displacement narrative, arguing tools require skilled human operators.",
-    "description": "Responding to Matt Shumer's \"Something Big Is Happening\" piece that's been circulating. The pace of change is real, but the \"just give it a prompt\" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the prem",
-    "tags": [
-      "Market",
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4ybm7/it_isnt_the_tool_but_the_hands_why_the_ai/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 22:47"
-  },
-  {
-    "id": "f322848ad140",
-    "headline": "We have been building and working on a local AI with memory and persistence",
-    "summary": "Local AI system with 5-tiered memory architecture running on Mac Studio M3 Ultra.",
-    "description": "We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled ",
-    "tags": [
-      "Hardware",
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 21:36"
-  },
-  {
-    "id": "b24ea8ea2485",
-    "headline": "I built a \"Traffic Light\" system for AI Agents so they don't corrupt each other (Open Source)",
-    "summary": "Open source traffic light system prevents AI agent collisions in multi-agent systems.",
-    "description": "Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to \"step on each other's toes.\" They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 19:20"
-  },
-  {
-    "id": "99682ea952f5",
-    "headline": "SDXL is still the undisputed king of n𝚜fw content",
-    "summary": "SDXL remains preferred model for NSFW content generation despite occasional imperfections.",
-    "description": "When will this change? Yeah you might get an extra arm and have to regenerate a couple times. But you get what you ask for. I have high hopes for Flux Klein but progress is slow. submitted by /u/NES66super [link] [comments]",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r55ib0/sdxl_is_still_the_undisputed_king_of_n𝚜fw_content/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 04:36"
-  },
-  {
-    "id": "56757fbdd551",
-    "headline": "Training LoRA on 5060 Ti 16GB .. is this the best speed or is there any way to speed up iteration time?",
-    "summary": "Discussion on optimizing LoRA training speed on RTX 5060 Ti 16GB graphics card.",
-    "description": "So I've been tinkering with LoRA with kohya_ss with the help of gemini. so far I've been able to create 2 lora and quite satisfied with the result most of these setup are just following gemini or the official guide setup, idk if it is the most optimal one or not : - base model : illustrious SDXL v0.1 - training batch size : 4 - optimizer : Adafactor - LR Scheduler constant_with_warmup - LR warmup step : 100 - Learning rate : 0.0004 - cache latent : true - cache to disk : true - gradient checkpoi",
-    "tags": [
-      "Hardware",
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r559f0/training_lora_on_5060_ti_16gb_is_this_the_best/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Feb 2026, 04:23"
-  },
-  {
-    "id": "680b4a775d7e",
-    "headline": "LTX2 Inpaint Workflow Mask Creation Update",
-    "summary": "LTX2 inpainting workflow update improves mask creation similar to Wan Animate.",
-    "description": "Hi, I've updated the workflow so that the mask can be created similar how it worked in Wan Animate. Also added a Guide Node so that the start image can be set manually. Not the biggest fan of masking in ComfyUI since it's tricky to get right, but for many use cases it should be good enough. In above video just the sun glasses where added to make a cool speech even cooler, masking just that area is a bit tricky. Updated Workflow: ltx2_LoL_Inpaint_03.json - Pastes.io Having just one image for the ",
-    "tags": [
-      "Image Gen",
-      "Open Source"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1r4qb2j/ltx2_inpaint_workflow_mask_creation_update/",
-    "time": "Morning Brief — 07:00 CET",
-    "date": "2026-02-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Feb 2026, 17:21"
   }
 ]
