@@ -1,5 +1,362 @@
 [
   {
+    "id": "71f883e488fb",
+    "headline": "Suno leans into customization with v5.5",
+    "summary": "Suno releases v5.5 update focusing on customization features for its AI music generation model, expanding beyond previous improvements to fidelity and vocals.",
+    "description": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 14:33"
+  },
+  {
+    "id": "24d8823e61c2",
+    "headline": "Why can’t TikTok identify AI generated ads when I can?",
+    "summary": "TikTok struggles to identify AI-generated ads despite their prevalence, raising questions about platform detection capabilities for synthetic content.",
+    "description": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 10:00"
+  },
+  {
+    "id": "548108cf4f74",
+    "headline": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "summary": "Bluesky launches Attie app using AI to help users build custom feeds on the atproto decentralized social network.",
+    "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 23:00"
+  },
+  {
+    "id": "f1d402a34075",
+    "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "summary": "Stanford study measures potential harms of AI chatbots providing personal advice, examining the sycophancy tendency in AI systems.",
+    "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "tags": [
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 20:45"
+  },
+  {
+    "id": "f06526175479",
+    "headline": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "summary": "Another xAI co-founder departs, leaving only two of Musk's original 11 co-founders at the AI company.",
+    "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 16:11"
+  },
+  {
+    "id": "bbbba42f8aae",
+    "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "summary": "Anthropic's Claude consumer popularity surges, with estimates ranging from 18-30 million users, though company hasn't officially disclosed figures.",
+    "description": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 14:15"
+  },
+  {
+    "id": "6cde14a7e8cb",
+    "headline": "Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scalable Synthetic Task Generation",
+    "summary": "Chroma releases Context-1, a 20B agentic search model for multi-hop retrieval and synthetic task generation.",
+    "description": "In the current AI landscape, the ‘context window’ has become a blunt instrument. We’ve been told that if we simply expand the memory of a frontier model, the retrieval problem disappears. But as any AI professionals building RAG (Retrieval-Augmented Generation) systems knows, stuffing a million tokens into a prompt often leads to higher latency, astronomical ... The post Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scalable Synthetic Task",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 08:25"
+  },
+  {
+    "id": "61b2712c1a8b",
+    "headline": "Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today",
+    "summary": "Google defines technical distinction between Google-Agent for AI access and Googlebot for search crawling in server logs.",
+    "description": "As Google integrates AI capabilities across its product suite, a new technical entity has surfaced in server logs: Google-Agent. For software devs, understanding this entity is critical for distinguishing between automated indexers and real-time, user-initiated requests. Unlike the autonomous crawlers that have defined the web for decades, Google-Agent operates under a different set of rules ... The post Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI A",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 06:03"
+  },
+  {
+    "id": "08fdc1045c3e",
+    "headline": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
+    "summary": "Tutorial explores nanobot, an ultra-lightweight personal AI agent framework with ~4,000 lines of Python code.",
+    "description": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent ... The post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared first on MarkTec",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 05:40"
+  },
+  {
+    "id": "5ec94eb89379",
+    "headline": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+    "summary": "Mistral AI releases Voxtral TTS, an open-weight streaming text-to-speech model for low-latency multilingual voice generation.",
+    "description": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. ... The post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation ",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 20:58"
+  },
+  {
+    "id": "a5d0feba927a",
+    "headline": "‘Soon publishers won’t stand a chance’: literary world in struggle to detect AI-written books",
+    "summary": "Publishers struggle to detect AI-written books as literary world grapples with AI-generated content submissions.",
+    "description": "US release of horror novel Shy Girl cancelled and UK book discontinued after suspected AI use, as publishers feel ‘cold shiver’Recently, the literary agent Kate Nash started noticing that the submission letters she was receiving from authors were becoming more thorough – albeit also more formulaic.“I took it as a rise in diligence,” she said. “I thought it was a good thing.” Continue reading...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/mar/29/ai-written-books-novel-shy-girl-publishers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 09:00"
+  },
+  {
+    "id": "2997245bd672",
+    "headline": "Two in five Australian GPs use AI scribes to record patient notes – but do they trade care for convenience?",
+    "summary": "Two in five Australian GPs use AI scribes for patient notes; debate continues whether convenience trades off with care quality.",
+    "description": "Some doctors argue it allows them to better connect with patients, but advocates warn the AI technology risks the oppositeGet our breaking news email, free app or daily news podcastWhen a patient walks into a GP’s office in Australia today, the doctor may begin with a question: “Do you give consent to use an AI scribe to record our conversation?”That’s what is supposed to happen, at least. Continue reading...",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/29/doctors-using-ai-for-notes-australia",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 19:00"
+  },
+  {
+    "id": "e1b49d13bb9c",
+    "headline": "OpenAI’s Obsession With Data Centers Is Running Into Trouble",
+    "summary": "OpenAI faces challenges with its data center expansion ambitions amid infrastructure and resource constraints.",
+    "description": "The company find itself between a rock and a hard place. The post OpenAI’s Obsession With Data Centers Is Running Into Trouble appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-data-centers-trouble",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 08:15"
+  },
+  {
+    "id": "c3548a20cc7f",
+    "headline": "AI Now Causing CEOs to Resign in Fear",
+    "summary": "Some CEOs resign citing inability to complete AI transformation initiatives within their tenure.",
+    "description": "\"I could start this next big set of transformations with AI, but I couldn't finish.\" The post AI Now Causing CEOs to Resign in Fear appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-ceos-resign",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 06:00"
+  },
+  {
+    "id": "bafb8b00597f",
+    "headline": "New York’s Beloved Bodegas Are Filling Up With AI Slop",
+    "summary": "New York bodegas increasingly filled with AI-generated artwork, raising concerns about artistic authenticity.",
+    "description": "\"I really don't get why businesses don't hire artists.\" The post New York’s Beloved Bodegas Are Filling Up With AI Slop appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/nyc-bodegas-ai-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 12:00"
+  },
+  {
+    "id": "12310a0ae9c3",
+    "headline": "Alarming Study Finds That Most People Just Do What ChatGPT Tells Them, Even If It’s Totally Wrong",
+    "summary": "Study finds people exhibit 'cognitive surrender,' following ChatGPT advice even when incorrect.",
+    "description": "We're shockingly prone to \"cognitive surrender.\" The post Alarming Study Finds That Most People Just Do What ChatGPT Tells Them, Even If It’s Totally Wrong appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/study-do-what-chatgpt-tells-us",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 Mar 2026, 09:00"
+  },
+  {
+    "id": "dd5f16911eeb",
+    "headline": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
+    "summary": "AltClaw provides secure scripting layer for AI agents with module marketplace functionality.",
+    "description": "Article URL: https://github.com/altlimit/altclaw Comments URL: https://news.ycombinator.com/item?id=47562660 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/altlimit/altclaw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 12:34"
+  },
+  {
+    "id": "f17c391360ae",
+    "headline": "Show HN: I built a Git extension to capture AI-code context and tied to commits",
+    "summary": "Developer creates Git extension capturing AI code context and linking to commits.",
+    "description": "Article URL: https://gitwhy.dev/ Comments URL: https://news.ycombinator.com/item?id=47562509 Points: 3 # Comments: 1",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://gitwhy.dev/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 12:15"
+  },
+  {
+    "id": "c2ef526850b3",
+    "headline": "Show HN: Run Claude Code using ChatGPT subscription",
+    "summary": "Tool enables running Claude code using ChatGPT subscription access.",
+    "description": "Article URL: https://www.npmjs.com/package/hijackclaw Comments URL: https://news.ycombinator.com/item?id=47562475 Points: 2 # Comments: 1",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.npmjs.com/package/hijackclaw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 12:10"
+  },
+  {
+    "id": "1f0c8addb467",
+    "headline": "Tracking (Expert/Influential) Predictions about AI",
+    "summary": "LessWrong post tracks expert and influential predictions about AI development and outcomes.",
+    "description": "Article URL: https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai Comments URL: https://news.ycombinator.com/item?id=47562096 Points: 2 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 11:01"
+  },
+  {
+    "id": "f5286d1f7814",
+    "headline": "Local-first AI knowledge layer. Extract architecture, query from any AI tools",
+    "summary": "Taskwing provides local-first AI knowledge layer for extracting architecture and querying across AI tools.",
+    "description": "Article URL: https://github.com/josephgoksu/taskwing Comments URL: https://news.ycombinator.com/item?id=47561996 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/josephgoksu/taskwing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 10:44"
+  },
+  {
+    "id": "e4b36abb3dda",
+    "headline": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+    "summary": "Miasma tool traps AI web scrapers in endless poison pit to prevent data collection.",
+    "description": "Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 35 # Comments: 13",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/austin-weeks/miasma",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-03-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Mar 2026, 10:10"
+  },
+  {
     "id": "b5503962b0eb",
     "headline": "Why OpenAI killed Sora",
     "summary": "OpenAI has scrapped its Sora video generation app and reversed plans for video generation products.",
@@ -10478,357 +10835,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "26 Feb 2026, 17:34"
-  },
-  {
-    "id": "40c8855b4db0",
-    "headline": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
-    "summary": "Google integrates Alphabet's Intrinsic robotics unit into the company after five years as independent subsidiary, doubling down on physical AI development.",
-    "description": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio ...",
-    "tags": [
-      "Google",
-      "Robotics"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Feb 2026, 06:06"
-  },
-  {
-    "id": "cdae3f9e0498",
-    "headline": "Google and Samsung just launched the AI features Apple couldn’t with Siri",
-    "summary": "Google and Samsung launch Gemini AI features enabling multistep tasks like food ordering and rideshare on Pixel 10 and Galaxy S26 phones.",
-    "description": "Google just announced that Gemini will soon be able to take care of some multistep tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the just-announced Samsung Galaxy S26 phones. It all sounds a bit like features Apple announced for Siri way back ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 14:56"
-  },
-  {
-    "id": "5be098a0fc83",
-    "headline": "Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26",
-    "summary": "Gemini AI gains ability to automate tasks like booking Ubers and ordering food on Pixel 10 and Galaxy S26 devices, advancing assistant capabilities.",
-    "description": "Google's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own. It's called task automation, and it starts with a prompt to ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 13:00"
-  },
-  {
-    "id": "06c3f37fc403",
-    "headline": "Amazon’s AGI lab leader is leaving",
-    "summary": "David Luan, head of Amazon's San Francisco AI lab, departs after less than two years leading the company's AGI research efforts.",
-    "description": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to ...",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 10:24"
-  },
-  {
-    "id": "e3e4aa7a8904",
-    "headline": "Does Anthropic think Claude is alive? Define ‘alive’",
-    "summary": "Anthropic executives suggest Claude AI may possess life-like qualities, raising philosophical questions about AI consciousness during publicity campaign.",
-    "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask ...",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 09:24"
-  },
-  {
-    "id": "f7a562e8a927",
-    "headline": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
-    "summary": "Amazon introduces three personality presets for Alexa Plus, letting users customize the AI assistant's conversational tone and behavior style.",
-    "description": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers ...",
-    "tags": [
-      "Amazon",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 09:00"
-  },
-  {
-    "id": "001f789b695e",
-    "headline": "Adobe’s new AI video editing tool stitches clips into a first draft",
-    "summary": "Adobe launches Firefly Quick Cut beta tool that automatically creates first-draft video edits, enabling editors to focus on storytelling refinement.",
-    "description": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut ...",
-    "tags": [
-      "Video Gen",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 09:00"
-  },
-  {
-    "id": "827698b0d4a3",
-    "headline": "Gushwork bets on AI search for customer leads — and early results are emerging",
-    "summary": "Gushwork raises $9M seed funding for AI-powered customer lead search tool showing early traction with ChatGPT and similar platforms.",
-    "description": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Feb 2026, 00:00"
-  },
-  {
-    "id": "c4bd86255b48",
-    "headline": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-    "summary": "Anthropic acquires Vercept, a startup specializing in computer-use agents that automate complex tasks within applications like humans would.",
-    "description": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 23:49"
-  },
-  {
-    "id": "0b4be77b1809",
-    "headline": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-    "summary": "White House requests AI companies absorb electricity rate increases; most major hyperscalers have already committed to covering cost hikes.",
-    "description": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 20:42"
-  },
-  {
-    "id": "354f76164740",
-    "headline": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-    "summary": "CUDIS wearable startup launches health ring with AI-powered coaching that gamifies healthy behaviors through redeemable points rewards system.",
-    "description": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
-    "tags": [
-      "Healthcare",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 19:10"
-  },
-  {
-    "id": "8d9325a30f11",
-    "headline": "The public opposition to AI infrastructure is heating up",
-    "summary": "Public opposition to AI data center expansion intensifies, resulting in restrictive policies including bans on new construction in some areas.",
-    "description": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 19:03"
-  },
-  {
-    "id": "e36cd5e183a9",
-    "headline": "Gemini can now automate some multi-step tasks on Android",
-    "summary": "Gemini on Android gains ability to automate multistep tasks including rideshare requests and food delivery orders through native integration.",
-    "description": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 18:00"
-  },
-  {
-    "id": "7e7a65a7335c",
-    "headline": "OpenAI COO says ads will be ‘an iterative process’",
-    "summary": "OpenAI COO Brad Lightcap indicates ad integration will be iterative, requesting patience as company develops and tests advertising approach.",
-    "description": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 17:37"
-  },
-  {
-    "id": "20daaa41aca1",
-    "headline": "Who’s Your Daddy? A Chatbot",
-    "summary": "More people explore BDSM fantasies through AI chatbots, though some community members question whether AI substitution undermines authentic experiences.",
-    "description": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Feb 2026, 12:00"
-  },
-  {
-    "id": "6ef29023d315",
-    "headline": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
-    "summary": "Riley Walz, known for viral Silicon Valley stunts, joins OpenAI to develop new ways humans interact with AI systems and interfaces.",
-    "description": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-hires-riley-walz/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 19:59"
-  },
-  {
-    "id": "7abee98cf98b",
-    "headline": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
-    "summary": "Scrapling open-source project gains popularity among AI agent users seeking to bypass anti-bot systems for unrestricted web scraping.",
-    "description": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 19:00"
-  },
-  {
-    "id": "8ee369fc19b1",
-    "headline": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
-    "summary": "Gemini gains ability to automate app-based tasks like booking Ubers and ordering DoorDash on Samsung Galaxy S26 and other Android devices.",
-    "description": "Starting with the Samsung Galaxy S26, Google’s Gemini can automate tasks in popular mobile apps. We got a live demo of the new feature in action.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 18:00"
-  },
-  {
-    "id": "69e7ae46df8c",
-    "headline": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps - 9to5Google",
-    "summary": "Google introduces AppFunctions feature enabling Gemini to control Android apps, similar to Model Context Protocol integration.",
-    "description": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps 9to5GoogleSamsung's S26 gives an advance look at what the Google-powered Apple Siri could do CNBCLet Gemini handle your multi-step daily tasks on Android. blog.google[Galaxy Unpacked 2026] Highlights From Galaxy Unpacked: The Beginning of Truly Agentic AI samsung.comGoogle and Samsung just launched the AI features Apple couldn’t with Siri The Verge",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWFV0dFc0TnNrZUNjR3RBZHV3LTdCLUhiN0NIOGRrSDM2M2lvb29QMkRwYU1tblJBR1YteGNEN0JpSDdzd0Z5c0xYZHFFVzJUeDZIMXZmY3pSaWdkN2QzRWlvYVRsYWc4YkVZQTRpOA?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Feb 2026, 00:54"
-  },
-  {
-    "id": "955c7ddf82bc",
-    "headline": "Amazon’s AI-powered Alexa+ gets new personality options - TechCrunch",
-    "summary": "Amazon's Alexa Plus AI assistant gains new personality customization options allowing users to adjust conversational tone and response style.",
-    "description": "Amazon’s AI-powered Alexa+ gets new personality options TechCrunchYou can now make Alexa’s AI personality more friendly, blunt, or chilled out The VergeAlexa’s new AI personalities are cringe PCWorldAlexa Plus Now Adapts to Your Moods in Real Time: We Try It Out CNETJimmy and Tariq Unveil Alexa+'s New Personality Styles in Partnership with Alexa+ Yahoo",
-    "tags": [
-      "Amazon",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeExwZVVHVWNZZWdySHByMFU1N21FRV9KMzZGZFpaYWFnYnNMQ3EtcENkYWx1bHpmNldlUVNnTi1JMGZTUFllQVJqZU5hSkxxNUNNOWlBUFpWY3RKVk9samZWNENSRmhrQ0ljUkRvZWV6MVhrVUFhZnlWbVlJeDBDNDZZNTlXUkx4eTNJRzZTLS02QQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 14:00"
-  },
-  {
-    "id": "c7e635531c31",
-    "headline": "Adobe’s new AI video editing tool stitches clips into a first draft - The Verge",
-    "summary": "Adobe Firefly video editing tool uses AI to transform raw footage into first-cut videos, streamlining production workflow for creators.",
-    "description": "Adobe’s new AI video editing tool stitches clips into a first draft The VergeAdobe Firefly can now use AI to turn raw footage into a first-cut video 9to5MacAdobe's Still All In on AI. Next Up: The One-Click Tool That Edits Videos for You CNET",
-    "tags": [
-      "Video Gen",
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWFlWU5MTWJWWjJoUTRzX2l4RjVsS0hucXNtdmU1cUNhVlBWUlVxM0FqYWN1Vl9vaFBCT0hsc2xCaFJZdmRjVk1meUhfS0E4MXllVWhCRkVyUmFoZzFwbU1WY2lzQWZxVDM1MDl1QUtpUF9WQjlKMTF0enZpeWZIS0VGWQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-02-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Feb 2026, 14:00"
   }
 ]
