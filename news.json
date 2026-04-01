@@ -1,5 +1,402 @@
 [
   {
+    "id": "aa497eea8337",
+    "headline": "AI can push your Stream Deck buttons for you",
+    "summary": "Elgato's Stream Deck 7.4 update lets AI chatbots automatically control Stream Deck buttons, automating manual button-pushing tasks.",
+    "description": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 08:38"
+  },
+  {
+    "id": "2d3102a98a1a",
+    "headline": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+    "summary": "A leaked Claude Code update exposed source code revealing an always-on agent and Tamagotchi-style pet feature in development.",
+    "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a ...",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 18:24"
+  },
+  {
+    "id": "576c853529f4",
+    "headline": "You can now use ChatGPT with Apple’s CarPlay",
+    "summary": "ChatGPT is now accessible via Apple CarPlay with iOS 26.4, allowing voice-based AI assistance while driving.",
+    "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. ...",
+    "tags": [
+      "OpenAI",
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 17:03"
+  },
+  {
+    "id": "bff6495d8393",
+    "headline": "The Galaxy S26’s photo app can sloppify your memories",
+    "summary": "Samsung Galaxy S26 photos app includes AI editing tools similar to Google Pixel's, allowing users to modify backgrounds and remove objects.",
+    "description": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically ...",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 14:15"
+  },
+  {
+    "id": "0e6c5381c965",
+    "headline": "Art schools are being torn apart by AI",
+    "summary": "Art schools struggle as AI tools like 3D modeling software disrupt traditional creative education and student workflows.",
+    "description": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 11:00"
+  },
+  {
+    "id": "6ced4274de9b",
+    "headline": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "summary": "AI recruiting startup Mercor suffered a cyberattack linked to a compromised open-source LiteLLM project used by developers.",
+    "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "tags": [
+      "Startup",
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 01:42"
+  },
+  {
+    "id": "09f1817e94d9",
+    "headline": "Anthropic is having a month",
+    "summary": "Anthropic experienced a second internal security incident within a week, details not fully disclosed in brief.",
+    "description": "A human really borks things at Anthropic for the second time this week.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 23:58"
+  },
+  {
+    "id": "629ef524ea57",
+    "headline": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "summary": "Salesforce adds 30 AI-powered features to Slack, enhancing productivity and collaboration capabilities across the platform.",
+    "description": "Slack just got a whole lot more useful.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 22:46"
+  },
+  {
+    "id": "ea4f19a1b504",
+    "headline": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "summary": "OpenAI raises $3B from retail investors in a $122B funding round led by Amazon, Nvidia, and SoftBank, valuing it at $852B pre-IPO.",
+    "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 21:25"
+  },
+  {
+    "id": "e7ab6b076fab",
+    "headline": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "summary": "AI feedback startup Yupp shuts down less than a year after launching, despite $33M funding from a16z and major backers.",
+    "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 20:01"
+  },
+  {
+    "id": "1e25cc4e6daa",
+    "headline": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "summary": "Nomadic raises $8.4M to convert autonomous vehicle footage into structured datasets using deep learning models.",
+    "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+    "tags": [
+      "Robotics",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 15:00"
+  },
+  {
+    "id": "3ffd6188fe61",
+    "headline": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "summary": "Runway launches $10M fund and Builders program to support early-stage startups building AI video applications.",
+    "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 14:00"
+  },
+  {
+    "id": "bd16b82f8e5e",
+    "headline": "With its new app store, Ring bets on AI to go beyond home security",
+    "summary": "Ring's new app store expands beyond home security using AI for elder care and business applications.",
+    "description": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 13:00"
+  },
+  {
+    "id": "c5f9e6655275",
+    "headline": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+    "summary": "ChatGPT provides inaccurate product recommendations for WIRED reviews, showing limitations in factual accuracy.",
+    "description": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 09:30"
+  },
+  {
+    "id": "8f15f2e03935",
+    "headline": "AI Has Flooded All the Weather Apps",
+    "summary": "Weather apps increasingly use AI-powered forecasting from machine learning models, improving prediction accuracy.",
+    "description": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 13:00"
+  },
+  {
+    "id": "3b46e9f3e183",
+    "headline": "The Download: gig workers training humanoids, and better AI benchmarks",
+    "summary": "Gig workers train humanoid robots at home while AI benchmarking methods improve, advancing robotics development.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
+    "tags": [
+      "Robotics",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 12:10"
+  },
+  {
+    "id": "9572a1838ba5",
+    "headline": "Shifting to AI model customization is an architectural imperative",
+    "summary": "Enterprise demand shifts toward customizable AI models over massive new LLM releases as gains plateau.",
+    "description": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 14:12"
+  },
+  {
+    "id": "8828cce91069",
+    "headline": "Google Photos is losing some of its editing shortcuts to ‘reduce accidental triggers’ - 9to5Google",
+    "summary": "Google Photos removes some AI editing shortcuts to prevent accidental activation of features.",
+    "description": "Google Photos is losing some of its editing shortcuts to ‘reduce accidental triggers’ 9to5GoogleGoogle Photos is losing some of its editing magic with new update Android PoliceGoogle Photos Android update prevents accidental tool triggers and pop-ups NewsBytesGoogle Photos tries to save you from accidental edits in its latest shakeup Android AuthorityGoogle Photos removes editing shortcuts to reduce accidental triggers Business Standard",
+    "tags": [
+      "Image Gen",
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXhNQjBqV2hmU3V6cnRGcm5JTUNMd3hhUmJvYU9WNC1jY1hyQ3NzYW5BemxIZTVmdEdjbUx2YWYxVThZMXM1cUhhc0tMLURwWkpRVDI3X0laZTd3Z0pEa0tSTk1lb0JlMGxhM2ZTVDRIVmhaRXdsSHNfRVByRnRuWEFONUlrUS1FQ3JKTUZ0VDRoWkZzb1hRZGdBWWJROGhSc1Rtbw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 18:45"
+  },
+  {
+    "id": "b4449b30c14a",
+    "headline": "Device Startup Nothing Technology Plans to Release AI Glasses Next Year - Bloomberg.com",
+    "summary": "Nothing Technology plans to release AI-powered glasses and earbuds next year, expanding beyond smartphones.",
+    "description": "Device Startup Nothing Technology Plans to Release AI Glasses Next Year Bloomberg.comNothing’s AI devices plan reportedly contains smart glasses and earbuds techcrunch.comNothing could expand past smartphones with new smart glasses next year Android AuthorityNothing eyes smartglasses: Carl Pei may be planning AI-powered wearable for 2027 The Indian ExpressThis small brand could mess up Apple’s 2027 plans PhoneArena",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWm5NbWtlM3ZBbzVHc3pDNEVxRzE2WnFHeVNLcHRyZTBSS3JlQjIzWFJDbHdsLWtPZjlQejF1QkxwNFQ5OHBTSnY1Xy1rOUV2YXFocFFRbF9JREZzamxXWkVsOURzbFZzUUd4NXU3cnhwOWF2VS1UYjlWRDhXUnJBWnpfSnNlSGNyYTZMalA0U1hTd3pRWnVHaWoxMGRnRGJZMDFwSXR0MjdYSmloTUl3X2cwdDVnQl8yNWF1MENXZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 18:38"
+  },
+  {
+    "id": "ba8de680c7ea",
+    "headline": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
+    "summary": "DeepL report finds 83% of enterprises lag in adopting language AI for translation workflows.",
+    "description": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals that language and multilingual operations–workflows that touch sales, legal, customer support, and ... The post DeepL’s Borderless Business report reveals 83% of enterprises are still behind on languag",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 12:00"
+  },
+  {
+    "id": "9cfe620af0e7",
+    "headline": "Hershey applies AI across its supply chain operations",
+    "summary": "Hershey deploys AI across supply chain and logistics operations to optimize food production processes.",
+    "description": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy update. At its Investor Day, the company said it plans to use ... The post Hershey applies AI across its supply chain operations appeared first on AI News.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 10:00"
+  },
+  {
+    "id": "8e573c2a1d72",
+    "headline": "SAP and ANYbotics drive industrial adoption of physical AI",
+    "summary": "SAP and ANYbotics deploy physical AI robots for industrial facility inspections, reducing human safety risks.",
+    "description": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot ... The post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 Mar 2026, 15:20"
+  },
+  {
+    "id": "24d31900ab87",
+    "headline": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+    "summary": "Hugging Face releases TRL v1.0, a production-ready framework for LLM post-training workflows including DPO and GRPO.",
+    "description": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Training pipeline—the essential sequence of Supervised Fine-Tuning (SFT), Reward Modeling, and Alignment—into a unified, standardized API. In the early stages ... The post Hugging Face Releases TRL v1.0: A Unified Post-Trainin",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 07:04"
+  },
+  {
+    "id": "97e1db2991fc",
+    "headline": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
+    "summary": "Google releases Veo 3.1 Lite, a low-cost, high-speed video generation model via Gemini API for developers.",
+    "description": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While the generative video space has seen rapid progress in visual fidelity, the cost per second of generated content has remained high, often prohibitive for developers building ... The post Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API appeared f",
+    "tags": [
+      "Video Gen",
+      "Google"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Apr 2026, 06:22"
+  },
+  {
     "id": "b7815f8bdc27",
     "headline": "Okta’s CEO is betting big on AI agent identity",
     "summary": "Okta CEO Todd McKinnon discusses the company's strategy for AI agent identity management as enterprises increasingly adopt AI systems.",
@@ -10520,371 +10917,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "02 Mar 2026, 12:36"
-  },
-  {
-    "id": "7101c2ad5e8d",
-    "headline": "The trap Anthropic built for itself",
-    "summary": "Anthropic and other AI labs promised responsible self-governance but lack regulatory oversight to enforce their commitments.",
-    "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 00:08"
-  },
-  {
-    "id": "227df6068d83",
-    "headline": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-    "summary": "Anthropic's Claude chatbot ranks No. 2 on App Store following Pentagon negotiations dispute.",
-    "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 21:05"
-  },
-  {
-    "id": "a4d53999e1f1",
-    "headline": "The billion-dollar infrastructure deals powering the AI boom",
-    "summary": "Major AI infrastructure deals from Meta, Oracle, Microsoft, Google, and OpenAI drive billions in spending.",
-    "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 20:41"
-  },
-  {
-    "id": "e52074ebf920",
-    "headline": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-    "summary": "OpenAI announces Pentagon contract with technical safeguards addressing concerns raised by Anthropic dispute.",
-    "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 16:17"
-  },
-  {
-    "id": "b5157b1d305d",
-    "headline": "Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory",
-    "summary": "Alibaba open-sources CoPaw, an agent workstation for developers to scale multi-channel AI workflows.",
-    "description": "As the industry moves from simple Large Language Model (LLM) inference toward autonomous agentic systems, the challenge for devs have shifted. It is no longer just about the model; it is about the environment in which that model operates. A team of researchers from Alibaba released CoPaw, an open-source framework designed to address this by ... The post Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory app",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 10:03"
-  },
-  {
-    "id": "b4cf0943def7",
-    "headline": "A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment",
-    "summary": "Tutorial on MLflow for production-grade ML experimentation, hyperparameter optimization, and model deployment.",
-    "description": "In this tutorial, we build a complete, production-grade ML experimentation and deployment workflow using MLflow. We start by launching a dedicated MLflow Tracking Server with a structured backend and artifact store, enabling us to track experiments in a scalable, reproducible manner. We then train multiple machine learning models using a nested hyperparameter sweep while automatically ... The post A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Mode",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 09:16"
-  },
-  {
-    "id": "5eb05a246051",
-    "headline": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
-    "summary": "Trump orders US agencies to stop using Anthropic technology amid AI ethics dispute; OpenAI announces Pentagon deal.",
-    "description": "Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute Sign up for the Breaking News US email to get newsletter alerts in your inboxDonald Trump said Friday he will direct all federal agencies to “IMMEDIATELY CEASE” all use of Anthropic technology in the latest installment of a very public clash over AI safety.The Department of Defense and Anthropic hit an impasse with neither side backing down as a d",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 04:44"
-  },
-  {
-    "id": "d43f638cb970",
-    "headline": "Meta Reels Is Filling Up With AI Slop of Faith Healers Performing Miraculous Cures",
-    "summary": "Meta Reels platform inundated with AI-generated content depicting faith healers.",
-    "description": "\"Be healed in the name of Jesus!\" The post Meta Reels Is Filling Up With AI Slop of Faith Healers Performing Miraculous Cures appeared first on Futurism.",
-    "tags": [
-      "Meta"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/meta-reels-ai-faith-healing",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 06:45"
-  },
-  {
-    "id": "f5e2f9a6a1e5",
-    "headline": "Uber Employees Have Created an AI Clone of Its CEO",
-    "summary": "Uber employees created an AI clone of the company's CEO.",
-    "description": "We wonder if they can tell the difference. The post Uber Employees Have Created an AI Clone of Its CEO appeared first on Futurism.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/uber-employees-ai-ceo",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 15:00"
-  },
-  {
-    "id": "609a2518dee9",
-    "headline": "Creator of Claude Code Fears This Could Be the Last Year That Software Engineers Are Employable",
-    "summary": "Claude Code creator warns software engineers may face employment disruption within a year.",
-    "description": "\"It's going to be painful for a lot of people.\" The post Creator of Claude Code Fears This Could Be the Last Year That Software Engineers Are Employable appeared first on Futurism.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/claude-code-anthropic-labor",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 09:45"
-  },
-  {
-    "id": "4de8e6a2d1af",
-    "headline": "Our agreement with the Department of War",
-    "summary": "OpenAI details Pentagon contract with safety red lines and deployment protocols for classified environments.",
-    "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 12:30"
-  },
-  {
-    "id": "d920f5fcf462",
-    "headline": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
-    "summary": "NVIDIA advances autonomous networks with agentic AI blueprints and telco reasoning models.",
-    "description": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows, Read Article",
-    "tags": [
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 07:00"
-  },
-  {
-    "id": "9e4a054813b8",
-    "headline": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
-    "summary": "NVIDIA and partners demonstrate software-defined AI-RAN for next-generation wireless networks.",
-    "description": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN Read Article",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 07:00"
-  },
-  {
-    "id": "eaa287a21faa",
-    "headline": "Deleted my GPT account and ported my AI game project to Claude. Wow!",
-    "summary": "User migrates AI game project from GPT to Claude, praising agent capabilities.",
-    "description": "I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. ",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 07:10"
-  },
-  {
-    "id": "1ef43979576d",
-    "headline": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
-    "summary": "Claude reaches No. 1 on App Store as ChatGPT users switch in support of Anthropic's Pentagon stance.",
-    "description": "submitted by /u/ControlCAD [link] [comments]",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 10:43"
-  },
-  {
-    "id": "e532dab0dad6",
-    "headline": "Tokens as a Service - (TaaS)",
-    "summary": "Discussion on Tokens as a Service pricing model for AI-native applications.",
-    "description": "I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: \"Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions\" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: \"Softwa",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1rhuc9w/tokens_as_a_service_taas/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 10:48"
-  },
-  {
-    "id": "0f0132f810ac",
-    "headline": "How do you handle all these AI subscribtions?",
-    "summary": "Users discuss managing multiple AI subscriptions across platforms like Claude, ChatGPT, and Gemini.",
-    "description": "how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup? submitted by /u/tdjordash [link] [comments]",
-    "tags": [
-      "Market"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 19:44"
-  },
-  {
-    "id": "116f7b6c0062",
-    "headline": "I built a tool to automate your workflow after recording yourself doing the task once (Open Source)",
-    "summary": "Developer shares open-source tool for automating workflows by recording task demonstrations.",
-    "description": "Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 18:44"
-  },
-  {
-    "id": "56385f9f61ca",
-    "headline": "Gemini is already smarter with censorship then it's creators.",
-    "summary": "User discusses Gemini's content censorship policies and their effectiveness.",
-    "description": "I was frustrated about the censorship which hits quite hard with the new 20 free gens. I also forgot googles CEO name and it was able to decode \"satchel punani\" correctly. 🍤 submitted by /u/literally_iliterate [link] [comments]",
-    "tags": [
-      "Google"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhkhi3/gemini_is_already_smarter_with_censorship_then/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 01:45"
-  },
-  {
-    "id": "ffbe13a9ab6a",
-    "headline": "Fast Flux2K inpainting on 8+ mp images without upscale",
-    "summary": "Workflow for Flux2K inpainting on large images without upscaling in ComfyUI.",
-    "description": "https://pastebin.com/dn2GpiJ9 workflow I figured out how to do Flux2 klein inpainting on massive images without needing to upscale. It's using old inpainting stitching nodes that have been around for a while - it prevents the rest of the image from changing at all, and allows you to do multiple inpaints of different areas without running into compounding artifacts from the edit model changing the whole image. Using some custom timer nodes (not included in my workflow to avoid the \"you use too ma",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rh8aza/fast_flux2k_inpainting_on_8_mp_images_without/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 17:21"
-  },
-  {
-    "id": "140af1aa36b8",
-    "headline": "Using controlnets in 2026",
-    "summary": "Discussion on ControlNet usage in 2026 with newer image generation models.",
-    "description": "Hey guys, I am pretty new to comfy(2 months) and I was wondering if anyone still use controlnets and in what ways? Specially with newer models like zit and flux, would love to know how they contribute or are they obsolete now. submitted by /u/eagledoto [link] [comments]",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhlytk/using_controlnets_in_2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 02:56"
-  },
-  {
-    "id": "0c3211739c6d",
-    "headline": "ELI5 why the finetuning community is much less active for Z image turbo and base than for SDXL",
-    "summary": "Question on why fine-tuning community is less active for Zephyr and base models than SDXL.",
-    "description": "SDXL has like every imaginable Lora and Checkpoint on civitai, including weirdest niche things beyond imagination, but the only ones for ZiT and ZiB are some slight style ones for realism and of course some stuff for nudity and sex which, surprisingly, are worse than the ones for SDXL, which is an infinitely worse model. Was ZiB and ZiT overhyped? Because for all the hype I thought people would have created the coolest lora and checkpoints by now, just like they did for SDXL, even taking into ac",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Reddit r/StableDiffusion",
-    "link": "https://www.reddit.com/r/StableDiffusion/comments/1rhftq8/eli5_why_the_finetuning_community_is_much_less/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 Feb 2026, 22:20"
   }
 ]
