@@ -1,5 +1,380 @@
 [
   {
+    "id": "d98cdc92a65f",
+    "headline": "Chatbots are now prescribing psychiatric drugs",
+    "summary": "Utah allows AI system to prescribe psychiatric drugs without doctor oversight, marking only the second such clinical authority delegation in the U.S.",
+    "description": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and ...",
+    "tags": [
+      "Regulation",
+      "Healthcare"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 07:43"
+  },
+  {
+    "id": "cd25c32cf357",
+    "headline": "PSA: Anyone with a link can view your Granola notes by default",
+    "summary": "Granola AI note-taking app has privacy vulnerability, making notes viewable to anyone with a link despite claims of private defaults.",
+    "description": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people ...",
+    "tags": [
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 17:56"
+  },
+  {
+    "id": "8267aea84955",
+    "headline": "OpenAI just bought TBPN",
+    "summary": "OpenAI acquires TBPN, a weekday tech talk show featuring AI executives, as part of broader media engagement strategy.",
+    "description": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 13:40"
+  },
+  {
+    "id": "73e3b9949fcd",
+    "headline": "It’s not easy to get depression-detecting AI through the FDA",
+    "summary": "Startup Kintsugi struggles to get FDA clearance for depression-detecting AI after seven years of development.",
+    "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life ...",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 11:33"
+  },
+  {
+    "id": "25152fe00448",
+    "headline": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+    "summary": "Microsoft appoints inaugural AI CEO Mustafa Suleyman to lead superintelligence initiatives focused on business applications.",
+    "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, ...",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 10:00"
+  },
+  {
+    "id": "43e310be3cd1",
+    "headline": "Google Home’s latest update makes Gemini better at understanding your commands",
+    "summary": "Google updates Home app to improve Gemini AI assistant's natural language understanding for smart home control.",
+    "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 09:30"
+  },
+  {
+    "id": "af8922a9fab0",
+    "headline": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "summary": "OpenAI acquires tech podcast TBPN, keeping it independent while managing public perception and engagement.",
+    "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 19:21"
+  },
+  {
+    "id": "907cb32c2b6f",
+    "headline": "Microsoft takes on AI rivals with three new foundational models",
+    "summary": "Microsoft's new foundational models enable voice transcription, audio generation, and image synthesis capabilities.",
+    "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "tags": [
+      "Microsoft",
+      "LLM",
+      "Audio Gen",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 16:48"
+  },
+  {
+    "id": "4ff03b8d65f2",
+    "headline": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "summary": "OpenAI acquires business talk show TBPN to improve public image and shape narrative around AI development.",
+    "description": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 19:29"
+  },
+  {
+    "id": "77da583ff70d",
+    "headline": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "summary": "Cursor launches next-gen AI coding agent to compete directly with OpenAI and Anthropic's offerings.",
+    "description": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 17:00"
+  },
+  {
+    "id": "611f08beee92",
+    "headline": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+    "summary": "Anthropic researchers discover emotional-like representations within Claude that function similarly to human feelings.",
+    "description": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 16:00"
+  },
+  {
+    "id": "813840ed3480",
+    "headline": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+    "summary": "Microsoft launches three foundational models for voice, audio, and image generation as competitive response.",
+    "description": "Microsoft takes on AI rivals with three new foundational models TechCrunchMicrosoft’s new ‘superintelligence’ game plan is all about business The VergeMicrosoft launches 3 new AI models in direct shot at OpenAI and Google venturebeat.comMicrosoft shivs OpenAI with three new AI models for speech and images theregister.comMicrosoft building its own high-powered AI models as it looks to slash dependence on OpenAI Yahoo Finance",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 16:48"
+  },
+  {
+    "id": "508f2213a5cf",
+    "headline": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
+    "summary": "Google releases Gemma 4 open-source model with improved capabilities optimized for local deployment.",
+    "description": "Google launches Gemma 4, a new open-source model: How to try it MashableGemma 4: Byte for byte, the most capable open models blog.googleFrom RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI NVIDIA BlogBring state-of-the-art agentic skills to the edge with Gemma 4 blog.googleDay 0 Support for Gemma 4 on AMD Processors and GPUs AMD",
+    "tags": [
+      "Google",
+      "Open Source"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3BxcXljd0k5Y2taSTFPZjc5ODdKUllWWjg1M2RrWm44WE9lY1l6WXBrN2dGT1JaZmZQbkVmTXRIbkpjRTlGaHdqYjF5V3kwbFlONTRucHQ5NVh1aW41ZnBHYzQ1c082UTBTNHEzcVplQTdHTHpQQk9BelhQZms4WDVSdmJGT2tQMVRMMjJCdk1RZ05pNHJKLV9GNms?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 22:34"
+  },
+  {
+    "id": "4586c03f7630",
+    "headline": "KiloClaw targets shadow AI with autonomous agent governance",
+    "summary": "KiloClaw tool enables enterprises to govern autonomous agents and manage uncontrolled shadow AI deployment.",
+    "description": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to ... The post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 16:30"
+  },
+  {
+    "id": "ab9a9885c5d1",
+    "headline": "5 best practices to secure AI systems",
+    "summary": "Guide outlines five security best practices for protecting AI systems from emerging attack surfaces.",
+    "description": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy ... The post 5 best practices to secure AI systems appeared first on AI News.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 14:45"
+  },
+  {
+    "id": "765a4492fec7",
+    "headline": "China’s Five-Year Plan details the targets for AI deployment",
+    "summary": "China's 15th Five-Year Plan prioritizes significant AI deployment targets through 2030.",
+    "description": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to ... The post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 13:23"
+  },
+  {
+    "id": "e3e34e6955f5",
+    "headline": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
+    "summary": "TII releases Falcon Perception, a 0.6B-parameter vision model for open-vocabulary grounding and segmentation.",
+    "description": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging ... The post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Tr",
+    "tags": [
+      "Research",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 08:49"
+  },
+  {
+    "id": "720935c026f7",
+    "headline": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+    "summary": "Tutorial demonstrates building end-to-end model optimization pipeline using NVIDIA Model Optimizer in Google Colab.",
+    "description": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply ... The post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared f",
+    "tags": [
+      "NVIDIA",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 07:48"
+  },
+  {
+    "id": "d3ef31600d1f",
+    "headline": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
+    "summary": "Arcee AI releases Trinity Large Thinking, an open-source reasoning model for multi-step agents and tool use.",
+    "description": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers ... The post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning ",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 23:56"
+  },
+  {
+    "id": "0cbd7c649aad",
+    "headline": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
+    "summary": "Google Gemma 4 and NVIDIA optimize local agentic AI for consumer devices and enterprise deployment.",
+    "description": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from ... The post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first ",
+    "tags": [
+      "Google",
+      "NVIDIA",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 20:35"
+  },
+  {
+    "id": "3e101b093770",
+    "headline": "OpenAI buys tech talkshow TBPN in push to shape AI narrative",
+    "summary": "OpenAI acquires tech talk show TBPN to directly engage public and shape AI narrative during critical period.",
+    "description": "OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolvesOpenAI is wading into the media business by acquiring TBPN, a technology-focused talkshow closely watched by Silicon Valley insiders, its hosts said on Wednesday.Co-hosts John Coogan and Jordi Hays broadcast TBPN live for three hours every weekday from Los Angeles, lining up guests that include founders, venture capitalists and major figures in the technology world. Continue reading...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/02/openai-talk-show-tbpn",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 20:17"
+  },
+  {
+    "id": "6caa76eeef9f",
+    "headline": "Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude’s Source Code",
+    "summary": "Anthropic's source code leak prompts sudden focus on intellectual property protection and security.",
+    "description": "That's rich. The post Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude’s Source Code appeared first on Futurism.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 08:39"
+  },
+  {
     "id": "9e18a6ece7d6",
     "headline": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
     "summary": "Anthropic accidentally issued thousands of GitHub takedown notices for leaked source code but retracted most of them, calling the action unintended.",
@@ -10691,343 +11066,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "03 Mar 2026, 22:29"
-  },
-  {
-    "id": "37c7e285026e",
-    "headline": "Anthropic upgrades Claude’s memory to attract AI switchers",
-    "summary": "Anthropic expands Claude's memory feature to free users to attract switchers from competing AI chatbots.",
-    "description": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT ...",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 17:29"
-  },
-  {
-    "id": "3d63561e5fdb",
-    "headline": "Apple might use Google servers to store data for its upgraded AI Siri",
-    "summary": "Apple seeks Google's help setting up servers for Gemini-powered Siri while maintaining privacy standards.",
-    "description": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple ...",
-    "tags": [
-      "Apple",
-      "Google"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 15:22"
-  },
-  {
-    "id": "509bf439243a",
-    "headline": "AI-generated art can’t be copyrighted after Supreme Court declines to review the rule",
-    "summary": "US Supreme Court declines review of AI-generated art copyright case, affirming they cannot be copyrighted.",
-    "description": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright ...",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 12:58"
-  },
-  {
-    "id": "b54c391da5c3",
-    "headline": "Nvidia’s spending $4 billion on photonics to stay ahead of the curve in AI",
-    "summary": "Nvidia invests $4 billion in photonics companies to advance AI data center infrastructure.",
-    "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future ...",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 11:56"
-  },
-  {
-    "id": "e2d78944d48d",
-    "headline": "How OpenAI caved to the Pentagon on AI surveillance",
-    "summary": "OpenAI negotiates new terms with Pentagon allowing military use of its AI technologies in classified settings.",
-    "description": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 09:22"
-  },
-  {
-    "id": "864ccfb47053",
-    "headline": "ChatGPT uninstalls surged by 295% after DoD deal",
-    "summary": "ChatGPT app uninstalls surge 295% following DoD deal announcement, while Claude downloads grow.",
-    "description": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 00:03"
-  },
-  {
-    "id": "ab63fac8825f",
-    "headline": "No one has a good plan for how AI companies should work with the government",
-    "summary": "OpenAI struggles to balance startup operations with national security infrastructure responsibilities.",
-    "description": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 22:59"
-  },
-  {
-    "id": "00d27ef60970",
-    "headline": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
-    "summary": "Guide for users switching from ChatGPT to Claude following recent controversies.",
-    "description": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-    "tags": [
-      "Anthropic",
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 18:42"
-  },
-  {
-    "id": "25dd26d782d7",
-    "headline": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-    "summary": "Tech workers petition DoD to withdraw Anthropic's supply-chain risk designation and resolve dispute quietly.",
-    "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 17:18"
-  },
-  {
-    "id": "40cb9d486f0a",
-    "headline": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-    "summary": "Startup 14.ai uses AI to replace customer support teams, launching consumer brand to test capabilities.",
-    "description": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 15:14"
-  },
-  {
-    "id": "55db6894b1e0",
-    "headline": "Anthropic’s Claude reports widespread outage",
-    "summary": "Anthropic's Claude AI chatbot experiences widespread outage affecting thousands of users Monday morning.",
-    "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 13:31"
-  },
-  {
-    "id": "094207b94ec5",
-    "headline": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
-    "summary": "VCs reveal what criteria they no longer use when evaluating AI SaaS startup investments.",
-    "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Mar 2026, 17:00"
-  },
-  {
-    "id": "68f41dba5e4e",
-    "headline": "This AI Agent Is Ready to Serve, Mid-Phone Call",
-    "summary": "Deutsche Telekom partners with ElevenLabs to deploy AI assistant on all network calls in Germany.",
-    "description": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 00:25"
-  },
-  {
-    "id": "509bd41ffc35",
-    "headline": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "summary": "Research shows LLMs can accurately unmask pseudonymous users at scale, threatening privacy protections.",
-    "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 12:30"
-  },
-  {
-    "id": "3bcf32e97bc7",
-    "headline": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-    "summary": "OpenAI's Pentagon deal to enable military use of AI in classified settings mirrors Anthropic's earlier concerns.",
-    "description": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 17:29"
-  },
-  {
-    "id": "3cbc76a524c5",
-    "headline": "Google fixes Gemini’s biggest Google Home frustrations - Android Police",
-    "summary": "Google updates Gemini integration in Google Home to describe live camera feeds.",
-    "description": "Google fixes Gemini’s biggest Google Home frustrations Android PoliceBig Google Home update lets Gemini describe live camera feeds The VergeGoogle Home just announced a bunch of Gemini, smart home updates rolling out now 9to5GoogleGoogle Home's Gemini AI now sees live camera feeds The Tech BuzzGoogle Home gets new automation starters, Nest x Yale Lock controls, and Gemini upgrades FoneArena.com",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFBsd3daUEt2RmVSZ3Z3eDc4bF9fOUhTY2NuVmpLZkl3OHRWNzF4QkhQQXl6ZEJKN2ZweTlTamJROXpISkh4ZzZTZFlYcEh5THFOSlZjUi1Hd0lvcm9FTHQ5RURSVkYxazZSUlUzeEtwVkhyT0lCQ3N2QWV5eDhYc21fVEJLQUpocDFyTw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 03:12"
-  },
-  {
-    "id": "e2b336e789a5",
-    "headline": "Xbox Insiders: Try Highlight Reels on the ROG Xbox Ally X Starting Today! - Xbox Wire",
-    "summary": "ROG Xbox Ally X handheld enables AI-powered automatic gameplay highlight capture for insiders.",
-    "description": "Xbox Insiders: Try Highlight Reels on the ROG Xbox Ally X Starting Today! Xbox WireROG Xbox Ally X Handheld Can Now Use AI to Capture Gameplay Highlights Thurrott.comROG Xbox Ally X can automatically clip your gameplay when it looks important NeowinThe ROG Xbox Ally X’s new feature is Microsoft’s latest answer to SteamOS's dominance XDAThe Xbox Ally X now lets you let AI record your screen and cut together highlight reels. The Verge",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUFydl9ic2RaTllTYmdQSGRueUU2bjZYMXc3Q0FNYmxVZkVPblZtcmY2SEJWSmxLYWNxbjR0UzdEelpwMk9QZkgwa0lLM0pqczFZRG5mNVVqNmhpSmFGWEhsQklZMXp5THJQOURoay1OMWtzOU55MU5GZVE0Z245aWxKTHRXVEtUTHhFeldKcWVCLTdlay13SlMwSklnb2pQTFFsS0xmNG5TWThqY1QwaQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Mar 2026, 16:31"
-  },
-  {
-    "id": "e7695ef8f9c3",
-    "headline": "Physical AI adoption boosts customer service ROI",
-    "summary": "Physical AI adoption improves customer service ROI by combining digital intelligence with human-like interaction.",
-    "description": "The adoption of physical AI drives ROI in frontline customer service by merging digital intelligence with human-like physical interaction. As businesses navigate shrinking labour pools, they are finding that simply automating routine workflows is no longer enough. A new partnership between KDDI and AVITA demonstrates how companies can address complex operational gaps through humanoid deployment. ... The post Physical AI adoption boosts customer service ROI appeared first on AI News.",
-    "tags": [
-      "Robotics",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 11:32"
-  },
-  {
-    "id": "394560ee0223",
-    "headline": "Santander and Mastercard run Europe’s first AI-executed payment pilot",
-    "summary": "Santander and Mastercard complete Europe's first AI-executed payment in live banking network.",
-    "description": "An artificial intelligence system has, for the first time in Europe, completed a payment inside a live banking network without a human entering the final command. Banco Santander and Mastercard confirmed that they had executed a live end-to-end payment initiated and completed by an AI agent, a software system operating within the bank’s own regulated ... The post Santander and Mastercard run Europe’s first AI-executed payment pilot appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 10:00"
-  },
-  {
-    "id": "786cad6db558",
-    "headline": "AI-Native networks are no longer a 6G promise–MWC 2026 just proved it",
-    "summary": "MWC 2026 demonstrates AI-native networks transitioning from 6G concept to operational reality.",
-    "description": "AI-native networks have been a recurring talking point at Mobile World Congress for years. What made MWC 2026 in Barcelona different was the evidence. A cascade of announcements from the world’s biggest telecom vendors, chipmakers, and operators didn’t just reiterate the vision for AI-RAN–they delivered field trial results, commercial product launches, open-source toolkits, and a ... The post AI-Native networks are no longer a 6G promise–MWC 2026 just proved it appeared first on AI News.",
-    "tags": [
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 08:00"
   }
 ]
