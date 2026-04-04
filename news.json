@@ -1,5 +1,392 @@
 [
   {
+    "id": "ccd28ca46402",
+    "headline": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+    "summary": "Anthropic introduces paid pricing for OpenClaw users starting April 4th, effectively making the tool more expensive to use with Claude.",
+    "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users ...",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 19:52"
+  },
+  {
+    "id": "b27b3e01c66a",
+    "headline": "OpenAI’s AGI boss is taking a leave of absence",
+    "summary": "Fidji Simo, OpenAI's CEO of AGI deployment, is taking medical leave as the company undergoes leadership changes.",
+    "description": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 16:22"
+  },
+  {
+    "id": "c459bfa6c846",
+    "headline": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "summary": "Anthropic is becoming the hottest trade in private markets while OpenAI loses ground in secondary share trading.",
+    "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 01:31"
+  },
+  {
+    "id": "b57fcced0c84",
+    "headline": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "summary": "OpenAI's COO Brad Lightcap gets new role leading special projects; CMO Kate Rouch steps away for health recovery.",
+    "description": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 20:35"
+  },
+  {
+    "id": "3204590898f4",
+    "headline": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "summary": "Anthropic acquires biotech startup Coefficient Bio for $400M to expand AI applications in biology.",
+    "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "tags": [
+      "Anthropic",
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 20:28"
+  },
+  {
+    "id": "0b31b07b29e1",
+    "headline": "Anthropic ramps up its political activities with a new PAC",
+    "summary": "Anthropic launches a Political Action Committee to support candidates aligned with its AI policy agenda.",
+    "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 20:22"
+  },
+  {
+    "id": "ad501a17825d",
+    "headline": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "summary": "Meta, Microsoft, and Google are building massive natural gas plants to power AI data centers, raising environmental concerns.",
+    "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "tags": [
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 19:48"
+  },
+  {
+    "id": "07a07c277fdf",
+    "headline": "The Facebook insider building content moderation for the AI era",
+    "summary": "Moonbounce raises $12M for AI content moderation control engine that translates policies into consistent AI behavior.",
+    "description": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+    "tags": [
+      "Startup",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 14:00"
+  },
+  {
+    "id": "333482e85699",
+    "headline": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+    "summary": "Leaked Claude code is being shared online alongside malware, raising cybersecurity concerns for AI companies.",
+    "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 10:30"
+  },
+  {
+    "id": "fb9e588171d0",
+    "headline": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+    "summary": "Meta and other AI labs investigate Mercor data breach that potentially exposed secrets about AI model training.",
+    "description": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 21:28"
+  },
+  {
+    "id": "9d5986674aa5",
+    "headline": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+    "summary": "OpenAI's AGI deployment CEO Fidji Simo takes medical leave during major leadership restructuring.",
+    "description": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 19:38"
+  },
+  {
+    "id": "a323269eab21",
+    "headline": "OpenClaw gives users yet another reason to be freaked out about security",
+    "summary": "OpenClaw agentic tool allows attackers to gain silent unauthenticated admin access, exposing security vulnerabilities.",
+    "description": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 20:30"
+  },
+  {
+    "id": "1e099eaab2b1",
+    "headline": "Microsoft shivs OpenAI with three new AI models for speech and images - theregister.com",
+    "summary": "Microsoft releases three new AI models for speech and image generation, competing with OpenAI offerings.",
+    "description": "Microsoft shivs OpenAI with three new AI models for speech and images theregister.comMicrosoft launches ‘mid-class’ AI model as compute limits bite Financial TimesMicrosoft’s new ‘superintelligence’ game plan is all about business The VergeMicrosoft launches 3 new AI models in direct shot at OpenAI and Google VentureBeatIf Microsoft Get This One Thing Right, the Stock Could Explode Yahoo Finance",
+    "tags": [
+      "Microsoft",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3hpY3U1bExCUzBiMk9laEpnd2xabklPbzVDNld1bEU3ZnVZQ1dKUGRMaWlTU1BiMnRfWVktYmRZNlFzMmRYc3JVWDN3UmZuaTZXUTVFNVpiNTdUbkRUVk4zMHRyeFl0V25BWGgzTFNzWHZSVjFjZTByOGU4dGJkdzBn?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Apr 2026, 20:07"
+  },
+  {
+    "id": "e9d95b2dbb44",
+    "headline": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
+    "summary": "Netflix open-sources VOID, an AI model that removes objects from videos while maintaining realistic physics.",
+    "description": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. ... The post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 09:03"
+  },
+  {
+    "id": "3530ab6804a2",
+    "headline": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows",
+    "summary": "Tutorial on building production-ready agentic systems using Z.AI GLM-5 model with thinking mode and tool calling.",
+    "description": "In this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming ... The post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows appe",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 03:06"
+  },
+  {
+    "id": "66c296d2475f",
+    "headline": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts",
+    "summary": "Google DeepMind research shows LLMs can rewrite their own game theory algorithms, outperforming expert designs.",
+    "description": "Designing algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other’s private information, like poker — has historically relied on manual iteration. Researchers identify weighting schemes, discounting rules, and equilibrium solvers through intuition and trial-and-error. Google DeepMind researchers proposes AlphaEvolve, an LLM-powered evolutionary coding agent ... The post Google DeepMind’s Research",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 22:26"
+  },
+  {
+    "id": "071de08ddb17",
+    "headline": "UK’s leading AI research institute told to make ‘significant’ changes",
+    "summary": "UK's Alan Turing Institute told to make significant changes and improve strategic value after board review.",
+    "description": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdogThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpayer funding.The Guardian revealed last week that the board of the Alan Turing Institute was reminded of its legal duties by the charity watchdog after a whistleblower complaint. Continue reading...",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 13:04"
+  },
+  {
+    "id": "1c4556525581",
+    "headline": "AI Is Killing Microsoft",
+    "summary": "Opinion piece arguing AI developments are creating challenges for Microsoft's business positioning.",
+    "description": "\"Redmond is in a pickle.\" The post AI Is Killing Microsoft appeared first on Futurism.",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-killing-microsoft",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 08:15"
+  },
+  {
+    "id": "a1f645801e6f",
+    "headline": "Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw",
+    "summary": "Startup founder discusses replacing all developers with OpenClaw AI agent, raising concerns about AI job displacement.",
+    "description": "\"I can replace everyone with AI.\" The post Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw appeared first on Futurism.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 22:30"
+  },
+  {
+    "id": "88d0f4fb4816",
+    "headline": "Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave",
+    "summary": "Two OpenAI executives, including AGI CEO, go on medical leave during leadership transition period.",
+    "description": "\"We're well-positioned to keep executing with continuity and momentum.\" The post Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave appeared first on Futurism.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/health-medicine/openai-execs-medical-leave",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 18:30"
+  },
+  {
+    "id": "1f46a8484270",
+    "headline": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion",
+    "summary": "AI-powered tractor startup collapses after burning $250M in funding, fires all employees.",
+    "description": "\"It totally failed.\" The post AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion appeared first on Futurism.",
+    "tags": [
+      "Startup",
+      "Robotics"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/robots-and-machines/ai-tractor-startup-founders",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 10:30"
+  },
+  {
+    "id": "46d4eacb3ac2",
+    "headline": "Evaluating alignment of behavioral dispositions in LLMs",
+    "summary": "Research on evaluating alignment of behavioral dispositions in large language models.",
+    "description": "Generative AI",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Google AI Blog",
+    "link": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 08:00"
+  },
+  {
+    "id": "2367a532963b",
+    "headline": "Working to advance the nuclear renaissance",
+    "summary": "MIT researcher discusses AI's potential role in advancing nuclear power as clean energy solution.",
+    "description": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT News AI",
+    "link": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Apr 2026, 16:55"
+  },
+  {
     "id": "d98cdc92a65f",
     "headline": "Chatbots are now prescribing psychiatric drugs",
     "summary": "Utah allows AI system to prescribe psychiatric drugs without doctor oversight, marking only the second such clinical authority delegation in the U.S.",
@@ -10755,316 +11142,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "04 Mar 2026, 18:50"
-  },
-  {
-    "id": "d2f3cbebc8e2",
-    "headline": "Inside the secret meeting that led to the AI political resistance",
-    "summary": "Political and community leaders met secretly in New Orleans to discuss AI policy resistance and governance.",
-    "description": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 06:00"
-  },
-  {
-    "id": "bea201ed2a57",
-    "headline": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
-    "summary": "Google's Gemini AI assistant gains new capabilities in Pixel phones, including grocery ordering and ride booking.",
-    "description": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 14:00"
-  },
-  {
-    "id": "66dc081c331f",
-    "headline": "How the experts figure out what’s real in the age of deepfakes",
-    "summary": "Experts develop methods to identify deepfakes and manipulated media during military conflicts and misinformation.",
-    "description": "In the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 13:22"
-  },
-  {
-    "id": "078958f9aafb",
-    "headline": "Why AI startups are selling the same equity at two different prices",
-    "summary": "AI startups use novel dual-pricing valuation strategies to artificially achieve unicorn status.",
-    "description": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 00:31"
-  },
-  {
-    "id": "201c4aa37d71",
-    "headline": "Alibaba’s Qwen tech lead steps down after major AI push",
-    "summary": "Alibaba's Qwen AI tech lead Junyang Lin steps down following a major model launch.",
-    "description": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 23:16"
-  },
-  {
-    "id": "9d8bc290650c",
-    "headline": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-    "summary": "Tech billionaire-backed super PAC spends $125M opposing AI regulation-advocating candidates in elections.",
-    "description": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 21:44"
-  },
-  {
-    "id": "00ae75c0bc5f",
-    "headline": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-    "summary": "OpenAI's new GPT-5.3 Instant model reduces annoying 'calm down' responses plaguing users.",
-    "description": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 20:20"
-  },
-  {
-    "id": "c855de81d888",
-    "headline": "Claude Code rolls out a voice mode capability",
-    "summary": "Anthropic adds Voice Mode to Claude Code, expanding AI coding assistant capabilities.",
-    "description": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 20:02"
-  },
-  {
-    "id": "86f3482705f8",
-    "headline": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-    "summary": "X suspends creators from revenue-sharing for unlabeled AI posts depicting armed conflict.",
-    "description": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 18:27"
-  },
-  {
-    "id": "0d34fe5823a0",
-    "headline": "Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call",
-    "summary": "Deutsche Telekom partners with ElevenLabs to enable AI voice assistant on all network calls in Germany.",
-    "description": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 00:25"
-  },
-  {
-    "id": "a111a08875d1",
-    "headline": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-    "summary": "Newsletter covers lightning-prevention startup technology and details of OpenAI's Pentagon deal.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 13:30"
-  },
-  {
-    "id": "c5e09deacf1d",
-    "headline": "The latest Pixel Drop arrives with 8 useful upgrades for your Android phone - what's new - ZDNET",
-    "summary": "Google's Pixel Drop brings eight new personalization and AI-powered tools to Android devices.",
-    "description": "The latest Pixel Drop arrives with 8 useful upgrades for your Android phone - what's new ZDNETMarch Pixel Drop: New personalization and AI tools blog.googleAndroid’s Find Hub adds iPhone-like luggage tracking links The VergePixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more 9to5GoogleGoogle Adds Apple-Like Call Screens, Bag Tracking to Android Bloomberg.com",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGhUNlV4NTNiZi0xd2Y4TmRpWlplLVplTXM0ZGo1MGFsOVBvMXJyeWlkd2h2N0ctd2RXM0NBc09vTlpmR3pPa1hQNkM0VmJkeUlRME1TVERJZlFMZzlfcm5Va1NxSE5oMGhzcFJoT3JLS0FNYWZTczZVcHBaSmJqSTFNXzhqc2hXZVRlOFVFczExUW03dGc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 01:35"
-  },
-  {
-    "id": "c1bb2b43205d",
-    "headline": "Physical AI is having its moment–and everyone wants a piece of it",
-    "summary": "Physical AI technology gains industry momentum with converging breakthroughs in robotics and autonomous systems.",
-    "description": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many. Physical AI is having that moment right now–and paying attention to where it is coming from, and why, tells you more than any single product launch can. The term ... The post Physical AI is having its moment–and everyone wants a piece of it appeared first on AI News.",
-    "tags": [
-      "Robotics",
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 12:00"
-  },
-  {
-    "id": "7fdfff0df91e",
-    "headline": "AI agents prefer Bitcoin shaping new finance architecture",
-    "summary": "AI agents prefer Bitcoin for digital wealth storage, reshaping financial architecture for machine autonomy.",
-    "description": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how corporate capital flows. Non-partisan research by the Bitcoin Policy Institute evaluated how these frontier models would transact if operating as independent economic actors. The study tested ... The post AI agents prefer Bitcoin shaping new finance architecture appeared first on AI News.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 10:52"
-  },
-  {
-    "id": "61455e84c06f",
-    "headline": "Google makes its industrial robotics AI play official–and this time, it means business",
-    "summary": "Google's Intrinsic moves from moonshot to core operations, officially betting on industrial robotics AI.",
-    "description": "When Google folds a moonshot into its core operations, it’s not cleaning house. It’s placing a bet. On February 25, Alphabet-owned Intrinsic–which builds AI models and software designed to make industrial robotics more accessible–officially joined Google. The company will remain a distinct group within Google, working closely with Google DeepMind and tapping into Gemini AI models and ... The post Google makes its industrial robotics AI play official–and this time, it means business appeared firs",
-    "tags": [
-      "Google",
-      "Robotics"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 08:00"
-  },
-  {
-    "id": "a25f6347e5c3",
-    "headline": "Best AI security solutions 2026: Top enterprise platforms compared",
-    "summary": "AI transforms cybersecurity landscape, enabling offensive reconnaissance and improving phishing attack realism.",
-    "description": "Artificial intelligence is no longer just powering defensive cybersecurity tools, it is reshaping the entire threat landscape. AI is accelerating reconnaissance, improving the realism of phishing, automating malware mutation, and enabling adaptive attack techniques. At the same time, enterprises are embedding AI agents, copilots, and generative AI tools into everyday workflows. That dual dynamic has ... The post Best AI security solutions 2026: Top enterprise platforms compared appeared first on",
-    "tags": [
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 14:27"
-  },
-  {
-    "id": "e9e152cb3b07",
-    "headline": "The integration of AI in modern forex automation",
-    "summary": "Artificial intelligence reshapes forex trading automation and market dynamics.",
-    "description": "Try to think of just one area where artificial intelligence is not leaving a mark, and you’ll realise there’s almost none. And in the forex world, things have not been any different. It’s a big part of why Fortune Business Insights values the global AI market size at $375.93 billion. Looking ahead, the sector could ... The post The integration of AI in modern forex automation appeared first on AI News.",
-    "tags": [
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 14:20"
-  },
-  {
-    "id": "dcb084d78311",
-    "headline": "Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations",
-    "summary": "SymTorch PyTorch library translates deep learning models into interpretable, human-readable mathematical equations.",
-    "description": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But do you know what it has actually learned? A team of University of Cambridge researchers propose ‘SymTorch’, a library designed to integrate symbolic regression (SR) into ... The post Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations appeared first on ",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/03/meet-symtorch-a-pytorch-library-that-translates-deep-learning-models-into-human-readable-equations/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 23:39"
-  },
-  {
-    "id": "767f9a3f72cd",
-    "headline": "How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models",
-    "summary": "Tutorial demonstrates efficient LLM fine-tuning using Unsloth and QLoRA with stable end-to-end pipeline.",
-    "description": "In this tutorial, we demonstrate how to efficiently fine-tune a large language model using Unsloth and QLoRA. We focus on building a stable, end-to-end supervised fine-tuning pipeline that handles common Colab issues such as GPU detection failures, runtime crashes, and library incompatibilities. By carefully controlling the environment, model configuration, and training loop, we show how ... The post How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language ",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Mar 2026, 22:29"
   }
 ]
