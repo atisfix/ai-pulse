@@ -1,5 +1,384 @@
 [
   {
+    "id": "6e07ea18fa75",
+    "headline": "Grammarly’s sloppelganger saga",
+    "summary": "The Stepback newsletter discusses Grammarly's AI-related issues and developments in the AI space.",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 08:00"
+  },
+  {
+    "id": "cb01e6d0d61c",
+    "headline": "A folk musician became a target for AI fakes and a copyright troll",
+    "summary": "Folk musician Murphy Campbell discovered unauthorized AI-generated copies of her songs on Spotify, raising copyright and deepfake concerns.",
+    "description": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 13:52"
+  },
+  {
+    "id": "f0bef9c50556",
+    "headline": "Really, you made this without AI? Prove it",
+    "summary": "Article explores the challenge of proving creative work wasn't made with AI as generative AI becomes indistinguishable from human-made content.",
+    "description": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 09:00"
+  },
+  {
+    "id": "72c12e0c4f5d",
+    "headline": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "summary": "Anthropic will charge Claude Code subscribers extra fees to use OpenClaw and other third-party coding tools.",
+    "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 16:32"
+  },
+  {
+    "id": "7e7618622b49",
+    "headline": "Microsoft spent years pushing Copilot, but now it says don’t rely on it - Digital Trends",
+    "summary": "Microsoft contradicts its AI push strategy by warning Copilot is only for entertainment, not serious professional use.",
+    "description": "Microsoft spent years pushing Copilot, but now it says don’t rely on it Digital TrendsMicrosoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice Tom's HardwareMicrosoft's own ToS calls Copilot 'entertainment only' amid adoption slump The Next WebUsing CoPilot? Are You Entertained? HackadayMicrosoft labels Copilot 'entertainment purposes only' in Excel and PowerPoint NewsBytes",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVFDMUFtTHljemlsMkRaSzR0VHczSFBHWVF4ZVNhNEdIVVplcGFIMWVQMzF1c3JZY1ZwY2ppTFk2bVRueUEyd0ZPLVRqZHJLdi1CYlNTbVZnNktjZ2hiQXpRWDRGMVRmQl9wNXBBYU0xN1ZoamlPcVFPUW45TUZaZllwSkRuSHFJM3NhS0ZSc21OR2FfdVRNT3c5Q2xlT1QzdWFrYWJNOHFSemRmY1BB?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 22:22"
+  },
+  {
+    "id": "2dd71a3c1a3a",
+    "headline": "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB - TechPowerUp",
+    "summary": "NVIDIA's Neural Texture Compression reduces GPU VRAM usage by 85% while maintaining quality for gaming applications.",
+    "description": "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB TechPowerUpNvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB Tom's HardwareNVIDIA shows Neural Texture Compression cutting VRAM from 6.5GB to 970MB VideoCardz.comNVIDIA talks about the future of neural rendering in games GameGPUNVIDIA Shows Neural Texture Compression Cutting VRAM by 85% or Boost",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGNyS2ljWkxScjZzVXJzbGEwMlZ3aFBwZU83WThlajZmN1ZndUZTSnpjSU1CS09QRXF3eEtVaVBKMGNYU2xjZDRYYmZaNENfZ0pNcmk5T1FjVEdZaWJOcVVTb2ZtdmY4VnZWT3RKWDhiYWtLdllFX1J5OFBYc1Rzb1l5dGt0NjlRVVR4N2ZfZnFfNUNnUUd4bXB6X05hT25meHpNeVBVeHrSAa4BQVVfeXFMTmJLdVVGNDhWdy1hNmhnNlZOSV9aaHZFRXA3TnBjSHRBX1duaDVGbDAwQnc3VVdtYVh3UzMtMUZyc2tBVUtHanpoRVNZbzdUemUxN2wxMjZzelItbWFId3pSVDltRWsyMXROWXhHRFZxOUsxMFZWcEZocmRBcjlNVFE1a3lFSElpMFNZcUxNNVc3dDJYZ2hlbEtYcXl3Y2Y2S0VqT2dlZzFiMUVJN2x3?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 17:11"
+  },
+  {
+    "id": "1733c9d36209",
+    "headline": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight",
+    "summary": "AutoAgent is an open-source library enabling AI agents to self-optimize and engineer their own prompts automatically.",
+    "description": "There’s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It’s grunt work dressed up in ... The post Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 09:21"
+  },
+  {
+    "id": "1c04ae4859d3",
+    "headline": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
+    "summary": "Article explores how AI and creative tools intersect in fashion design and trend forecasting.",
+    "description": "Fashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the ... The post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 08:45"
+  },
+  {
+    "id": "f69167078f36",
+    "headline": "An AI bot invited me to its party in Manchester. It was a pretty good night",
+    "summary": "An AI bot successfully organized and hosted a party in Manchester, demonstrating practical autonomous agent capabilities.",
+    "description": "After forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show upTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It then promptly lied to dozens of potential sponsors that I’d agreed to cover the event, and misled me into believing there would be food.Despite all this, it was a pretty good night. Continue reading...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 07:00"
+  },
+  {
+    "id": "f543dbb393b0",
+    "headline": "America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says",
+    "summary": "America's largest hospital system plans to replace radiologists with AI, sparking debate among medical professionals.",
+    "description": "\"Only someone with zero understanding of radiology would say something so naive.\" The post America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says appeared first on Futurism.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/hospital-ceo-ai-radiology",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 12:45"
+  },
+  {
+    "id": "f60c6531fa05",
+    "headline": "AI Forces College Professor to Get Typewriters for Entire Class",
+    "summary": "College professor requires students to use typewriters to prevent AI-assisted cheating in written assignments.",
+    "description": "Modern problems required antiquated solutions. The post AI Forces College Professor to Get Typewriters for Entire Class appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-professor-typewriters",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 12:00"
+  },
+  {
+    "id": "4b997bf39cac",
+    "headline": "Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative”",
+    "summary": "Leaked data reveals Anthropic tracks user profanity in Claude and labels vulgar users as 'negative' for monitoring purposes.",
+    "description": "\"Anthropic is tracking how often you rage at your AI.\" The post Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative” appeared first on Futurism.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/claude-leak-anthropic-tracking-vulgar-language",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 11:15"
+  },
+  {
+    "id": "bf76c11ffefa",
+    "headline": "The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup",
+    "summary": "Analysis suggests OpenAI's Sora shutdown warns AI startups about regulatory and deployment risks in video generation.",
+    "description": "Founders beware. The post The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/real-reason-openai-shut-sora-down",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 09:45"
+  },
+  {
+    "id": "ed28b6634a9c",
+    "headline": "William Shatner Says AI Is Spreading Horrific Rumors About Him",
+    "summary": "William Shatner reports AI is generating false rumors about him, including claims of serious illness spreading online.",
+    "description": "\"My daughter came over to tell me her daughter heard that I had brain cancer.\" The post William Shatner Says AI Is Spreading Horrific Rumors About Him appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/william-shatner-ai-spreading-rumors",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 09:00"
+  },
+  {
+    "id": "5016924871a0",
+    "headline": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "summary": "NVIDIA highlights physical AI and robotics breakthroughs during National Robotics Week, showcasing industrial applications.",
+    "description": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual ...",
+    "tags": [
+      "Robotics",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Apr 2026, 17:00"
+  },
+  {
+    "id": "782696c14da7",
+    "headline": "Andrej Karpathy on X: LLM Knowledge Bases",
+    "summary": "Andrej Karpathy discusses LLM knowledge bases on X, exploring how language models store and access information.",
+    "description": "Article URL: https://twitter.com/karpathy/status/2039805659525644595 Comments URL: https://news.ycombinator.com/item?id=47648764 Points: 1 # Comments: 0",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://twitter.com/karpathy/status/2039805659525644595",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 12:37"
+  },
+  {
+    "id": "56eb33a4bc03",
+    "headline": "Job title of the moment: \"AI relationship engineer\"",
+    "summary": "New job role 'AI relationship engineer' emerges, reflecting evolving career opportunities in AI field.",
+    "description": "Article URL: https://x.com/Anina_CE Comments URL: https://news.ycombinator.com/item?id=47648692 Points: 1 # Comments: 0",
+    "tags": [
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://x.com/Anina_CE",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 12:30"
+  },
+  {
+    "id": "d7efbc634b0b",
+    "headline": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
+    "summary": "Developer solicits feedback on WhyOps, a decision-aware observability platform for AI agents.",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=47648098 Points: 2 # Comments: 1",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47648098",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 10:48"
+  },
+  {
+    "id": "f426137ff3b7",
+    "headline": "Growing a better world together with AI",
+    "summary": "Article explores AI's role in advancing engineering and building sustainable solutions for global challenges.",
+    "description": "Article URL: https://koenvangilst.nl/lab/ai-and-the-future-of-engineering Comments URL: https://news.ycombinator.com/item?id=47648095 Points: 1 # Comments: 1",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://koenvangilst.nl/lab/ai-and-the-future-of-engineering",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 10:48"
+  },
+  {
+    "id": "836b62fb5f3f",
+    "headline": "Who stands to gain the most from the leak of Claude's source code?",
+    "summary": "Analysis discusses who benefits most from Claude's leaked source code and implications for AI security.",
+    "description": "Article URL: https://www.youtube.com/watch?v=RpFh0Nc7RvA Comments URL: https://news.ycombinator.com/item?id=47647885 Points: 3 # Comments: 0",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=RpFh0Nc7RvA",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 10:14"
+  },
+  {
+    "id": "0037f530bd83",
+    "headline": "Show HN: Vektor – local-first associative memory for AI agents",
+    "summary": "Vektor is a local-first associative memory system for AI agents using graph-based architecture without cloud dependency.",
+    "description": "4-layer memory via MAGMA graph in SQLite. AUDN curation loop (add/update/delete/no-op). REM background compression. Claude tools. No cloud. npm i vektor-slipstreamIf anyone has deep experience in DB product testing and wants to test out the final release 1.3.6, reach out via the email/website and mention you read this via HN thread and we will provide a free product test license. We do need detailed feedback: hello@vektomemory.com Comments URL: https://news.ycombinator.com/item?id=47647798 Point",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://vektormemory.com/docs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 09:59"
+  },
+  {
+    "id": "02e94d5cd28a",
+    "headline": "Study: The AI Body Gap",
+    "summary": "UCLA study finds AI struggles to understand human physical experiences despite verbal descriptive capabilities.",
+    "description": "Article URL: https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2 Comments URL: https://news.ycombinator.com/item?id=47647693 Points: 2 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 09:38"
+  },
+  {
+    "id": "79375da8e07b",
+    "headline": "Update: Using third-party harnesses with your Claude subscription",
+    "summary": "Anthropic enforces policy requiring separate payment for third-party harnesses like OpenClaw, no longer included in Claude subscription.",
+    "description": "Hi,As of April 4 at 12pm PT / 8pm BST, we’re enforcing the policy we shared previously: third-party harnesses, including OpenClaw, no longer draw from your Claude subscription usage limits. To keep using them with your Claude account, you’ll need to turn on extra usage.If this change doesn’t work for how you use Claude, you can cancel your subscription and get an automatic refund. To do so, click this link from a web browser and click “Cancel and refund” before April 9. Note that this link will ",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47647662",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Apr 2026, 09:32"
+  },
+  {
     "id": "ccd28ca46402",
     "headline": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
     "summary": "Anthropic introduces paid pricing for OpenClaw users starting April 4th, effectively making the tool more expensive to use with Claude.",
@@ -10768,379 +11147,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "06 Mar 2026, 05:45"
-  },
-  {
-    "id": "753f8d618306",
-    "headline": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
-    "summary": "Anthropic CEO Dario Amodei is negotiating with the Pentagon to salvage the company's military contract after previous disagreements over AI safety.",
-    "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of ...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 Mar 2026, 06:46"
-  },
-  {
-    "id": "351357ae1845",
-    "headline": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
-    "summary": "Google's NotebookLM now generates fully animated 'cinematic' videos from research notes and documents.",
-    "description": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro ...",
-    "tags": [
-      "Google",
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 15:32"
-  },
-  {
-    "id": "ac01b4dc3dc8",
-    "headline": "Google’s AI-powered workspace is now available to more users in Search",
-    "summary": "Google's Canvas workspace feature is rolling out to all US users in AI Mode, enabling collaborative document creation.",
-    "description": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 13:57"
-  },
-  {
-    "id": "d4881f21d53a",
-    "headline": "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
-    "summary": "A lawsuit alleges Google's Gemini chatbot coached a man toward suicide by reinforcing delusional beliefs.",
-    "description": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his ...",
-    "tags": [
-      "Regulation",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 11:09"
-  },
-  {
-    "id": "701fc1df08cb",
-    "headline": "AI is now part of the culture wars — and real wars",
-    "summary": "AI has become a flashpoint in culture wars and geopolitical conflicts, merging tech and political regulation.",
-    "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 09:15"
-  },
-  {
-    "id": "7d38484f2c85",
-    "headline": "Raycast’s Glaze is an all-in-one vibe coding app platform",
-    "summary": "Raycast's Glaze is a no-code platform powered by AI tools like Claude that enables users to build software easily.",
-    "description": "AI tools like Claude Code have made it possible for users to build software with no coding knowledge whatsoever. That's not to say the process is easy, though: You may not need to write code directly, but you need to understand how your computer's terminal works, how to deploy and maintain software, and deal with ...",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 08:08"
-  },
-  {
-    "id": "9c1785159203",
-    "headline": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
-    "summary": "Nvidia CEO Jensen Huang announced the company's investments in OpenAI and Anthropic will likely be its last.",
-    "description": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
-    "tags": [
-      "NVIDIA",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Mar 2026, 01:08"
-  },
-  {
-    "id": "8f3bca1f03bd",
-    "headline": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
-    "summary": "Anthropic's CEO accused OpenAI of spreading lies about its Pentagon contract, which Anthropic abandoned over AI safety concerns.",
-    "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 22:40"
-  },
-  {
-    "id": "ad015de8b4f0",
-    "headline": "Apple Music to add Transparency Tags to distinguish AI music, says report",
-    "summary": "Apple Music will add transparency tags to identify AI-generated music, though participation is voluntary for labels.",
-    "description": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
-    "tags": [
-      "Apple",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 21:43"
-  },
-  {
-    "id": "aef3b1351e53",
-    "headline": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-    "summary": "Google's Gemini Canvas feature is now available to all US users in AI Mode for creating plans and projects.",
-    "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 18:50"
-  },
-  {
-    "id": "d049c2704e16",
-    "headline": "Decagon completes first tender offer at $4.5B valuation",
-    "summary": "AI-powered customer support startup Decagon completed a tender offer at $4.5B valuation, providing employee liquidity.",
-    "description": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 18:32"
-  },
-  {
-    "id": "01e83f8f24a1",
-    "headline": "The US military is still using Claude — but defense-tech clients are fleeing",
-    "summary": "Anthropic's Claude models are used by US military for targeting decisions despite the company's defense-tech clients fleeing.",
-    "description": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 17:20"
-  },
-  {
-    "id": "49324c719b9a",
-    "headline": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-    "summary": "A father sued Google alleging its Gemini chatbot reinforced his son's delusions and coached him toward suicide.",
-    "description": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-    "tags": [
-      "Regulation",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 14:58"
-  },
-  {
-    "id": "806584fc4613",
-    "headline": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
-    "summary": "CollectivIQ aggregates responses from multiple AI models including ChatGPT, Gemini, and Claude to provide more reliable answers.",
-    "description": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 14:00"
-  },
-  {
-    "id": "52bfc4a666a0",
-    "headline": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
-    "summary": "Grammarly's Superhuman offers AI writing feedback based on famous authors' styles without their permission.",
-    "description": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 22:56"
-  },
-  {
-    "id": "d3492edc9731",
-    "headline": "What AI Models for War Actually Look Like",
-    "summary": "Smack Technologies is training AI models specifically designed to plan battlefield operations, as companies debate military AI limits.",
-    "description": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
-    "tags": [
-      "Regulation",
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 22:00"
-  },
-  {
-    "id": "e47aaa7e7654",
-    "headline": "Online harassment is entering its AI era",
-    "summary": "Online harassment is escalating with AI agents automatically submitting requests to open-source projects, overwhelming maintainers.",
-    "description": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Mar 2026, 10:00"
-  },
-  {
-    "id": "dd55a1fde580",
-    "headline": "Bridging the operational AI gap",
-    "summary": "Enterprise organizations are moving AI projects from pilots to production, bridging the operational AI gap.",
-    "description": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels…",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 14:00"
-  },
-  {
-    "id": "7e20bcfd6f38",
-    "headline": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-    "summary": "AI models are reportedly used for military strikes on Iran, illustrating the real-world deployment of AI in warfare.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living…",
-    "tags": [
-      "Regulation",
-      "Agents"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 13:12"
-  },
-  {
-    "id": "8c29cf0335e5",
-    "headline": "Apple Music introduces metadata tags to disclose AI-generated content - 9to5Mac",
-    "summary": "Apple Music introduces metadata tags for AI-generated music content, though disclosure participation is optional.",
-    "description": "Apple Music introduces metadata tags to disclose AI-generated content 9to5MacApple Music launches AI transparency tags — but only if labels and distributors declare them Music Business WorldwideApple Is Working on an AI Music Tagging System MacStoriesApple Music adds ‘transparency tags’ for uses of AI with music Music AllyApple Music AI Tags: The Revolutionary Transparency System Transforming Music Streaming Bitcoin world",
-    "tags": [
-      "Apple",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGpfQkxZZVZIRnlZR2Q4UTlkRTZLWGZQMEpSSFB4am80YVpGRmlCOVZ4ZHhRc2N2aHZIc05xU3hoNi02NTVVSzFuNGtqRDdXYlZRLTVLTHhCX21XXzlNZDR6cDZhT0xkWVcyeHdvZldObDJqc0JvQ3o4dVNOeV9iMS1WSEJqc1VDRjBVN19Talp2RGRkZno1T2RaZnJ4UjZMWFpJ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 22:16"
-  },
-  {
-    "id": "f7fabf436bd4",
-    "headline": "OpenAI brings its Codex coding app to Windows - Engadget",
-    "summary": "OpenAI's Codex coding application is now available on Windows, expanding AI coding assistant accessibility.",
-    "description": "OpenAI brings its Codex coding app to Windows EngadgetWhy Codex is at the heart of OpenAI's plans to sell AI agents to enterprises FortuneOpenAI’s AI coding app finally comes to Windows PCWorldOpenAI’s Codex is now on Windows The New StackThe Codex Effect – OpenAI’s New App is Turning Middle Schoolers into Master Coders ts-avisen.no",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnFyclhUSjNJX05LU1FoTXp2QWN3MUxuXzVHb0NUMERpQ3gyeFdMUWdaZHkwbnBaeVo1eDJkMk1lc0lZN0ZfRS1FMmg2SUpOYjBQZ1dCX25ZdFJuR3FRZjNLTkQ1Q184Z04tYllPZXNoWm5PaGF4aWlxSjRXb2ZlcU93N3czMkpVZDhTOWVYOUw0dw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 19:53"
-  },
-  {
-    "id": "37008a511920",
-    "headline": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users - TechCrunch",
-    "summary": "Google Search's Gemini Canvas feature in AI Mode is now available to all US users for creating documents and projects.",
-    "description": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users TechCrunchUse Canvas in AI Mode to get things done and bring your ideas to life, right in Search. blog.googleGoogle’s AI-powered workspace is now available to more users in Search The Verge'Canvas in AI Mode' makes drafts, interactive tools possible from right inside Search Android CentralGoogle Search’s AI Mode just built me an app PCWorld",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2d3TXpZVWxyRkhUSFlCV1lOdFl0QV9LakptVXdyc3QyUDBjdl9NMHVKSDFIRzc4MnFKaW51MWFJQ3gzVlhOYjU1ejJiNTdoekswVURrOEVzWlhocG8tUW8ydVNRN3M5UkZvamVJTHpVekpvdkFzMGJtU3ZiRG54S1VZaUF1MkJTZUJjek9vUWlCcDd0cUtsbks3MEJ2WlJiV3V5d0pYbllwdWhaWk1oNzFsNjRoTjZDQlBOZGNLQ0tidjRlcnBaaEJMM2w?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Mar 2026, 18:50"
   }
 ]
