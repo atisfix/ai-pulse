@@ -1,5 +1,396 @@
 [
   {
+    "id": "13e22b77d25e",
+    "headline": "Google makes it easy to deepfake yourself",
+    "summary": "YouTube Shorts launches AI feature enabling creators to realistically clone themselves on camera for content creation.",
+    "description": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will ...",
+    "tags": [
+      "Google",
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Apr 2026, 06:53"
+  },
+  {
+    "id": "3f02c28ba3ea",
+    "headline": "Gemini gets notebooks to help you organize projects",
+    "summary": "Google Gemini adds notebooks feature to help users organize project information in a single location within the chatbot.",
+    "description": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 20:06"
+  },
+  {
+    "id": "ff5d228824b6",
+    "headline": "OpenAI made economic proposals — here’s what DC thinks of them",
+    "summary": "OpenAI submits economic proposals to Washington DC regulators regarding AI policy and governance.",
+    "description": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 16:14"
+  },
+  {
+    "id": "0ec6522d80dd",
+    "headline": "Meta is reentering the AI race with a new model called Muse Spark",
+    "summary": "Meta launches Muse Spark model, its first major AI model since Zuckerberg's multi-billion dollar AI infrastructure overhaul.",
+    "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, ...",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 12:12"
+  },
+  {
+    "id": "98177abafa03",
+    "headline": "The vibes are off at OpenAI",
+    "summary": "OpenAI faces internal challenges despite closing $122 billion funding round at $852 billion valuation.",
+    "description": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 09:47"
+  },
+  {
+    "id": "575b6ef037dc",
+    "headline": "Poke makes using AI agents as easy as sending a text",
+    "summary": "Poke enables everyday users to deploy AI agents via text message without technical setup or complex apps.",
+    "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 21:05"
+  },
+  {
+    "id": "829c9fcfe9df",
+    "headline": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "summary": "AWS explains how its investments in both Anthropic and OpenAI competitors aligns with its competitive culture.",
+    "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 20:09"
+  },
+  {
+    "id": "a7256b49ec08",
+    "headline": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "summary": "Tubi becomes first streaming service to launch native app integration within ChatGPT for user convenience.",
+    "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 18:23"
+  },
+  {
+    "id": "1e7273a8e46f",
+    "headline": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+    "summary": "Astropad Workbench enables remote monitoring and control of AI agents on Mac hardware from mobile devices.",
+    "description": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+    "tags": [
+      "Agents",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 16:01"
+  },
+  {
+    "id": "86835664fc12",
+    "headline": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+    "summary": "OpenAI releases Child Safety Blueprint to combat rising child sexual exploitation linked to AI advancements.",
+    "description": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 15:23"
+  },
+  {
+    "id": "b923e748d0ec",
+    "headline": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+    "summary": "Databricks co-founder wins ACM award and discusses his work on AI research, claiming AGI already exists.",
+    "description": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 15:00"
+  },
+  {
+    "id": "fbb09dff644c",
+    "headline": "Atlassian launches visual AI tools and third-party agents in Confluence",
+    "summary": "Atlassian adds visual AI tools and third-party agents to Confluence for enhanced content creation.",
+    "description": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+    "tags": [
+      "Agents",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 13:00"
+  },
+  {
+    "id": "98e746269856",
+    "headline": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
+    "summary": "Ex-Apple Vision Pro engineers create privacy-focused AI wearable resembling iPod Shuffle with tap-activated listening.",
+    "description": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Apr 2026, 09:30"
+  },
+  {
+    "id": "2f52c62d7379",
+    "headline": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+    "summary": "Conflicting court rulings create uncertainty about US military use of Anthropic's Claude AI model.",
+    "description": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 22:27"
+  },
+  {
+    "id": "3e20f608cd9d",
+    "headline": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+    "summary": "Meta's Muse Spark model demonstrates competitive performance, establishing Zuckerberg's presence in AI competition.",
+    "description": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 18:51"
+  },
+  {
+    "id": "eccd3c63d842",
+    "headline": "The US Army Is Building Its Own Chatbot for Combat",
+    "summary": "US Army develops proprietary chatbot trained on military data to provide soldiers mission-critical information.",
+    "description": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "tags": [
+      "LLM",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 18:00"
+  },
+  {
+    "id": "2167c813a411",
+    "headline": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+    "summary": "Anthropic launches new product to simplify AI agent development for enterprises using Claude model.",
+    "description": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 17:00"
+  },
+  {
+    "id": "4d1aba833c2f",
+    "headline": "The Download: AstroTurf wars and exponential AI growth",
+    "summary": "MIT Technology Review discusses AstroTurf wars and exponential AI growth trends.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Apr 2026, 12:25"
+  },
+  {
+    "id": "e8bc30b95142",
+    "headline": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+    "summary": "Mustafa Suleyman argues AI development will continue progressing without hitting fundamental limits anytime soon.",
+    "description": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began…",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 14:00"
+  },
+  {
+    "id": "c84b0722c05f",
+    "headline": "YouTube Shorts will use AI to make avatars that look and sound like you - 9to5Google",
+    "summary": "YouTube Shorts enables AI avatar creation allowing creators to generate realistic versions of themselves.",
+    "description": "YouTube Shorts will use AI to make avatars that look and sound like you 9to5GoogleCreators can now use AI versions of themselves to make YouTube Shorts Android PoliceYouTube Shorts launches AI avatar cloning for creators The Tech BuzzYouTube Shorts 'AI Avatars' Easily Adds Your Face, Voice to Videos via Live Selfie Tech TimesYou can now be in YouTube Shorts without ever filming a video htxt.co.za",
+    "tags": [
+      "Google",
+      "Video Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhY0hTUnY0Zzd1YjNnQ29uNUhVeVMwRTluZ19sd1ROUmxPd1VxSUtkVEwxLWdVTHRrMkZIR1dxY1V5emtvVGh6VGhHTnZlLUF5dGRxVG54YzZJTzVHem5MYlJYY2NZcXNQUEU4?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 21:39"
+  },
+  {
+    "id": "979b47520d24",
+    "headline": "Gemini just got a new notebooks feature that syncs with NotebookLM - XDA",
+    "summary": "Gemini notebooks feature now syncs with NotebookLM for enhanced project organization and tracking.",
+    "description": "Gemini just got a new notebooks feature that syncs with NotebookLM XDATry notebooks in Gemini to easily keep track of projects blog.googleGemini gets notebooks to help you organize projects The VergeGoogle bakes NotebookLM, its research tool, into Gemini EngadgetGoogle Brings Notebooks to Gemini Thurrott.com",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkFFbi01RU1teVpRQXJ0QjN4MElVWmI3aVg4dkpNM3RzM2hoRU5yVFFENzVyTGJ2MUJpMUgzSVctU0dxSGdRUGVTWGhIa3NzcVVlQlJtRFo5T1lqdHpSVDNnMDRiQmpiZV8tSVRnT1VIekw4VER3WW1Pc1dfckhENjVWbXJwYkZoY1owUnlNSFpyaXJJd2MwUHVB?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Apr 2026, 22:13"
+  },
+  {
+    "id": "95755eaef5c8",
+    "headline": "One UI 8.5 April rollout set for Galaxy S25, S24, S23 - Sammy Fans",
+    "summary": "Samsung plans Galaxy S25 One UI 8.5 April rollout with Galaxy S26 AI features.",
+    "description": "One UI 8.5 April rollout set for Galaxy S25, S24, S23 Sammy FansSamsung plans to bring some Galaxy S26 AI features to Galaxy S25 SamMobileSamsung expands One UI 8.5 beta to much older flagships and budget phones Android AuthoritySamsung Set to Roll Out Stable One UI 8.5 for the Galaxy S25 Series This April, Leak Claims Android HeadlinesThe gap between the Galaxy S25 and the S26 could be closing sooner than you think PhoneArena",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcF9BWEN6Z3R5cDJ2c0IwTkhQMlhWVUVWSTZQd1pmU0ZMTDNLTFgtVDZTOVZ5SUNCeVMxdEI0RUota0FPQVE3bzFRV2d0aWxUMzlUNUZac2VwMlk3OFd3UXRNUFNyODFHYm5XYy1rMlZ3NmNFclNSOGNHRlc4WjRZZ2kwNUN6TWxITXVseTNJT19pR1nSAZgBQVVfeXFMT1BfQVJ4cGEyOUxUc1VZcnBubldZdXdsZUhVUTctZUlnTEoxZTY4VEZfN1pXMFhBWDVVS1U2SkM5dU1VaFVkRk1Cc0tjTHVFOXEzemp0UTlhRmg5NjNZenJMSDF4Q192UlF0akUwSU04eUJaYXJ5M2FDbmRDN3lmckZLQ05rOUg3M0tqcUM5Z1oxTE9SS196RE8?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Apr 2026, 04:29"
+  },
+  {
+    "id": "0f0dc2e38066",
+    "headline": "Anthropic locked down its most powerful AI Model over cybersecurity fears–then put it to work",
+    "summary": "Anthropic's most capable AI model discovers thousands of cybersecurity vulnerabilities but withholds public release.",
+    "description": "Anthropic’s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company’s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running. That model is Claude Mythos Preview, and the initiative is called Project Glasswing. ... The post Anthropic locked down its most powerful AI Model over cybersecurity fears–then put it to work appeared first on AI ",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-locked-down-its-most-powerful-ai-model-over-cybersecurity-fears-then-put-it-to-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Apr 2026, 12:00"
+  },
+  {
     "id": "494c74bd5f36",
     "headline": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
     "summary": "ProPublica unionized staff strike for 24 hours over AI use, layoffs, and wages at the nonprofit newsroom.",
@@ -10751,386 +11142,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "09 Mar 2026, 20:28"
-  },
-  {
-    "id": "7bb1566bb12f",
-    "headline": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-    "summary": "Pentagon controversy surrounding Anthropic's defense work raises questions about whether AI startups will pursue government contracts.",
-    "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 20:14"
-  },
-  {
-    "id": "d062488e2af6",
-    "headline": "Owner of ICE detention facility sees big opportunity in AI man camps",
-    "summary": "AI data center developers are adopting remote work camp housing models to support their infrastructure expansion.",
-    "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 16:30"
-  },
-  {
-    "id": "55c12b75b192",
-    "headline": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-    "summary": "OpenAI's hardware executive Caitlin Kalinowski resigns over the company's Pentagon defense agreement.",
-    "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-    "tags": [
-      "OpenAI",
-      "Robotics"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 Mar 2026, 20:44"
-  },
-  {
-    "id": "92920ad814ff",
-    "headline": "Can AI Kill the Venture Capitalist?",
-    "summary": "VCs bet AI will disrupt every industry, but face questions about whether AI will disrupt venture capital itself.",
-    "description": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-    "tags": [
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 09:00"
-  },
-  {
-    "id": "9ec3cad0ebbf",
-    "headline": "City Union Bank launches AI centre to support banking operations",
-    "summary": "City Union Bank launches AI center to test and deploy AI solutions directly on banking operations.",
-    "description": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to create a Centre of Excellence for Artificial Intelligence in ... The post City Union Bank launches AI centre to support banking operations appeared first on AI News.",
-    "tags": [
-      "LLM",
-      "Healthcare"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 10:00"
-  },
-  {
-    "id": "7d6510278803",
-    "headline": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-    "summary": "Google AI researchers introduce Bayesian upgrade to improve LLM reasoning and belief updating capabilities.",
-    "description": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a ... The post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 08:23"
-  },
-  {
-    "id": "d08e5bb4a112",
-    "headline": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
-    "summary": "Andrej Karpathy releases Autoresearch, a 630-line Python tool enabling AI agents to run autonomous ML experiments.",
-    "description": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration ... The post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experi",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 02:47"
-  },
-  {
-    "id": "6f0742861a8c",
-    "headline": "Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression",
-    "summary": "Research examines production fragility caused by excessive redundant features in machine learning regression models.",
-    "description": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In practice, however, this instinct often introduces hidden structural risks. Every additional feature creates another dependency on upstream data pipelines, external systems, ... The post Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regressio",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 19:07"
-  },
-  {
-    "id": "59c3a44deb2a",
-    "headline": "How AI firm Anthropic wound up in the Pentagon’s crosshairs",
-    "summary": "Anthropic's standoff with Pentagon over Claude's military use reignites debate on AI warfare and accountability.",
-    "description": "Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountableUntil recently, Anthropic was one of the quieter names in the artificial intelligence boom. Despite being valued at about $350bn, it rarely generated the flashy headlines or public backlash associated with Sam Altman’s OpenAI or Elon Musk’s xAI. Its CEO and co-founder Dario Amodei was an industry fixture but hardly a household name outside of Silicon Valley, and its chatbot Cl",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/09/anthropic-artificial-intelligence-pentagon",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 11:00"
-  },
-  {
-    "id": "289bab600e0b",
-    "headline": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-    "summary": "Liverpool and Manchester United complain to X after Grok AI generated offensive posts about players and tragedies.",
-    "description": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disastersLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.The posts were generated when users asked the AI tool to make hateful posts about the two football teams. Continue reading...",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 11:08"
-  },
-  {
-    "id": "650ae2ad674f",
-    "headline": "Congress must prevent AI surveillance. The Anthropic feud proves it | Ashley Gorski and Patrick Toomey",
-    "summary": "Opinion piece argues Anthropic-Pentagon dispute highlights need for Congress to prevent AI surveillance of Americans.",
-    "description": "The company’s clash with the Pentagon is a fight over the future of American privacyThe US military wants to use its state-of-the-art AI tools to supercharge surveillance against Americans, making it easier than ever to monitor our movements, our search history, and our private associations. That’s one of the major takeaways from a dramatic dispute between the Department of Defense and some of the leading AI companies in America. What this clash highlights most of all, however, is just how easil",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 10:00"
-  },
-  {
-    "id": "080123462a5f",
-    "headline": "AI allows hackers to identify anonymous social media accounts, study finds",
-    "summary": "Research shows AI technology behind ChatGPT makes it easier for hackers to identify anonymous social media accounts.",
-    "description": "New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacksAI has made it vastly easier for malicious hackers to identify anonymous social media accounts, a new study has warned.In most test scenarios, large language models (LLMs) – the technology behind platforms such as ChatGPT – successfully matched anonymous online users with their actual identities on other platforms, based on the information they posted. Continue reading...",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 14:00"
-  },
-  {
-    "id": "9f470319b0f6",
-    "headline": "ChatGPT driving rise in reports of ‘satanic’ organised and ritual abuse, UK experts say",
-    "summary": "UK experts report ChatGPT is driving rise in reports of alleged satanic ritual and organized abuse.",
-    "description": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglectChatGPT is driving a rise in reports of organised and ritual abuse, UK experts have said, as survivors of “satanic” sexual violence use the AI tool for therapy.Police say organised and ritual abuse, and “witchcraft, spirit possession and spiritual abuse” (WSPRA) against children, is under-reported in the UK. There is no modern-day charge that covers it specifically, but such off",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 12:00"
-  },
-  {
-    "id": "95809d5a50e4",
-    "headline": "‘It means missile defence on datacentres’: drone strikes raise doubts over Gulf as AI superpower",
-    "summary": "Drone strikes on Gulf commercial datacenters signal new asymmetric warfare targeting AI infrastructure.",
-    "description": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfareIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.At 4.30am on Sunday morning, what is thought to have been an Iranian Shahed 136 drone struck an Amazon Web Services datacentre in the United Arab Emirates, setting off a devastating fire and forcing a shutdown of the power supply. Further damage was inflicted as attem",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 Mar 2026, 11:00"
-  },
-  {
-    "id": "f8c6957c180d",
-    "headline": "The Supreme Court Just Dealt a Crushing Blow to “AI Artists”",
-    "summary": "Supreme Court rules AI-generated artwork lacks human authorship required for copyright protection.",
-    "description": "\"Although the Copyright Act does not define the term 'author,' multiple provisions of the act make clear that the term refers to a human rather than a machine.\" The post The Supreme Court Just Dealt a Crushing Blow to “AI Artists” appeared first on Futurism.",
-    "tags": [
-      "Image Gen",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/supreme-court-blow-ai-artists-copyright",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 15:00"
-  },
-  {
-    "id": "35ee5f981436",
-    "headline": "Study Finds That Execs Are Outsourcing Their Thinking to AI",
-    "summary": "Study shows executives are outsourcing decision-making and thinking to AI systems.",
-    "description": "How ironic. The post Study Finds That Execs Are Outsourcing Their Thinking to AI appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-executive-thinking-survey",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 14:15"
-  },
-  {
-    "id": "16d5860f3302",
-    "headline": "OpenAI’s Pivot Into Shopping Has Been a Disaster",
-    "summary": "OpenAI's shopping integration into ChatGPT has underperformed expectations and failed to gain traction.",
-    "description": "What's in store for OpenAI's push to turn ChatGPT into an all-in-one storefront? Not a lot. The post OpenAI’s Pivot Into Shopping Has Been a Disaster appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-pivot-into-shopping-disaster",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 12:45"
-  },
-  {
-    "id": "ae0186d674ec",
-    "headline": "A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News",
-    "summary": "Machine learning engineer loses job despite believing AI expertise provided job security.",
-    "description": "Talk about digging your own grave. The post A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News appeared first on Futurism.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/machine-learning-engineer-safe-ai-layoffs",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 12:00"
-  },
-  {
-    "id": "3b9e02f55b72",
-    "headline": "Using AI to Do Your Taxes Is Likely to Backfire Spectacularly",
-    "summary": "Using AI tools for tax preparation risks significant errors and negative financial consequences.",
-    "description": "As tempting as the idea may be: don't. The post Using AI to Do Your Taxes Is Likely to Backfire Spectacularly appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/taxes-with-ai-disaster",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "08 Mar 2026, 11:15"
-  },
-  {
-    "id": "ad325f825e1a",
-    "headline": "Improving AI models’ ability to explain their predictions",
-    "summary": "MIT research develops new approach to improve AI models' ability to explain predictions for safety-critical applications.",
-    "description": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and autonomous driving.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MIT News AI",
-    "link": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 00:00"
-  },
-  {
-    "id": "83439e34b59d",
-    "headline": "Show HN: DalVideo – Screen recorder with offline AI captions and built-in editor",
-    "summary": "DalVideo is a Windows screen recorder featuring offline AI captioning powered by OpenAI Whisper.",
-    "description": "Hi HN, I built DalVideo, a screen recorder for Windows with offline AI features.Key technical details: - AI captions powered by OpenAI Whisper, runs 100% offline – supports 99+ languages - AI noise removal (RNNoise) in real-time - Smart Trim: auto-detects and cuts silent sections - Built-in editor (trim, split, delete) so you don't need a separate tool - Hardware encoding: NVENC, AMF, QuickSync – up to 4K@120fps - Codecs: H.264, H.265, AV1 in MP4/MKV - Drawing overlay, keystroke display, webcam ",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47308317",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 12:43"
-  },
-  {
-    "id": "0e42a90fbd44",
-    "headline": "Can AI Kill the Venture Capitalist?",
-    "summary": "Hacker News discussion on whether AI will disrupt the venture capital industry.",
-    "description": "Article URL: https://www.wired.com/story/ai-kill-venture-capital/ Comments URL: https://news.ycombinator.com/item?id=47308302 Points: 2 # Comments: 0",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 12:41"
-  },
-  {
-    "id": "06de0858b3cc",
-    "headline": "At 25, Wikipedia faces a double threat: rise of AI and decline of local media",
-    "summary": "Wikipedia at 25 faces dual challenges from rising AI and declining local media sources.",
-    "description": "Article URL: https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795 Comments URL: https://news.ycombinator.com/item?id=47308205 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "09 Mar 2026, 12:30"
   }
 ]
