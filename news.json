@@ -1,5 +1,344 @@
 [
   {
+    "id": "9cf1f29104fa",
+    "headline": "The Iranian Lego AI video creators credit their virality to ‘heart’",
+    "summary": "Iranian Lego creators attribute their viral AI video success to emotional authenticity and storytelling.",
+    "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US ...",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 13:30"
+  },
+  {
+    "id": "9058a020f0dc",
+    "headline": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "summary": "Anthropic temporarily banned OpenClaw's creator after Claude's pricing structure changed for the tool's users.",
+    "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 20:27"
+  },
+  {
+    "id": "d243d170c787",
+    "headline": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "summary": "A stalking victim sued OpenAI, alleging ChatGPT ignored warnings about a dangerous user who harassed her.",
+    "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 16:41"
+  },
+  {
+    "id": "927309bee9af",
+    "headline": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "summary": "TechCrunch's SusHi Tech 2026 conference in Tokyo will feature AI, robotics, and autonomous driving demonstrations.",
+    "description": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 16:38"
+  },
+  {
+    "id": "b902011ff980",
+    "headline": "How the Internet Broke Everyone’s Bullshit Detectors",
+    "summary": "AI-generated content and synthetic media are overwhelming verification systems designed to detect misinformation online.",
+    "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 09:30"
+  },
+  {
+    "id": "40d06b34e329",
+    "headline": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "summary": "Anthropic's Mythos AI model raises cybersecurity concerns, exposing longstanding developer security negligence.",
+    "description": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 18:08"
+  },
+  {
+    "id": "b948861f0d55",
+    "headline": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+    "summary": "Onix launches AI bots impersonating health influencers to offer 24/7 advice and sell products directly to consumers.",
+    "description": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 16:00"
+  },
+  {
+    "id": "51c1da0effc4",
+    "headline": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify",
+    "summary": "AI-generated music impersonating real musicians is flooding Spotify, exploiting generative AI to commit fraud.",
+    "description": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged itJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Travis, was curious about Moran’s new record that he saw on the music streaming service Spotify.“It has your name on it,” Travis told him. “But I don’t think it’s you.” Continue reading...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 12:00"
+  },
+  {
+    "id": "8e4cbd315571",
+    "headline": "Anthropic’s new AI tool has implications for us all – whether we can use it or not | Shakeel Hashim",
+    "summary": "Anthropic's Claude Mythos raises cybersecurity alarms with its apparent hacking capabilities and implications.",
+    "description": "Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostilityIn June 2024, a cyber-attack on a pathology services company caused chaos across London’s hospitals. More than 10,000 appointments were cancelled. Blood shortages followed and delays to blood tests led to a patient’s death.Lethal cyber-attacks like this are thankfully rare. But a new AI release could change that – plunging us into a terrifying new world of chaos and ",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 17:31"
+  },
+  {
+    "id": "d5c1a4b5a777",
+    "headline": "OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads",
+    "summary": "OpenAI reports $100 million in revenue from advertising integrated into ChatGPT.",
+    "description": "A handsome chunk of change. The post OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-money-chatgpt-ads",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 08:15"
+  },
+  {
+    "id": "baeafc0dd2b0",
+    "headline": "AI Is Causing Healthcare Costs to Surge",
+    "summary": "AI adoption in healthcare is paradoxically increasing costs despite promises to reduce medical expenses.",
+    "description": "\"We need technology to help us lower health care costs.\" The post AI Is Causing Healthcare Costs to Surge appeared first on Futurism.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 07:30"
+  },
+  {
+    "id": "c0d77f9eae83",
+    "headline": "There’s a Mass Rebellion Against AI in the Workplace",
+    "summary": "Workers are rebelling against workplace AI implementations that failed to deliver promised productivity gains.",
+    "description": "\"AI didn't deliver.\" The post There’s a Mass Rebellion Against AI in the Workplace appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/future-society/ai-enterprise-workers-survey",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 06:45"
+  },
+  {
+    "id": "10722ffbaff5",
+    "headline": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds",
+    "summary": "Goldman Sachs report warns AI-driven job displacement imposes lasting economic hardship on affected workers.",
+    "description": "\"Overall, these patterns suggest that AI-driven displacement could impose lasting costs on affected workers.\" The post People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-job-loss-consequences",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 06:00"
+  },
+  {
+    "id": "aa2af6525df9",
+    "headline": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
+    "summary": "OpenAI dismisses universal basic income concerns, proposing alternative economic solutions for AI disruption.",
+    "description": "We all hold stock down here. The post OpenAI Says Not to Worry About UBI, Because It Has Another Idea appeared first on Futurism.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-ubi-superintelligence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 16:01"
+  },
+  {
+    "id": "6f9001ca6312",
+    "headline": "New York Times Makes Substantial Changes to Article That Glazed a Sleazy AI Startup: “Our Piece Should Have Included That Information”",
+    "summary": "New York Times revised coverage of AI startup Medvi after omitting legal and regulatory action details.",
+    "description": "\"After this article was published, many readers noted that Medvi was facing legal and regulatory actions for its business practices.\" The post New York Times Makes Substantial Changes to Article That Glazed a Sleazy AI Startup: “Our Piece Should Have Included That Information” appeared first on Futurism.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/new-york-times-edits-medvi-article",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 13:02"
+  },
+  {
+    "id": "13ed8a9c99c4",
+    "headline": "First AI Model From Zuckerberg’s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals",
+    "summary": "Meta's first AI model from its expensive superintelligence lab underperforms against competing AI systems.",
+    "description": "Why release it now? The post First AI Model From Zuckerberg’s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals appeared first on Futurism.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/first-model-zuckerberg-superintelligence-labs-flops",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 10:07"
+  },
+  {
+    "id": "65c674af44e7",
+    "headline": "Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs",
+    "summary": "Economists acknowledge AI is indeed displacing human workers, reversing previous predictions.",
+    "description": "They're taking it seriously. The post Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/future-society/economist-ai-job-forecast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 09:10"
+  },
+  {
+    "id": "28beb2effb48",
+    "headline": "Using custom GPTs",
+    "summary": "OpenAI documentation explains how to build custom GPTs for automating workflows and creating specialized assistants.",
+    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/custom-gpts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "950088126737",
+    "headline": "ChatGPT for customer success teams",
+    "summary": "OpenAI shares how customer success teams use ChatGPT to manage accounts, reduce churn, and drive renewals.",
+    "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/customer-success",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "fdc606a00c2d",
+    "headline": "Applications of AI at OpenAI",
+    "summary": "OpenAI details real-world applications of its AI products in work, development, and everyday use.",
+    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/applications-of-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "da1e140f7524",
+    "headline": "Research with ChatGPT",
+    "summary": "OpenAI guide demonstrates how ChatGPT's search and deep research features enable information discovery and analysis.",
+    "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/search-and-deep-research",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
     "id": "6c92877d0c84",
     "headline": "Fear and loathing at OpenAI",
     "summary": "Sam Altman's tenure at OpenAI has been turbulent, including a brief firing and reinstatement, followed by organizational restructuring.",
@@ -10738,389 +11077,5 @@
     "readTime": "2 min read",
     "isFromX": false,
     "publishedAt": "11 Mar 2026, 12:46"
-  },
-  {
-    "id": "217dd0ccc004",
-    "headline": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-    "summary": "Anthropic launches new think tank while facing Pentagon blacklist and lawsuit, reshuffling C-suite leadership.",
-    "description": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, ...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 05:45"
-  },
-  {
-    "id": "a4c0b1d1ff5f",
-    "headline": "Ford is giving its commercial fleet business an AI makeover",
-    "summary": "Ford launches Ford Pro AI, generative AI service analyzing commercial vehicle data for fleet customers.",
-    "description": "Ford announced a new AI-powered service for its commercial fleet and telematics software customers called Ford Pro AI. The generative AI system analyzes data generated by commercial vehicles - including vehicle speed, seat belt activity, and engine health - and converts it into actionable items for fleet managers. The new system manifests as - what ...",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 17:30"
-  },
-  {
-    "id": "7a80a0f18654",
-    "headline": "Judge orders Perplexity to stop AI agents from shopping on Amazon",
-    "summary": "Federal judge blocks Perplexity's AI agents from placing Amazon orders without explicit user authorization.",
-    "description": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail ...",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 14:11"
-  },
-  {
-    "id": "025108ca0e23",
-    "headline": "Grammarly will keep using authors’ identities without permission unless they opt out",
-    "summary": "Grammarly turns users into AI editors using their real names without permission unless they opt out.",
-    "description": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than ...",
-    "tags": [
-      "Creative AI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 11:54"
-  },
-  {
-    "id": "d82e5646e1cb",
-    "headline": "Meta acquires Moltbook, the Reddit-like network for AI agents",
-    "summary": "Meta acquires Moltbook, a Reddit-like social network platform where AI agents create and comment on posts.",
-    "description": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and ...",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 11:22"
-  },
-  {
-    "id": "72fc8be05969",
-    "headline": "YouTube is expanding its AI deepfake detection tool to politicians and journalists",
-    "summary": "YouTube expands AI deepfake detection tool to politicians, journalists, and public officials.",
-    "description": "Public officials and journalists will soon be able to keep track of AI-generated deepfakes of themselves on YouTube through the platform's likeness detection feature. The tool is already available to millions of content creators on YouTube, but beginning Tuesday, it will expand to a pilot group of journalists, government officials, and political candidates. (At a ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 10:00"
-  },
-  {
-    "id": "261b4a8846a6",
-    "headline": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
-    "summary": "Google embeds Gemini AI deeper into Workspace apps with new chat window and integrated features.",
-    "description": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window inside Google Docs, a way to generate entire spreadsheets with AI, and a new Gemini-powered search feature in Drive. While Google Docs ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 09:00"
-  },
-  {
-    "id": "3e7119782355",
-    "headline": "You can now ask Photoshop’s AI assistant to edit images for you",
-    "summary": "Adobe adds agentic AI features to Creative Cloud, letting users edit images via chatbot descriptions.",
-    "description": "Adobe announced more agentic AI features for its Creative Cloud apps this week, allowing users to edit images and documents by describing the changes to a chatbot. A native AI-assistant is now available in public beta for Photoshop on web and mobile, and some Adobe apps, including Acrobat and Express, will soon be available to ...",
-    "tags": [
-      "Creative AI",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 09:00"
-  },
-  {
-    "id": "e53b385fbbfe",
-    "headline": "Google brings Gemini in Chrome to India",
-    "summary": "Google launches Gemini in Chrome for India with support for 8 local languages.",
-    "description": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 02:30"
-  },
-  {
-    "id": "ac29f3fd2af4",
-    "headline": "Amazon launches its healthcare AI assistant on its website and app",
-    "summary": "Amazon launches healthcare AI assistant on website and app to manage health records and appointments.",
-    "description": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-    "tags": [
-      "Healthcare",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 20:10"
-  },
-  {
-    "id": "d1c0a805728a",
-    "headline": "AI-powered apps struggle with long-term retention, new report shows",
-    "summary": "Report shows AI-powered apps drive early monetization but struggle with long-term user retention.",
-    "description": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 18:42"
-  },
-  {
-    "id": "b46ce2de0097",
-    "headline": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-    "summary": "ChatGPT now creates interactive visuals for math and science concepts instead of static diagrams.",
-    "description": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 17:51"
-  },
-  {
-    "id": "937622824191",
-    "headline": "AgentMail raises $6M to build an email service for AI agents",
-    "summary": "AgentMail raises $6M to provide email API platform giving AI agents their own inboxes.",
-    "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 16:00"
-  },
-  {
-    "id": "07abb531fae4",
-    "headline": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-    "summary": "Google adds user choice toggle for AI-powered Ask Photos search feature after user complaints.",
-    "description": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 14:58"
-  },
-  {
-    "id": "bdc25f08f490",
-    "headline": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-    "summary": "Legora, an AI legal tech platform, reaches $5.55B valuation after $550M Series D funding.",
-    "description": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 14:34"
-  },
-  {
-    "id": "c1c899f39490",
-    "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-    "summary": "Meta acquires Moltbook AI agent social network for its novel approach to connecting agents.",
-    "description": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 14:32"
-  },
-  {
-    "id": "83106ab10ad4",
-    "headline": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
-    "summary": "YouTube's AI deepfake detection tool now available to politicians, officials, and journalists.",
-    "description": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 14:00"
-  },
-  {
-    "id": "8077b6d32d42",
-    "headline": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
-    "summary": "Students use AI-powered viral TikTok pages to create memes mocking teachers.",
-    "description": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 11:00"
-  },
-  {
-    "id": "b2dfdff32b66",
-    "headline": "Inside OpenAI’s Race to Catch Up to Claude Code",
-    "summary": "OpenAI lags behind Anthropic's Claude in AI coding revolution despite being industry leader.",
-    "description": "Why is the biggest name in AI late to the AI coding revolution?",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 10:00"
-  },
-  {
-    "id": "d2f110ff7b0f",
-    "headline": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
-    "summary": "Trump administration prepares executive order targeting Anthropic despite ongoing court challenges.",
-    "description": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 01:41"
-  },
-  {
-    "id": "151caa1391cf",
-    "headline": "Fake AI Content About the Iran War Is All Over X",
-    "summary": "X's Grok fails to verify Iran war videos, spreads its own AI-generated misinformation.",
-    "description": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 16:45"
-  },
-  {
-    "id": "2bc5f603e836",
-    "headline": "I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak",
-    "summary": "Google's Gemini-powered Help Me Create tool in Docs excels at generating corporate-style content.",
-    "description": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 13:00"
-  },
-  {
-    "id": "8190b2f9c976",
-    "headline": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-    "summary": "AI misinformation in Iran conflict escalates; legal battles intensify in tech industry.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Mar 2026, 12:55"
   }
 ]
