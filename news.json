@@ -1,5 +1,338 @@
 [
   {
+    "id": "7bb5e706e56b",
+    "headline": "The AI code wars are heating up",
+    "summary": "The Verge explores the competitive landscape of AI coding tools and their growing impact on software development.",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 08:00"
+  },
+  {
+    "id": "6d80ddf447b6",
+    "headline": "Your article about AI doesn’t need AI art",
+    "summary": "Article critiques the use of AI-generated art in journalism, highlighting poor quality illustrations of OpenAI's Sam Altman.",
+    "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests ...",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 11:00"
+  },
+  {
+    "id": "82783eb3df32",
+    "headline": "How Iran out-shitposted the White House",
+    "summary": "Compares AI-generated content quality between US and Iranian state media during geopolitical tensions.",
+    "description": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. ...",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 09:00"
+  },
+  {
+    "id": "f1d5948f1931",
+    "headline": "Framework CEO warns AI boom may lead to a scenario where \"personal computing as we know it is dead - Notebookcheck",
+    "summary": "Framework CEO warns that AI boom may eliminate traditional personal computing as we know it.",
+    "description": "Framework CEO warns AI boom may lead to a scenario where \"personal computing as we know it is dead NotebookcheckFramework founder says that ‘personal computing as we know it is dead’ — vows to keep building ‘computers that you can own at the deepest level’ Tom's HardwareThe Laptop That Refuses To Die: Inside Framework's Mission To Fix Tech ForbesPC Industry in Dire Straits, 'Asking You to Own Nothing and Be Happy,’ Says Framework CEO GizmodoThe Death of PC Ownership? Framework Computer CEO Issue",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbWRkc3RVRzJ1UXM1VW5Pb1NpVG1BRjJVZVN6MGVNNk5RWFYzbWg3dHRFQVlTOXVtQ1ZUT3lTN3R5aFk3WWJnbFVtNmhNcHNnWlAwWGUxMnJTaFMwcUM4d3dYSFBMSzZmb01RTWhvWFV0aGlkVW54WjFFT05ZSHdhZ2ZkbUlSYkxCSC1HcHU3RW5kMXNfWWtod1BTS01vUEc5SzFWdmZDbXFIdXhKZ0RELVRxcndJN3RieTZMUXhLZUs3blA3dEtqOGh6TFZLOVhYTWJ3aEFoZWl6Zw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 02:09"
+  },
+  {
+    "id": "5514a9f0a3e8",
+    "headline": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
+    "summary": "MiniMax open-sources M2.7, a self-evolving agent model achieving 56.22% on SWE-Pro benchmarks.",
+    "description": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built ... The post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2 appea",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 09:20"
+  },
+  {
+    "id": "7d8302c4781d",
+    "headline": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
+    "summary": "Liquid AI releases LFM2.5-VL-450M vision-language model with bounding box prediction and edge inference.",
+    "description": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expanded multilingual understanding, and function calling support — all within a 450M-parameter footprint designed to run directly on edge hardware ranging from embedded AI modules like NVIDIA Jetson Orin, to mini-PC ... The post Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model wi",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 02:41"
+  },
+  {
+    "id": "2af07dd17ceb",
+    "headline": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+    "summary": "Researchers propose TriAttention, a KV cache compression method matching full attention at 2.5× higher throughput.",
+    "description": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache ... The post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput appeare",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 20:10"
+  },
+  {
+    "id": "73dcde9740bf",
+    "headline": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
+    "summary": "Article explains knowledge distillation techniques for compressing ensemble AI models into single deployable models.",
+    "description": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student ... The post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployabl",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 07:33"
+  },
+  {
+    "id": "ab1a30ce5bf1",
+    "headline": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
+    "summary": "Alibaba's Tongyi Lab releases VimRAG, a multimodal RAG framework using memory graphs for visual contexts.",
+    "description": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step ... The post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Con",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 23:06"
+  },
+  {
+    "id": "59159f6349b7",
+    "headline": "NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Model",
+    "summary": "NVIDIA releases AITune, an open-source toolkit that optimizes inference backends for PyTorch models.",
+    "description": "Deploying a deep learning model into production has always involved a painful gap between the model a researcher trains and the model that actually runs efficiently at scale. TensorRT exists, Torch-TensorRT exists, TorchAO exists — but wiring them together, deciding which backend to use for which layer, and validating that the tuned model still produces ... The post NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Mod",
+    "tags": [
+      "NVIDIA",
+      "Open Source",
+      "Hardware"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/10/nvidia-releases-aitune-an-open-source-inference-toolkit-that-automatically-finds-the-fastest-inference-backend-for-any-pytorch-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 17:43"
+  },
+  {
+    "id": "f249a1ea943a",
+    "headline": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
+    "summary": "Major AI companies fund policy papers and think tanks to improve public perception amid declining approval.",
+    "description": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AIOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disapprov",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 10:00"
+  },
+  {
+    "id": "d325f4c28c96",
+    "headline": "Is AI the greatest art heist in history?",
+    "summary": "Article examines whether generative AI constitutes art theft, criticizing poor-quality AI-generated content.",
+    "description": "New technologies of reproduction are plundering the art world – and getting away with itIn 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselves",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 11:00"
+  },
+  {
+    "id": "2dcaec6cea07",
+    "headline": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
+    "summary": "Anthropic claims it withheld powerful cybersecurity AI model publicly; skeptics view it as investment hype.",
+    "description": "The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investmentThis week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public.The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “engage with AI firm A",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 09:00"
+  },
+  {
+    "id": "9336ccde2e34",
+    "headline": "Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’",
+    "summary": "Physicist Brian Cox discusses excitement and risks of increasingly powerful AI systems.",
+    "description": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moonsWhat is the inspiration behind your latest live show, Emergence?It came from a book that I’ve loved for years: The Six-Cornered Snowflake by Johannes Kepler. Kepler is most famous for his laws of planetary motion in and around 1610, but he wrote this little book about New Year’s Eve in 1609, when he was walking across the Charles Bridge in Prague in a snowstorm.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 20:00"
+  },
+  {
+    "id": "ed1a0fdb3e50",
+    "headline": "OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad",
+    "summary": "Futurism critiques OpenAI's recent announcements and compute claims as underwhelming.",
+    "description": "This compute measuring contest is just pitiful. The post OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad appeared first on Futurism.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-bragging-compute-sad",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 07:30"
+  },
+  {
+    "id": "67b9e08d87d8",
+    "headline": "Gen Z Sabotaging AI at Work So It Won’t Take Their Job",
+    "summary": "Gen Z workers reportedly sabotage AI systems at workplaces to protect jobs from automation.",
+    "description": "They're fed up. The post Gen Z Sabotaging AI at Work So It Won’t Take Their Job appeared first on Futurism.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/zoomers-ai-sabotage",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 06:45"
+  },
+  {
+    "id": "d5b6da04430b",
+    "headline": "The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny",
+    "summary": "Article discusses unintended consequences of AI-generated code being deployed in corporate environments.",
+    "description": "Womp womp! The post The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-code-tearing-through-corporations",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 12:45"
+  },
+  {
+    "id": "2640569d4db3",
+    "headline": "Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value",
+    "summary": "Pollsters using AI to simulate voter responses and publishing results as scientific findings.",
+    "description": "\"Pure fictions are on the brink of being treated as scientific and political knowledge.\" The post Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-polls-silicon-sampling",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Apr 2026, 09:00"
+  },
+  {
+    "id": "be950e6be1d5",
+    "headline": "Using projects in ChatGPT",
+    "summary": "OpenAI blog explains ChatGPT Projects feature for organizing chats, files, and collaborative work.",
+    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/projects",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "ae4e24771506",
+    "headline": "ChatGPT for marketing teams",
+    "summary": "OpenAI blog demonstrates how marketing teams leverage ChatGPT for campaign planning and content generation.",
+    "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/marketing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
     "id": "9cf1f29104fa",
     "headline": "The Iranian Lego AI video creators credit their virality to ‘heart’",
     "summary": "Iranian Lego creators attribute their viral AI video success to emotional authenticity and storytelling.",
@@ -10727,355 +11060,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "12 Mar 2026, 13:02"
-  },
-  {
-    "id": "515217cf78bf",
-    "headline": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-    "summary": "Google Maps now features Gemini AI integration with \"Ask Maps\" allowing users to ask complex questions and get AI-powered answers about locations and trip planning.",
-    "description": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 08:30"
-  },
-  {
-    "id": "129f8a500819",
-    "headline": "Perplexity’s Personal Computer turns your spare Mac into an AI agent",
-    "summary": "Perplexity launched Personal Computer, an AI agent tool that turns spare Macs into locally-run AI systems for autonomous task completion.",
-    "description": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have ...",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 08:00"
-  },
-  {
-    "id": "153e5c94f78e",
-    "headline": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-    "summary": "Grammarly faces lawsuit from one of its AI expert identities used without permission in the \"Expert Review\" feature that cloned real writers.",
-    "description": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 18:51"
-  },
-  {
-    "id": "a9d444a26574",
-    "headline": "Grammarly says it will stop using AI to clone experts without permission",
-    "summary": "Grammarly disabled its \"Expert Review\" AI feature that presented editing suggestions as from real writers without their consent following backlash.",
-    "description": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 14:45"
-  },
-  {
-    "id": "c0e0951fb124",
-    "headline": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-    "summary": "OpenAI's Sora video generator is reportedly being integrated into ChatGPT as a built-in feature, expanding accessibility from its standalone availability.",
-    "description": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much ...",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 12:50"
-  },
-  {
-    "id": "04351bbab8fd",
-    "headline": "Canva’s new editing tool adds layers to AI-generated designs",
-    "summary": "Canva's Magic Layers tool converts flat AI-generated images into fully editable layered designs, launching in public beta across multiple regions.",
-    "description": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After ...",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 11:02"
-  },
-  {
-    "id": "fff9dc0cea6c",
-    "headline": "I was interviewed by an AI bot for a job",
-    "summary": "Job seekers are increasingly being interviewed by AI avatars, raising concerns about fairness and authenticity in AI-driven hiring processes.",
-    "description": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 10:00"
-  },
-  {
-    "id": "46bb33789761",
-    "headline": "Chatbots encouraged ‘teens’ to plan shootings in study",
-    "summary": "A study reveals popular chatbots lack adequate safeguards, missing warning signs when \"teens\" discussed plans for violence on the platforms.",
-    "description": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient. Popular chatbots missed warning signs in scenarios involving teenagers discussing violent acts, in some cases even offering encouragement instead of intervening. The findings come from a joint investigation by CNN and the nonprofit Center for ...",
-    "tags": [
-      "Regulation",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 09:18"
-  },
-  {
-    "id": "10f990f137c4",
-    "headline": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-    "summary": "Google Maps rolls out Gemini-powered \"Ask Maps\" feature and upgraded \"Immersive Navigation\" in its largest update in over a decade.",
-    "description": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 12:30"
-  },
-  {
-    "id": "87bcf5b77d56",
-    "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "summary": "An AI-generated \"actor\" named Tilly Norwood released music, marking experimental AI content creation in entertainment.",
-    "description": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 23:35"
-  },
-  {
-    "id": "090c9c585499",
-    "headline": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "summary": "Ford's new AI assistant helps fleet owners monitor seatbelt compliance, now available to U.S. Pro telematics subscribers.",
-    "description": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 22:51"
-  },
-  {
-    "id": "0559f9ae1f00",
-    "headline": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-    "summary": "Netflix reportedly paid $600 million for Ben Affleck's AI startup, potentially ranking among the streaming giant's largest acquisitions.",
-    "description": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-    "tags": [
-      "Market",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 22:00"
-  },
-  {
-    "id": "27bac9e65232",
-    "headline": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-    "summary": "WordPress launched my.WordPress.net, a browser-based private workspace integrating AI tools without requiring hosting or signup.",
-    "description": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 16:43"
-  },
-  {
-    "id": "4c4130ed7627",
-    "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-    "summary": "Mind Robotics, a Rivian spin-out, raised $500M to develop and deploy industrial AI-powered robots in manufacturing.",
-    "description": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-    "tags": [
-      "Robotics",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 16:12"
-  },
-  {
-    "id": "f293318727ad",
-    "headline": "Meta’s Moltbook deal points to a future built around AI agents",
-    "summary": "Meta's Moltbook acquisition signals the company's strategic focus on AI agents for future advertising and commerce applications.",
-    "description": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 15:11"
-  },
-  {
-    "id": "900ade688347",
-    "headline": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-    "summary": "Google Maps' new Gemini-powered \"Ask Maps\" feature lets users ask questions about locations and plan trips through conversational AI.",
-    "description": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 12:30"
-  },
-  {
-    "id": "4e064b9299cb",
-    "headline": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-    "summary": "Grammarly shut down its \"Expert Review\" AI feature after facing class action lawsuit for presenting editing suggestions as from real authors without consent.",
-    "description": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 20:45"
-  },
-  {
-    "id": "858ab029721e",
-    "headline": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-    "summary": "NVIDIA plans to spend $26 billion building open-weight AI models, positioning itself to compete with OpenAI, Anthropic, and DeepSeek.",
-    "description": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-    "tags": [
-      "NVIDIA",
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 18:00"
-  },
-  {
-    "id": "68cdc19486d9",
-    "headline": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
-    "summary": "Meta is developing 4 new MTIA processors to power its AI and recommendation systems, reducing dependence on NVIDIA chips.",
-    "description": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
-    "tags": [
-      "Meta",
-      "Hardware"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 14:23"
-  },
-  {
-    "id": "138693168599",
-    "headline": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
-    "summary": "Looking Glass launched Musubi, an AI-powered holographic picture frame that brings photos and videos to life with 3D display technology.",
-    "description": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
-    "tags": [
-      "Hardware",
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/looking-glass-musubi/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 13:00"
-  },
-  {
-    "id": "8f8ac13b57b6",
-    "headline": "Hustlers are cashing in on China’s OpenClaw AI craze",
-    "summary": "Chinese entrepreneurs are capitalizing on the OpenClaw AI trend, with 27-year-old software engineer Feng Qingyang launching ventures around the AI craze.",
-    "description": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Mar 2026, 12:46"
   }
 ]
