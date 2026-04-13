@@ -1,5 +1,381 @@
 [
   {
+    "id": "ea055e7e944e",
+    "headline": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "summary": "Trump officials encourage banks to test Anthropic's Mythos model despite DoD declaring Anthropic a supply-chain risk.",
+    "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 21:14"
+  },
+  {
+    "id": "473ba03970d6",
+    "headline": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "summary": "TechCrunch publishes glossary of common AI terms and definitions for newcomers to the field.",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 15:07"
+  },
+  {
+    "id": "bf6dd633f3ed",
+    "headline": "At the HumanX conference, everyone was talking about Claude",
+    "summary": "Anthropic was the standout company at San Francisco's HumanX AI-centric conference.",
+    "description": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 15:00"
+  },
+  {
+    "id": "fb1f9384ccb3",
+    "headline": "AI Agents Are Coming for Your Dating Life",
+    "summary": "AI agents simulate social interactions in Pixel Societies to optimize selection of colleagues, friends, and romantic partners.",
+    "description": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 10:00"
+  },
+  {
+    "id": "c78a6d3b11be",
+    "headline": "Want to understand the current state of AI? Check out these charts.",
+    "summary": "MIT Tech Review compiles charts to clarify conflicting narratives about current state of AI development.",
+    "description": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise. …",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 13:00"
+  },
+  {
+    "id": "d0d04afaf194",
+    "headline": "MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search",
+    "summary": "MiniMax releases MMX-CLI command-line tool giving AI agents native access to image, video, speech, and search.",
+    "description": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both to human developers working in a terminal and to AI agents running in tools like Cursor, Claude Code, and OpenCode. What Problem Is MMX-CLI Solving? ... The post MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, V",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 05:17"
+  },
+  {
+    "id": "fe833609356e",
+    "headline": "A Hands-On Coding Tutorial for Microsoft VibeVoice Covering Speaker-Aware ASR, Real-Time TTS, and Speech-to-Speech Pipelines",
+    "summary": "Microsoft VibeVoice tutorial demonstrates speaker-aware speech recognition and real-time text-to-speech synthesis.",
+    "description": "In this tutorial, we explore Microsoft VibeVoice in Colab and build a complete hands-on workflow for both speech recognition and real-time speech synthesis. We set up the environment from scratch, install the required dependencies, verify support for the latest VibeVoice models, and then walk through advanced capabilities such as speaker-aware transcription, context-guided ASR, batch audio ... The post A Hands-On Coding Tutorial for Microsoft VibeVoice Covering Speaker-Aware ASR, Real-Time TTS, ",
+    "tags": [
+      "Microsoft",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/12/a-hands-on-coding-tutorial-for-microsoft-vibevoice-covering-speaker-aware-asr-real-time-tts-and-speech-to-speech-pipelines/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 01:22"
+  },
+  {
+    "id": "106eded46b14",
+    "headline": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
+    "summary": "Meta AI and KAUST researchers propose Neural Computers that unify computation, memory, and I/O in learned models.",
+    "description": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two ... The post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.",
+    "tags": [
+      "Meta",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 21:52"
+  },
+  {
+    "id": "5aa59d7d543e",
+    "headline": "AI to predict how bowel cancer patients will respond to new NHS drug",
+    "summary": "PhenMap AI tool predicts bowel cancer patient responses to NHS drugs, potentially sparing ineffective treatments.",
+    "description": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug that was recently introduced by the NHS has been announced.Researchers at London’s Institute of Cancer Research and the RCSI University of Medicine and Health Sciences in Dublin have developed the method with the goal of sparing potentially thousands of patients from being given drugs that would be ineffe",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 09:00"
+  },
+  {
+    "id": "9723384a0e6f",
+    "headline": "The Guardian view on AI politics: US datacentre protests are a warning to big tech | Editorial",
+    "summary": "Guardian editorial warns that unregulated AI datacentre construction boom sparks bipartisan protests.",
+    "description": "In both Republican and Democratic states, scepticism and hostility towards an unregulated construction boom is growingWhen blue-collar Trump voters and Maga-friendly midwest states join the same cause as Bernie Sanders and liberal California teachers, something novel is afoot. Last month it was the turn of the Republican party in Texas to express forthright opposition to the construction of datacentres for artificial intelligence, pending adequate environmental safeguards for local communities. ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-ai-politics-us-datacentre-protests-are-a-warning-to-big-tech",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 16:42"
+  },
+  {
+    "id": "282d83b09991",
+    "headline": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
+    "summary": "Two-month experiment explores AI journaling as reflective diary offering feedback on daily thoughts and concerns.",
+    "description": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding outEver since I was a teenager, I have kept some form of diary. These days I favour a paper one for creative brainstorming, and the Journal app on my iPad where I do a speedily typed brain dump every morning. I have always found it a great way to impose some sort of order on my random thoughts, a form of meditation.But I had never even heard of AI j",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 13:00"
+  },
+  {
+    "id": "c796230cbabe",
+    "headline": "Readers reply: Should we be polite to voice assistants and AIs?",
+    "summary": "Readers debate whether politeness to voice assistants and AI is necessary or meaningful.",
+    "description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsThis week’s question: what would the world look like if people didn’t make mistakes?I always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, TorontoSend new questions to nq@theguardian.com. Continue reading...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/12/readers-reply-should-we-be-polite-to-voice-assistants",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 13:00"
+  },
+  {
+    "id": "6d7c1d5b5ceb",
+    "headline": "Man Suing City After AI Camera Flags Him For Wrongful Arrest",
+    "summary": "Man sues city after AI camera wrongly flags him as 100% match, leading to false arrest.",
+    "description": "He was a \"100 percent match.\" The post Man Suing City After AI Camera Flags Him For Wrongful Arrest appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/facial-recognition-ai-reno",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 15:45"
+  },
+  {
+    "id": "5f8b6993ec76",
+    "headline": "Nike’s AI Designed World Cup Jerseys Are a Disaster",
+    "summary": "Nike's AI-designed World Cup jerseys receive harsh criticism for poor aesthetic choices.",
+    "description": "\"This is a stupid, STUPID design.\" The post Nike’s AI Designed World Cup Jerseys Are a Disaster appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/nikes-ai-designed-world-cup-jerseys",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 15:00"
+  },
+  {
+    "id": "938d874a464d",
+    "headline": "OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem",
+    "summary": "OpenAI backs legislation providing legal protections for AI companies in catastrophic incident scenarios.",
+    "description": "How convenient. The post OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-backing-law-protects-ai-causes-mass-deaths",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 11:15"
+  },
+  {
+    "id": "032cb6e74c16",
+    "headline": "Research Finds That AI Has Already Replaced Work for 20 Percent of Jobs",
+    "summary": "Research reveals AI has already displaced work across 20% of jobs, warning policy window is closing.",
+    "description": "\"The policy window to shape how AI transforms work is probably closing faster than most governments realize.\" The post Research Finds That AI Has Already Replaced Work for 20 Percent of Jobs appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-automation-replacement",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 10:30"
+  },
+  {
+    "id": "a10e401b8209",
+    "headline": "OpenAI Staffers Horrified When Senior Leadership Hatched “Insane” Plan to Pit World Governments Against Each Other",
+    "summary": "OpenAI staff object to senior leadership's plan to pit world governments against each other on AI.",
+    "description": "\"It worked for nuclear weapons, why not AI?\" The post OpenAI Staffers Horrified When Senior Leadership Hatched “Insane” Plan to Pit World Governments Against Each Other appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-staffers-horrified-insane-plan",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Apr 2026, 09:45"
+  },
+  {
+    "id": "d096132aa3af",
+    "headline": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "summary": "Cloudflare integrates OpenAI's GPT and Codex into Agent Cloud for enterprise AI agent deployment.",
+    "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 06:00"
+  },
+  {
+    "id": "4ca4c74975e5",
+    "headline": "ChatGPT for finance teams",
+    "summary": "OpenAI highlights how finance teams use ChatGPT for reporting, analysis, forecasting, and communication.",
+    "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/finance",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "52f456d3da92",
+    "headline": "Brainstorming with ChatGPT",
+    "summary": "OpenAI guide explains brainstorming with ChatGPT to organize ideas into structured action plans.",
+    "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/brainstorming",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
+    "id": "2a67d86010ff",
+    "headline": "Selfmanager.ai – AI task manager built around dates, not lists/folders/boards",
+    "summary": "Selfmanager.ai introduces AI task manager organizing activities around dates instead of lists.",
+    "description": "Article URL: https://selfmanager.ai/ Comments URL: https://news.ycombinator.com/item?id=47751319 Points: 2 # Comments: 0",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://selfmanager.ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 12:57"
+  },
+  {
+    "id": "9891743b1ef7",
+    "headline": "As AI use increases at work, many still choose not to use it, Gallup poll finds",
+    "summary": "Gallup poll finds many workers avoid AI tools despite increasing workplace adoption rates.",
+    "description": "Article URL: https://apnews.com/article/ai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367 Comments URL: https://news.ycombinator.com/item?id=47751316 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://apnews.com/article/ai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 12:57"
+  },
+  {
+    "id": "851f1bdae224",
+    "headline": "Unslop – Filter social media slop using local-first LLM classification",
+    "summary": "Unslop tool filters social media content using local-first LLM classification.",
+    "description": "Article URL: https://github.com/sapountzis/Unslop Comments URL: https://news.ycombinator.com/item?id=47751287 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/sapountzis/Unslop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 12:54"
+  },
+  {
     "id": "7bb5e706e56b",
     "headline": "The AI code wars are heating up",
     "summary": "The Verge explores the competitive landscape of AI coding tools and their growing impact on software development.",
@@ -10728,337 +11104,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "13 Mar 2026, 14:08"
-  },
-  {
-    "id": "50074c0ffc7f",
-    "headline": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-    "summary": "Facebook Marketplace adds Meta AI auto-replies to handle common seller questions like 'Is this still available?' for improved selling efficiency.",
-    "description": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI ...",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 13:59"
-  },
-  {
-    "id": "6249e9d902d7",
-    "headline": "Gemini’s task automation is here and it’s wild",
-    "summary": "Google's Gemini gains task automation capabilities, starting with food delivery and rideshare apps on newest devices.",
-    "description": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 12:59"
-  },
-  {
-    "id": "e5054ba2fee7",
-    "headline": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now",
-    "summary": "Anthropic updates Claude to generate custom charts, diagrams, and visualizations within conversations.",
-    "description": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about ...",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 12:00"
-  },
-  {
-    "id": "d57fa08df942",
-    "headline": "Anthropic doesn’t trust the Pentagon, and neither should you",
-    "summary": "Anthropic faces legal battle with the Pentagon over AI development concerns and military applications.",
-    "description": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that ...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 10:00"
-  },
-  {
-    "id": "92067c625b18",
-    "headline": "Bespoke AI models are the next big thing in filmmaking",
-    "summary": "Filmmakers explore bespoke AI models for production as a more practical alternative to full AI-generated content.",
-    "description": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 09:56"
-  },
-  {
-    "id": "fd101adc6ca6",
-    "headline": "Microsoft’s Copilot Health can connect to your medical records and wearables",
-    "summary": "Microsoft launches Copilot Health, connecting to medical records and wearables for health-related queries and provider searches.",
-    "description": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats. The feature will have a phased rollout, so it won't be available to everyone immediately, but users can join a ...",
-    "tags": [
-      "Microsoft",
-      "Healthcare"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 09:01"
-  },
-  {
-    "id": "d310178ab67b",
-    "headline": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "summary": "Sales automation startup Rox AI reaches $1.2B valuation, offering AI-native CRM alternative.",
-    "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 22:25"
-  },
-  {
-    "id": "3d369354d931",
-    "headline": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
-    "summary": "Meta AI now automatically drafts replies to Facebook Marketplace buyers' questions using listing information.",
-    "description": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 18:20"
-  },
-  {
-    "id": "bad855b945f8",
-    "headline": "Bumble introduces an AI dating assistant, ‘Bee’",
-    "summary": "Bumble launches AI dating assistant 'Bee' that matches users based on compatibility and goals beyond swiping.",
-    "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 16:52"
-  },
-  {
-    "id": "d78398176f6c",
-    "headline": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
-    "summary": "Journalist sues Grammarly in class action for using authors as AI editors without consent.",
-    "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 16:42"
-  },
-  {
-    "id": "d6640bacad5b",
-    "headline": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-    "summary": "Gumloop raises $50M to build intuitive AI agent builder enabling employees to create custom agents.",
-    "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 15:30"
-  },
-  {
-    "id": "8afce215ba6e",
-    "headline": "Google's AI Searches Love to Refer You Back to Google",
-    "summary": "Google's AI search increasingly cites Google's own services over third-party publishers, raising fairness concerns.",
-    "description": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-    "tags": [
-      "Google"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 12:31"
-  },
-  {
-    "id": "0f5cea840205",
-    "headline": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-    "summary": "China's OpenClaw agent hype drives gold rush for cloud servers and AI subscriptions from tech companies.",
-    "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-    "tags": [
-      "Open Source",
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 12:00"
-  },
-  {
-    "id": "2066f3ba8b32",
-    "headline": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-    "summary": "Pentagon demonstrations show how AI chatbots like Claude could assist military intelligence analysis and war planning.",
-    "description": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 10:00"
-  },
-  {
-    "id": "cfa4dea00e72",
-    "headline": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-    "summary": "Podcast discusses Anthropic's DOD legal dispute, AI military applications, and impact on venture capital jobs.",
-    "description": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 19:48"
-  },
-  {
-    "id": "d07a2640b144",
-    "headline": "Google Is Not Ruling Out Ads in Gemini",
-    "summary": "Google not ruling out advertisements in Gemini as AI reshapes company's advertising business strategy.",
-    "description": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-    "tags": [
-      "Google"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 18:15"
-  },
-  {
-    "id": "3f129b05063d",
-    "headline": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-    "summary": "Defense official reveals AI chatbots could assist military targeting decisions with human oversight.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 12:16"
-  },
-  {
-    "id": "548667d42f8c",
-    "headline": "Future AI chips could be built on glass",
-    "summary": "South Korean company Absolics develops AI chips using glass substrates for data center applications.",
-    "description": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and…",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 09:00"
-  },
-  {
-    "id": "67dbf045a23a",
-    "headline": "A defense official reveals how AI chatbots could be used for targeting decisions",
-    "summary": "Pentagon could use generative AI to rank targets and recommend strike decisions, subject to human approval.",
-    "description": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 22:23"
-  },
-  {
-    "id": "96f12b2bce87",
-    "headline": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-    "summary": "Early adopters profit from China's OpenClaw AI craze while US battery sector struggles.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.…",
-    "tags": [
-      "Open Source",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Mar 2026, 13:02"
   }
 ]
