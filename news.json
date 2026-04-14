@@ -1,5 +1,387 @@
 [
   {
+    "id": "c96e8cef0861",
+    "headline": "AI influencers are ‘everywhere’ at Coachella",
+    "summary": "AI influencers are prominent at Coachella festival, with many using AI tools to enhance their social media presence and content creation.",
+    "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 15:53"
+  },
+  {
+    "id": "31f930d514d3",
+    "headline": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+    "summary": "OpenAI's CRO memo outlines strategy to lock in users and grow enterprise business while competing with rivals like Anthropic.",
+    "description": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 12:21"
+  },
+  {
+    "id": "4eefc04e036a",
+    "headline": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+    "summary": "Microsoft is testing OpenClaw-style AI bot features for its Copilot assistant to enhance functionality.",
+    "description": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 11:41"
+  },
+  {
+    "id": "edc8d0de115c",
+    "headline": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+    "summary": "Meta is reportedly developing an AI clone of Mark Zuckerberg to attend meetings and interact with employees.",
+    "description": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees ...",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 09:40"
+  },
+  {
+    "id": "843c17f129be",
+    "headline": "OpenAI has bought AI personal finance startup Hiro",
+    "summary": "OpenAI acquires AI personal finance startup Hiro to integrate financial planning capabilities into ChatGPT.",
+    "description": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+    "tags": [
+      "OpenAI",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 00:23"
+  },
+  {
+    "id": "80f9f154510a",
+    "headline": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "summary": "Stanford's AI Index report reveals widening gap between AI experts and public opinion on employment, healthcare, and economic impacts.",
+    "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "tags": [
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 18:55"
+  },
+  {
+    "id": "c9a0898e791b",
+    "headline": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "summary": "Vercel, a developer platform, signals IPO readiness as AI agents drive significant revenue growth.",
+    "description": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+    "tags": [
+      "Agents",
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 15:22"
+  },
+  {
+    "id": "ff81b66d1f34",
+    "headline": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+    "summary": "Silicon Valley is spending millions opposing Alex Bores, a former Palantir employee who helped pass strict AI regulation laws.",
+    "description": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 10:30"
+  },
+  {
+    "id": "da0f373e9f62",
+    "headline": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+    "summary": "Over 70 organizations warn Meta's facial recognition glasses could endanger abuse victims, immigrants, and vulnerable populations.",
+    "description": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 16:01"
+  },
+  {
+    "id": "1eaf9b3ed294",
+    "headline": "The Download: the state of AI, and protecting bears with drones",
+    "summary": "MIT Tech Review newsletter covers the current state of AI and related technology developments.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts. If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 12:10"
+  },
+  {
+    "id": "96542f4e0e45",
+    "headline": "Coming soon: 10 Things That Matter in AI Right Now",
+    "summary": "MIT Tech Review announces upcoming list of 10 breakthrough technologies impacting life and work, including AI innovations.",
+    "description": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 11:00"
+  },
+  {
+    "id": "462b97b13a76",
+    "headline": "Why opinion on AI is so divided",
+    "summary": "Analysis of why public opinion on AI is deeply divided, drawing on Stanford's AI Index findings.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 15:48"
+  },
+  {
+    "id": "7c6ea34dc97e",
+    "headline": "Gemini for Google Home Keeps Getting Huge Upgrades - Droid Life",
+    "summary": "Google's Gemini for Home receives significant upgrades for voice control in music, notes, and other features.",
+    "description": "Gemini for Google Home Keeps Getting Huge Upgrades Droid LifeGemini for Home is finally coming to a speaker near you Tech AdvisorGoogle Home rolls out more Gemini voice updates for music, notes, more 9to5GoogleGemini in Google Home is getting a whole lot better at understanding you Android AuthorityGoogle Home Gets More Gemini Updates Thurrott.com",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmlvZmFtNkotcTlselNuTFFHMUh4RXgtRGpWSFh4NjVQOEFFcE9DNmw5czJnRnE4TUVMTmI2cGk4M2JiQmlCeU4zQjBTbGpFWVltd1AwVkdJNkJHZHR4NzBUUEx0cmw0ZzhOUTR3NEpObE50bjZuWFVRQVBPWS1zRnp5OE5mb3JtM0otTThUZEp1Zms?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 20:57"
+  },
+  {
+    "id": "c8313f55dba4",
+    "headline": "SAP brings agentic AI to human capital management",
+    "summary": "SAP integrates agentic AI into human capital management modules to reduce operational costs and improve efficiency.",
+    "description": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents across recruiting, payroll, workforce administration, and talent development. Behind the user interface, these ... The post SAP brings agentic AI to human capital management appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 12:55"
+  },
+  {
+    "id": "5d526427c712",
+    "headline": "Canada’s Scotiabank preps for its AI future",
+    "summary": "Scotiabank launches Scotia Intelligence, an AI framework consolidating data platforms for enterprise AI operations.",
+    "description": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially client-facing teams, access to AI under the bank’s existing governance ... The post Canada’s Scotiabank preps for its AI future appeared first on AI News.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 11:20"
+  },
+  {
+    "id": "5498e45c91b2",
+    "headline": "Hyundai expands into robotics and physical AI systems",
+    "summary": "Hyundai Motor Group expands into robotics and physical AI systems that operate in real-world environments.",
+    "description": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyundai’s move into physical AI systems ... The post Hyundai expands into robotics and physical AI systems appeared first on AI News.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 10:00"
+  },
+  {
+    "id": "bf313f761e9c",
+    "headline": "Strengthening enterprise governance for rising edge AI workloads",
+    "summary": "Enterprise AI governance becomes critical as edge AI models like Google Gemma 4 proliferate, creating security challenges.",
+    "description": "Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to external large language models through monitored corporate gateways. The logic was ... The post Strengthening enterprise governance for rising edge AI workloads appeared first on AI News.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 13:02"
+  },
+  {
+    "id": "6d9b35488ab1",
+    "headline": "Companies expand AI adoption while keeping control",
+    "summary": "Companies adopt controlled, slower approaches to AI, focusing on assistive tools rather than fully autonomous systems.",
+    "description": "Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors where errors carry real financial or legal risk. One ... The post Companies expand AI adoption while keeping control appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 10:00"
+  },
+  {
+    "id": "01ed9b2fefb0",
+    "headline": "IBM: How robust AI governance protects enterprise margins",
+    "summary": "IBM highlights importance of robust AI governance for protecting enterprise margins and securing AI infrastructure.",
+    "description": "To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, software typically graduates from a standalone product to a platform, and then from a ... The post IBM: How robust AI governance protects enterprise margins appeared first on AI News.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 13:57"
+  },
+  {
+    "id": "3c05a3287eb6",
+    "headline": "NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful and Open Large Audio-Language Model",
+    "summary": "NVIDIA and University of Maryland release Audio Flamingo Next, an open large audio-language model advancing multimodal AI.",
+    "description": "Understanding audio has always been the multimodal frontier that lags behind vision. While image-language models have rapidly scaled toward real-world deployment, building open models that robustly reason over speech, environmental sounds, and music — especially at length — has remained quite hard. NVIDIA and the University of Maryland researchers are now taking a direct swing ... The post NVIDIA and the University of Maryland Researchers Released Audio Flamingo Next (AF-Next): A Super Powerful ",
+    "tags": [
+      "NVIDIA",
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 08:24"
+  },
+  {
+    "id": "f60d172a1f75",
+    "headline": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking",
+    "summary": "Google AI proposes Vantage, an LLM-based protocol for measuring collaboration, creativity, and critical thinking in students.",
+    "description": "Standardized tests can tell you whether a student knows calculus or can parse a passage of text. What they cannot reliably tell you is whether that student can resolve a disagreement with a teammate, generate genuinely original ideas under pressure, or critically dismantle a flawed argument. These are the so-called durable skills — collaboration, creativity, ... The post Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking appe",
+    "tags": [
+      "Google",
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Apr 2026, 00:30"
+  },
+  {
+    "id": "d0b4951f13f2",
+    "headline": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
+    "summary": "Tutorial demonstrates NVIDIA PhysicsNeMo for implementing physics-informed machine learning workflows on neural networks.",
+    "description": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the ... The post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking appeare",
+    "tags": [
+      "NVIDIA",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 17:07"
+  },
+  {
+    "id": "a4b6d944aa70",
+    "headline": "Don’t make Marshal Foch’s mistake on AI | Letters",
+    "summary": "Opinion piece reflects on historical lessons from Marc Bloch's work and their relevance to future AI threats.",
+    "description": "Peregrine Rand reflects on Marc Bloch’s Strange Defeat and the future threat of artificial intelligenceEmma Brockes’ article struck a chord (It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears, 8 April). I am reading Marc Bloch’s Strange Defeat, in which the eminent French historian and soon-to-be-executed resistance worker gives a first-hand account of the collapse of the French army in 1940. He attributes the debacle at least in part to a failu",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-14",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Apr 2026, 16:23"
+  },
+  {
     "id": "ea055e7e944e",
     "headline": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
     "summary": "Trump officials encourage banks to test Anthropic's Mythos model despite DoD declaring Anthropic a supply-chain risk.",
@@ -10773,336 +11155,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "15 Mar 2026, 12:08"
-  },
-  {
-    "id": "89060f9cb3e3",
-    "headline": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-    "summary": "Microsoft is launching its Gaming Copilot AI assistant on current-generation Xbox consoles this year to enhance gaming experiences.",
-    "description": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that ...",
-    "tags": [
-      "Microsoft",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 16:51"
-  },
-  {
-    "id": "1bad3bace6ed",
-    "headline": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-    "summary": "xAI is restarting its AI coding tool project with new executives from Cursor, indicating previous development challenges.",
-    "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 00:12"
-  },
-  {
-    "id": "6450e7a9755b",
-    "headline": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "summary": "A lawyer warns that AI chatbots linked to suicides are now appearing in mass casualty cases, with safety measures lagging behind technology development.",
-    "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-    "tags": [
-      "Regulation",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 00:01"
-  },
-  {
-    "id": "e3bf6726b838",
-    "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "summary": "Data infrastructure startup Nyne raised $5.3M in seed funding to provide human context for AI agents.",
-    "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 21:37"
-  },
-  {
-    "id": "b5c715befd15",
-    "headline": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-    "summary": "Steven Spielberg stated he has never used AI in his films and opposes AI replacing creative professionals in film and TV.",
-    "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-    "tags": [
-      "Creative AI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 19:47"
-  },
-  {
-    "id": "7bab7f9449e9",
-    "headline": "The biggest AI stories of the year (so far)",
-    "summary": "TechCrunch reviews major AI industry news including acquisitions, indie successes, public concerns, and contract negotiations.",
-    "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 19:38"
-  },
-  {
-    "id": "f414d0112fdf",
-    "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-    "summary": "Peacock is expanding with AI-powered video experiences, vertical clips, and mobile games to boost growth.",
-    "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 14:00"
-  },
-  {
-    "id": "2b060a5e658f",
-    "headline": "Google's AI Search Results Love to Refer You Back to Google",
-    "summary": "Google's generative AI search tools increasingly cite Google's own services over third-party publishers, raising bias concerns.",
-    "description": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 12:31"
-  },
-  {
-    "id": "24670c1a644c",
-    "headline": "Why physical AI is becoming manufacturing’s next advantage",
-    "summary": "Manufacturers are adopting physical AI robots for automation to improve efficiency, reduce costs, and stabilize operations.",
-    "description": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
-    "tags": [
-      "Robotics",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 15:16"
-  },
-  {
-    "id": "ce69cd236964",
-    "headline": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade - InsideEVs",
-    "summary": "Google Maps is receiving a major update with 3D redesign and AI features powered by Gemini.",
-    "description": "Google Maps Is Getting 'The Most Significant Update' In Over A Decade InsideEVsHow we’re reimagining Maps with Gemini blog.googleGoogle Maps receives major upgrade with 3D redesign, AI feature Mashable‘Immersive Navigation’ is the biggest Google Maps driving update in a decade 9to5GoogleGoogle's AI Search Results Love to Refer You Back to Google WIRED",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2xRdmctdmg0bkR3MFZ0NFJBOF9GVVF1cFJsbndtbHFCQjBOVU45NGFhb2d0SWEybXQzZDY0REt6T1lmc3FHMTlCWlhCVjVPTktnZEhwM0xOcjRoVEZFNkJCRWx2dTRXNmVoZTl3eWlxSTNpNzF6cHRHNl82dVdjYjZGYnNUYVk?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 10:11"
-  },
-  {
-    "id": "2fcf4158736c",
-    "headline": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
-    "summary": "Garry Tan released gstack, an open-source Claude-based coding system for planning, code review, QA, and shipping.",
-    "description": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as ‘Eight opinionated workflow skills ... The post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping a",
-    "tags": [
-      "Open Source",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 08:44"
-  },
-  {
-    "id": "09007c29067c",
-    "headline": "New study raises concerns about AI chatbots fueling delusional thinking",
-    "summary": "A major study warns that AI chatbots may encourage delusional thinking among vulnerable people, raising safety concerns.",
-    "description": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable peopleA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulnerable people.A summary of existing evidence on artificial intelligence-induced psychosis was published last week in the Lancet Psychiatry, highlighting how chatbots can encourage delusional thinking – though possibly only in people who are already vul",
-    "tags": [
-      "Research",
-      "Healthcare"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 11:00"
-  },
-  {
-    "id": "657fa01bc966",
-    "headline": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst?",
-    "summary": "Analysis questions whether UK's AI datacentre investment bubble may burst amid infrastructure risks and challenges.",
-    "description": "Datacentre investment boom is one of the biggest infrastructure gambles of this era, and Britain may be uniquely exposedStargate was to be the world’s biggest AI investment: a $500bn infrastructure project to “secure American leadership in AI”. Never shy of hyperbole, its key backer, the ChatGPT-maker OpenAI, promised “massive economic benefit for the entire world” with facilities to help people “use AI to elevate humanity”.Now, OpenAI appears to be dropping out of a part of the deal – the expan",
-    "tags": [
-      "Research",
-      "Hardware"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 06:00"
-  },
-  {
-    "id": "544b47f0c097",
-    "headline": "The environmental cost of datacentres is rising. Is it time to quit AI?",
-    "summary": "Environmental costs of AI datacentres are rising, prompting debate about whether people should opt out of AI use.",
-    "description": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprintGot a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.comIt’s only a few years on from the release of ChatGPT but the race to plug artificial intelligence into everything has sparked a surge in datacentres, wit",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 23:00"
-  },
-  {
-    "id": "15adff0adad0",
-    "headline": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
-    "summary": "Writers protest AI's unauthorized use of their work, calling for government protection of authors' copyright and intellectual property.",
-    "description": "Writers are voicing their anger at AI theft of their work with ‘Human Authored’ logos and an empty book. The government must listenIn a scene that might have come from a dystopian novel, books were being stamped with “Human Authored” logos at this week’s London Book Fair. The Society of Authors described its labelling scheme as “an important sticking plaster to protect and promote human creativity in lieu of AI labelled content in the marketplace”.Visitors to the fair were also being given copie",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 18:07"
-  },
-  {
-    "id": "c4908cc76b0a",
-    "headline": "Grammarly removes AI Expert Review feature mimicking writers after backlash",
-    "summary": "Grammarly disabled its AI Expert Review feature after backlash over using real authors' names without consent in generated suggestions.",
-    "description": "Feature generated editing suggestions inspired by well-known authors and academics, prompting a class-action lawsuit over the use of real names without consentGrammarly has disabled a controversial AI feature that imitated the style of prominent writers and academics, and is facing a multimillion dollar lawsuit from those whose identities were used without consent.The feature, called Expert Review, used generative AI to produce feedback supposedly inspired by writers including the novelist Steph",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 17:00"
-  },
-  {
-    "id": "a0c6ae8972cc",
-    "headline": "Will AI take Australian jobs, or is it just an excuse for corporate restructure?",
-    "summary": "Over 1,000 Australian tech jobs were cut with companies citing AI productivity gains, raising questions about corporate restructuring.",
-    "description": "More than 1,000 local tech jobs have recently been cut, with companies citing AI productivity gains. But that’s not the full story, experts sayGet our breaking news email, free app or daily news podcastTeresa Lim has one of the most recognisable voices in Australia. For 23 years, she has been the voice behind radio and television advertisements, selling listeners on everything from baby formula to Test cricket. But despite her extensive portfolio, she’s become increasingly worried that she is go",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/14/ai-jobs-australia-corporate-restructure",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 14:00"
-  },
-  {
-    "id": "367cd794537a",
-    "headline": "Professors Say AI Is Destroying Their Students’ Ability to Think",
-    "summary": "Professors warn that student reliance on AI is degrading their ability to read, analyze, and synthesize information critically.",
-    "description": "Students are \"incapable of reading and analyzing, synthesizing data.\" The post Professors Say AI Is Destroying Their Students’ Ability to Think appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/professors-ai-destroying-students-thinking",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Mar 2026, 06:45"
-  },
-  {
-    "id": "73a03da567f1",
-    "headline": "Elon Musk Orders Sweeping Layoffs as xAI Fails to Catch Up",
-    "summary": "Elon Musk ordered sweeping layoffs at xAI as the company restarts development, struggling to keep pace in the AI race.",
-    "description": "As the AI race heats up, xAI is starting from scratch. The post Elon Musk Orders Sweeping Layoffs as xAI Fails to Catch Up appeared first on Futurism.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/elon-musk-orders-layoffs-xai-coding",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 16:28"
-  },
-  {
-    "id": "e45e42383a05",
-    "headline": "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI",
-    "summary": "BuzzFeed is nearing bankruptcy following a failed pivot toward AI-generated content as a business strategy.",
-    "description": "The pivot to AI isn't going so great. The post BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI appeared first on Futurism.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/buzzfeed-disastrous-earnings-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-14",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "13 Mar 2026, 14:08"
   }
 ]
