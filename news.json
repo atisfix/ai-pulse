@@ -1,5 +1,307 @@
 [
   {
+    "id": "047a01a98061",
+    "headline": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+    "summary": "Canva launches AI 2.0 update with enhanced prompt-powered design tools to centralize AI-powered content creation.",
+    "description": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 09:07"
+  },
+  {
+    "id": "e35afa636ca0",
+    "headline": "Google launches a Gemini AI app on Mac",
+    "summary": "Google launches native Gemini AI app for Mac with quick access via keyboard shortcut.",
+    "description": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 14:10"
+  },
+  {
+    "id": "0f93b9e63792",
+    "headline": "Canva’s AI assistant can now call various tools to make designs for you",
+    "summary": "Canva's AI assistant enables users to create editable designs from text prompts.",
+    "description": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 13:00"
+  },
+  {
+    "id": "1f7d1455b780",
+    "headline": "This simulation startup wants to be the Cursor for physical AI",
+    "summary": "Antioch raises $8.5M seed to build simulation tools for robotics and physical AI development.",
+    "description": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 12:30"
+  },
+  {
+    "id": "6896dca8b9ae",
+    "headline": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "summary": "OpenAI expands Agents SDK with new capabilities for safer, more capable enterprise agents.",
+    "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 19:28"
+  },
+  {
+    "id": "9b8dc33606cd",
+    "headline": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "summary": "Hightouch reaches $100M ARR with AI agent platform for marketing automation.",
+    "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 18:55"
+  },
+  {
+    "id": "544143619af7",
+    "headline": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "summary": "AI learning platform Gizmo secures $22M Series A funding with 13M users.",
+    "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+    "tags": [
+      "Research",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 18:38"
+  },
+  {
+    "id": "d5d1f848ab32",
+    "headline": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "summary": "Thiel-backed startup Objection uses AI to judge journalism, raising concerns about whistleblower chilling.",
+    "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 18:33"
+  },
+  {
+    "id": "fa45a9e2ca2b",
+    "headline": "Google rolls out a native Gemini app for Mac",
+    "summary": "Google releases native Gemini app for Mac enabling screen sharing and local file access.",
+    "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 18:22"
+  },
+  {
+    "id": "ed09255cb3f9",
+    "headline": "AI Could Democratize One of Tech's Most Valuable Resources",
+    "summary": "AI is enabling chip design and software optimization, sparking startup innovation in chipmaking.",
+    "description": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+    "tags": [
+      "Hardware",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 18:00"
+  },
+  {
+    "id": "0691cd94e10f",
+    "headline": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+    "summary": "Allbirds rebrands as NewBird AI to operate as GPU-as-a-Service company.",
+    "description": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 14:58"
+  },
+  {
+    "id": "bad59ea9dcbb",
+    "headline": "Why having “humans in the loop” in an AI war is an illusion",
+    "summary": "Legal dispute between Anthropic and Pentagon highlights concerns about AI warfare and human oversight.",
+    "description": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 12:00"
+  },
+  {
+    "id": "2abd2fc157ac",
+    "headline": "Adobe is making bold claims about its new Firefly AI Assistant - Creative Bloq",
+    "summary": "Adobe launches Firefly AI Assistant for creative workflows and content generation.",
+    "description": "Adobe is making bold claims about its new Firefly AI Assistant Creative BloqIntroducing Firefly AI Assistant — a new way to create with our creative agent AdobeAdobe releases AI assistant for creative tools, says it will work with Anthropic's Claude ReutersAdobe takes Creative Cloud into Claude Code-esque territory Ars TechnicaAdobe Is Working With Anthropic to Bring a Creative AI Agent to Claude CNET",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTFJrN19EaHV6U19mZ2NfRlhhSVdyNnM5U3c3QXhQSC1SczNqNVFaRUNCeHQxdXI3VUtULVBGX0p5aEhrX084SnVQOUZkUXFOSy1QWVNuclBZU0s0cjBMN3lJYU5wVU1Eb19CZnJRTU1WYVpKaWlfZ21mTlc5OWpmSUpuaHdZUDB0V2d1bHlpU3VDNXFkTzVMazVVMmZDWTl5Z051Y3puSUpCZV80bjdCYkRtWlQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 15:35"
+  },
+  {
+    "id": "a0a4e585244e",
+    "headline": "OpenAI Agents SDK improves governance with sandbox execution",
+    "summary": "OpenAI enhances Agents SDK with sandbox execution for controlled enterprise workflow deployment.",
+    "description": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic frameworks offered initial flexibility but failed to fully utilise the capabilities of frontier models. Model-provider SDKs remained closer to ... The post OpenAI Agents SDK improves governance with sandbox ",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 11:20"
+  },
+  {
+    "id": "fbec25ee5fb2",
+    "headline": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+    "summary": "Cadence Design Systems expands AI partnerships with NVIDIA and Google Cloud.",
+    "description": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partnership focuses on combining AI with physics-based simulation and accelerated computing for robotic systems and system-level design. The companies said the approach targets modelling and deployment in semiconductors ... The post Cadence expands AI and robotic partnerships with Nvidia, Google Cloud appe",
+    "tags": [
+      "NVIDIA",
+      "Google",
+      "Hardware"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 10:00"
+  },
+  {
+    "id": "6e1f962cdbf1",
+    "headline": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "summary": "Commvault launches AI Protect offering undo/recovery for autonomous AI workloads in cloud.",
+    "description": "Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Commvault identified this governance issue and the data protection vendor has launched AI Protect, a ... The post Commvault launches a ‘Ctrl-Z’ for cloud AI workloads appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 16:28"
+  },
+  {
+    "id": "f7f5bd6d7702",
+    "headline": "Citizen developers now have their own Wingman",
+    "summary": "Emergent releases Wingman, an autonomous agent for low-code application development.",
+    "description": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company’s press release states: “The best technology should be accessible to everyone”, and cites the difficulty that users without a technical background have in creating software applications. It ... The post Citizen developers now have their own Wingman appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 14:42"
+  },
+  {
+    "id": "6ea0a03aee18",
+    "headline": "The US-China AI gap closes amid responsible AI concerns",
+    "summary": "Stanford's 2026 AI Index Report finds US-China AI gap narrowing amid responsible AI concerns.",
+    "description": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial Intelligence, is a 423-page annual assessment of where ... The post The US-China AI gap closes amid responsible AI concerns appeared first on AI News.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Apr 2026, 10:00"
+  },
+  {
     "id": "4152cb53c435",
     "headline": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
     "summary": "Adobe launches Firefly AI Assistant enabling creators to edit work through conversational prompts instead of manual Creative Cloud tools, marking a fundamental shift in creative workflows.",
@@ -10913,301 +11215,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "16 Mar 2026, 16:15"
-  },
-  {
-    "id": "92090e9ab2f9",
-    "headline": "This is not a fly uploaded to a computer",
-    "summary": "Posts about a virtual \"embodied fly\" went viral on X, but many commenters misunderstood what they were excited about.",
-    "description": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about. The videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 08:49"
-  },
-  {
-    "id": "a4838f7c8e87",
-    "headline": "OpenAI’s adult mode will reportedly be smutty, not pornographic",
-    "summary": "OpenAI's delayed adult mode for ChatGPT will support text conversations but not image, voice, or video generation at launch.",
-    "description": "OpenAI's delayed \"adult mode\" for ChatGPT is expected to support saucy text conversations at launch, but not the chatbot's ability to generate images, voice, or video. Speaking to The Wall Street Journal, an unnamed OpenAI spokesperson described content that will be provided by the upcoming feature as smut rather than pornography, allowing ChatGPT users to ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 07:18"
-  },
-  {
-    "id": "94e2a9e1b2bc",
-    "headline": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-    "summary": "AI companies are recruiting improv actors to help train AI systems on human emotion and authentic character portrayal.",
-    "description": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 10:00"
-  },
-  {
-    "id": "cb0744747263",
-    "headline": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-    "summary": "Google and Accel selected 5 non-wrapper AI startups from 4,000+ India applications, noting 70% of pitches were wrappers.",
-    "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-    "tags": [
-      "Google",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 00:30"
-  },
-  {
-    "id": "f35c49954a7a",
-    "headline": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
-    "summary": "Women are being recruited as AI face models for video call scams that dupe victims out of money.",
-    "description": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 09:00"
-  },
-  {
-    "id": "d536898e9a6a",
-    "headline": "AMD unveils OpenClaw to run AI agents locally on Ryzen and Radeon hardware - TechSpot",
-    "summary": "AMD unveils OpenClaw to enable AI agents to run locally on Ryzen and Radeon hardware.",
-    "description": "AMD unveils OpenClaw to run AI agents locally on Ryzen and Radeon hardware TechSpotRun OpenClaw Locally On AMD Ryzen™ AI Max+ Processors and Radeon™ GPUs AMDAMD Pushes a New Category of PCs: The Agent Computer PCMagAMD Sees Agent Computers as the Next Step in AI PCs TechPowerUpAMD Ryzen AI MAX APUs & Radeon AI PRO GPUs Offer Stunning Capabilities In OpenClaw AI Agent Wccftech",
-    "tags": [
-      "Agents",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLWplRTlaa2dQaFdWVFViSmVYT2x2S2pMZGN5NTRPN25RMkEtV0V2Q2g0YkhPbi1mTWcyb1JKLWVfX0lEeWQ1SGdqTVpnb0Jzam1ISTJoMFZwdlVTd0RNeVh1THJfOHdaUHZ5VVJuU1lST1Jsbl9xMW1OUkkycVBEVW9DQzRGSklNWnF3OVV4TERkYjJf?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 14:40"
-  },
-  {
-    "id": "93d8e1bf3ac6",
-    "headline": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
-    "summary": "NTT DATA and NVIDIA partner to deliver production-scale enterprise AI platforms using NVIDIA GPUs.",
-    "description": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA’s GPU-accelerated computing and high-performance networking with NVIDIA AI Enterprise software, including NeMo and NIM Microservices, into a full-stack agentic AI platform that can be deployed in cloud and edge environments. ... The post NTT DATA and NVIDIA bring enterprise AI factories to production scale appe",
-    "tags": [
-      "NVIDIA",
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 12:00"
-  },
-  {
-    "id": "7e58ca2961c0",
-    "headline": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
-    "summary": "OpenAI's Frontier platform for enterprise AI agents challenges the SaaS revenue model.",
-    "description": "When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry. Frontier is designed to act as a semantic layer in an organisation’s existing systems, connecting data warehouses, CRM platforms, ticketing tools, and internal ... The post OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose appeared first on AI News.",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 10:00"
-  },
-  {
-    "id": "c0fc9b36ec40",
-    "headline": "Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scaling in Transformers",
-    "summary": "Moonshot AI releases Attention Residuals to improve Transformer scaling by replacing fixed residual mixing.",
-    "description": "Residual connections are one of the least questioned parts of modern Transformer design. In PreNorm architectures, each layer adds its output back into a running hidden state, which keeps optimization stable and allows deep models to train. Moonshot AI researchers argue that this standard mechanism also introduces a structural problem: all prior layer outputs are ... The post Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scaling in",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 06:48"
-  },
-  {
-    "id": "d7d974e4a3b9",
-    "headline": "IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge AI and Translation Pipelines",
-    "summary": "IBM releases Granite 4.0 1B Speech, a compact multilingual speech model for edge AI and translation.",
-    "description": "IBM has released Granite 4.0 1B Speech, a compact speech-language model designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST). The release targets enterprise and edge-style speech deployments where memory footprint, latency, and compute efficiency matter as much as raw benchmark quality. What Changed in Granite 4.0 1B Speech At the ... The post IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge AI and ",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 04:57"
-  },
-  {
-    "id": "df9c869f0b06",
-    "headline": "A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution",
-    "summary": "Tutorial demonstrates building enterprise AI governance using OpenClaw with approval workflows and auditable execution.",
-    "description": "In this tutorial, we build an enterprise-grade AI governance system using OpenClaw and Python. We start by setting up the OpenClaw runtime and launching the OpenClaw Gateway so that our Python environment can interact with a real agent through the OpenClaw API. We then design a governance layer that classifies requests based on risk, enforces ... The post A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable A",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 22:12"
-  },
-  {
-    "id": "b05f691e3615",
-    "headline": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
-    "summary": "OpenViking is an open-source context database bringing filesystem-based memory and retrieval to AI agent systems.",
-    "description": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of text chunks. Instead, OpenViking organizes context through a file system paradigm, with the goal of making memory, resources, and skills manageable through a unified ... The post Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems li",
-    "tags": [
-      "Open Source",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 18:49"
-  },
-  {
-    "id": "ff37f1194999",
-    "headline": "AI has exposed age-old problems with university coursework | Letter",
-    "summary": "Universities should rethink coursework assessment in response to AI, rather than romanticize the pre-AI past.",
-    "description": "Instead of romanticising a pre-AI past, universities should use this moment to rethink what they actually want students to demonstrate, says Dr Nafisa Baba-AhmedThe frustration many academics are expressing about artificial intelligence and critical thinking is understandable (‘I wish I could push ChatGPT off a cliff’: professors scramble to save critical thinking in an age of AI, 10 March). But from my experience working with students on academic writing, blaming AI risks masking a problem that",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/15/ai-has-exposed-age-old-problems-with-university-coursework",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 16:52"
-  },
-  {
-    "id": "b2c368e724eb",
-    "headline": "Google scraps AI search feature that crowdsourced amateur medical advice",
-    "summary": "Google scrapped an AI search feature that crowdsourced amateur medical advice amid health accuracy scrutiny.",
-    "description": "Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tipsGoogle has dropped a new artificial intelligence search feature that gave users crowdsourced health advice from amateurs around the world.The company had said its launch of “What People Suggest”, which provided tips from strangers, showed “the potential of AI to transform health outcomes across the globe”. Continue reading...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 07:14"
-  },
-  {
-    "id": "f79415b8efce",
-    "headline": "The Infinity Machine by Sebastian Mallaby review – the story of the man who changed the world",
-    "summary": "Biography of AI pioneer Demis Hassabis chronicles his journey from chess prodigy to Nobel Prize winner.",
-    "description": "A journalist charts the progress of AI pioneer Demis Hassabis from child chess prodigy to Nobel prize winnerIt was March 2016, and at the Four Seasons Hotel in Seoul, the world was gathered to watch the culmination of a battle 2,500 years in the making. On one side was the South Korean Lee Se-dol, the second-highest ranking Go player in the world. On the other was AlphaGo – a computer program developed by London-based artificial intelligence research company DeepMind.“Chess is the greatest game ",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/books/2026/mar/16/the-infinity-machine-by-sebastian-mallaby-review-the-story-of-the-man-who-changed-the-world",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 07:00"
-  },
-  {
-    "id": "31b0081b901d",
-    "headline": "AI job layoffs are here: it’s time to revive the push for shorter working hours  | John Quiggin",
-    "summary": "AI job layoffs prompt calls to revive shorter working hour policies to share productivity gains.",
-    "description": "There’s no doubt artificial intelligence will produce real productivity improvements. It’s imperative these benefits are shared with workersThe announcement that Australian software giant Atlassian will lay off 10% of staff has brought the debate over artificial intelligence (AI) and jobs closer to home.While a broader question about the usefulness of AI remains unresolved, there can be no remaining doubt that it has transformed the software industry, with developers reporting massive increases ",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/mar/16/ai-job-layoffs-push-for-shorter-working-hours",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 03:41"
-  },
-  {
-    "id": "03554ceea94a",
-    "headline": "Iranians embrace anthem by AI singer created by UK-based, Iran-born artist",
-    "summary": "UK-based Iranian artist creates AI singer performing anthem with lyrics from revolutionary poet Aref Qazvini.",
-    "description": "‘I did it for the people,’ says Farbod Mehr, of song drawing lyrics from the work of revolutionary 20th-century poet Aref QazviniA stirring song – sung, apparently, by a young woman, with lyrics expressing the hope that sacrifice will lead to a better future – has become a soundtrack for Iranians in the first part of 2026, as the country experienced the brutal crackdown on anti-regime protests and then the US-Israeli air assault, now in its third week.However, the singer, called Nava, is a produ",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/2026/mar/15/iranians-embrace-anthem-by-ai-singer-created-by-uk-based-iran-born-artist",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 18:02"
-  },
-  {
-    "id": "387bd444adc8",
-    "headline": "AI could give us our lives back – if we don’t blow it",
-    "summary": "Opinion piece explores how AI could liberate humans from work drudgery if managed responsibly.",
-    "description": "Could we be at the beginning of a change never before seen by humans – allowing us to escape the drudgery of work?The other day I pulled into the parking lot of a client’s offices and in the spot next to me was a woman sitting in her car blasting music. She caught me looking and rolled down her window and said, “I’ll be inside in a minute … Just enjoying my last few moments of freedom!”Is this way we want to live? No, it’s not. Continue reading...",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/business/2026/mar/15/ai-future-of-work",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-16",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 14:00"
   }
 ]
