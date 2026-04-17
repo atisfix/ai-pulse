@@ -1,5 +1,391 @@
 [
   {
+    "id": "e36acdbe8406",
+    "headline": "OpenAI’s big Codex update is a direct shot at Claude Code",
+    "summary": "OpenAI upgrades Codex with agentic capabilities including computer control, image generation, and memory features to compete with Claude Code.",
+    "description": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 13:00"
+  },
+  {
+    "id": "c0f46189801c",
+    "headline": "Google’s AI Mode update lets you open links without leaving the page",
+    "summary": "Google enhances AI Mode in Chrome allowing users to open source links alongside chat without leaving the page.",
+    "description": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 13:00"
+  },
+  {
+    "id": "480b8304d3c5",
+    "headline": "Gemini can now pull from Google Photos to generate personalized images",
+    "summary": "Google's Gemini Personal Intelligence feature now generates personalized images using Google Photos data and Nano image model.",
+    "description": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context. With the feature, you can use prompts like \"Design my dream house\" or \"Create a ...",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 12:00"
+  },
+  {
+    "id": "728e3307b425",
+    "headline": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+    "summary": "Anthropic releases Claude Opus 4.7, its most powerful generally available model, with improvements for software engineering tasks.",
+    "description": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 11:59"
+  },
+  {
+    "id": "0d1c6a398228",
+    "headline": "Character.AI’s new Books mode turns reading into roleplay",
+    "summary": "Character.AI launches Books mode enabling roleplay-based reading as company navigates legal controversies.",
+    "description": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 10:00"
+  },
+  {
+    "id": "7c5d16af46df",
+    "headline": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "summary": "Factory, an AI coding startup, reaches $1.5B valuation after raising $150M for enterprise development tools.",
+    "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 22:55"
+  },
+  {
+    "id": "b6ff621dc33b",
+    "headline": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "summary": "Luma launches AI production studio with faith-focused project about Moses starring Ben Kingsley for Prime Video.",
+    "description": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 21:58"
+  },
+  {
+    "id": "6fc2e6d678e6",
+    "headline": "Upscale AI in talks to raise at $2B valuation, says report",
+    "summary": "Upscale AI, an infrastructure company, reportedly in talks to raise at $2B valuation seven months after launch.",
+    "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 20:41"
+  },
+  {
+    "id": "31c3bff231b5",
+    "headline": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "summary": "OpenAI's Codex receives major update with enhanced agentic capabilities and desktop control powers.",
+    "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 19:18"
+  },
+  {
+    "id": "e6e061587ecf",
+    "headline": "Google now lets you explore the web side-by-side with AI Mode",
+    "summary": "Google's Chrome AI Mode now displays web pages side-by-side with chat for improved browsing experience.",
+    "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 17:00"
+  },
+  {
+    "id": "28ab5812e200",
+    "headline": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "summary": "InsightFinder raises $15M to help companies diagnose AI agent failures across entire tech stacks.",
+    "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 16:15"
+  },
+  {
+    "id": "469f5538eff0",
+    "headline": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "summary": "AI traffic to US retail sites surged 393% in Q1 with better conversion rates and higher revenue generation.",
+    "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 16:14"
+  },
+  {
+    "id": "a0a3fa3ba6c8",
+    "headline": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+    "summary": "Roblox's AI assistant gains agentic tools to help creators plan, build, and test games autonomously.",
+    "description": "The new tools are designed to help creators throughout the entire development process.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 16:00"
+  },
+  {
+    "id": "b9ddac12dcbc",
+    "headline": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "Railway raises $100M Series B to build AI-native cloud infrastructure competing with AWS.",
+    "description": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures. The investment values Railway as one of the most significant infrastructure sta",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jan 2026, 14:00"
+  },
+  {
+    "id": "fcbf944727f5",
+    "headline": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "Claude Code costs up to $200/month while open-source alternative Goose offers similar coding capabilities for free.",
+    "description": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction. Goose, an open-source AI agent developed by Block (the fina",
+    "tags": [
+      "Anthropic",
+      "Open Source"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Jan 2026, 14:00"
+  },
+  {
+    "id": "75b320cf4847",
+    "headline": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "summary": "Listen Labs raises $69M after viral billboard campaign to scale AI-powered customer interview platform.",
+    "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub",
+    "tags": [
+      "Startup"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jan 2026, 14:01"
+  },
+  {
+    "id": "d51f6f085d6c",
+    "headline": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "summary": "Salesforce rebuilds Slackbot into a fully-featured AI agent to compete in workplace AI market.",
+    "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\" move",
+    "tags": [
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jan 2026, 13:00"
+  },
+  {
+    "id": "b5275d081c87",
+    "headline": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic launches Cowork, a Claude Desktop agent extending coding capabilities to non-technical users.",
+    "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microso",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jan 2026, 11:30"
+  },
+  {
+    "id": "b83814c88a9e",
+    "headline": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "summary": "Nous Research releases NousCoder-14B open-source coding model competitive with Claude Code.",
+    "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival A",
+    "tags": [
+      "Open Source",
+      "Research"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jan 2026, 20:00"
+  },
+  {
+    "id": "714038efc6b8",
+    "headline": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+    "summary": "Claude Code creator shares workflow on social media sparking developer discussion about advanced AI coding.",
+    "description": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.\"If you're not reading the ",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jan 2026, 07:45"
+  },
+  {
+    "id": "9942d74958fc",
+    "headline": "Musk v. Altman Is a Battle for OpenAI’s Soul",
+    "summary": "Musk v. Altman lawsuit will determine if OpenAI has strayed from its founding mission for AGI safety.",
+    "description": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 18:00"
+  },
+  {
+    "id": "bf3667551e31",
+    "headline": "The UK Launches Its $675 Million Sovereign AI Fund",
+    "summary": "UK launches $675M sovereign AI fund to support homegrown AI startups and reduce tech dependency.",
+    "description": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 17:30"
+  },
+  {
+    "id": "55df92e147bd",
+    "headline": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+    "summary": "Google's Chrome AI Mode update keeps chatbot search tool persistent during web browsing sessions.",
+    "description": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Apr 2026, 17:00"
+  },
+  {
     "id": "047a01a98061",
     "headline": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
     "summary": "Canva launches AI 2.0 update with enhanced prompt-powered design tools to centralize AI-powered content creation.",
@@ -10885,335 +11271,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "18 Mar 2026, 08:42"
-  },
-  {
-    "id": "a11472131503",
-    "headline": "DLSS 5 looks like a real-time generative AI filter for video games",
-    "summary": "Nvidia announced DLSS 5, using generative AI to enhance video game graphics in real-time, sparking debate over its artistic impact.",
-    "description": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a ...",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 17:56"
-  },
-  {
-    "id": "97cfd1dc6090",
-    "headline": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-    "summary": "Three Tennessee teens sued xAI, claiming Grok generated sexualized images of them as minors, raising serious ethical concerns.",
-    "description": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 17:44"
-  },
-  {
-    "id": "bfddc9aea8fa",
-    "headline": "Benjamin Netanyahu is struggling to prove he’s not an AI clone",
-    "summary": "Social media conspiracy theories claim Benjamin Netanyahu is an AI deepfake, highlighting concerns about AI-generated misinformation.",
-    "description": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 16:41"
-  },
-  {
-    "id": "0e3f49e7838c",
-    "headline": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-    "summary": "Encyclopedia Britannica and Merriam-Webster sued OpenAI for allegedly using copyrighted content to train ChatGPT without permission.",
-    "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 13:04"
-  },
-  {
-    "id": "309141cca2e2",
-    "headline": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-    "summary": "Picsart launched an AI agent marketplace enabling creators to hire AI assistants for content creation tasks.",
-    "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-    "tags": [
-      "Agents",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 04:01"
-  },
-  {
-    "id": "57a26b63422b",
-    "headline": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-    "summary": "Nvidia introduced NemoClaw, an enterprise AI agent platform based on OpenClaw, designed for secure business applications.",
-    "description": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-    "tags": [
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 22:45"
-  },
-  {
-    "id": "7c3c168cab89",
-    "headline": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-    "summary": "Senator Elizabeth Warren questioned Pentagon's decision to grant xAI access to classified networks due to Grok's harmful outputs.",
-    "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 20:58"
-  },
-  {
-    "id": "e6d049c8069d",
-    "headline": "Memories AI is building the visual memory layer for wearables and robotics",
-    "summary": "Memories.ai developed a visual memory model enabling AI wearables and robots to index and retrieve video-recorded memories.",
-    "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
-    "tags": [
-      "Robotics",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 20:30"
-  },
-  {
-    "id": "b8f2aa10bf11",
-    "headline": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-    "summary": "Minors filed lawsuits against xAI claiming Grok created non-consensual sexualized deepfakes of them as children.",
-    "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 19:18"
-  },
-  {
-    "id": "e4a7eec4da18",
-    "headline": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-    "summary": "Nvidia's DLSS 5 uses generative AI to enhance game graphics photorealism, with potential applications beyond gaming.",
-    "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 19:12"
-  },
-  {
-    "id": "3b4f92dc68c6",
-    "headline": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-    "summary": "Sears' exposed AI chatbot conversations revealed customer personal data, creating security vulnerabilities for scams.",
-    "description": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 10:00"
-  },
-  {
-    "id": "076cd93607a2",
-    "headline": "Models Are Applying to Be the Face of AI Scams",
-    "summary": "Scammers recruit models via Telegram to create AI-generated deepfakes for financial fraud schemes.",
-    "description": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 09:00"
-  },
-  {
-    "id": "d4541921eade",
-    "headline": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-    "summary": "MIT newsletter covers OpenAI's military deal and Grok's CSAM lawsuit, highlighting emerging AI policy issues.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 12:26"
-  },
-  {
-    "id": "4d511a5c27c4",
-    "headline": "Where OpenAI’s technology could show up in Iran",
-    "summary": "OpenAI struck a controversial military deal with the US that could deploy its technology in Iran operations.",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 17:06"
-  },
-  {
-    "id": "84dae0068457",
-    "headline": "Nurturing agentic AI beyond the toddler stage",
-    "summary": "Article explores developing agentic AI systems beyond current limitations, comparing progress to developmental milestones.",
-    "description": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 13:00"
-  },
-  {
-    "id": "4cc98061537d",
-    "headline": "The Download: glass chips and “AI-free” logos",
-    "summary": "Newsletter discusses glass-based AI chips and consumer pushback against AI in products.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 12:35"
-  },
-  {
-    "id": "972b3e9b1f38",
-    "headline": "Nvidia unveils DLSS 5 at GTC to bring real-time AI to video games (NVDA:NASDAQ) - Seeking Alpha",
-    "summary": "Nvidia unveiled DLSS 5 at GTC, bringing real-time AI graphics enhancement to video games.",
-    "description": "Nvidia unveils DLSS 5 at GTC to bring real-time AI to video games (NVDA:NASDAQ) Seeking AlphaNVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games NVIDIANvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-Series Digital FoundryNVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances WccftechWhoa: Nvidia's DLSS 5 Can Make PC Games Look Real PCMag",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQME1LanNrbENIY0ZhTHBHekduQUo0bS1MbGdGN3dScHpkVkQySHlWNDBKQUowcXctY0c0ZTZwLXRzeURpbVVPSHl0M3Q5QkJoVVRGTTVUbDE0ZFdjT0lBQ0dxb1VocWJUcWRlVThhNmlTcU5zSGZTanJmTjFvdGZudDhmRFl4cERtY3FIdGo4TDZFNWhsMjQ5bDVKNjVBQllJcGNPRjVR?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 18:40"
-  },
-  {
-    "id": "bda940244c34",
-    "headline": "AI companies want to harvest improv actors’ skills to train AI on human emotion - The Verge",
-    "summary": "AI companies seek to train emotional recognition systems using improv actors' performance data.",
-    "description": "AI companies want to harvest improv actors’ skills to train AI on human emotion The VergeView Full Coverage on Google News",
-    "tags": [
-      "Research"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3F5QndNdVhvOEVkWlAwS2padXJCWHYwaUpBS0NZbjlab0hvSHNlTzdHcThHY1BFTlBXWTJoYVIxUHRiOFRxRkw3OW1yMk82TFdWOW16NEtsZHVfNUlVYnZIOHVud3pqbUpHMGsyd2NORzg0NDNXUmlKR2VKRzM4aVpoUnNjOWUwaktJQWZ1MG53YlF4NWliS2hsZjc0aTFVazhOTUJNQ2RaeHFIdXc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Mar 2026, 14:00"
-  },
-  {
-    "id": "6eefd859af44",
-    "headline": "Goldman Sachs sees AI investment shift to data centres",
-    "summary": "AI investment focus shifts toward data center infrastructure as the sector matures beyond early hype.",
-    "description": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as a “flight to quality.” In practice, investors are paying closer ... The post Goldman Sachs sees AI investment shift to data centres appeared first on AI News.",
-    "tags": [
-      "Market",
-      "Hardware"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 10:00"
-  },
-  {
-    "id": "1d4a7f008179",
-    "headline": "US Treasury publishes AI risk Guidebook for financial institutions",
-    "summary": "US Treasury published AI risk management guidance for financial institutions to address operational and policy risks.",
-    "description": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which ... The post US Treasury publishes AI risk Guidebook for financial institutions appeared first on AI News.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "16 Mar 2026, 16:15"
   }
 ]
