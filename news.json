@@ -1,5 +1,289 @@
 [
   {
+    "id": "a3d10ac4e4cc",
+    "headline": "OpenAI’s former Sora boss is leaving",
+    "summary": "OpenAI's Sora team leader Bill Peebles is leaving after the company abandoned its video generation tool, signaling a strategic shift in priorities.",
+    "description": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company ...",
+    "tags": [
+      "OpenAI",
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 17:13"
+  },
+  {
+    "id": "7bf45bef7c8d",
+    "headline": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+    "summary": "Anthropic launches a cybersecurity model amid political tensions with the Trump administration over the company's values.",
+    "description": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 16:14"
+  },
+  {
+    "id": "adcbf84a0c2c",
+    "headline": "This charming gadget writes bad AI poetry",
+    "summary": "A novelty Poetry Camera gadget uses AI to generate poetry, offering a whimsical but flawed creative experience.",
+    "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 13:30"
+  },
+  {
+    "id": "390558bc2b00",
+    "headline": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+    "summary": "Dairy Queen deploys AI chatbots in drive-thrus across North America to improve service speed and efficiency.",
+    "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Following a ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 11:46"
+  },
+  {
+    "id": "c39ee1ed9456",
+    "headline": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary": "OpenAI executives Kevin Weil and Bill Peebles depart as the company discontinues Sora and its science team to focus on enterprise AI.",
+    "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "tags": [
+      "OpenAI",
+      "Video Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 20:38"
+  },
+  {
+    "id": "e6b7863fb8f2",
+    "headline": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "summary": "Growing divergence between AI insiders and general public widens as OpenAI aggressively acquires companies and spending increases dramatically.",
+    "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 15:57"
+  },
+  {
+    "id": "abf655b50010",
+    "headline": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "summary": "Anthropic launches Claude Design tool to help non-designers quickly create visuals and communicate ideas.",
+    "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+    "tags": [
+      "Anthropic",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 15:00"
+  },
+  {
+    "id": "ffc363181614",
+    "headline": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "summary": "Schematik, a coding tool for hardware design, attracts Anthropic's interest as an AI-powered development aid.",
+    "description": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "tags": [
+      "Anthropic",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Apr 2026, 10:30"
+  },
+  {
+    "id": "4b5a7c01c2f1",
+    "headline": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "summary": "Former Instagram VP Kevin Weil leaves OpenAI; the company consolidates his science team into Codex.",
+    "description": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 19:56"
+  },
+  {
+    "id": "513ff1c414f9",
+    "headline": "AI Drafting My Stories? Over My Dead Body",
+    "summary": "Newsrooms increasingly adopt AI writing assistance tools, raising concerns about editorial integrity and deeper professional implications.",
+    "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 15:46"
+  },
+  {
+    "id": "6974ed72227e",
+    "headline": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale",
+    "summary": "Google releases Auto-Diagnose, an LLM-based system to automatically diagnose integration test failures at scale.",
+    "description": "If you have ever stared at thousands of lines of integration test logs wondering which of the sixteen log files actually contains your bug, you are not alone — and Google now has data to prove it. A team of Google researchers introduced Auto-Diagnose, an LLM-powered tool that automatically reads the failure logs from a ... The post Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Apr 2026, 06:00"
+  },
+  {
+    "id": "6515ea3e153d",
+    "headline": "A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows",
+    "summary": "Tutorial for running OpenAI's open-weight GPT-OSS models in Google Colab with advanced inference workflows.",
+    "description": "In this tutorial, we explore how to run OpenAI’s open-weight GPT-OSS models in Google Colab with a strong focus on their technical behavior, deployment requirements, and practical inference workflows. We begin by setting up the exact dependencies needed for Transformers-based execution, verifying GPU availability, and loading openai/gpt-oss-20b with the correct configuration using native MXFP4 quantization, ... The post A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with ",
+    "tags": [
+      "OpenAI",
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Apr 2026, 03:39"
+  },
+  {
+    "id": "4b03cb5d08e0",
+    "headline": "Top 19 AI Red Teaming Tools (2026): Secure Your ML Models",
+    "summary": "Comprehensive guide to 19 AI red teaming security tools for 2026 as regulatory requirements increase.",
+    "description": "As Generative AI matures, so do the threats against it. AI Red Teaming has evolved from a niche security practice into a regulatory requirement. Our 2026 guide breaks down the top 19 tools—including Mindgard, Garak, and Microsoft’s PyRIT—to help security teams identify vulnerabilities like data leakage and bias before they reach production. The post Top 19 AI Red Teaming Tools (2026): Secure Your ML Models appeared first on MarkTechPost.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 20:45"
+  },
+  {
+    "id": "90f4dd5314ae",
+    "headline": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court",
+    "summary": "Legal analysis warns that sharing privileged information with ChatGPT or Claude may waive attorney-client privilege.",
+    "description": "\"Disclosure of privileged communications to a third-party AI platform may constitute a waiver of the attorney-client privilege.\" The post Things You Told ChatGPT or Claude My Have Already Doomed You in Court appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/lawyer-claude-ai-chatbot",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 Apr 2026, 08:15"
+  },
+  {
+    "id": "23dcd7ee03a0",
+    "headline": "Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice",
+    "summary": "Millions of Americans increasingly seek medical advice from AI chatbots despite receiving dangerously inaccurate health information.",
+    "description": "What could possibly go wrong? The post Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice appeared first on Futurism.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/millions-americans-ai-instead-doctor-bad-advice",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 16:06"
+  },
+  {
+    "id": "76cef0a3a7eb",
+    "headline": "Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave",
+    "summary": "Val Kilmer's estate announces AI-generated film using his likeness posthumously, sparking outrage over ethical implications.",
+    "description": "\"This is truly the MOST disgusting thing I’ve ever seen.\" The post Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave appeared first on Futurism.",
+    "tags": [
+      "Creative AI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/fury-val-kilmer-role-ai-film",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Apr 2026, 09:21"
+  },
+  {
+    "id": "317318e54dee",
+    "headline": "Healthcare",
+    "summary": "OpenAI blog highlights how ChatGPT supports clinicians with HIPAA-compliant tools for diagnosis and patient care.",
+    "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "tags": [
+      "OpenAI",
+      "Healthcare"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/academy/healthcare",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Apr 2026, 00:00"
+  },
+  {
     "id": "e36acdbe8406",
     "headline": "OpenAI’s big Codex update is a direct shot at Claude Code",
     "summary": "OpenAI upgrades Codex with agentic capabilities including computer control, image generation, and memory features to compete with Claude Code.",
@@ -10915,361 +11199,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "19 Mar 2026, 11:00"
-  },
-  {
-    "id": "d53c12f422ee",
-    "headline": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
-    "summary": "Nvidia releases DLSS 5 with 3D neural rendering for real-time graphics changes, but gamers express concerns about the technology's implications.",
-    "description": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter ...",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "18 Mar 2026, 08:30"
-  },
-  {
-    "id": "d1ca9e365dd2",
-    "headline": "Now everyone in the US is getting Google’s personalized Gemini AI",
-    "summary": "Google expands Gemini's Personal Intelligence feature to all US users, enabling context-aware responses by connecting various Google apps.",
-    "description": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 12:33"
-  },
-  {
-    "id": "cf4f4431e319",
-    "headline": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-    "summary": "Microsoft reorganizes Copilot leadership to consolidate consumer and commercial teams under new executive oversight.",
-    "description": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will ...",
-    "tags": [
-      "Microsoft",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 11:17"
-  },
-  {
-    "id": "b25349eaa4b0",
-    "headline": "The future of code is exciting and terrifying",
-    "summary": "Software development is rapidly transforming as AI coding tools like Claude Code democratize programming, changing how professionals work.",
-    "description": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does ...",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 11:16"
-  },
-  {
-    "id": "cdb54e7e0d7b",
-    "headline": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "summary": "Mistral launches Forge platform enabling enterprises to train custom AI models from scratch, competing with OpenAI and Anthropic's approaches.",
-    "description": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 21:00"
-  },
-  {
-    "id": "7f4d6054130b",
-    "headline": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-    "summary": "Garry Tan's Claude Code setup generates mixed reactions from thousands of users and AI systems alike.",
-    "description": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "tags": [
-      "Agents",
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 20:50"
-  },
-  {
-    "id": "41c46e63b4b7",
-    "headline": "The Pentagon is developing alternatives to Anthropic, report says",
-    "summary": "Pentagon develops alternative AI solutions after its public dispute with Anthropic ends their working relationship.",
-    "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 18:20"
-  },
-  {
-    "id": "b8c266365038",
-    "headline": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "summary": "BuzzFeed launches AI-powered social apps at SXSW to generate new revenue, though demos receive lukewarm reception.",
-    "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-    "tags": [
-      "Creative AI",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 17:17"
-  },
-  {
-    "id": "b603109e6595",
-    "headline": "Google’s Personal Intelligence feature is expanding to all US users",
-    "summary": "Google's Personal Intelligence expands to all US users, leveraging Gmail and Photos data for tailored Gemini responses.",
-    "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 16:00"
-  },
-  {
-    "id": "1b32e83246ea",
-    "headline": "OpenAI expands government footprint with AWS deal, report says",
-    "summary": "OpenAI partners with AWS to supply AI systems to US government for classified and unclassified work, expanding beyond Pentagon.",
-    "description": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-    "tags": [
-      "OpenAI",
-      "Microsoft"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 15:37"
-  },
-  {
-    "id": "b77b56d2278d",
-    "headline": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "summary": "AI investor Rana el Kaliouby warns that excluding women from AI funding and leadership risks widening wealth inequality.",
-    "description": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-    "tags": [
-      "Research",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 15:16"
-  },
-  {
-    "id": "97543dab4892",
-    "headline": "World launches tool to verify humans behind AI shopping agents",
-    "summary": "Sam Altman's World expands verification tools to authenticate humans behind AI shopping agents for e-commerce.",
-    "description": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 15:00"
-  },
-  {
-    "id": "36c493715f2f",
-    "headline": "Niv-AI exits stealth to wring more power performance out of GPUs",
-    "summary": "Niv-AI raises $12M seed funding to optimize GPU power management and performance measurement.",
-    "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-    "tags": [
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 13:00"
-  },
-  {
-    "id": "574f02433080",
-    "headline": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-    "summary": "Gamma adds text-to-image generation tools via Gamma Imagine to compete with Canva and Adobe for marketing asset creation.",
-    "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 13:00"
-  },
-  {
-    "id": "d68a50ef5a84",
-    "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-    "summary": "Justice Department tells Anthropic it lawfully penalized the company for restricting military use of Claude AI models.",
-    "description": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 Mar 2026, 00:51"
-  },
-  {
-    "id": "ef6e51b89a8c",
-    "headline": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-    "summary": "Pentagon plans secure environments for AI companies to train military-specific models on classified data.",
-    "description": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
-    "tags": [
-      "Regulation",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 22:30"
-  },
-  {
-    "id": "6887cfac66ef",
-    "headline": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
-    "summary": "Nvidia CEO defends DLSS 5 technology against gamer criticism, saying critics misunderstand the innovation.",
-    "description": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology GamesIndustry.bizJensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash Tom's HardwareDLSS 5: Has Nvidia’s AI graphics technology gone too far? The VergeNew DLSS 4 Games, Plus DLSS 5 Announced At GTC 2026 NVIDIANvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ Forbes",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGJsd0VlNTN0UGtENk1yN2JYZXNraFM2SFk3QUZTa0RyMjYxd0FBQ3pQR2pjaVB3VzlaZUVXcEFYMnlmaEpNWVlxQ01CVmxMdVFoZDZjQTdpZmtPd3hKa1hqR2dPU1M4czJ2cUNjc3RsMzJUSHYtTDVwVmFPR0ZWbUZCWVVNM2JmUjNjdDB1eldyRVVfRWtFaVMzb3BUWGM?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "18 Mar 2026, 10:35"
-  },
-  {
-    "id": "3e208960cd51",
-    "headline": "Fitbit improves sleep tracking, new Sleep Score and health records coming - 9to5Google",
-    "summary": "Fitbit enhances sleep tracking with new Sleep Score and health records leveraging AI health coaching.",
-    "description": "Fitbit improves sleep tracking, new Sleep Score and health records coming 9to5GoogleGet a fuller picture with Fitbit's personal health coach blog.googleFitbit's AI health coach can use your medical records if you want it to Android CentralFitbit AI Coach Will Explain Pizza Impact On Glucose findarticles.comGoogle Partners with CMS on Linking Medical Records to Fitbit Barron's",
-    "tags": [
-      "Healthcare",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01a3BHRDgzbVdDU2ZYWW9RTHNuSG93dnBZOWc0aGNlZmk3NUNOMzRPVy11UnpvSTlsU1doVzljdVBBZmVwVHlveVRoZmNUQkpKY05JWE9Zd1VhNjJZZkRsYVhTX1RJZFJTRk8wQzVQSi1zazFEeDVMQw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 17:40"
-  },
-  {
-    "id": "2ea3f235c0fc",
-    "headline": "The semi-official Galaxy A57 shows itself with a price hike - PhoneArena",
-    "summary": "Samsung Galaxy A57 surfaces with price increase and Galaxy AI's Transcript Assist for mid-range phones.",
-    "description": "The semi-official Galaxy A57 shows itself with a price hike PhoneArenaGalaxy A57 may bring Galaxy AI’s Transcript Assist to A series for the first time SamMobileSamsung Galaxy A57 mistakenly listed by European retailer - GSMArena.com news GSMArena.comReal-Life Photos of Galaxy A37 and A57 Show Multiple Color Variants Android HeadlinesSamsung Galaxy A37 and A57 smartphones unboxing videos have been posted online Mezha",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmZwN0hkVFVvQk9POVdjVGFVNW82V2VndmJwU3VjdmZQcmlseW9nVUJja0VyeFBHT3plVUtVcmt6T0NoY1lWUjlVZjRHY0xYRmVpWXYtRHJkbXdYOXBtMXZKMzBPNE1OdEpxeHFZX0tCOVozTVJYN3pmLUJ4ZjlOWDJmOFk4OEdUdXhiNjNDSmFlQnppVVJXT1BmODlEdHY3ZGc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 11:28"
-  },
-  {
-    "id": "575ecf05e069",
-    "headline": "The Gemini for Home voice assistant is now more concise, faster, & better at alarms/timers - 9to5Google",
-    "summary": "Gemini for Home voice assistant becomes more concise and faster with improved alarm and timer functionality.",
-    "description": "The Gemini for Home voice assistant is now more concise, faster, & better at alarms/timers 9to5GoogleOur Ultimate Google Home Voice Command List: Over 60 Commands to Master CNETGemini for Home lands a new update that makes voice commands up to 40% faster Android PoliceGoogle Assistant's latest update makes smart home interactions more natural NewsBytesGoogle Gemini for Home Gets 40% Faster Response Time in March 2026 Update Android Headlines",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SWtzck9KeW1oMWo3dkhqcXA5QlVaRzU4Yms5d1o3WEFiXzhhS3RRc3ZNcUo5M05WdV9xWmhlVjVPcTlOak5MSEJ3RV9EZDAySXRvQTJDX3RYUDVoblRHTFFHVGI5cnd4QlpFTWhrMk5OUQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Mar 2026, 19:25"
-  },
-  {
-    "id": "b41b5d93dbeb",
-    "headline": "NVIDIA AI Open-Sources ‘OpenShell’: A Secure Runtime Environment for Autonomous AI Agents",
-    "summary": "NVIDIA open-sources OpenShell, a secure runtime environment enabling safe deployment of autonomous AI agents.",
-    "description": "The deployment of autonomous AI agents—systems capable of using tools and executing code—presents a unique security challenge. While standard LLM applications are restricted to text-based interactions, autonomous agents require access to shell environments, file systems, and network endpoints to perform tasks. This increased capability introduces significant risks, as a model’s ‘black box’ nature can lead ... The post NVIDIA AI Open-Sources ‘OpenShell’: A Secure Runtime Environment for Autonomou",
-    "tags": [
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 Mar 2026, 08:42"
   }
 ]
