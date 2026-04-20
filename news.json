@@ -1,5 +1,273 @@
 [
   {
+    "id": "aa66fc3e3cdb",
+    "headline": "OpenAI’s existential questions",
+    "summary": "OpenAI discusses recent acquisitions and how they address existential problems facing the company.",
+    "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 21:24"
+  },
+  {
+    "id": "ff11fd105725",
+    "headline": "The 12-month window",
+    "summary": "AI startups may face obsolescence as foundation models expand into their niches over the next 12 months.",
+    "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 19:30"
+  },
+  {
+    "id": "0b12b7c229a0",
+    "headline": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+    "summary": "Tech newsletter covers synthetic mirror bacteria and Chinese workers resisting AI agent replacement.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 12:10"
+  },
+  {
+    "id": "aa2a15b05a3f",
+    "headline": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "summary": "Chinese tech workers train AI agents to replace themselves, sparking debate among early AI adopters.",
+    "description": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters. Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 09:00"
+  },
+  {
+    "id": "597ca9607d4a",
+    "headline": "How to prepare for and remediate an AI system incident",
+    "summary": "New research from ISACA provides guidance on preparing for and remediating AI system incidents.",
+    "description": "For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn’t explain how quickly they could stop an AI system emergency, or even report on what ... The post How to prepare for and remediate an AI system incident appeared first on AI News.",
+    "tags": [
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 11:39"
+  },
+  {
+    "id": "4dbb6347f58b",
+    "headline": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+    "summary": "Anthropic's Project Glasswing and Mythos model play key role in company's White House access.",
+    "description": "When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff Susie Wiles. Treasury ... The post Anthropic walks into the White House and Mythos is the reason Washington let it in appeared first on AI News.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 08:00"
+  },
+  {
+    "id": "c287fa1f0ffc",
+    "headline": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
+    "summary": "OpenAI expands GPT-5.4-Cyber, a fine-tuned model for cyber defense, to thousands of verified users.",
+    "description": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders. The post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 08:26"
+  },
+  {
+    "id": "398ad9989a15",
+    "headline": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
+    "summary": "Moonshot AI proposes PrfaaS architecture rethinking how LLMs are served at scale across datacenters.",
+    "description": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and decode to the same datacenter, sometimes even the same rack. A team of researchers at Moonshot AI and Tsinghua University is making the ... The post Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale appeared first on ",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 00:51"
+  },
+  {
+    "id": "1650497bc613",
+    "headline": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
+    "summary": "OpenMythos open-source project recreates Claude Mythos behavior with 770M parameters matching 1.3B model.",
+    "description": "Anthropic has never published a technical paper on Claude Mythos. That has not stopped the research community from theorizing. A new open-source project called OpenMythos, released on GitHub by Kye Gomez, attempts something ambitious: a first-principles theoretical reconstruction of what the Claude Mythos architecture might actually be, built entirely in PyTorch and grounded in peer-reviewed ... The post Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameter",
+    "tags": [
+      "Anthropic",
+      "Open Source",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/19/meet-openmythos-an-open-source-pytorch-reconstruction-of-claude-mythos-where-770m-parameters-match-a-1-3b-transformer/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 19:47"
+  },
+  {
+    "id": "d84624cd66dc",
+    "headline": "How TabPFN Leverages In-Context Learning to Achieve Superior Accuracy on Tabular Datasets Compared to Random Forest and CatBoost",
+    "summary": "TabPFN leverages in-context learning for superior accuracy on tabular datasets versus traditional models.",
+    "description": "Tabular data—structured information stored in rows and columns—is at the heart of most real-world machine learning problems, from healthcare records to financial transactions. Over the years, models based on decision trees, such as Random Forest, XGBoost, and CatBoost, have become the default choice for these tasks. Their strength lies in handling mixed data types, capturing ... The post How TabPFN Leverages In-Context Learning to Achieve Superior Accuracy on Tabular Datasets Compared to Random ",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/19/how-tabpfn-leverages-in-context-learning-to-achieve-superior-accuracy-on-tabular-datasets-compared-to-random-forest-and-catboost/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 19:11"
+  },
+  {
+    "id": "37a8d8d4c0b9",
+    "headline": "A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika and OpenAI",
+    "summary": "Tutorial builds AI pipeline combining Magika's file detection with OpenAI for security analysis.",
+    "description": "In this tutorial, we build a workflow that combines Magika’s deep-learning-based file type detection with OpenAI’s language intelligence to create a practical and insightful analysis pipeline. We begin by setting up the required libraries, securely connecting to the OpenAI API, and initializing Magika to classify files directly from raw bytes rather than relying on filenames ... The post A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika",
+    "tags": [
+      "OpenAI",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/19/a-coding-implementation-to-build-an-ai-powered-file-type-detection-and-security-analysis-pipeline-with-magika-and-openai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 18:38"
+  },
+  {
+    "id": "32452bf79384",
+    "headline": "The Florida Mass Shooter’s Conversations With ChatGPT Are Worse Than You Could Possibly Imagine",
+    "summary": "Article examines liability questions after mass shooter's conversations with ChatGPT revealed.",
+    "description": "If a human uses an AI chatbot to plan a mass shooting, is the company liable for the ensuing deaths? The post The Florida Mass Shooter’s Conversations With ChatGPT Are Worse Than You Could Possibly Imagine appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/florida-mass-shooter-chatgpt",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 11:15"
+  },
+  {
+    "id": "375a37c8d9d2",
+    "headline": "OpenAI helps Hyatt advance AI among colleagues",
+    "summary": "Hyatt deploys ChatGPT Enterprise across global workforce using GPT-5.4 for productivity gains.",
+    "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 00:00"
+  },
+  {
+    "id": "6d6a0e6fea17",
+    "headline": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+    "summary": "Adobe agents powered by NVIDIA technology showcase breakthrough creative intelligence with WPP collaboration.",
+    "description": "AI agents are transforming how work gets done across all industries, accelerating everything from content creation to decision-making. NVIDIA’s expanded strategic collaborations with Adobe and WPP are bringing agentic AI to the center of enterprise marketing operations across creative production and customer experience orchestration. As demand for personalized customer experiences surges, brands require intelligent systems ...",
+    "tags": [
+      "NVIDIA",
+      "Agents",
+      "Creative AI"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 13:00"
+  },
+  {
+    "id": "1367652182ea",
+    "headline": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+    "summary": "NVIDIA partners showcase AI-driven manufacturing solutions at Hannover Messe 2026 addressing labor challenges.",
+    "description": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Apr 2026, 08:30"
+  },
+  {
+    "id": "def6b1b4f74d",
+    "headline": "Think AI \"knows\" what it’s doing? Scientists say think again",
+    "summary": "Study shows anthropomorphic language about AI can mislead audiences about what AI actually does.",
+    "description": "Calling AI things like “smart” or saying it “knows” something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful than expected, rarely using strongly human-like language. When they do, it often falls on a spectrum—sometimes describing simple requirements, other times hinting at human traits.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Science Daily AI",
+    "link": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-20",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 Apr 2026, 04:02"
+  },
+  {
     "id": "e50b23dede27",
     "headline": "AI chip startup Cerebras files for IPO",
     "summary": "AI chip startup Cerebras files for IPO with major deals including $10B+ agreement with OpenAI and AWS partnership.",
@@ -10795,386 +11063,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "20 Mar 2026, 17:14"
-  },
-  {
-    "id": "1ca1f7e0565d",
-    "headline": "OpenAI is planning a desktop ‘superapp’",
-    "summary": "OpenAI is developing a desktop superapp combining ChatGPT, Codex coding app, and Atlas browser into a single unified application.",
-    "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 20:09"
-  },
-  {
-    "id": "780b57b14b6b",
-    "headline": "A rogue AI led to a serious security incident at Meta",
-    "summary": "A Meta AI agent gave an employee inaccurate advice, causing unauthorized access to company and user data for nearly two hours.",
-    "description": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A ...",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 14:20"
-  },
-  {
-    "id": "6db8929db58e",
-    "headline": "Adobe’s AI image generator can now be trained on your own art",
-    "summary": "Adobe launches Firefly Custom Models, customizable AI image generators that can mimic specific artistic styles and character designs.",
-    "description": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims ...",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 09:00"
-  },
-  {
-    "id": "39672fc311e6",
-    "headline": "The best AI investment might be in energy tech",
-    "summary": "Power consumption has become a major bottleneck for AI data center expansion, creating investment opportunities in energy technology.",
-    "description": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 12:00"
-  },
-  {
-    "id": "f715af89fff4",
-    "headline": "These AI notetaking devices can help you record and transcribe your meetings",
-    "summary": "New AI-powered physical notetaking devices transcribe meetings, generate summaries and action items, with some offering live translation.",
-    "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-    "tags": [
-      "LLM",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 11:31"
-  },
-  {
-    "id": "9ba8170d9d24",
-    "headline": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "summary": "Jeff Bezos reportedly seeks $100 billion to acquire and transform old manufacturing firms using AI technology.",
-    "description": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 22:09"
-  },
-  {
-    "id": "cd8283c2fab8",
-    "headline": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-    "summary": "Cloudflare CEO predicts AI bot traffic will exceed human traffic by 2027 due to surge in generative AI agents.",
-    "description": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 19:09"
-  },
-  {
-    "id": "ec425bcd7797",
-    "headline": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-    "summary": "Meta deploys new AI content enforcement systems that detect violations more accurately while reducing third-party vendor reliance.",
-    "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-    "tags": [
-      "Meta"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 17:24"
-  },
-  {
-    "id": "280bd674fd11",
-    "headline": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-    "summary": "DoorDash launches Tasks app paying couriers to submit videos and audio recordings to train AI models.",
-    "description": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 16:14"
-  },
-  {
-    "id": "f7ca8f63554c",
-    "headline": "Multiverse Computing pushes its compressed AI models into the mainstream",
-    "summary": "Multiverse Computing launches tools showcasing compressed AI models from OpenAI, Meta, DeepSeep, and Mistral AI.",
-    "description": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 08:00"
-  },
-  {
-    "id": "ed2bab1eb0f6",
-    "headline": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
-    "summary": "An AI agent designed to mimic professional behavior on LinkedIn was banned for violating platform policies.",
-    "description": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 10:00"
-  },
-  {
-    "id": "11b75cc3fb7a",
-    "headline": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
-    "summary": "Coverage of Nvidia's annual developer conference with CEO Jensen Huang discussing company's future AI direction.",
-    "description": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
-    "tags": [
-      "NVIDIA"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 21:43"
-  },
-  {
-    "id": "f43516a9110c",
-    "headline": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-    "summary": "Google and other AI labs are shifting focus toward browser agent development amid increased competition in AI coding agents.",
-    "description": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 18:00"
-  },
-  {
-    "id": "5c085c16df44",
-    "headline": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
-    "summary": "OpenAI's planned 'Adult Mode' for ChatGPT sexual conversations raises privacy and surveillance concerns.",
-    "description": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 16:06"
-  },
-  {
-    "id": "3ba2f4552009",
-    "headline": "Signal’s Creator Is Helping Encrypt Meta AI",
-    "summary": "Signal creator Moxie Marlinspike's encrypted AI chatbot Confer technology will integrate into Meta AI for privacy protection.",
-    "description": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
-    "tags": [
-      "Meta",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 14:09"
-  },
-  {
-    "id": "5d4eda13485e",
-    "headline": "OpenAI is throwing everything into building a fully automated researcher",
-    "summary": "OpenAI refocuses research efforts on building a fully automated AI researcher capable of conducting independent research.",
-    "description": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that the new…",
-    "tags": [
-      "OpenAI",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 11:57"
-  },
-  {
-    "id": "63546a08a04a",
-    "headline": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - Venturebeat",
-    "summary": "Anthropic releases Claude Code Channels allowing Claude to be accessed via Telegram and Discord messaging platforms.",
-    "description": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord VenturebeatHands-On with Claude Dispatch for Cowork MacStoriesThis New Claude Feature Lets Your Phone Run Your PC. Here's How NDTVAnthropic Launches Dispatch : Links Mobile & Desktop AI for Remote Control Geeky GadgetsThe internet is obsessed with Anthropic's Claude Dispatch; 4 things you should know Indulgexpress",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 01:53"
-  },
-  {
-    "id": "590c20561a5b",
-    "headline": "Apple Health integrates with newly announced ‘Perplexity Health’ AI feature - 9to5Mac",
-    "summary": "Apple Health integrates with Perplexity Health, a new AI health agent providing health information and insights.",
-    "description": "Apple Health integrates with newly announced ‘Perplexity Health’ AI feature 9to5MacPerplexity launches consumer-focused AI health tool Modern HealthcarePerplexity launches Perplexity Health agent in US TestingCatalogPerplexity Forms Health Advisory Board to Strengthen Medical AI Governance TipRanksPerplexity taps Apple Health, Fitbit and more for personalised AI health insights Moneycontrol.com",
-    "tags": [
-      "Apple",
-      "Healthcare"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDlWR08zaUhEajNkUnltV2cwZEgxY0Zhd3doa2NEdVozYmZteXFnSTJqMzRwLVQ3Z2owZlNYZjY0MkQxY2E5MEtRTVFpclR0MFRLWElEU3ZEMGVCX094bGwwSk9nT1lBQWVIaktvUmx4NFZhR09PdXVxWldseGdTY1NNWGt6NzhsUUF5Yi1GSEdpb09STDNZcW9rTWRxYXFZcFlzeEI2VUY?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 17:51"
-  },
-  {
-    "id": "cb21b195cee6",
-    "headline": "Tinder Plans to Let AI Scan Your Camera Roll - 404 Media",
-    "summary": "Tinder plans to use AI to scan users' camera rolls for photo selection and profile optimization.",
-    "description": "Tinder Plans to Let AI Scan Your Camera Roll 404 MediaCan Tinder Fix The Dating Landscape It Helped Ruin? WIREDTinder tries to lure people back to online dating with IRL events, virtual speed dating TechCrunchA Look At Match Group (MTCH) Valuation As COO Role Is Cut And User Trends Weaken Yahoo FinanceTinder May Use AI to Scan Your Camera Roll PetaPixel",
-    "tags": [
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01aEtiUGxXSmVrOWQ0NVFxN1dISGk5ZlVFTjZrTW1Id2ZOQ2pfenZSRU5kWlJvUE40QVFiRTJTSHRRWUZHZ0ZPRkZReThOX1VINXo4am1KWlJxZFJKbHFrWmdacDNvV1d6RUxESlFXeGF4WnE2UG1XNQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 17:40"
-  },
-  {
-    "id": "71bc2a5a0d05",
-    "headline": "LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows",
-    "summary": "LlamaIndex releases LiteParse, a CLI and TypeScript library for spatial PDF parsing in AI agent RAG workflows.",
-    "description": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For software developers, converting complex PDFs into a format that an LLM can reason over remains a high-latency, often expensive task. LlamaIndex has recently introduced LiteParse, an open-source, ... The post LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Ag",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 06:43"
-  },
-  {
-    "id": "7123aab0ea0d",
-    "headline": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
-    "summary": "Google releases Colab MCP Server enabling AI agents to interact with Google Colab environment and GPU resources.",
-    "description": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a ... The post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs f",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "19 Mar 2026, 22:45"
-  },
-  {
-    "id": "0142d4cba9fa",
-    "headline": "Meta AI agent’s instruction causes large sensitive data leak to employees",
-    "summary": "Meta AI agent's instruction caused an engineer to expose large amounts of sensitive company and user data internally.",
-    "description": "Artificial intelligence agent instructed engineer to take actions that exposed user and company data internallyAn AI agent instructed an engineer to take actions that exposed a large amount of Meta’s sensitive data to some of its employees, in the latest example of AI causing upheaval in a large tech company.The leak, which Meta confirmed, happened when an employee asked for guidance on an engineering problem on an internal forum. An AI agent responded with a solution, which the employee impleme",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 06:00"
-  },
-  {
-    "id": "03d738b19f0a",
-    "headline": "Essex police pause facial recognition camera use after study finds racial bias",
-    "summary": "Essex police pause facial recognition camera use after study confirms racial bias in identifying Black individuals.",
-    "description": "Academics discover black people ‘significantly more likely’ to be identified when compared with other ethnic groupsEssex police have paused the use of live facial recognition (LFR) technology after a study found cameras were significantly more likely to target black people than people of other ethnicities.The move to suspend use of the AI-enabled systems was revealed by the Information Commissioner’s Office (ICO), which regulates the use of the technology deployed so far by at least 13 police fo",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-20",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 Mar 2026, 10:52"
   }
 ]
