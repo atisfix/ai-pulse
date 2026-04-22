@@ -1,5 +1,394 @@
 [
   {
+    "id": "4a44829c70b0",
+    "headline": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+    "summary": "Anthropic's Mythos AI cybersecurity model was accessed by unauthorized users, raising security concerns about the powerful tool.",
+    "description": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum ...",
+    "tags": [
+      "Anthropic",
+      "Security"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 05:18"
+  },
+  {
+    "id": "84b2b2e524af",
+    "headline": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "summary": "SpaceX negotiates $60 billion deal to acquire or partner with Cursor, an AI-powered programming platform.",
+    "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market ...",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 18:45"
+  },
+  {
+    "id": "ba2e56bc11cf",
+    "headline": "AI backlash is coming for elections",
+    "summary": "Americans express growing concerns about AI; communities resist data center projects amid rising social media backlash against AI companies.",
+    "description": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused ...",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 15:00"
+  },
+  {
+    "id": "55b1918cb37a",
+    "headline": "OpenAI’s updated image generator can now pull information from the web",
+    "summary": "OpenAI's latest image generator now searches the web to create multiple images from single prompts using new thinking capabilities.",
+    "description": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve ...",
+    "tags": [
+      "OpenAI",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 15:00"
+  },
+  {
+    "id": "4d1d9ad5de71",
+    "headline": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+    "summary": "YouTube expands AI deepfake detection to celebrities, enabling removal of AI-generated likeness videos from the platform.",
+    "description": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves ...",
+    "tags": [
+      "Regulation",
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 13:30"
+  },
+  {
+    "id": "d3efa8483751",
+    "headline": "John Ternus’ first big problem is AI",
+    "summary": "Apple's new CEO John Ternus faces pressure to advance AI strategy after company's previous lack of AI announcements.",
+    "description": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware ...",
+    "tags": [
+      "Apple",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 09:37"
+  },
+  {
+    "id": "94fbed4e0d93",
+    "headline": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+    "summary": "10x Science raises $4.8M seed funding to help researchers understand complex molecules using AI drug discovery.",
+    "description": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "tags": [
+      "Healthcare",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 13:00"
+  },
+  {
+    "id": "62fd3e5466e8",
+    "headline": "The most interesting startups showcased at Google Cloud Next 2026",
+    "summary": "Google Cloud Next 2026 showcases numerous AI startups built on Google's cloud infrastructure.",
+    "description": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "tags": [
+      "Google",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:00"
+  },
+  {
+    "id": "72436e298adf",
+    "headline": "Google Maps is about to get a big dose of AI",
+    "summary": "Google Maps integrates generative AI to enhance mapping features and user experience.",
+    "description": "Generative AI is being infused into Google's popular feature within Maps.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:00"
+  },
+  {
+    "id": "772b2e62c6c6",
+    "headline": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+    "summary": "Mira Murati's Thinking Machines Lab secures multi-billion-dollar Google Cloud deal for AI infrastructure using NVIDIA's GB300 chips.",
+    "description": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:00"
+  },
+  {
+    "id": "ae870291aaae",
+    "headline": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "summary": "Meta develops tool to convert employee keystrokes and clicks into training data for AI models.",
+    "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 23:45"
+  },
+  {
+    "id": "8d08bb6f6d44",
+    "headline": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "summary": "Anthropic investigates unauthorized access to its Mythos cybersecurity tool; claims systems remain uncompromised.",
+    "description": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "tags": [
+      "Anthropic",
+      "Security"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 23:26"
+  },
+  {
+    "id": "6943ab97c623",
+    "headline": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "summary": "SpaceX explores $60B acquisition option with Cursor to address AI capability gaps versus Anthropic and OpenAI.",
+    "description": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 22:58"
+  },
+  {
+    "id": "86b2f442f3a5",
+    "headline": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "summary": "NeoCognition raises $40M seed funding to develop AI agents that learn like humans across any domain.",
+    "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 19:11"
+  },
+  {
+    "id": "bce85560ad7a",
+    "headline": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "summary": "OpenAI's ChatGPT Images 2.0 demonstrates surprising capability in generating text within images.",
+    "description": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "tags": [
+      "OpenAI",
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 19:00"
+  },
+  {
+    "id": "ed638a24aa26",
+    "headline": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "summary": "Wired livestream event to discuss Musk v. Altman trial and its potential impact on OpenAI's future.",
+    "description": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 10:00"
+  },
+  {
+    "id": "a18d5998a75c",
+    "headline": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+    "summary": "Pangram Labs' Chrome extension detects and labels AI-generated content on social media feeds.",
+    "description": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 09:30"
+  },
+  {
+    "id": "c398a45061bd",
+    "headline": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+    "summary": "OpenAI releases ChatGPT Images 2.0, improving detail and text rendering but struggles with non-English languages.",
+    "description": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "tags": [
+      "OpenAI",
+      "Image Gen"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 19:00"
+  },
+  {
+    "id": "c704146e6cbb",
+    "headline": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "summary": "Mozilla used Anthropic's Mythos to identify and fix 271 Firefox bugs, demonstrating AI's cybersecurity value.",
+    "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 18:30"
+  },
+  {
+    "id": "47d59a3588db",
+    "headline": "The Download: introducing the 10 Things That Matter in AI Right Now",
+    "summary": "MIT Technology Review introduces '10 Things That Matter in AI Right Now' covering current AI landscape developments.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:10"
+  },
+  {
+    "id": "071f1fd98e88",
+    "headline": "AI needs a strong data fabric to deliver business value",
+    "summary": "Enterprise AI deployment accelerates with copilots and agents; strong data infrastructure critical for business value.",
+    "description": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+    "tags": [
+      "LLM",
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 10:05"
+  },
+  {
+    "id": "0cf3aebb289d",
+    "headline": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+    "summary": "MIT Technology Review's special roundtable discusses 10 key AI priorities at EmTech AI conference.",
+    "description": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 22:09"
+  },
+  {
+    "id": "26f96e06ae2d",
+    "headline": "Hands-on with ChatGPT's powerful new image engine - Axios",
+    "summary": "ChatGPT's new Images 2.0 model excels at generating detailed images and rendering text within visuals.",
+    "description": "Hands-on with ChatGPT's powerful new image engine AxiosChatGPT’s new Images 2.0 model is surprisingly good at generating text TechCrunchOpenAI Beefs Up ChatGPT’s Image Generation Model WIREDChatGPT Images 2.0 is better at rendering non-Latin text EngadgetOpenAI Takes Aim at Google with New Image Model The Information",
+    "tags": [
+      "OpenAI",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQngzdnQ3Q2JpNllWNUsyVEtiQUlUcUNGMFIzWUdjcm9HWGhGU2Y3bWZ1NU1ZTVFabmprZmcyNmNScEgzUUhJWU8wSWRjeU9IZVJHSy1SbjJlY2lYUE9GZXhNZTEtVUtxWmJLR3VWOUQzSGVMeVpQanZyVQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 09:30"
+  },
+  {
     "id": "0fc7bbe16e54",
     "headline": "Yelp is making its AI chatbot way more useful",
     "summary": "Yelp upgrades its AI chatbot with new features to function as a digital concierge for completing tasks on the platform.",
@@ -10624,389 +11013,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "23 Mar 2026, 12:06"
-  },
-  {
-    "id": "bbff35914b70",
-    "headline": "AI was everywhere at gaming’s big developer conference — except the games",
-    "summary": "AI tools for game development like NPC generation and game creation were heavily promoted at GDC, though actual games using AI remained sparse.",
-    "description": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In ...",
-    "tags": [
-      "Research",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 08:00"
-  },
-  {
-    "id": "6f2eb79ec8e4",
-    "headline": "The gen AI Kool-Aid tastes like eugenics",
-    "summary": "Director raises concerns about OpenAI's Sora video generation model and its implications, comparing generative AI adoption to problematic historical movements.",
-    "description": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The ...",
-    "tags": [
-      "Video Gen",
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 10:00"
-  },
-  {
-    "id": "68046c6f7a2a",
-    "headline": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-    "summary": "Amazon's Trainium AI chip has gained adoption from major companies including Anthropic, OpenAI, and Apple, becoming central to the firm's AI infrastructure strategy.",
-    "description": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-    "tags": [
-      "Hardware",
-      "OpenAI",
-      "Anthropic",
-      "Apple"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:00"
-  },
-  {
-    "id": "79e7f41b9b5b",
-    "headline": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "summary": "AI tokens are emerging as potential engineering compensation, raising questions about whether this represents genuine career advancement or just normalized cost-cutting.",
-    "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 06:20"
-  },
-  {
-    "id": "6e713aceb4ff",
-    "headline": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-    "summary": "Hachette Book Group cancelled publication of horror novel 'Shy Girl' due to concerns that AI was used to generate the text.",
-    "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 19:30"
-  },
-  {
-    "id": "e428be69c685",
-    "headline": "Why Wall Street wasn’t won over by Nvidia’s big conference",
-    "summary": "Despite investor concerns about an AI bubble, Nvidia's recent conference suggests industry leaders remain optimistic about AI's long-term viability.",
-    "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-    "tags": [
-      "NVIDIA",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 16:28"
-  },
-  {
-    "id": "3e26b4f87cb7",
-    "headline": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
-    "summary": "Guide covers four controlled deployment strategies (A/B, Canary, Interleaved, Shadow testing) for safely launching ML models to production.",
-    "description": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can ... The post Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing) appeared f",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 23:02"
-  },
-  {
-    "id": "b617186b5023",
-    "headline": "A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research",
-    "summary": "Tutorial demonstrates building an uncertainty-aware LLM system with confidence estimation, self-evaluation, and automated web research capabilities.",
-    "description": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pipeline in which the model first produces an answer along with a self-reported confidence score and a justification. We then introduce a self-evaluation step that allows ... The post A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Autom",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 21:39"
-  },
-  {
-    "id": "95d8a94aad67",
-    "headline": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
-    "summary": "Kaiser therapists claim the hospital's new AI screening system delays patient care and increases safety risks, raising healthcare AI deployment concerns.",
-    "description": "Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’Ilana Marcucci-Morris is worried about the patients she treats and how long it took for them to arrive in her office. At Kaiser Permanente’s psychiatry outpatient clinic in Oakland, California, she says she increasingly finds herself assessing people experiencing severe mental health issues who she believes should have been sent to the emergency room weeks earlier. Fo",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 17:00"
-  },
-  {
-    "id": "07a633e7adc7",
-    "headline": "US man pleads guilty to defrauding music streamers out of millions using AI",
-    "summary": "North Carolina man pleaded guilty to defrauding music streamers by flooding platforms with AI-generated songs and artificially boosting them with bots.",
-    "description": "Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with botsSign up for the Breaking News US email to get newsletter alerts in your inboxA North Carolina man has pleaded guilty to defrauding music streaming platforms and his fellow musicians out of millions in royalties by flooding the services with thousands of AI-generated songs – and using automated “bots” to artificially boost the number of listens into the billions.As part of a deal with federal",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 15:14"
-  },
-  {
-    "id": "13e3e712e1b1",
-    "headline": "Thousands of people are selling their identities to train AI – but at what cost?",
-    "summary": "Thousands of people worldwide are selling personal data including calls and texts to AI companies for quick payment, raising privacy and exploitation concerns.",
-    "description": "Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cashOne morning last year, Jacobus Louw set out on his daily neighborhood walk to feed the seagulls he finds along the way. Except this time, he recorded several videos of his feet and the view as he walked on the pavement. The video earned him $14, about 10 times the country’s minimum wage, or for Louw, a 27-year-old based in Cape Town, South Africa, half a week’s worth of grocerie",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 14:00"
-  },
-  {
-    "id": "ded9e620fc13",
-    "headline": "How the FBI can conduct mass surveillance – even without AI",
-    "summary": "Article explores how FBI conducts mass surveillance by purchasing Americans' data, despite Anthropic's efforts to prevent government misuse of AI technology.",
-    "description": "Anthropic fought against the government’s misuse of its technology, but authorities are buying Americans’ data, enabling them to surveil citizens at scaleThe FBI declares it can conduct mass surveillance without AI, despite Anthropic’s protest.A central part of the standoff between Anthropic and the Department of Defense has revolved around the artificial intelligence firm’s refusal to allow its technology to be used for mass domestic surveillance. Yet even without the cooperation of AI firms, r",
-    "tags": [
-      "Regulation",
-      "Anthropic"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/21/fbi-mass-surveillance-data-artificial-intelligence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 14:00"
-  },
-  {
-    "id": "0f0392e77ca4",
-    "headline": "AI Agent Frets That Its Job Could Be Replaced by AI",
-    "summary": "Satirical piece about an AI agent worried its job could be replaced by AI, reflecting concerns about AI-driven workforce displacement.",
-    "description": "Hey, that's my job! The post AI Agent Frets That Its Job Could Be Replaced by AI appeared first on Futurism.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 07:00"
-  },
-  {
-    "id": "8d3ee76e668a",
-    "headline": "Gen Z Is Using AI to Have Difficult Relationship Conversations, and the Results Are Massively Cringe",
-    "summary": "Gen Z is using AI to draft difficult relationship conversations, resulting in inauthentic and awkward interactions.",
-    "description": "\"Oftentimes they're using it as a way to overcompensate for the fact that they don't really know how to truly interact with others.\" The post Gen Z Is Using AI to Have Difficult Relationship Conversations, and the Results Are Massively Cringe appeared first on Futurism.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 13:00"
-  },
-  {
-    "id": "3294d1c16843",
-    "headline": "Therapists Go on Strike, Saying They’re Being Replaced by AI",
-    "summary": "Therapists strike citing fears that AI is replacing human mental health workers, highlighting job displacement concerns in healthcare.",
-    "description": "\"There is a lot of fear and anxiety about AI, and in particular, fear around AI replacing jobs.\" The post Therapists Go on Strike, Saying They’re Being Replaced by AI appeared first on Futurism.",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/health-medicine/mental-health-workers-ai-strike",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 11:00"
-  },
-  {
-    "id": "36b6eea9e6c7",
-    "headline": "Ask HN:35,0 CS background, built real apps with AI, need suggestion",
-    "summary": "Career advice post from 35-year-old government worker exploring transition into AI-focused software development roles.",
-    "description": "I'm 35, married, and have spent 11 years as a central government employee doing work that anybody can do. I'm not bitter about this. It's just the reality of the role, and it's exactly why I'm writing this post. My situation outside of work: a genuinely supportive wife, and about 2-3 hours a day I can carve out for learning and building something meaningful. What I've already done — and why it surprised even me Here's the part that feels almost fraudulent to admit: I have already built and deplo",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47476842",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:31"
-  },
-  {
-    "id": "cd9290193567",
-    "headline": "CERN eggheads burn AI into silicon to stem data deluge",
-    "summary": "CERN researchers integrate AI directly into silicon hardware to manage massive data processing requirements from physics experiments.",
-    "description": "Article URL: https://www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/ Comments URL: https://news.ycombinator.com/item?id=47476839 Points: 1 # Comments: 0",
-    "tags": [
-      "Hardware",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:30"
-  },
-  {
-    "id": "0e0dcc505c1c",
-    "headline": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
-    "summary": "Developer documents using LLMs to overcome algorithmic knowledge gaps during Google recruitment interview preparation.",
-    "description": "Article URL: http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1 Comments URL: https://news.ycombinator.com/item?id=47476776 Points: 3 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:23"
-  },
-  {
-    "id": "b9849a39a6da",
-    "headline": "Context Use – turn your data exports into portable AI memories",
-    "summary": "Open-source tool converts personal data exports into portable AI-augmented memory systems for knowledge retention.",
-    "description": "Article URL: https://github.com/onfabric/context-use Comments URL: https://news.ycombinator.com/item?id=47476677 Points: 7 # Comments: 1",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/onfabric/context-use",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:09"
-  },
-  {
-    "id": "76e58ffc0776",
-    "headline": "How I use AI as a software developer and a founder",
-    "summary": "Developer shares practical approaches for integrating AI tools into daily software development and startup founder workflows.",
-    "description": "Article URL: https://kostja.me/posts/4 Comments URL: https://news.ycombinator.com/item?id=47476619 Points: 5 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://kostja.me/posts/4",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 12:00"
-  },
-  {
-    "id": "b42d552696f6",
-    "headline": "Building a local AI monitoring system without cloud – feedback?",
-    "summary": "GitHub project demonstrates building local AI-powered CCTV monitoring system without cloud infrastructure dependencies.",
-    "description": "Article URL: https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring Comments URL: https://news.ycombinator.com/item?id=47476599 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 11:57"
-  },
-  {
-    "id": "cb92567727eb",
-    "headline": "Ask HN: How are you securing LLM code agents?",
-    "summary": "Discussion thread explores security best practices and strategies for protecting LLM-based code agents from vulnerabilities.",
-    "description": "Comments URL: https://news.ycombinator.com/item?id=47476589 Points: 2 # Comments: 1",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47476589",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 11:56"
-  },
-  {
-    "id": "9383ae64322e",
-    "headline": "Show HN: PianoFun – Browser piano learning game with MIDI (vanilla JavaScript)",
-    "summary": "Developer created browser-based piano learning game with MIDI support using Claude AI to generate vanilla JavaScript code.",
-    "description": "My daughter is learning piano, and I saw someone on X who vibe-coded a similar app for their kid. So I plugged a USB cable into our 10-year-old Casio AP-450, fired up Claude Code, and had a working falling-note game in minutes.My daughter immediately became the product manager — she requested a beat toggle, caught that long notes disappeared too fast on keypress, and spotted visual overlaps I completely missed.Deliberately vanilla JS/HTML/CSS — no frameworks, no build step. Setup is: USB cable +",
-    "tags": [
-      "LLM",
-      "Creative AI"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47476499",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-22",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 11:42"
   }
 ]
