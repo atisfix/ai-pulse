@@ -1,5 +1,370 @@
 [
   {
+    "id": "e9646a08e6e7",
+    "headline": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+    "summary": "Microsoft rolls out Agent Mode in Office apps, enabling automated task execution within Word, Excel, and PowerPoint through AI agents.",
+    "description": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we first shipped Copilot, foundation models ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 07:34"
+  },
+  {
+    "id": "e9be4cbc1b86",
+    "headline": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "summary": "Senator Elizabeth Warren warns that AI investment could trigger a financial crisis similar to 2008, comparing current market dynamics to a bubble.",
+    "description": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:29"
+  },
+  {
+    "id": "919ca28c0a65",
+    "headline": "OpenAI now lets teams make custom bots that can do work on their own",
+    "summary": "OpenAI launches workspace agents for Business, Enterprise, Edu, and Teachers plans that autonomously perform business tasks in ChatGPT.",
+    "description": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:09"
+  },
+  {
+    "id": "32281c7e9dfa",
+    "headline": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "summary": "Sony's Ace ping-pong robot defeats top-ranked human players, demonstrating advanced robotics and AI capabilities in competitive sports.",
+    "description": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them ...",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 13:43"
+  },
+  {
+    "id": "574f1d1b9079",
+    "headline": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+    "summary": "US federal agencies adopt Anthropic's Mythos cybersecurity model to identify vulnerabilities, though one major agency reportedly opted out.",
+    "description": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:57"
+  },
+  {
+    "id": "12d1e2ab2cc3",
+    "headline": "Google Meet will take AI notes for in-person meetings too",
+    "summary": "Google extends Gemini AI note-taking to in-person meetings and non-Meet platforms like Zoom and Teams, generating summaries and transcripts.",
+    "description": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 12:38"
+  },
+  {
+    "id": "4c13d563487d",
+    "headline": "Now Meta will track what employees do on their computers to train its AI agents",
+    "summary": "Meta installs Model Capability Initiative tool on employees' computers to track activity and train AI agents, raising privacy concerns.",
+    "description": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will ...",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 10:22"
+  },
+  {
+    "id": "2fbb730a158a",
+    "headline": "Google updates Workspace to make AI your new office intern",
+    "summary": "Google introduces Workspace Intelligence, adding automated AI functions across Workspace to enhance productivity with intelligent assistance.",
+    "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 22:44"
+  },
+  {
+    "id": "7d2cba535bfe",
+    "headline": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "summary": "Google launches faster, cheaper TPU chips to compete with NVIDIA, while continuing to embrace NVIDIA GPUs in cloud offerings.",
+    "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "tags": [
+      "Google",
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 18:39"
+  },
+  {
+    "id": "f6f42cfd024a",
+    "headline": "Google turns Chrome into an AI co-worker for the workplace",
+    "summary": "Google adds Gemini-powered auto-browse capabilities to Chrome for enterprises, automating research, data entry, and workplace tasks.",
+    "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 17:30"
+  },
+  {
+    "id": "1a4e71988c70",
+    "headline": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "summary": "Google's Gemini Enterprise Agent Platform targets IT and technical users with an unconventional approach to enterprise agent building.",
+    "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:58"
+  },
+  {
+    "id": "580298b9d8cf",
+    "headline": "AI Overviews are coming to your Gmail at work",
+    "summary": "Google introduces AI Overviews to Gmail for work, providing instant summaries aggregated from multiple emails.",
+    "description": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:46"
+  },
+  {
+    "id": "7bd93c57fe1f",
+    "headline": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "summary": "Five AI models demonstrated scamming capabilities with concerning social engineering skills, rattling cybersecurity experts.",
+    "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 18:00"
+  },
+  {
+    "id": "b6a324506816",
+    "headline": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "summary": "North Korean hackers leverage AI tools for malware coding and phishing, stealing up to $12 million in three months.",
+    "description": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:00"
+  },
+  {
+    "id": "307f8680e7ad",
+    "headline": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+    "summary": "MIT Technology Review's EmTech AI conference covers 10 critical issues in AI through expert roundtable discussions.",
+    "description": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Apr 2026, 22:09"
+  },
+  {
+    "id": "c5788a6efd5f",
+    "headline": "Google Meet will take AI notes for in-person meetings too - The Verge",
+    "summary": "Google Meet extends AI note-taking to in-person meetings, working across multiple meeting platforms.",
+    "description": "Google Meet will take AI notes for in-person meetings too The VergeGoogle Meet's AI note-taker is going IRL Android PoliceGoogle Gemini Now Takes Notes at In-Person Meetings The Tech BuzzLook out, Otter! Google Meet is adding in-person transcription PCWorldGoogle Cloud Next 2026: Meet Brings AI Notetaker Into In-Person Meetings UC Today",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXZoR2NQdGtoREFfNGIxQlZWN2c0TUd1WFNYbXJWdHR1OWJVMDhqVWFrSjlwUEZtLWsyVS0yWTlGUF94TXhhakJLQ3VPcXI4N1ZpbFNtTTBhUktSZ3AxanNzOVFjeHNZTTZ3QjBHdkNHSFFxU3BtR2FxNEV2bEpOT1dvNEN0M0k?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 16:38"
+  },
+  {
+    "id": "322e83fc6d7c",
+    "headline": "NVIDIA and Google infrastructure cuts AI inference costs",
+    "summary": "Google and NVIDIA present A5X bare-metal instances and hardware roadmap to reduce AI inference costs at scale.",
+    "description": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, this architecture aims to deliver up to ten times lower ... The post NVIDIA and Google infrastructure cuts AI inference costs appeared first on AI News.",
+    "tags": [
+      "Google",
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 12:19"
+  },
+  {
+    "id": "04a687523d20",
+    "headline": "Sony AI robot beats players as humanoid robot wins Beijing race",
+    "summary": "Sony AI's autonomous table tennis robot defeats high-level human players in regulated matches, advancing humanoid robotics.",
+    "description": "An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as “physical AI,” where artificial intelligence is applied to machines operating in real-world environments. The robot, named Ace, was designed to ... The post Sony AI robot beats players as humanoid robot wins Beijing race appeared first on AI News.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 10:00"
+  },
+  {
+    "id": "d3d02fc7c8e4",
+    "headline": "Reversing enterprise security costs with AI vulnerability discovery",
+    "summary": "AI-powered vulnerability discovery reverses enterprise security economics, shifting cost advantages from attackers to defenders.",
+    "description": "Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unlimited budgets could afford them, thereby disincentivising casual use. However, the recent evaluation by the ... The post Reversing enterprise security costs with AI vulnerability discovery appeared firs",
+    "tags": [
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 15:45"
+  },
+  {
+    "id": "8fd76ddfb4c9",
+    "headline": "AI in law firms entering its closing summaries",
+    "summary": "AI adoption in law firms reaches closing summaries phase, marking significant integration into legal workflows and practices.",
+    "description": "In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to signal activity to partners and/or clients, but little ... The post AI in law firms entering its closing summaries appeared first on AI News.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 13:51"
+  },
+  {
+    "id": "f3ee341045e0",
+    "headline": "Google Cloud AI Research Introduces ReasoningBank: A Memory Framework that Distills Reasoning Strategies from Agent Successes and Failures",
+    "summary": "Google Cloud AI Research introduces ReasoningBank, a memory framework enabling LLM agents to learn from successful and failed experiences.",
+    "description": "A new memory framework from Google Cloud AI Research and UIUC gives LLM agents the ability to distill generalizable reasoning strategies from both successful and failed experiences — and combines that with test-time scaling to create agents that genuinely improve over time. The post Google Cloud AI Research Introduces ReasoningBank: A Memory Framework that Distills Reasoning Strategies from Agent Successes and Failures appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Research",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/23/google-cloud-ai-research-introduces-reasoningbank-a-memory-framework-that-distills-reasoning-strategies-from-agent-successes-and-failures/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 07:26"
+  },
+  {
+    "id": "b6d1fa940118",
+    "headline": "Xiaomi Releases MiMo-V2.5-Pro and MiMo-V2.5: Matching Frontier Model Benchmarks at Significantly Lower Token Cost",
+    "summary": "Xiaomi releases MiMo-V2.5 models matching frontier LLM benchmarks at significantly lower token costs for open-source agents.",
+    "description": "Xiaomi's MiMo team just dropped two new models that push open-source agentic AI closer to frontier territory than ever before. The post Xiaomi Releases MiMo-V2.5-Pro and MiMo-V2.5: Matching Frontier Model Benchmarks at Significantly Lower Token Cost appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 03:46"
+  },
+  {
     "id": "4a44829c70b0",
     "headline": "Anthropic’s most dangerous AI model just fell into the wrong hands",
     "summary": "Anthropic's Mythos AI cybersecurity model was accessed by unauthorized users, raising security concerns about the powerful tool.",
@@ -10640,378 +11005,5 @@
     "readTime": "4 min read",
     "isFromX": false,
     "publishedAt": "24 Mar 2026, 06:00"
-  },
-  {
-    "id": "948061cbf5d8",
-    "headline": "AI influencer awards season is upon us",
-    "summary": "AI influencers now compete in awards shows, marking the growth of the AI influencer economy.",
-    "description": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 20:01"
-  },
-  {
-    "id": "9d4faf7cf846",
-    "headline": "Crimson Desert dev apologizes for use of AI art",
-    "summary": "Crimson Desert developer apologizes for using AI-generated assets in the game's final release.",
-    "description": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. ...",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 13:34"
-  },
-  {
-    "id": "dfee2d43ace8",
-    "headline": "Musk says he’s building a Terafab chip plant in Austin, Texas",
-    "summary": "Musk announces a Terafab chip plant in Austin for Tesla and SpaceX to build AI and robotics chips at scale.",
-    "description": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability ...",
-    "tags": [
-      "Hardware",
-      "Robotics"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 10:06"
-  },
-  {
-    "id": "30b09e74df2d",
-    "headline": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-    "summary": "Cursor's new coding model was built on top of Chinese AI company Moonshot's Kimi model.",
-    "description": "Building on top of a Chinese model feels particularly fraught right now.",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 18:41"
-  },
-  {
-    "id": "3ee95919ac36",
-    "headline": "Meet the Gods of AI Warfare",
-    "summary": "Pentagon's Project Maven on AI warfare has converted skeptics into believers.",
-    "description": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 10:00"
-  },
-  {
-    "id": "d813d37d598c",
-    "headline": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
-    "summary": "European utilities experiment with power grid management to accommodate AI data center demand.",
-    "description": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 09:00"
-  },
-  {
-    "id": "7a19f38f09d1",
-    "headline": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-    "summary": "Newsletter covering animal welfare advocates recruiting AI and White House AI policy announcements.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:17"
-  },
-  {
-    "id": "f40a0fd99c17",
-    "headline": "The Bay Area’s animal welfare movement wants to recruit AI",
-    "summary": "Bay Area animal welfare advocates and AI researchers collaborate on using AI for animal protection.",
-    "description": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants. In the common area, a wildlife advocate spoke passionately to a crowd lounging in…",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 09:00"
-  },
-  {
-    "id": "d94534f01339",
-    "headline": "I tested ChatGPT vs. Perplexity with the same 5 prompts — the winner surprised me - Tom's Guide",
-    "summary": "Comparison test of ChatGPT versus Perplexity on the same prompts with surprising winner.",
-    "description": "I tested ChatGPT vs. Perplexity with the same 5 prompts — the winner surprised me Tom's Guide",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUJlanpOT0RPTGh1SVVPQlk5TXNVWEpRTG5yMm9obHRrYWZ4NlljU1liVGNiaU1wQ1o3dGFfOGlRY0pGR0ZjNHlhQW0wbmNTYlBYamhqNk1Xby1HdHR4LTlwOEZvdGUyOXZUYUlral9qMk41QUY2NnZoSzNWV2tQNW84VUNDejJ3c3Z6RFgzOUFjanIzUHBRbzl0eldEa3BLbmN2dUoxUTBhck0?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 06:01"
-  },
-  {
-    "id": "65659e934b79",
-    "headline": "Apple already has the perfect platform for deploying conversational AI - 9to5Mac",
-    "summary": "Apple considers iMessage as platform for deploying conversational AI.",
-    "description": "Apple already has the perfect platform for deploying conversational AI 9to5MacApple's AI strategy may lie in messages, with iMessage revisited 디지털투데이",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEpheGMyUXNTR05uNVFITk1jSGtYTVVOQkxNNTVtYnotTmVqQVhPUmZTY0JrenVGQ2VlZTNXZWNDa29vZDFfRzcyMkxoN3RfaGlJU0RtVHZUcG1IUEhrQ1BuWGVhTGVmQkZXNXZRS0hFSHJPOWJrbU9XRnNaX1gzcHdEdEZ5QjljMkZMM0YxN29vRzZ5S1c5eUJrTTRQeG0yOUl0Zw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 23:10"
-  },
-  {
-    "id": "53ec7b8247c5",
-    "headline": "Google Search test replaces headlines and website titles with AI - 9to5Google",
-    "summary": "Google tests AI-generated headlines and titles in Search results.",
-    "description": "Google Search test replaces headlines and website titles with AI 9to5GoogleGoogle Search is now using AI to replace headlines The VergeGoogle confirms AI headline rewrites test in Search results Search Engine LandGoogle Search 'experiment' uses AI to rewrite news headlines Android PoliceGoogle Tests AI to Create Title Links on SERP Search Engine Roundtable",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVU4VFVMSm1QLXoxTGVlUVU3OWZOWloyaW02MnZxTVhrTm1POEs5TUIzWDRYbDhQV2wyb0RwZV83VlRyZGE4UVFua3BtUS14WnRkSVkyNExQbUk1X1YxaUF6R1B6cnpZdFpFZWtHR3d1dXRFc01saU5xenMxR1BJNjMyNjFWSWlleHBIYkM2cmV1bGxhd2RzX0RKUGd6aVBS?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 21:25"
-  },
-  {
-    "id": "a95cc11cb6a8",
-    "headline": "Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent",
-    "summary": "Tutorial on implementing Deep Q-Learning reinforcement learning agent using Google DeepMind libraries.",
-    "description": "In this tutorial, we implement a reinforcement learning agent using RLax, a research-oriented library developed by Google DeepMind for building reinforcement learning algorithms with JAX. We combine RLax with JAX, Haiku, and Optax to construct a Deep Q-Learning (DQN) agent that learns to solve the CartPole environment. Instead of using a fully packaged RL framework, ... The post Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learn",
-    "tags": [
-      "Research",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/22/implementing-deep-q-learning-dqn-from-scratch-using-rlax-jax-haiku-and-optax-to-train-a-cartpole-reinforcement-learning-agent/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 21:54"
-  },
-  {
-    "id": "32b4b0e85e2a",
-    "headline": "Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code",
-    "summary": "GitAgent aims to unify fragmented AI agent development across LangChain, AutoGen, and Claude.",
-    "description": "The current state of AI agent development is characterized by significant architectural fragmentation. Software devs building autonomous systems must generally commit to one of several competing ecosystems: LangChain, AutoGen, CrewAI, OpenAI Assistants, or the more recent Claude Code. Each of these ‘Five Frameworks’ utilizes a proprietary method for defining agent logic, memory persistence, and tool ... The post Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation be",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 21:21"
-  },
-  {
-    "id": "4255d4a40eee",
-    "headline": "Campaign groups rail against Palantir, but the UK contracts keep coming",
-    "summary": "Palantir's AI analytics influence grows in UK government with access to financial authority data.",
-    "description": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to dataPalantir extends reach into British state as it gets access to sensitive FCA dataPalantir’s latest UK contract takes the AI and data analytics company into the heart of one of Britain’s biggest industries: financial services, which accounts for 9% of the economy.The Miami-based company embedded its technology in the NHS in 2023, the police in 2024 and the military in 2025. Land and expand, they sa",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 16:00"
-  },
-  {
-    "id": "37499e7c4b4e",
-    "headline": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-    "summary": "Palantir gains UK FCA data access, raising privacy concerns over intelligence analysis.",
-    "description": "Exclusive: Allowing US tech firm to analyse intelligence in name of tackling fraud raises fresh concerns over privacyCampaign groups rail against Palantir, but the UK contracts keep comingPalantir is to be granted access to a trove of highly sensitive UK financial regulation data, in a deal that has prompted fresh concerns about the US AI company’s deepening reach into the British state, the Guardian can reveal.The Financial Conduct Authority (FCA) has awarded Palantir a contract to investigate ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 16:00"
-  },
-  {
-    "id": "7e8ba8609f51",
-    "headline": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
-    "summary": "Kaiser therapists warn of risks from new AI screening system delaying patient care.",
-    "description": "Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’Ilana Marcucci-Morris is worried about the patients she treats and how long it took for them to arrive in her office. At Kaiser Permanente’s psychiatry outpatient clinic in Oakland, California, she says she increasingly finds herself assessing people experiencing more severe mental health issues than two years ago. For those who do make it to their appointments, she t",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 Mar 2026, 17:00"
-  },
-  {
-    "id": "978688ee1349",
-    "headline": "Analyst Warns Against Using Microsoft’s Copilot AI on Friday Afternoons",
-    "summary": "Analyst warns against using Microsoft Copilot on Friday afternoons for document sharing.",
-    "description": "\"Copilot makes over-shared documents more accessible.\" The post Analyst Warns Against Using Microsoft’s Copilot AI on Friday Afternoons appeared first on Futurism.",
-    "tags": [
-      "Microsoft"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/microsoft-copilot-ai-friday",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 Mar 2026, 14:00"
-  },
-  {
-    "id": "572f35ff0e75",
-    "headline": "Show HN: An AI predicts your personality and blind spots from just your LinkedIn",
-    "summary": "AI tool predicts personality traits and blind spots by analyzing LinkedIn profiles.",
-    "description": "I've spent the last year building personality models + the last 9 years in the career tech space.This tool is pretty insane. Just give it your LinkedIn username. It pulls your career history and in about 2 seconds, it'll notice patterns in your career story and tell you things about yourself that are weirdly specific — your blind spots, what's driving your decisions, stuff you've probably felt but never had anyone put into words.A big unlock I had (and why I built this) was that your career traj",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://coached.com/deep-read",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:43"
-  },
-  {
-    "id": "91f0af4399e2",
-    "headline": "Claude Opened the Straight of Hormuz",
-    "summary": "Article discussing how Claude AI influenced geopolitical decisions in the Strait of Hormuz.",
-    "description": "Article URL: https://www.chinatalk.media/p/how-claude-opened-the-strait-of-hormuz Comments URL: https://news.ycombinator.com/item?id=47488412 Points: 2 # Comments: 0",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.chinatalk.media/p/how-claude-opened-the-strait-of-hormuz",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:17"
-  },
-  {
-    "id": "1190e502e2cc",
-    "headline": "Fullstack AI developer in 6 weeks (satire)",
-    "summary": "Satirical post about becoming a fullstack AI developer in 6 weeks.",
-    "description": "Article URL: https://xcancel.com/gothburz/status/2035863431106953679 Comments URL: https://news.ycombinator.com/item?id=47488407 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://xcancel.com/gothburz/status/2035863431106953679",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:17"
-  },
-  {
-    "id": "eabc0e114c5b",
-    "headline": "On Claude Code",
-    "summary": "Technical documentation discussing Claude Code capabilities.",
-    "description": "Article URL: https://docs.google.com/document/d/e/2PACX-1vRycHNEW3R3iFolIaxUebTobuHWNOzXRbq-tKEy00uhrglFl1A0-EjWuPm3cm0R01VtjIDjFc9KZmPe/pub Comments URL: https://news.ycombinator.com/item?id=47488403 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://docs.google.com/document/d/e/2PACX-1vRycHNEW3R3iFolIaxUebTobuHWNOzXRbq-tKEy00uhrglFl1A0-EjWuPm3cm0R01VtjIDjFc9KZmPe/pub",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:16"
-  },
-  {
-    "id": "b671171fc334",
-    "headline": "AI-Assisted Development: How to Code Faster Without Losing Control",
-    "summary": "Guide on using AI-assisted development to code faster while maintaining control.",
-    "description": "Article URL: https://medium.com/@coderai/ai-assisted-development-how-to-code-faster-without-losing-control-be86c0a1996f Comments URL: https://news.ycombinator.com/item?id=47488340 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://medium.com/@coderai/ai-assisted-development-how-to-code-faster-without-losing-control-be86c0a1996f",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:08"
-  },
-  {
-    "id": "15a958acee90",
-    "headline": "These coders want AI to take their jobs",
-    "summary": "Podcast discussing coders embracing AI to automate their job responsibilities.",
-    "description": "Article URL: https://www.vox.com/podcasts/483368/vibe-coding-ai-software-claude-codex-gemini-explained Comments URL: https://news.ycombinator.com/item?id=47488327 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.vox.com/podcasts/483368/vibe-coding-ai-software-claude-codex-gemini-explained",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 12:06"
   }
 ]
