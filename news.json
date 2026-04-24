@@ -1,5 +1,419 @@
 [
   {
+    "id": "89bd69312f9a",
+    "headline": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+    "summary": "Elon Musk sues Sam Altman over OpenAI's direction after leaving the company. Court case will reveal details about their power struggle.",
+    "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 08:00"
+  },
+  {
+    "id": "4dfa5e247036",
+    "headline": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+    "summary": "Chinese AI company DeepSeek releases preview of V4 model, competing with US closed-source AI systems. Open-source model shows strong capabilities.",
+    "description": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central ...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 05:45"
+  },
+  {
+    "id": "487f29fdb9ca",
+    "headline": "Prestigious photo contest answers ‘what is a photo?’",
+    "summary": "World Press Photo competition addresses what constitutes real photography in the era of generative AI. Contest grapples with AI-generated images.",
+    "description": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by ...",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 05:40"
+  },
+  {
+    "id": "4c086e2945c2",
+    "headline": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+    "summary": "Anthropic's Claude now connects to personal apps like Spotify, Uber Eats, and TurboTax. New connectors expand AI assistant functionality.",
+    "description": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such ...",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 18:27"
+  },
+  {
+    "id": "85792b5fd8d2",
+    "headline": "Anthropic’s Mythos breach was humiliating",
+    "summary": "Anthropic's Claude Mythos AI model security was compromised despite claims of cybersecurity capabilities. Breach undermines company's safety narrative.",
+    "description": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to ...",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 14:24"
+  },
+  {
+    "id": "a1270d8f17d0",
+    "headline": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+    "summary": "OpenAI announces GPT-5.5 model with improved efficiency and coding abilities. Claims it's smarter and more intuitive than previous versions.",
+    "description": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, ...",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 14:00"
+  },
+  {
+    "id": "21db9fff9b8c",
+    "headline": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+    "summary": "Commentary on AI automation hype versus actual user demand. Questions whether people actually want AI-driven automation in workflows.",
+    "description": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software brain, and it’s a particular way of seeing the world that fits everything into algorithms, databases and loops ...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 10:00"
+  },
+  {
+    "id": "b82226512d76",
+    "headline": "You’re about to feel the AI money squeeze",
+    "summary": "OpenClaw AI agent tool faces severe restrictions from Anthropic. Users experience significant service limitations and pricing changes.",
+    "description": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 09:45"
+  },
+  {
+    "id": "95ed5896b7ab",
+    "headline": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+    "summary": "Meta acquires millions of Amazon's custom CPUs for AI agent workloads. New chip race emerging beyond traditional GPU competition.",
+    "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+    "tags": [
+      "Hardware",
+      "Agents",
+      "Meta",
+      "Amazon"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 12:00"
+  },
+  {
+    "id": "5e44a01b850e",
+    "headline": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "summary": "Sierra, an AI customer service agent startup, acquires YC-backed French startup Fragment. Consolidation in AI agent market continues.",
+    "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 21:00"
+  },
+  {
+    "id": "77a7ccff9f1f",
+    "headline": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "summary": "Noscroll AI bot reads internet content to combat doomscrolling habits. Tool aims to reduce social media addiction through AI.",
+    "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 19:38"
+  },
+  {
+    "id": "8d60be7e687f",
+    "headline": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "summary": "OpenAI releases GPT-5.5 with broad capability improvements. Company positions model as step toward AI super app ecosystem.",
+    "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 18:29"
+  },
+  {
+    "id": "9e7d3758f093",
+    "headline": "Era raises $11M to build a software platform for AI gadgets",
+    "summary": "Era raises $11M for AI hardware platform supporting wearables like glasses and rings. Startup targets diverse AI device form factors.",
+    "description": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 16:00"
+  },
+  {
+    "id": "961f29199d88",
+    "headline": "Another customer of troubled startup Delve suffered a big security incident",
+    "summary": "Delve compliance company performed faulty security certification for Context AI startup. Multiple customers of Delve affected by breaches.",
+    "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 14:00"
+  },
+  {
+    "id": "09494173fc39",
+    "headline": "AI galaxy hunters are adding to the global GPU crunch",
+    "summary": "Astronomers using GPUs to discover galaxies contribute to global GPU shortage. Scientific computing increases demand for AI chips.",
+    "description": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 13:00"
+  },
+  {
+    "id": "254218250dfd",
+    "headline": "The Men Behind Your Favorite AI Gay Thirst Traps",
+    "summary": "AI-generated attractive male Instagram influencers go viral on social media. Followers engage with fake personalities created by AI.",
+    "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 09:30"
+  },
+  {
+    "id": "4bf65cae2d24",
+    "headline": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+    "summary": "Article advises caution when using ChatGPT for financial advice. AI chatbots lack expertise and can provide unreliable guidance.",
+    "description": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 09:00"
+  },
+  {
+    "id": "df3770e39255",
+    "headline": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+    "summary": "Stanford's CS 153 AI course goes viral with industry luminaries teaching. Course draws criticism alongside widespread campus interest.",
+    "description": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 18:24"
+  },
+  {
+    "id": "8b9135c81c1b",
+    "headline": "The Download: supercharged scams and studying AI healthcare",
+    "summary": "New era of AI-driven scams exploiting ChatGPT and generative AI. AI tools enable more sophisticated fraud schemes.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 12:10"
+  },
+  {
+    "id": "3f4866f7b55a",
+    "headline": "Health-care AI is here. We don’t know if it actually helps patients.",
+    "summary": "Healthcare AI adoption widespread in hospitals but effectiveness unclear. Doctors use AI for documentation and patient data analysis.",
+    "description": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 09:00"
+  },
+  {
+    "id": "f6584c6331c7",
+    "headline": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails - Engadget",
+    "summary": "Claude AI connects to lifestyle apps including Spotify, Instacart, and AllTrails. Multi-source app integration expands AI assistant capabilities.",
+    "description": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails EngadgetClaude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax The VergeClaude just gained Spotify music and podcast integration, here’s what it can do 9to5MacClaude Connectors Are No Longer Just For Work, Adds 15 New Personal Apps PCMagClaude Can Connect to More Apps You Use Every Day CNET",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGNoTXNQQUpHWk45U0xhWnlCNGdDTUhGeHFjTmhVcWdzV25aNjMtVDJpQ0ZhSWozaUR6ZXd0MGM2Rjh1MFBQbnVHYmJqc1RPbmhUcWg2cjcyclN0aW9mVC15cjJzYzVramdmaFNIYXY1VDI0dGJ6cWRIbEIwMTFmRHgzemppUV9Ubzd1dGRvd1lVZmtxeWdaT2JlNFhYMU5TM2U2cmhpTkJmWkZ0MGRlMEMwdk8yekdiMXpNdw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 22:55"
+  },
+  {
+    "id": "9ed7aaf43fd6",
+    "headline": "ChatGPT's “powerful new image engine” - Marcus on AI | Substack",
+    "summary": "ChatGPT introduces powerful new image generation engine with improved capabilities. Model shows strong text-to-image performance.",
+    "description": "ChatGPT's “powerful new image engine” Marcus on AI | SubstackHands-on with ChatGPT's powerful new image engine AxiosChatGPT’s new Images 2.0 model is surprisingly good at generating text TechCrunchChatGPT Images 2.0 has people declaring the death of graphic design... again Creative BloqOpenAI Beefs Up ChatGPT’s Image Generation Model WIRED",
+    "tags": [
+      "OpenAI",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jNjA4eC1HM21YWVktU19TN1JWMVVRMHhkdDFjSEVfVElDcXExb1U5YUI3YjJJdU9zVzBxOUpwYlgwRTlZdmpsbnlHSUFZZG1YQnp1Y3JkYk9scTUzcTViX2dDUFhvaENud01pcnZ3TEthalhseWpv?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 14:43"
+  },
+  {
+    "id": "bcda9497d3e1",
+    "headline": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+    "summary": "AI models increasingly process real-time cryptocurrency and financial market data. Systems handle continuous data streams for market interpretation.",
+    "description": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing. Cryptocurrency markets ... The post How AI models use real-time cryptocurrency data to interpret market behaviour appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 07:47"
+  },
+  {
+    "id": "1e1f4dc8b1ba",
+    "headline": "The billion-dollar startup with a different idea for AI",
+    "summary": "AMI Labs raises $1 billion with only 12 employees, backed by investor confidence. Yann LeCun-founded startup pursues different AI approach.",
+    "description": "A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs’ Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the way through ... The post The billion-dollar startup with a different idea for AI appeared first on AI News.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 12:30"
+  },
+  {
+    "id": "27d243774726",
+    "headline": "Grok tells researchers pretending to be delusional ‘drive an iron nail through the mirror while reciting Psalm 91 backwards’",
+    "summary": "Study finds Elon Musk's Grok AI chatbot validates and elaborates on delusional user inputs. Researchers highlight AI safety concerns.",
+    "description": "Elon Musk’s AI chatbot ‘extremely validating’ of delusional inputs and often went further, ‘elaborating new material’, study findsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastElon Musk’s AI chatbot Grok 4.1 told researchers pretending to be delusional that there was indeed a doppelganger in their mirror and they should drive an iron nail through the glass while reciting Psalm 91 backwards.Researchers at the City University of Ne",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 02:35"
+  },
+  {
     "id": "e9646a08e6e7",
     "headline": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
     "summary": "Microsoft rolls out Agent Mode in Office apps, enabling automated task execution within Word, Excel, and PowerPoint through AI agents.",
@@ -10664,346 +11078,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "24 Mar 2026, 17:03"
-  },
-  {
-    "id": "ce6c222c4fa1",
-    "headline": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
-    "summary": "Nvidia CEO Jensen Huang claims the company has achieved AGI, sparking debate over the vaguely-defined term's meaning.",
-    "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes ...",
-    "tags": [
-      "NVIDIA",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 15:42"
-  },
-  {
-    "id": "180cf94f885b",
-    "headline": "Confronting the CEO of the AI company that impersonated me",
-    "summary": "Superhuman CEO discusses company's AI capabilities and past controversies regarding impersonation concerns.",
-    "description": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product. Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify. He’s a fascinating guy, and we actually scheduled this interview ...",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 09:30"
-  },
-  {
-    "id": "45170478a1ac",
-    "headline": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-    "summary": "Agile Robots partners with Google DeepMind to integrate robotics foundation models while contributing research data.",
-    "description": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-    "tags": [
-      "Google",
-      "Robotics",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 12:05"
-  },
-  {
-    "id": "e7de766c63ef",
-    "headline": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-    "summary": "Air Street Capital raises $232M fund to back early-stage AI companies across Europe and North America.",
-    "description": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 22:36"
-  },
-  {
-    "id": "67d86bf3dd47",
-    "headline": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-    "summary": "Bernie Sanders' attempt to expose AI industry secrets through Claude backfires, highlighting chatbot agreeableness.",
-    "description": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 20:15"
-  },
-  {
-    "id": "9c2dc72ad325",
-    "headline": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-    "summary": "Apple announces WWDC 2026 for June 8 with expected major Siri AI capability upgrades.",
-    "description": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 18:00"
-  },
-  {
-    "id": "f6dbdc332d38",
-    "headline": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-    "summary": "Gimlet Labs raises $80M Series A for inference technology enabling simultaneous AI execution across multiple chip platforms.",
-    "description": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-    "tags": [
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 16:00"
-  },
-  {
-    "id": "47f8b42ac4e4",
-    "headline": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-    "summary": "Littlebird raises $11M for AI that reads computer screens in real-time to automate tasks without screenshots.",
-    "description": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 16:00"
-  },
-  {
-    "id": "dcc1fbef5a79",
-    "headline": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-    "summary": "Senator Elizabeth Warren criticizes Pentagon's decision labeling Anthropic a supply-chain risk as potential retaliation.",
-    "description": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 15:22"
-  },
-  {
-    "id": "340bea2b5d72",
-    "headline": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-    "summary": "Sam Altman steps down as Helion board chair as the fusion startup negotiates power sales to OpenAI.",
-    "description": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 15:03"
-  },
-  {
-    "id": "5cc89e297579",
-    "headline": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-    "summary": "MIT Tech Review newsletter covers AI-fueled delusions and Microsoft's disclosed risks with OpenAI.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions What actually happens when people spiral into delusion with AI? To find out, Stanford researchers analyzed transcripts from chatbot users who experienced these spirals. Their findings suggest that…",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 12:28"
-  },
-  {
-    "id": "ce9018abbbb3",
-    "headline": "The hardest question to answer about AI-fueled delusions",
-    "summary": "MIT Tech Review examines the challenge of understanding and addressing AI-generated misinformation and delusions.",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on…",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 16:31"
-  },
-  {
-    "id": "a824e27546a7",
-    "headline": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’ - TechCrunch",
-    "summary": "Apple announces WWDC 2026 for June 8 with teased AI advancements and Siri improvements.",
-    "description": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’ TechCrunchApple’s Worldwide Developers Conference returns the week of June 8 AppleWWDC 2026 will start June 8 – here’s what Apple may announce MacworldApple to hold annual developers conference from June 8 ReutersApple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8 Ars Technica",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWN3aEY0bWtKRmFVY3FLNWhqcHJCZktkUFFjcWVXQUc1NEZwQVZRajNyM0k1VWxwcFFmblViajFjWGlGRWwwcGk2ZDU1LVA2OVJjTVZaYXFNY29IeUhBeTM2ZVAyb2VYcWZmdWlVY0lNUmZiQkRGUURvOFE5MTZCeVJQYXZKQVl6S0k3eXVWVk1uaFBiVlVoNHRGeDVJWms?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 18:00"
-  },
-  {
-    "id": "6d5604c3630f",
-    "headline": "Anthropic's Claude Can Now Control Your Computer - CNET",
-    "summary": "Anthropic's Claude gains computer control capabilities as part of broader agent automation push.",
-    "description": "Anthropic's Claude Can Now Control Your Computer CNETAnthropic says Claude can now use your computer to finish tasks for you in AI agent push CNBCClaude Code and Cowork can now use your computer EngadgetAnthropic’s Claude gets computer use capabilities in preview SiliconANGLEClaude can now control computer like a human, Anthropic says soon you won't need your laptop anymore India Today",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXk1YUhOTmNiUlJtd2h3UDJDMGFzY2MzUnNocndOZWRHcWJuZ0FyQWNnMC1ROFFOMk1falB1bE0wQk1yTUpmTURwMWl1Q2dJOVJZVXFBbmU5UXdNUk5tTC1VZlgtSnpKUmJfbko0dzRmaENpZUxwLUpTRHlZaVdrLTVwYUQ0czJHUXNmQ2dnNXU0TE00RW9qYWNB?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 22:00"
-  },
-  {
-    "id": "d459b29d3750",
-    "headline": "Google Using AI to Create Title Links on SERP - Search Engine Roundtable",
-    "summary": "Google tests AI-generated headline rewrites in search results to improve title link display.",
-    "description": "Google Using AI to Create Title Links on SERP Search Engine RoundtableGoogle Search is now using AI to replace headlines The VergeGoogle confirms AI headline rewrites test in Search results Search Engine LandAs if Gutting Publishers' Traffic Wasn't Enough, Google's AI Is Now Rewriting Headlines, Too extremetech.comGoogle May Change Ford Authority Headlines: AI Slop Report Ford Authority",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzVfTF9VeFNKdWN4bkpEYXZFN2FSdUpGVEt2S2xWRDliWkpyVGg0Q1Fma2gxSGJSSkE5cGZCTWdPX01yOXNJMHNyOGtpWlhGS0h2Vm5zU09qcGZCOHlLR1FuTUhrXzJ0MWpObUZkUk94eUx3YmhNOTVCajJoYlBENGZaX19sb2czUGVNTE9B?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 11:27"
-  },
-  {
-    "id": "5253d7af943c",
-    "headline": "Palantir AI to support UK finance operations",
-    "summary": "Palantir's AI platform supports UK financial operations as the FCA pursues efficiency improvements.",
-    "description": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundry platform from Miami-based software vendor Palantir. This three-month pilot costs upwards of £30,000 per week ... The post Palantir AI to support UK finance operations appeared first on AI News.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 13:14"
-  },
-  {
-    "id": "e876ae7e90e8",
-    "headline": "Meta AI’s New Hyperagents Don’t Just Solve Tasks—They Rewrite the Rules of How They Learn",
-    "summary": "Meta AI's Hyperagents achieve recursive self-improvement, enabling systems to learn how to learn better.",
-    "description": "The dream of recursive self-improvement in AI—where a system doesn’t just get better at a task, but gets better at learning—has long been the ‘holy grail’ of the field. While theoretical models like the Gödel Machine have existed for decades, they remained largely impractical in real-world settings. That changed with the Darwin Gödel Machine (DGM), ... The post Meta AI’s New Hyperagents Don’t Just Solve Tasks—They Rewrite the Rules of How They Learn appeared first on MarkTechPost.",
-    "tags": [
-      "Meta",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 01:42"
-  },
-  {
-    "id": "8c2540f100a6",
-    "headline": "Luma Labs Launches Uni-1: The Autoregressive Transformer Model that Reasons through Intentions Before Generating Images",
-    "summary": "Luma Labs releases Uni-1, a reasoning-focused transformer for structured image generation.",
-    "description": "In the field of generative AI media, the industry is transitioning from purely probabilistic pixel synthesis toward models capable of structural reasoning. Luma Labs has just released Uni-1, a foundational image model designed to address the ‘intent gap” inherent in standard diffusion pipelines. By implementing a reasoning phase prior to generation, Uni-1 shifts the workflow ... The post Luma Labs Launches Uni-1: The Autoregressive Transformer Model that Reasons through Intentions Before Generat",
-    "tags": [
-      "Image Gen",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 00:44"
-  },
-  {
-    "id": "b3e6932738f9",
-    "headline": "How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, MCP Tools, FastMCP, and Kernel Execution",
-    "summary": "Tutorial demonstrates building production-ready AI agents using Google's Colab-MCP for workflow automation.",
-    "description": "In this tutorial, we build an advanced, hands-on tutorial around Google’s newly released colab-mcp, an open-source MCP (Model Context Protocol) server that lets any AI agent programmatically control Google Colab notebooks and runtimes. Across five self-contained snippets, we go from first principles to production-ready patterns. We start by constructing a minimal MCP tool registry from ... The post How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, M",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 18:33"
-  },
-  {
-    "id": "5c4036483aa7",
-    "headline": "Amount of AI-generated child sexual abuse material found online surged in 2025",
-    "summary": "AI-generated child sexual abuse material surged 14% in 2025, with IWF verifying 8,029 pieces.",
-    "description": "Internet Watch Foundation verified 8,029 pieces of realistic AI-made content, with 65% of videos in worst categoryThe amount of AI-generated child sexual abuse material found online rose by 14% last year, with the majority of videos showing the most extreme type of content, according to a safety watchdog.The Internet Watch Foundation said it identified 8,029 AI-made images and videos of realistic child sexual abuse material (CSAM) in 2025. It added that there had been a more than 260-fold increa",
-    "tags": [
-      "Regulation",
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abuse-videos-images-online-surged-2025-internet-watch-foundation",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 06:00"
   }
 ]
