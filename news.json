@@ -1,5 +1,354 @@
 [
   {
+    "id": "c3cb1a747acf",
+    "headline": "How Project Maven taught the military to love AI",
+    "summary": "US military used AI from Project Maven to coordinate over 1,000 strikes in Iran assault, nearly doubling the scale of previous operations.",
+    "description": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart ...",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 13:00"
+  },
+  {
+    "id": "d513eb5cc20a",
+    "headline": "Musk vs. Altman is here, and it’s going to get messy",
+    "summary": "Elon Musk sues OpenAI and Sam Altman over alleged breach of nonprofit mission, with trial scheduled.",
+    "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 08:00"
+  },
+  {
+    "id": "856443d7a93f",
+    "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "summary": "ComfyUI raises $30M at $500M valuation, offering creators fine-grained control over AI image, video, and audio generation.",
+    "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "tags": [
+      "Image Gen",
+      "Video Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 19:49"
+  },
+  {
+    "id": "2ed425ff0469",
+    "headline": "Google to invest up to $40B in Anthropic in cash and compute",
+    "summary": "Google invests up to $40B in Anthropic following limited release of Mythos model, intensifying AI compute race.",
+    "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "tags": [
+      "Google",
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 18:00"
+  },
+  {
+    "id": "0032ce3c186e",
+    "headline": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "summary": "Mac mini shortage drives marked-up eBay listings as demand surges for running local AI models.",
+    "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 16:42"
+  },
+  {
+    "id": "8262b951a499",
+    "headline": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "summary": "DeepSeek previews new models with architectural improvements claiming to nearly close gap with frontier AI models.",
+    "description": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 13:30"
+  },
+  {
+    "id": "a31361904386",
+    "headline": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+    "summary": "Discord users gained unauthorized access to Anthropic's Mythos model in security breach.",
+    "description": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 10:30"
+  },
+  {
+    "id": "c6f85f4d7e2d",
+    "headline": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "summary": "DeepMind spinoff Isomorphic Labs advances AI-designed drugs to human trials with broad medicine pipeline.",
+    "description": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+    "tags": [
+      "Healthcare",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 17:17"
+  },
+  {
+    "id": "f44e1d9806a3",
+    "headline": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "summary": "New Apple CEO John Ternus must launch killer AI product, addressing Tim Cook's failure to crack AI.",
+    "description": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 15:00"
+  },
+  {
+    "id": "a40c731e161f",
+    "headline": "These AI Thirst Trap Creators Say They’re Misunderstood",
+    "summary": "AI-generated thirst trap creators gain viral attention despite being non-human influencers.",
+    "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 09:30"
+  },
+  {
+    "id": "90962b0a2b76",
+    "headline": "Three reasons why DeepSeek’s new model matters",
+    "summary": "DeepSeek V4 preview supports much longer prompts via new design, advancing Chinese AI capabilities.",
+    "description": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 21:40"
+  },
+  {
+    "id": "815cbba1f899",
+    "headline": "Why AI agents need interaction infrastructure",
+    "summary": "Enterprises need interaction infrastructure to govern autonomous AI agents and prevent automation waste.",
+    "description": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human ... The post Why AI agents need interaction infrastructure appeared fir",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 16:24"
+  },
+  {
+    "id": "64989df08fe0",
+    "headline": "Google DeepMind Introduces Vision Banana: An Instruction-Tuned Image Generator That Beats SAM 3 on Segmentation and Depth Anything V3 on Metric Depth Estimation",
+    "summary": "Google DeepMind's Vision Banana image generator outperforms SAM 3 on segmentation and depth estimation tasks.",
+    "description": "A new Google paper argues that image generation pretraining is to computer vision what GPT-style pretraining is to NLP — and the benchmark numbers back that up. The post Google DeepMind Introduces Vision Banana: An Instruction-Tuned Image Generator That Beats SAM 3 on Segmentation and Depth Anything V3 on Metric Depth Estimation appeared first on MarkTechPost.",
+    "tags": [
+      "Image Gen",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/25/google-deepmind-introduces-vision-banana-an-instruction-tuned-image-generator-that-beats-sam-3-on-segmentation-and-depth-anything-v3-on-metric-depth-estimation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 07:44"
+  },
+  {
+    "id": "bccf0e8803ac",
+    "headline": "Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness",
+    "summary": "GitNexus open-source MCP engine gives Claude and Cursor codebase structural awareness, crossing 19K GitHub stars.",
+    "description": "Abhigyan Patwari's GitNexus has quietly crossed 19,000 GitHub stars by solving a problem every AI-assisted developer has hit but rarely named — agents that edit code they don't actually understand. The post Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/24/meet-gitnexus-an-open-source-mcp-native-knowledge-graph-engine-that-gives-claude-code-and-cursor-full-codebase-structural-awareness/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 04:21"
+  },
+  {
+    "id": "bf245bc4af1e",
+    "headline": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
+    "summary": "Tutorial demonstrates Deepgram Python SDK for transcription, text-to-speech, and audio processing workflows.",
+    "description": "In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single Python environment. We set up authentication, connect both synchronous and asynchronous Deepgram clients, and work directly with real audio data to understand how the SDK handles transcription, speech generation, ... The post A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text In",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 01:02"
+  },
+  {
+    "id": "cb39d18c756a",
+    "headline": "A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation",
+    "summary": "Microsoft OpenMementos tutorial explores reasoning trace structures through blocks and mementos.",
+    "description": "In this tutorial, we work with Microsoft’s OpenMementos dataset and explore how reasoning traces are structured through blocks and mementos in a practical, Colab-ready workflow. We stream the dataset efficiently, parse its special-token format, inspect how reasoning and summaries are organized, and measure the compression provided by the memento representation across different domains. As we ... The post A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context C",
+    "tags": [
+      "Microsoft",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-microsofts-openmementos-with-trace-structure-analysis-context-compression-and-fine-tuning-data-preparation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 00:52"
+  },
+  {
+    "id": "1db4fcc46d13",
+    "headline": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts",
+    "summary": "DeepSeek-V4 preview introduces compressed attention mechanisms enabling one-million-token context windows.",
+    "description": "DeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making one-million-token context windows practical and affordable at inference time. The series consists of DeepSeek-V4-Pro, with 1.6T total parameters and 49B activated per token, and DeepSeek-V4-Flash, with 284B total parameters and 13B activated per token. ... The post DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compre",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/24/deepseek-ai-releases-deepseek-v4-compressed-sparse-attention-and-heavily-compressed-attention-enable-one-million-token-contexts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 17:36"
+  },
+  {
+    "id": "71a7509653ff",
+    "headline": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
+    "summary": "Google DeepMind's Decoupled DiLoCo achieves 88% efficiency for async frontier AI model training under hardware failures.",
+    "description": "Training frontier AI models is, at its core, a coordination problem. Thousands of chips must communicate with each other continuously, synchronizing every gradient update across the network. When one chip fails or even slows down, the entire training run can stall. As models scale toward hundreds of billions of parameters, that fragility becomes increasingly untenable. ... The post Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 04:40"
+  },
+  {
+    "id": "f566377ac02a",
+    "headline": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
+    "summary": "Mend.io releases AI security governance framework covering asset inventory, supply chain, and maturity models.",
+    "description": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation. The post Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model appeared first on MarkTechPost.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 02:07"
+  },
+  {
+    "id": "7299d82874a9",
+    "headline": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
+    "summary": "OpenAI releases GPT-5.5 agentic model scoring 82.7% on Terminal-Bench, targeting full-stack computer work autonomously.",
+    "description": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step The post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 22:11"
+  },
+  {
+    "id": "36da67d5b4d1",
+    "headline": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
+    "summary": "Tutorial on OpenMythos reconstructs Claude architecture with recurrent-depth transformers for iterative reasoning.",
+    "description": "In this tutorial, we explore the implementation of OpenMythos, a theoretical reconstruction of the Claude Mythos architecture that enables deeper reasoning through iterative computation rather than increased parameter size. We build and analyze models using both GQA and MLA attention mechanisms, examine memory efficiency through KV-cache comparisons, and validate stability via the spectral properties of ... The post A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extra",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Apr 2026, 21:25"
+  },
+  {
     "id": "89bd69312f9a",
     "headline": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
     "summary": "Elon Musk sues Sam Altman over OpenAI's direction after leaving the company. Court case will reveal details about their power struggle.",
@@ -10700,383 +11049,5 @@
     "readTime": "4 min read",
     "isFromX": false,
     "publishedAt": "25 Mar 2026, 13:59"
-  },
-  {
-    "id": "326a77009420",
-    "headline": "Anthropic’s Claude Code gets ‘safer’ auto mode",
-    "summary": "Anthropic launches 'auto mode' for Claude Code, allowing AI to make permissions decisions autonomously with built-in safety safeguards.",
-    "description": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful ...",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 07:39"
-  },
-  {
-    "id": "11d2876ba8ce",
-    "headline": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-    "summary": "OpenAI discontinues Sora video generation tool and ends its Disney licensing deal after limited user adoption.",
-    "description": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both ...",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 17:08"
-  },
-  {
-    "id": "341b85bd4abb",
-    "headline": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
-    "summary": "Arm launches its first proprietary AI CPU (Arm AGI) with Meta and OpenAI as early customers for AI data centers.",
-    "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more ...",
-    "tags": [
-      "Hardware",
-      "Meta",
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 16:43"
-  },
-  {
-    "id": "b8cbda3a5337",
-    "headline": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-    "summary": "Google and OpenAI add shopping features to Gemini and ChatGPT; Google partners with Gap Inc for in-chat purchases.",
-    "description": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana ...",
-    "tags": [
-      "Google",
-      "OpenAI",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 13:13"
-  },
-  {
-    "id": "d34c9a83c507",
-    "headline": "Anthropic’s Claude Code and Cowork can control your computer",
-    "summary": "Anthropic updates Claude to autonomously control computers via Code and Cowork tools for task automation.",
-    "description": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. ...",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 09:32"
-  },
-  {
-    "id": "0590bc7f51f8",
-    "headline": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-    "summary": "Kleiner Perkins raises $3.5B for AI investment: $1B for early-stage startups, $2.5B for late-stage companies.",
-    "description": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 00:47"
-  },
-  {
-    "id": "308c00b1a29f",
-    "headline": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-    "summary": "OpenAI shuts down Sora app despite impressive video-generation capabilities due to lack of sustained user interest.",
-    "description": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 23:57"
-  },
-  {
-    "id": "72e319cc42c6",
-    "headline": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-    "summary": "AI company offers Kentucky farm family $26 million to build data center on their property.",
-    "description": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 22:22"
-  },
-  {
-    "id": "b3ba67fbe8e3",
-    "headline": "Anthropic hands Claude Code more control, but keeps it on a leash",
-    "summary": "Anthropic's Claude Code auto mode enables autonomous task execution with fewer approvals while maintaining safety controls.",
-    "description": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 21:00"
-  },
-  {
-    "id": "95e54362e0cf",
-    "headline": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-    "summary": "Spotify develops tool to prevent AI-generated content from being falsely attributed to real artists.",
-    "description": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 20:56"
-  },
-  {
-    "id": "674b36c90844",
-    "headline": "Databricks bought two startups to underpin its new AI security product",
-    "summary": "Databricks acquires Antimatter and SiftD.ai startups to build new AI security products.",
-    "description": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-    "tags": [
-      "Startup",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 20:40"
-  },
-  {
-    "id": "930c32271f8f",
-    "headline": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-    "summary": "OpenAI discontinues Instant Checkout feature, stepping back from making ChatGPT function like Amazon.",
-    "description": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 19:27"
-  },
-  {
-    "id": "a5f3ed1d9652",
-    "headline": "Google TV’s new Gemini features keep fans updated on sports teams and more",
-    "summary": "Google TV adds three Gemini-powered features including visual responses, deep dives, and sports briefs.",
-    "description": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 19:12"
-  },
-  {
-    "id": "f1b52116d1a8",
-    "headline": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-    "summary": "Federal judge questions Pentagon's classification of Anthropic as a supply-chain risk in court hearing.",
-    "description": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 22:13"
-  },
-  {
-    "id": "cac50e05ebde",
-    "headline": "Arm Is Now Making Its Own Chips",
-    "summary": "Arm launches proprietary AI chip with Meta, OpenAI, Cerebras, and Cloudflare as initial customers.",
-    "description": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-    "tags": [
-      "Hardware",
-      "Meta",
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 17:00"
-  },
-  {
-    "id": "5fad523d888b",
-    "headline": "Agentic commerce runs on truth and context",
-    "summary": "Agentic AI enables sophisticated commerce tasks by combining autonomous agents with personalized user context and preferences.",
-    "description": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI…",
-    "tags": [
-      "Agents",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 11:48"
-  },
-  {
-    "id": "083100fa8dfe",
-    "headline": "The AI Hype Index: AI goes to war",
-    "summary": "Anthropic and Pentagon dispute AI weaponization; OpenAI secures Pentagon deal amid user backlash.",
-    "description": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 09:00"
-  },
-  {
-    "id": "69dfecf6e1ac",
-    "headline": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-    "summary": "MIT eBook explores readiness for autonomous AI agents with expert perspectives on governance and safety.",
-    "description": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only…",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 18:17"
-  },
-  {
-    "id": "025e4088d3a0",
-    "headline": "OpenAI rolls out ChatGPT Library to store your personal files - BleepingComputer",
-    "summary": "OpenAI launches ChatGPT Library feature for users to store and organize personal files.",
-    "description": "OpenAI rolls out ChatGPT Library to store your personal files BleepingComputerChatGPT just got a library for all your files - how it works ZDNETOpenAI March 22: GPT-5.2 adds Aug‑2025 cutoff, new enterprise connectors MeykaChatGPT just added a locker for file uploads PCWorldChatGPT simplifies file management with new toolbar and library tab the-decoder.com",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2ZJQldKN3Q3LUVWT1VqN2t1WktpUlhYbHF5XzFrQjc2TnJ4aHc1NVNjNlFQcmlvLXcxcGI1N0d3VFcxMjNKSmNSOG1QcXNsdm1hLWJDa2JGWS0tbVpTMDBUcE41b092dDlzSHpOV0tmRUZEeWFhcmFEaVprbk9Ub2hwYTk2R1F5c2lxTmtWN041WUNpN3psOW9UZFVfaVVERVV2emNpV3pBM2lPUTZhYTdoMzlSVjFfR2R1R3BqRFhlQdIBxwFBVV95cUxQVUs4Q00zMXpPTUlXcGRQS0FsbVhpdnBrV05QdTR3RHB2QjY4WHdCeWFzUkd1QXJ6cm9tVXlXREJqR1pGemw3Wi1zLVZiTW03QVZ6NmxxRDFVcFVOZUJTWV8xbXMtSUxzQ0pVNUFzaFRHbG1KODkwckxoN1lBcmt5Z2xqSlU4RWMwbVFWWk1hQ3AxS0pxLXFzWjVMZm02U2QxVG41akdkNHMzZ1ZCMmhfemszdEpacnF6NFRISFl6S1ZZYXFGaEY4?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 Mar 2026, 23:47"
-  },
-  {
-    "id": "4d2f96292624",
-    "headline": "‘Claude, Resize These Photos’ – Anthropic’s Agentic AI Will Run Photoshop For You - PetaPixel",
-    "summary": "Anthropic's agentic Claude can autonomously run Photoshop and other applications on user computers.",
-    "description": "‘Claude, Resize These Photos’ – Anthropic’s Agentic AI Will Run Photoshop For You PetaPixelAnthropic says Claude can now use your computer to finish tasks for you in AI agent push CNBCI tried Claude’s new Cowork feature — and it ran my laptop from my phone Tom's GuideAnthropic's Claude Can Now Control Your Computer CNETAnthropic takes on OpenClaw with new Claude Code text feature Silicon Republic",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclVRTFM0RXAzUWxNOWJWMjdISndmcVlla184SkdSV0hvQk5YSXNaM3BjY05weTBZVnJPd0U4ZXBocVdaNlpJQ0lsUjlMQms0Q1BHZWhtRll4Y0R6VXh1dWs0TnR2RFF5OWN1a3ZQcHZaWS1oYnVrQW9rNnhHbFBiZHBheldSaFhxMnNGX2RuZW04TTZHRWxoWTVKc2gyc3VoVGNRb0hKcDQ3SnpHbVE?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 09:46"
-  },
-  {
-    "id": "fb582f0484ca",
-    "headline": "AI agents enter banking roles at Bank of America",
-    "summary": "Bank of America deploys AI agents to directly support client interactions and financial advice delivery.",
-    "description": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 financial advisers, according to Banking Dive. ... The post AI agents enter banking roles at Bank of America appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "Healthcare"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 10:00"
-  },
-  {
-    "id": "e3b91030ecf9",
-    "headline": "Automating complex finance workflows with multimodal AI",
-    "summary": "Finance leaders adopt multimodal AI frameworks to automate complex workflows and extract data from unstructured documents.",
-    "description": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise complex layouts, frequently converting multi-column files, pictures, and layered datasets into an unreadable mess of plain text. The varied ... The post Automating complex finance workflows with multimodal",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Mar 2026, 17:03"
   }
 ]
