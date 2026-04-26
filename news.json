@@ -1,5 +1,237 @@
 [
   {
+    "id": "a3be941f841c",
+    "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "Anthropic created a test marketplace where AI agents acted as buyers and sellers, conducting real transactions with actual money and goods.",
+    "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 21:43"
+  },
+  {
+    "id": "dc4d71eac987",
+    "headline": "Why Cohere is merging with Aleph Alpha",
+    "summary": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha to create a sovereign European AI alternative with backing from Schwarz Group.",
+    "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 16:00"
+  },
+  {
+    "id": "14ab9f9783f7",
+    "headline": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+    "summary": "Article discusses key benchmarks for evaluating agentic reasoning in LLMs as agents move from research to production deployment.",
+    "description": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numbers tell you very little about whether a model can navigate a real website, resolve a GitHub issue, or reliably handle a customer ... The post Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 07:59"
+  },
+  {
+    "id": "001530581da9",
+    "headline": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More",
+    "summary": "xAI launched grok-voice-think-fast-1.0, a voice model outperforming Gemini and GPT Realtime on retail, airline, and telecom tasks.",
+    "description": "The new flagship voice model outperforms Gemini, GPT Realtime, and its own predecessor across retail, airline, and telecom workflows The post xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/25/xai-launches-grok-voice-think-fast-1-0-topping-%cf%84-voice-bench-at-67-3-outperforming-gemini-gpt-realtime-and-more/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 22:36"
+  },
+  {
+    "id": "d8d9912b9fdd",
+    "headline": "A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing",
+    "summary": "Tutorial on kvcached, a dynamic KV-cache implementation for optimizing GPU memory usage in large language model serving.",
+    "description": "In this tutorial, we explore kvcached, a dynamic KV-cache implementation on top of vLLM, to understand how dynamic KV-cache allocation transforms GPU memory usage for large language models. We begin by setting up the environment and deploying lightweight Qwen2.5 models through an OpenAI-compatible API, ensuring a realistic inference workflow. We then design controlled experiments where ... The post A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Mod",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 21:30"
+  },
+  {
+    "id": "0702ab22fa8f",
+    "headline": "UK departments at odds over energy demands of AI datacentres",
+    "summary": "UK government departments disagree on energy forecasts for AI datacenters, raising net-zero planning concerns.",
+    "description": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.The government departments responsible for these two visions do not appear to have agreed on their numbers. Continue reading...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 07:00"
+  },
+  {
+    "id": "092f29b504f7",
+    "headline": "Cannes AI film festival raises eyebrows – and questions about future",
+    "summary": "Cannes Film Festival bans emerging AI technology from Palme d'Or while AI cinema gains investment and attention.",
+    "description": "While emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attentionIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of the World AI film festival (WAIFF) showcased visions of men with fish scales erupting from their necks and seaweed from their mouths, a heroine with a heart beating outside her body and so many massed armies of AI-generated tanned men sweeping across",
+    "tags": [
+      "Creative AI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 06:00"
+  },
+  {
+    "id": "88e4ef8dda24",
+    "headline": "Met investigates hundreds of officers after using Palantir AI tool",
+    "summary": "UK Metropolitan Police launched investigations into hundreds of officers after using Palantir's AI tool uncovered rule-breaking.",
+    "description": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruptionThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company Palantir to root out rogue cops.The software was deployed by the Met over the course of a week, surveilling staff members using data the force has ready access to, unearthing rule-breaking ranging from work-from-home violations to suspected corruption",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 15:34"
+  },
+  {
+    "id": "d85bcd39f271",
+    "headline": "Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version",
+    "summary": "A new AI tool can clone software while circumventing copyright protections held by original creators.",
+    "description": "\"I don’t think there’s any putting the genie back in the bottle at this point.\" The post Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version appeared first on Futurism.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/malus-clones-software-copyright",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 08:15"
+  },
+  {
+    "id": "b6be94939a4a",
+    "headline": "Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court",
+    "summary": "A prestigious Wall Street law firm faced embarrassment when its undisclosed use of AI in court filings was discovered.",
+    "description": "Rookie mistake. The post Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/prestigious-law-firm-humiliated-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 06:00"
+  },
+  {
+    "id": "2269f1774a60",
+    "headline": "Unions Attack AI for Menacing Human Jobs",
+    "summary": "Labor unions criticize AI technology for threatening human employment and job security.",
+    "description": "\"Some of us are old-fashioned, and we believe in human beings.\" The post Unions Attack AI for Menacing Human Jobs appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/union-labor-ai-bernie",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 13:30"
+  },
+  {
+    "id": "b1bc02c756df",
+    "headline": "Your Former Employer Is Selling Your Slacks and Emails to Train AI",
+    "summary": "Former employers are selling employee communications like Slack and emails to AI training companies even after company closure.",
+    "description": "Even when your boss's company goes belly-up, they still have a hold over your. Or at least your data. The post Your Former Employer Is Selling Your Slacks and Emails to Train AI appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/employer-selling-emails-train-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Apr 2026, 11:15"
+  },
+  {
+    "id": "e26f3f52a193",
+    "headline": "AI Image Generation and the Future of Creative Workflows in CapCut - The Good Men Project",
+    "summary": "Article discusses AI image generation integration in CapCut and its impact on creative workflows.",
+    "description": "AI Image Generation and the Future of Creative Workflows in CapCut The Good Men Project",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFxbnhvT04tV0g3ci1SWFZLTmxhY2pjT2J4QS1MeFFBU0FFME53UGNUZ2JONTE0dXdtRTJld0VVbHBiUnpZNzM4amVMLUJ4X180T0w1V3hleldhODlpdnJmLXlfTk1FaGlmVFRneDdOM0ZERzdONGd0dHJhRDdkUlRac3UtbFY3WEZucHpWQTJIWHBYOXVETVhzTTRaSklDQy15VHR2dWo?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 12:46"
+  },
+  {
+    "id": "b17865a3da35",
+    "headline": "Sayonara, Sora! Say Hello to Hollywood’s Uncertain Future Licensing to AI Giants - luminatedata.com",
+    "summary": "Article examines uncertain licensing negotiations between Hollywood studios and AI video giants regarding models like Sora.",
+    "description": "Sayonara, Sora! Say Hello to Hollywood’s Uncertain Future Licensing to AI Giants luminatedata.com",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMG5yM0FnY1VUMkRSQmo3S05jSWZ1UXk3Z2VTcGg2YjRVNVFUWkhvNjFXZ3lVdUZHQ0FYLUtIeG1YbTlaTElKNHlfZXlnUF9wc1R2VDNjVGJZWnptMm0xbkhscHhBWG9TQmp5ODRlVFVGSVZKdzQ4ZEhxYzhMaC1md3FaVVNZREo5M0F6UVBKejZBR2k1NXRfZWxTZ3pZMFZzeUZwRVc3ZVdQZzR5?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Apr 2026, 23:07"
+  },
+  {
     "id": "c3cb1a747acf",
     "headline": "How Project Maven taught the military to love AI",
     "summary": "US military used AI from Project Maven to coordinate over 1,000 strikes in Iran assault, nearly doubling the scale of previous operations.",
@@ -10799,255 +11031,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "26 Mar 2026, 20:32"
-  },
-  {
-    "id": "cf070f6f55f7",
-    "headline": "EU backs nude app ban and delays to landmark AI rules",
-    "summary": "EU lawmakers delay key AI Act provisions while backing bans on nudify apps that create non-consensual intimate imagery.",
-    "description": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would push back compliance deadlines for developers of high-risk AI systems - those deemed to ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 08:49"
-  },
-  {
-    "id": "0881c05e0c4d",
-    "headline": "OpenAI shelves erotic chatbot ‘indefinitely’",
-    "summary": "OpenAI indefinitely shelves plans for sexualized 'adult mode' ChatGPT to refocus on core products.",
-    "description": "OpenAI ​has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core ​products. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees and investors due to the problematic and harmful ​effects sexualized AI ​content can have on ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 07:58"
-  },
-  {
-    "id": "91c635e9ea31",
-    "headline": "Meta is laying off hundreds of employees as it pours money into AI",
-    "summary": "Meta cuts hundreds of employees across recruiting and social teams while increasing AI investment spending.",
-    "description": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta ...",
-    "tags": [
-      "Meta",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 17:10"
-  },
-  {
-    "id": "cafecc0e1737",
-    "headline": "Google Lyria 3 Pro makes longer AI songs",
-    "summary": "Google expands Lyria 3 AI music generation to create tracks up to three minutes within multiple products.",
-    "description": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for ...",
-    "tags": [
-      "Google",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 12:00"
-  },
-  {
-    "id": "c859cc2714cd",
-    "headline": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
-    "summary": "Senate Democrats draft bill to enforce Anthropic's ethical red lines on autonomous weapons and mass surveillance.",
-    "description": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questions of life and death, and Sen. Elissa Slotkin (D-MI) recently introduced a bill to limit the Defense Department's ability to use AI ...",
-    "tags": [
-      "Anthropic",
-      "Regulation",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 11:05"
-  },
-  {
-    "id": "ec22346edce1",
-    "headline": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-    "summary": "Senator proposes taxing data centers to address AI-driven job displacement concerns.",
-    "description": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 12:00"
-  },
-  {
-    "id": "98d122db5a96",
-    "headline": "Mistral releases a new open-source model for speech generation",
-    "summary": "Mistral releases open-source speech generation model optimized for smartwatches and smartphones.",
-    "description": "Mistral's new speech model can run on a smartwatch or a smartphone.",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 11:30"
-  },
-  {
-    "id": "41026601fa17",
-    "headline": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-    "summary": "Deccan AI raises $25M, using India-based workforce for AI training data quality management.",
-    "description": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-    "tags": [
-      "Startup",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 00:30"
-  },
-  {
-    "id": "9528d1b21802",
-    "headline": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-    "summary": "Anthropic research shows AI skills gap emerging, with experienced users gaining edge over others.",
-    "description": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 21:44"
-  },
-  {
-    "id": "53b2e1003a8e",
-    "headline": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
-    "summary": "Google's TurboQuant algorithm compresses AI memory by up to 6x, sparking 'Pied Piper' internet jokes.",
-    "description": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 20:38"
-  },
-  {
-    "id": "89a689c6a0ea",
-    "headline": "Bernie Sanders and AOC propose a ban on data center construction",
-    "summary": "Sanders and AOC propose legislation halting new data center construction until AI regulation passes.",
-    "description": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 17:15"
-  },
-  {
-    "id": "e490f4e43e10",
-    "headline": "Google launches Lyria 3 Pro music generation model",
-    "summary": "Google launches Lyria 3 Pro for longer, customizable music generation across Gemini and enterprise tools.",
-    "description": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-    "tags": [
-      "Google",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 16:37"
-  },
-  {
-    "id": "df95e4472f1d",
-    "headline": "OpenAI Enters Its Focus Era by Killing Sora",
-    "summary": "OpenAI discontinues Sora video generation ahead of IPO push, prioritizing unified assistant and enterprise coding.",
-    "description": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 14:57"
-  },
-  {
-    "id": "709df6e50bbd",
-    "headline": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-    "summary": "Bernie Sanders proposes moratorium on data center construction to allow time for comprehensive AI safety rules.",
-    "description": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 13:28"
-  },
-  {
-    "id": "aa8799a7b5ef",
-    "headline": "This startup wants to change how mathematicians do math",
-    "summary": "Axiom Math releases free AI tool helping mathematicians discover patterns to solve long-standing problems.",
-    "description": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Mar 2026, 13:59"
   }
 ]
