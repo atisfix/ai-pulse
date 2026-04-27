@@ -1,5 +1,341 @@
 [
   {
+    "id": "611896125f79",
+    "headline": "The AI-designed car is taking shape",
+    "summary": "AI-designed cars are transforming auto design by replacing traditional sketches with advanced 3D visualization and VR sculpting tools.",
+    "description": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into ...",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 07:00"
+  },
+  {
+    "id": "b3ee2512c9ed",
+    "headline": "China vetoes Meta’s $2B Manus deal after months-long probe",
+    "summary": "China blocks Meta's $2B acquisition of AI agent startup Manus, citing regulatory concerns over US tech investment.",
+    "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "tags": [
+      "Agents",
+      "Meta",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 13:16"
+  },
+  {
+    "id": "03574d54859d",
+    "headline": "OpenAI could be making a phone with AI agents replacing apps",
+    "summary": "OpenAI may launch an AI agent phone replacing traditional apps, with mass production potentially beginning in 2028.",
+    "description": "The phone could go in mass production in 2028, an analyst says.",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 13:08"
+  },
+  {
+    "id": "3a8bdab2fb14",
+    "headline": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "summary": "DeepSeek releases V4 model with breakthrough capabilities for longer prompt processing and improved performance.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts…",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 12:10"
+  },
+  {
+    "id": "997e5c1fd2ca",
+    "headline": "Three reasons why DeepSeek’s new model matters",
+    "summary": "DeepSeek's V4 model advances AI capabilities with extended context windows and efficient architectural improvements.",
+    "description": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Apr 2026, 21:40"
+  },
+  {
+    "id": "fc2df0a84bd4",
+    "headline": "Google warns malicious web pages are poisoning AI agents",
+    "summary": "Google researchers warn that malicious web pages can hijack AI agents through indirect prompt injection attacks.",
+    "description": "Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrators and malicious actors are embedding hidden instructions within standard HTML. These invisible ... The post Google warns malicious web pages are poisoning AI agents appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 11:12"
+  },
+  {
+    "id": "3763d04bf548",
+    "headline": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo",
+    "summary": "Meta releases Sapiens2, a foundation model for human-centric vision tasks including pose estimation and 3D geometry.",
+    "description": "Meta Reality Labs releases a new foundation model family for human-centric vision that pushes pose estimation, segmentation, and 3D geometry to new state-of-the-art levels — all from a single backbone. The post Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo appeared first on MarkTechPost.",
+    "tags": [
+      "Meta",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 08:47"
+  },
+  {
+    "id": "98ba3d12b063",
+    "headline": "The LoRA Assumption That Breaks in Production",
+    "summary": "LoRA fine-tuning assumes uniform model updates but fails in production when updates vary significantly by task.",
+    "description": "LoRA is widely used for fine-tuning large models because it’s efficient, but it quietly assumes that all updates to a model are similar. In reality, they’re not. When you fine-tune for style (like tone, format, or persona), the changes are simple and concentrated in just a few dimensions — which LoRA handles well with low-rank ... The post The LoRA Assumption That Breaks in Production appeared first on MarkTechPost.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 05:33"
+  },
+  {
+    "id": "4bb58f4e30b0",
+    "headline": "How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama",
+    "summary": "Tutorial demonstrates building a searchable AI knowledge base using OpenKB, OpenRouter, and Llama models.",
+    "description": "In this tutorial, we explore how to build and query a local knowledge base with OpenKB using a free, open model via OpenRouter. We securely retrieve the API key with getpass, set up the environment without hardcoding secrets, and initialize a structured, wiki-style knowledge base from scratch. As we move through the workflow, we add ... The post How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 05:20"
+  },
+  {
+    "id": "3b21264ab4af",
+    "headline": "China blocks $2bn Meta takeover of AI agent developer Manus",
+    "summary": "China blocks Meta's $2B acquisition of AI agent developer Manus, requiring government approval for US tech deals.",
+    "description": "Beijing says domestic tech companies must seek explicit government approval for accepting US investmentBusiness live – latest updatesChina has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down on US investments in domestic tech companies.Mark Zuckerberg’s Meta, the owner of Facebook, Instagram and WhatsApp, announced the acquisition of Manus, a developer of autonomous AI agents, in December. Continue reading...",
+    "tags": [
+      "Agents",
+      "Meta",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 10:44"
+  },
+  {
+    "id": "47b54e62d76b",
+    "headline": "Inside China’s robotics revolution – podcast",
+    "summary": "Podcast explores China's robotics revolution and progress toward sci-fi autonomous humanoid robots.",
+    "description": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find outBy Chang Che. Read by Vincent Lai Continue reading...",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/news/audio/2026/apr/27/inside-chinas-robotics-revolution-podcast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 04:00"
+  },
+  {
+    "id": "ee81b59ab252",
+    "headline": "Top Medical Journal Publishes Searing Article Warning Against Medical AI",
+    "summary": "Top medical journal warns that evidence for AI tools providing value to patients and providers remains scarce.",
+    "description": "\"Evidence that AI tools create value for patients, providers or health systems remains scarce.\" The post Top Medical Journal Publishes Searing Article Warning Against Medical AI appeared first on Futurism.",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/top-medical-journal-warning-against-medical-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 13:30"
+  },
+  {
+    "id": "15eb553d5463",
+    "headline": "America Trembles as Transportation Secretary Announces Plans for Air Traffic Controllers to Lean on AI Tools",
+    "summary": "Transportation Secretary proposes using AI tools to support air traffic controllers in flight management.",
+    "description": "Someone's got their head in the clouds. The post America Trembles as Transportation Secretary Announces Plans for Air Traffic Controllers to Lean on AI Tools appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-air-traffic-duffy",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 11:15"
+  },
+  {
+    "id": "141bfdb7e7b8",
+    "headline": "New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real",
+    "summary": "Browser plugin adds typos to AI-generated emails to make them appear more authentically human-written.",
+    "description": "\"Mess up your emails with AI.\" The post New Browser Plugin Adds Typos to Your AI-Generated Emails to Make Them Look Real appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/browser-plugin-typos-ai-generated-emails",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 10:30"
+  },
+  {
+    "id": "6465c787efc7",
+    "headline": "Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens",
+    "summary": "Experts warn AI swarms could coordinate autonomously to hijack democracy through fake citizen networks.",
+    "description": "\"These systems are capable of coordinating autonomously, infiltrating communities, and fabricating consensus efficiently.\" The post Experts Warn of AI Swarms Hijacking Democracy With Fake Citizens appeared first on Futurism.",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-swarm-democracy-security",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 09:45"
+  },
+  {
+    "id": "fb0bdc0f0ab6",
+    "headline": "New AI-Powered Robot Can Destroy Human Champions at Ping Pong",
+    "summary": "AI-powered robot defeats human ping pong champions, demonstrating advanced robotics capabilities.",
+    "description": "They were rattled by the experience. The post New AI-Powered Robot Can Destroy Human Champions at Ping Pong appeared first on Futurism.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/robots-and-machines/ai-powered-robot-destroy-table-tennis-pros",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 09:00"
+  },
+  {
+    "id": "12deee352085",
+    "headline": "The next phase of the Microsoft OpenAI partnership",
+    "summary": "Microsoft and OpenAI announce amended partnership agreement clarifying terms and supporting long-term AI innovation.",
+    "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "tags": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 06:00"
+  },
+  {
+    "id": "9e701b8ed62e",
+    "headline": "Our principles",
+    "summary": "Sam Altman outlines five core principles guiding OpenAI's mission to ensure AGI benefits humanity.",
+    "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/our-principles",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Apr 2026, 16:00"
+  },
+  {
+    "id": "afec0ab1d13f",
+    "headline": "Announcing our partnership with the Republic of Korea",
+    "summary": "Google DeepMind partners with South Korea to accelerate scientific breakthroughs using frontier AI models.",
+    "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "DeepMind Blog",
+    "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 07:00"
+  },
+  {
+    "id": "ef055020a647",
+    "headline": "A faster way to estimate AI power consumption",
+    "summary": "EnergAIzer method enables fast AI power consumption estimation, helping data centers reduce wasted energy.",
+    "description": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "MIT News AI",
+    "link": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Apr 2026, 00:00"
+  },
+  {
     "id": "a3be941f841c",
     "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
     "summary": "Anthropic created a test marketplace where AI agents acted as buyers and sellers, conducting real transactions with actual money and goods.",
@@ -10664,372 +11000,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "27 Mar 2026, 22:00"
-  },
-  {
-    "id": "e367e64eb74f",
-    "headline": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
-    "summary": "A judge granted Anthropic a preliminary injunction to block the Pentagon's ban on the AI company, marking a win in its ongoing legal standoff with the government.",
-    "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner ...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 20:33"
-  },
-  {
-    "id": "fd26adfa43a4",
-    "headline": "Google is making it easier to import another AI’s memory into Gemini",
-    "summary": "Google Gemini is rolling out new import features allowing users to transfer memory and chat history from other AI chatbots, following similar updates by Anthropic.",
-    "description": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 17:44"
-  },
-  {
-    "id": "3a12de5ed800",
-    "headline": "Apple will reportedly allow other AI chatbots to plug into Siri",
-    "summary": "Apple's iOS 27 will let users choose which third-party AI chatbot integrates with Siri, expanding AI assistant options on iPhone.",
-    "description": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the ...",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 17:31"
-  },
-  {
-    "id": "78328cce0239",
-    "headline": "Apple’s AI Playlist Playground is bad at music",
-    "summary": "Apple's AI Playlist Playground struggles to accurately generate playlists based on user preferences, producing mismatched music recommendations.",
-    "description": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even ...",
-    "tags": [
-      "Apple"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 16:51"
-  },
-  {
-    "id": "44e075761ea5",
-    "headline": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
-    "summary": "Google's Search Live AI assistant now supports conversations in over 200 countries and territories with expanded language capabilities.",
-    "description": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 14:47"
-  },
-  {
-    "id": "04e57fd3ff34",
-    "headline": "Meta gets ready to launch two new Ray-Ban AI glasses",
-    "summary": "Meta is preparing to launch two new AI-powered Ray-Ban smart glasses models for its hardware lineup.",
-    "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for ...",
-    "tags": [
-      "Meta",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 12:30"
-  },
-  {
-    "id": "ff05211a5fdd",
-    "headline": "Wikipedia bans AI-generated articles",
-    "summary": "Wikipedia updated its guidelines to ban AI-generated articles, citing quality and accuracy issues with AI-written content.",
-    "description": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban. The change applies to the English version of Wikipedia and will ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 11:02"
-  },
-  {
-    "id": "9448c23dee1a",
-    "headline": "Webtoon is adding AI localization tools to its comics platform",
-    "summary": "Webtoon is integrating AI localization tools into its Canvas platform to help creators monetize and expand audience reach.",
-    "description": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announced its plans to roll out a number of new features for Canvas that will make it easier for artists to build global followings ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 09:00"
-  },
-  {
-    "id": "e3de76109602",
-    "headline": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "summary": "A federal judge ordered the Trump administration to rescind restrictions placed on Anthropic by the Defense Department.",
-    "description": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "27 Mar 2026, 01:18"
-  },
-  {
-    "id": "509b0c1855e6",
-    "headline": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "summary": "Google launched switching tools enabling users to easily transfer chats and personal information from rival chatbots to Gemini.",
-    "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 23:47"
-  },
-  {
-    "id": "657dfd0881bb",
-    "headline": "Wikipedia cracks down on the use of AI in article writing",
-    "summary": "Wikipedia updated policies to prohibit the use of AI in article writing due to quality and accuracy concerns.",
-    "description": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 21:50"
-  },
-  {
-    "id": "c0b85bb93eb1",
-    "headline": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "summary": "OpenAI discontinued ChatGPT's erotic mode feature as part of recent project cancellations and strategic refocusing.",
-    "description": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 18:34"
-  },
-  {
-    "id": "8cda52abdb35",
-    "headline": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-    "summary": "ByteDance's Dreamina Seedance 2.0 AI video model launches in CapCut with built-in protections against misuse of real faces.",
-    "description": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
-    "tags": [
-      "ByteDance",
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 15:25"
-  },
-  {
-    "id": "a2a75edfb1d4",
-    "headline": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-    "summary": "Conntour raised $7M to build an AI search engine that lets security teams query camera feeds using natural language.",
-    "description": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-    "tags": [
-      "Startup",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 13:41"
-  },
-  {
-    "id": "1666c97b86bb",
-    "headline": "Cohere launches an open source voice model specifically for transcription",
-    "summary": "Cohere released an open-source voice transcription model with 2B parameters supporting 14 languages for consumer GPUs.",
-    "description": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 13:30"
-  },
-  {
-    "id": "df3a403c787b",
-    "headline": "Mistral releases a new open source model for speech generation",
-    "summary": "Mistral released an open-source speech generation model for building voice agents, competing with ElevenLabs and OpenAI.",
-    "description": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 11:30"
-  },
-  {
-    "id": "553b3c7ba22e",
-    "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-    "summary": "A journalist tested ChatGPT's new ad system by asking 500 questions, examining how ads correlate with user prompts.",
-    "description": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 Mar 2026, 10:30"
-  },
-  {
-    "id": "743050430cd5",
-    "headline": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-    "summary": "A judge temporarily blocked the Trump administration's supply-chain-risk designation of Anthropic, allowing normal business operations.",
-    "description": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 23:33"
-  },
-  {
-    "id": "af4c4f863be0",
-    "headline": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-    "summary": "Independent journalists are increasingly using AI agents throughout their reporting and editing workflows.",
-    "description": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 18:00"
-  },
-  {
-    "id": "bd9f8232ee07",
-    "headline": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation - MacRumors",
-    "summary": "Google Translate now uses Gemini AI for smarter translations and real-time headphone translation on iOS and more countries.",
-    "description": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation MacRumorsGoogle Translate’s real-time headphone translations feature expands to iOS and more countries TechCrunchGoogle Translate’s live headphone translation feature lands on iOS 9to5MacGemini-powered Live Translate for headphones officially sheds its Android exclusivity Android PoliceGoogle Brings Real-Time Headphone Translation to iOS PCMag",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JQkhjbjNEUjlYOXRyMG9WYVhKblRzUVVEdGtMXzJvWHh6UEVxX1FuMFFCMmRQdmN2S3JCSEd1UXM1UGxPVURjRjJtcHVUXzBDTmQweXdreTFSVk1lZG5WVzZYZnpXQzZJLVVRYk52OGpBZw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 23:47"
-  },
-  {
-    "id": "0cc72bfcb84f",
-    "headline": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
-    "summary": "Google Gemini users can now transfer chats and personal information from rival chatbots directly into Gemini.",
-    "description": "You can now transfer your chats and personal information from other chatbots directly into Gemini TechCrunchMake the switch: Bring your AI memories and chat history to Gemini blog.googleGoogle Gemini Adds Tool to Make It Easier to Switch From ChatGPT BloombergGoogle just fixed the biggest problem with leaving ChatGPT — I tried it Tom's GuideGoogle is making it easier to import another AI’s memory into Gemini The Verge",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3Q2OVQxeXVvTEhtU0llOU1qLV9hMkFsS1hqTk8tYlFCOVVsWVZLalRyaWFNNEp3SnVZM1UxcVJUejhMN2hnbDR1MDdZelU1NGZrM0FXR0dXSHlnSzl0U2JHdzJfRVRodzNldnpjRU90UlBnTXRwRnpLbWNNNEV5LTZ5MTBiMTRMY0k5Vi1DM0FRRWRVaHlpbG5ZMWF4eFdaZlJNR21abGVoQUp3ems5V213MHg3VGRrSkhpaVNaNHE5SFRlTW4ycDNsTng?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 23:47"
-  },
-  {
-    "id": "80aaf8675034",
-    "headline": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Yahoo Finance",
-    "summary": "Apple plans to open Siri to rival AI assistants in iOS 27, letting users integrate their preferred chatbots.",
-    "description": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update Yahoo FinanceView Full Coverage on Google News",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlZJT29oZVFrcWxHN0xqUjZtSkJOazhCVllXaFBzQ2hzYldhODNxYmVjS3dRYUFVSktJYmFkWUxmV1ZWdVZCaFhZS2hVdUtlQ0pOUVZCWk9CY2RPRFpLWEdZMEhDeFZjNk5LTmVGSkpqUFRlU0gwMmREVFc3Sk5jXzJtN3FZcTJidFZXeExEY3pRUTdJTG9OekZ5V0w?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Mar 2026, 20:32"
   }
 ]
