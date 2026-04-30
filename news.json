@@ -1,5 +1,325 @@
 [
   {
+    "id": "4ff89cd97771",
+    "headline": "Meta lost 20 million users last quarter",
+    "summary": "Meta is increasing AI investments despite losing 20 million users last quarter, doubling down on AI development amid platform decline.",
+    "description": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or ...",
+    "tags": [
+      "Meta",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 07:38"
+  },
+  {
+    "id": "a6a3c141b597",
+    "headline": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+    "summary": "OpenAI plans to launch GPT-5.5-Cyber, a specialized cybersecurity model restricted to critical defenders and unavailable to the general public.",
+    "description": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limited rollout will take place \"in ...",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 07:09"
+  },
+  {
+    "id": "483ee4c79e54",
+    "headline": "The more young people use AI, the more they hate it",
+    "summary": "Survey reveals young people increasingly dislike AI despite Silicon Valley's aggressive promotion of chatbots like ChatGPT as the future.",
+    "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many tech trends before it, it's no surprise that young people are among the biggest adopters ...",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 07:00"
+  },
+  {
+    "id": "b0e112a629c9",
+    "headline": "Google Search queries hit an ‘all time high’ last quarter",
+    "summary": "Google Search reaches all-time high query volume in Q1 2026, driven by AI investments and integrations across its products.",
+    "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences ...",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 16:28"
+  },
+  {
+    "id": "c33b36add95d",
+    "headline": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
+    "summary": "Ubuntu's planned AI features spark Linux user backlash, with requests for AI-free versions and migration to older distributions.",
+    "description": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, ...",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 13:32"
+  },
+  {
+    "id": "27c2260c2ad1",
+    "headline": "Google Photos launches an AI try-on feature for clothes you already have",
+    "summary": "Google Photos adds AI-powered virtual try-on feature that creates digital wardrobes from users' existing clothing photos.",
+    "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how ...",
+    "tags": [
+      "Google",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 12:00"
+  },
+  {
+    "id": "cd7666f99476",
+    "headline": "Meta says its business AI now facilitates 10 million conversations a week",
+    "summary": "Meta's business AI tools now facilitate 10 million conversations weekly, with 8 billion advertisers using its gen AI features.",
+    "description": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 12:08"
+  },
+  {
+    "id": "1607303caae5",
+    "headline": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "summary": "SoftBank launches robotics firm to build AI data centers, planning IPO valued at $100 billion targeting infrastructure automation.",
+    "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 03:58"
+  },
+  {
+    "id": "1f8f9d119169",
+    "headline": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "summary": "Anthropic receives multiple pre-emptive funding offers at $850-900 billion valuation for Claude maker's new $50 billion round.",
+    "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 00:07"
+  },
+  {
+    "id": "d7c956fde31e",
+    "headline": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "summary": "Microsoft CEO Satya Nadella states Microsoft will 'exploit' new OpenAI partnership to offer tech to cloud customers without additional costs.",
+    "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "tags": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 23:55"
+  },
+  {
+    "id": "8edfe3bd31c4",
+    "headline": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "summary": "Microsoft reports 20+ million paid Copilot users with growing engagement, countering perception that adoption remains low.",
+    "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 23:02"
+  },
+  {
+    "id": "2c9a5b70efeb",
+    "headline": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+    "summary": "Google Cloud exceeds $20B quarterly revenue fueled by AI demand, though capacity constraints suggest even faster potential growth.",
+    "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 22:20"
+  },
+  {
+    "id": "a0a550d169d9",
+    "headline": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+    "summary": "Three Arizona women sue men allegedly profiting from AI-generated pornography featuring their photos and related online courses.",
+    "description": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 10:30"
+  },
+  {
+    "id": "9b2615515796",
+    "headline": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+    "summary": "Reid Hoffman's AI drug discovery startup suggests doctors should consult chatbots for medical opinions as standard practice.",
+    "description": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+    "tags": [
+      "Healthcare",
+      "Startup"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 09:00"
+  },
+  {
+    "id": "3f5840f2b8d2",
+    "headline": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+    "summary": "Celebrity deepfake scams using AI-manipulated interview footage target TikTok users for personal data, highlighting trademark protection needs.",
+    "description": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 20:36"
+  },
+  {
+    "id": "8b58adb36a6c",
+    "headline": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+    "summary": "Chinese AI firm SenseTime releases open-source image model optimized for Chinese hardware, adapting to US technology restrictions.",
+    "description": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+    "tags": [
+      "Image Gen",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 17:23"
+  },
+  {
+    "id": "b6c1889f99b2",
+    "headline": "The hidden cost of Google’s AI defaults and the illusion of choice - Ars Technica",
+    "summary": "Analysis examines hidden costs of Google's AI defaults and limited user choice in search product design decisions.",
+    "description": "The hidden cost of Google’s AI defaults and the illusion of choice Ars Technica",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTZhYjdtOTl6Zks2MkNTeXF6SXZ5NHU2Znp6clZWMnd5ZTBhZ01CRlJ1Mlk1dzhCSVZKajBPZlkzblBBM0tMUXNlb1lUc1RWSkhhWm5hYWJsYWVtc1VxT3Ztc1RwdUJEVW5ZbWFCR1lEY1BnNnJ3cEZ6anZyM3FmYWltSzZZZTlpYlFRM3QzT1RkeXNvQ3c?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 11:00"
+  },
+  {
+    "id": "b224621a9fef",
+    "headline": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\" - Ars Technica",
+    "summary": "OpenAI Codex system contains explicit directive prohibiting discussion of 'goblins,' origins of unusual restriction unclear.",
+    "description": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\" Ars TechnicaWhere the goblins came from OpenAIOpenAI Really Wants Codex to Shut Up About Goblins WIREDOpenAI really really really wants GPT 5.5 to stop randomly talking about gremlins and goblins Business InsiderSam Altman dropped a subtle hint about GPT-6 'with extra goblins' and it didn’t go unnoticed TechRadar",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUklOTm9BZ2xka3M3VU5zNkNha29ORFB3R0FKdVJ2eFJDelpWQVlDUzZocVZwdmRqZkpJbWtVUEtNUkRIUU5mQkVJUjd6YTFyOGN0SXZzTFFjX3BMYjlyOWRtNk0wcDF6X0dKaEMwcmZhSVJEU2JrQ1djc0J2QUVaT0VWNjZQUzJZNDdUM3c2X3NuQVlTNFFvMi1QdUNKeXlrTmdrMGpvaC1wdGp2cWo0Y2lpcWYxc2lFTmc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 Apr 2026, 19:00"
+  },
+  {
+    "id": "b1b3584071df",
+    "headline": "A guide to APIs, MCPs, and MCP Gateways",
+    "summary": "Technical guide explains differences between APIs and MCPs (Model Context Protocols) for system information exchange purposes.",
+    "description": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is mainly found in software applications, while an MCP ... The post A guide to APIs, MCPs, and MCP Gateways appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-04-30",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "30 Apr 2026, 11:18"
+  },
+  {
     "id": "0d6ea883d493",
     "headline": "GitHub rushed to fix a critical vulnerability in less than six hours",
     "summary": "GitHub fixed a critical remote code execution vulnerability in under 6 hours, with Wiz Research using AI models to discover the flaw in the platform's git infrastructure.",
@@ -10601,379 +10921,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "30 Mar 2026, 15:37"
-  },
-  {
-    "id": "d4a892bcff7f",
-    "headline": "All the latest in AI ‘music’",
-    "summary": "AI is transforming music production across sampling, recording, playlists, and distribution, though technical and legal challenges remain.",
-    "description": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 21:32"
-  },
-  {
-    "id": "af55fc6dee1d",
-    "headline": "Bluesky’s new app is an AI for customizing your feed",
-    "summary": "Bluesky launches Attie, an AI assistant that lets users build custom social media feed algorithms.",
-    "description": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 17:44"
-  },
-  {
-    "id": "ae4d18c5c0aa",
-    "headline": "Mistral AI raises $830M in debt to set up a data center near Paris",
-    "summary": "Mistral AI secures $830M debt financing to build a data center near Paris, targeting Q2 2026 launch.",
-    "description": "Mistral aims to start operating the data center by the second quarter of 2026.",
-    "tags": [
-      "Startup",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:49"
-  },
-  {
-    "id": "6adb295ab4b5",
-    "headline": "Qodo raises $70M for code verification as AI coding scales",
-    "summary": "Qodo raises $70M to verify and validate AI-generated code as AI coding tools proliferate.",
-    "description": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-    "tags": [
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:30"
-  },
-  {
-    "id": "a841df10bdb9",
-    "headline": "Why OpenAI really shut down Sora",
-    "summary": "OpenAI shut down Sora video generator six months after public release, raising questions about the app's viability.",
-    "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 03:09"
-  },
-  {
-    "id": "2ecac996d2c1",
-    "headline": "Sora’s shutdown could be a reality check moment for AI video",
-    "summary": "Sora's shutdown prompts questions about whether AI video generation tools face broader sustainability challenges.",
-    "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 16:30"
-  },
-  {
-    "id": "a0d4783f5673",
-    "headline": "Bluesky's next product is an AI assistant that helps build custom social media feeds - Engadget",
-    "summary": "Bluesky launches Attie, an AI assistant for building custom social media feeds.",
-    "description": "Bluesky's next product is an AI assistant that helps build custom social media feeds EngadgetBluesky leans into AI with Attie, an app for building custom feeds TechCrunchBluesky’s new app is an AI for customizing your feed The VergeBluesky’s Attie lets you “Vibe-Code” your feed and take back control of social media yourstory.comBluesky Has a New App, and It’s All About AI Gizmodo",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODhtaFI5R1ZlbnZSbHZQXzUwN2UxRmRNSkpzcjd0NWhCcmxGVGxvbFJBcDJjMXpRaFJwVkZhR0pITnp4S1RyakJ4X3ZuVGNXcnNrdVNlNkRPUGhMY0prNzZVMzVueVJla3NXZUI5Q3FKRmo0S3pNQ3lNQllNaTdYSk5KYWNSVi01cVh3cEIyLTlhakZnaVlrdnBVaVRJSnNhSHQ3VnhSR08yOTdqRUNadjVRUU0xR29nMW1lSWlqWW5oR2Mw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 16:31"
-  },
-  {
-    "id": "8f26c9016f6d",
-    "headline": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
-    "summary": "Study shows AI-generated search summaries reduce clicks to traditional results to 8%, reshaping brand discovery.",
-    "description": "When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn’t see a summary clicked nearly twice as often, at 15%. A quarter of users who saw an AI summary ended their ... The post How AEO vs GEO reshapes AI-driven brand discovery in 2026 appeared first on AI News.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 11:57"
-  },
-  {
-    "id": "a76c4d14bc39",
-    "headline": "Assessing AI powered price forecasting tools in currency markets",
-    "summary": "Analysis of AI price forecasting tools in currency markets and questions about claimed accuracy.",
-    "description": "As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into consistent results under live market conditions. Understanding how these AI systems are evaluated reveals important distinctions between performance in theory and practice. Few financial domains are ... The post Assessing AI powered price forecasting tools in currency markets appeared f",
-    "tags": [
-      "LLM"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 11:49"
-  },
-  {
-    "id": "fc7aaf07a4d8",
-    "headline": "JPMorgan begins tracking how employees use AI at work",
-    "summary": "JPMorgan Chase tracks how its 65,000 engineers and technologists use AI tools in daily workflows.",
-    "description": "Banking house JPMorgan Chase is asking its roughly 65,000 engineers and technologists to use AI tools as part of their regular workflow. Business Insider reported that managers are tracking how often staff use these tools. That use may also influence performance reviews. The report states employees are encouraged to use tools like ChatGPT and Claude ... The post JPMorgan begins tracking how employees use AI at work appeared first on AI News.",
-    "tags": [
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 10:00"
-  },
-  {
-    "id": "b8702fdc5d37",
-    "headline": "Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval Latency by 316x",
-    "summary": "Salesforce releases VoiceAgentRAG, reducing voice RAG retrieval latency by 316x for faster AI interactions.",
-    "description": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a few seconds of ‘thinking’ time, voice agents must respond within a 200ms budget to maintain a natural conversational flow. Standard production vector database queries typically add ... The post Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval La",
-    "tags": [
-      "Agents",
-      "Salesforce"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 09:56"
-  },
-  {
-    "id": "0eda53c86371",
-    "headline": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
-    "summary": "Agent-Infra releases AIO Sandbox, a runtime environment for AI agents with browser, shell, and filesystem.",
-    "description": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an ... The post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shel",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 00:04"
-  },
-  {
-    "id": "d4ac0afacd59",
-    "headline": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
-    "summary": "Tutorial on building advanced cybersecurity AI agents using CAI framework with guardrails and workflows.",
-    "description": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input ... The post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared first",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 23:28"
-  },
-  {
-    "id": "194f1118c94f",
-    "headline": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
-    "summary": "Amazon researchers release A-Evolve, automating development of autonomous AI agents with self-correction.",
-    "description": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. ... The post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated Sta",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 18:17"
-  },
-  {
-    "id": "20407b341163",
-    "headline": "UK’s big, risky AI bet – podcast",
-    "summary": "Podcast explores UK's 'phantom investments' in AI and government's risky bet on the technology.",
-    "description": "Reporter Aisha Down explores the UK’s ‘phantom investments’ in AI, and the risk the government has taken in betting so heavily on the technology if it all goes bustFor years now, the UK has bet big on AI. As Keir Starmer put it last year, he wanted to ‘unleash AI’ to boost growth across the country.Yet what has become of the billions promised in AI investment? Reporter Aisha Down charts the murky world of building projects behind schedule, vague spending commitments, and even vast sums being thr",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/news/audio/2026/mar/30/uk-big-risky-ai-bet",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 02:00"
-  },
-  {
-    "id": "8bfd1ab5ca31",
-    "headline": "Wikipedia Editors Tried and Tried to Work With AI Content, Eventually Realized It Was Total Trash and Banned It Entirely",
-    "summary": "Wikipedia editors banned AI-generated content after determining quality was inadequate.",
-    "description": "Keep that slop outta here. The post Wikipedia Editors Tried and Tried to Work With AI Content, Eventually Realized It Was Total Trash and Banned It Entirely appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/wikipedia-editors-ban-ai-content",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 09:00"
-  },
-  {
-    "id": "12f4b22e4e5e",
-    "headline": "Helping disaster response teams turn AI into action across Asia",
-    "summary": "OpenAI partners with Gates Foundation to help disaster response teams in Asia leverage AI.",
-    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "tags": [
-      "OpenAI",
-      "Healthcare"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "29 Mar 2026, 22:15"
-  },
-  {
-    "id": "89323571bdcc",
-    "headline": "Generative AI – Intellectual Property Cases and Policy Tracker",
-    "summary": "Tracker of generative AI intellectual property cases and policy developments.",
-    "description": "Article URL: https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker Comments URL: https://news.ycombinator.com/item?id=47573688 Points: 1 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:56"
-  },
-  {
-    "id": "a7343deb1519",
-    "headline": "Structuring a Team Around AI-Assisted Development",
-    "summary": "Guide on structuring teams around AI-assisted software development practices.",
-    "description": "Article URL: https://jasonrobert.dev/blog/2026-03-22-structuring-an-ai-assisted-development-team/ Comments URL: https://news.ycombinator.com/item?id=47573621 Points: 3 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://jasonrobert.dev/blog/2026-03-22-structuring-an-ai-assisted-development-team/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:49"
-  },
-  {
-    "id": "0faeb0c769c6",
-    "headline": "Mistral secures $830M in debt financing to fund AI data center",
-    "summary": "Mistral AI secures $830M debt financing for Paris data center development.",
-    "description": "Article URL: https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html Comments URL: https://news.ycombinator.com/item?id=47573601 Points: 2 # Comments: 0",
-    "tags": [
-      "Startup",
-      "Hardware"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:48"
-  },
-  {
-    "id": "61a5299161eb",
-    "headline": "Do AI-enabled companies need fewer people?",
-    "summary": "Analysis of whether companies using AI need fewer employees.",
-    "description": "Article URL: https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/ Comments URL: https://news.ycombinator.com/item?id=47573573 Points: 2 # Comments: 0",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:44"
-  },
-  {
-    "id": "ed3e5b2f0c01",
-    "headline": "Don't Let AI Write for You",
-    "summary": "Opinion piece arguing against relying on AI for writing tasks.",
-    "description": "Article URL: https://alexhwoods.com/dont-let-ai-write-for-you/ Comments URL: https://news.ycombinator.com/item?id=47573519 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:39"
-  },
-  {
-    "id": "5e801a6803fb",
-    "headline": "How the AI Bubble Bursts",
-    "summary": "Analysis of how the AI hype bubble may collapse.",
-    "description": "Article URL: https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=47573420 Points: 65 # Comments: 17",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-03-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Mar 2026, 12:28"
   }
 ]
