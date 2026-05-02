@@ -1,5 +1,419 @@
 [
   {
+    "id": "67dbffc6cbb6",
+    "headline": "All the evidence revealed so far in Musk v. Altman",
+    "summary": "Musk v. Altman trial reveals evidence including emails, photos, and corporate documents about OpenAI's founding and direction.",
+    "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 15:14"
+  },
+  {
+    "id": "f88743958745",
+    "headline": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "summary": "Pentagon secures classified AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI, and Reflection, but not Anthropic.",
+    "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - ...",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "NVIDIA",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 10:09"
+  },
+  {
+    "id": "825e10f10be5",
+    "headline": "Elon Musk had a bad week in court",
+    "summary": "Elon Musk faces setbacks in court during OpenAI trial, claiming the company stole a nonprofit with his founding role.",
+    "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 09:33"
+  },
+  {
+    "id": "11f38e7d57c2",
+    "headline": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+    "summary": "Content creators increasingly use Fiverr gig workers to generate AI-produced content, shifting from specialized creative labor.",
+    "description": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly ...",
+    "tags": [
+      "Creative AI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 09:25"
+  },
+  {
+    "id": "f3312f9f4585",
+    "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "summary": "Meta acquires humanoid robotics startup Assured Robot Intelligence to strengthen AI capabilities for robotic systems.",
+    "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "tags": [
+      "Meta",
+      "Robotics",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 22:13"
+  },
+  {
+    "id": "2fbb5fd6eb0a",
+    "headline": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "summary": "Musk's testimony in OpenAI lawsuit reveals communications highlighting legal and ethical disputes over the company's founding.",
+    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 17:44"
+  },
+  {
+    "id": "85e40668d14b",
+    "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "summary": "Pentagon diversifies AI vendor partnerships with Nvidia, Microsoft, AWS deals for classified network deployment amid Anthropic dispute.",
+    "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "tags": [
+      "NVIDIA",
+      "Microsoft",
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 16:02"
+  },
+  {
+    "id": "37ecfa87c267",
+    "headline": "Musk v. Altman is just getting started",
+    "summary": "Musk v. Altman trial escalates with damaging emails and social media evidence emerging from witness testimony.",
+    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 14:00"
+  },
+  {
+    "id": "476d0a07dd07",
+    "headline": "Disneyland Now Uses Face Recognition on Visitors",
+    "summary": "Disneyland deploys face recognition on visitors; NSA tests Anthropic's Mythos Preview for vulnerabilities.",
+    "description": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 10:30"
+  },
+  {
+    "id": "3bea67b304e4",
+    "headline": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "summary": "A dark-money nonprofit linked to OpenAI and a16z funds campaign spreading pro-AI messaging and anti-China fears.",
+    "description": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "tags": [
+      "OpenAI",
+      "Regulation",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 20:25"
+  },
+  {
+    "id": "d4bfc0211aa1",
+    "headline": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "summary": "Musk testifies he was deceived by Altman and Brockman; admits xAI distills OpenAI models; warns of AI existential risk.",
+    "description": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 22:08"
+  },
+  {
+    "id": "64d391dca5a1",
+    "headline": "Cyber-Insecurity in the AI Era",
+    "summary": "AI expansion increases cybersecurity attack surface, straining legacy security approaches and creating new vulnerabilities.",
+    "description": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 15:54"
+  },
+  {
+    "id": "3b176b85a075",
+    "headline": "Operationalizing AI for Scale and Sovereignty",
+    "summary": "Companies leverage proprietary data to customize AI models while balancing data ownership with quality and trustworthiness.",
+    "description": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data…",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 15:31"
+  },
+  {
+    "id": "fdb287b6eb79",
+    "headline": "The Download: a new Christian phone network, and debugging LLMs",
+    "summary": "Christian phone network blocks explicit content; debugging techniques for large language models discussed.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 12:10"
+  },
+  {
+    "id": "ecc9d0295d1e",
+    "headline": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
+    "summary": "Study shows AI models trained to be warm and considerate exhibit reduced accuracy and increased sycophancy.",
+    "description": "Study: AI models that consider user’s feeling are more likely to make errors Ars TechnicaTraining language models to be warm can reduce accuracy and increase sycophancy NatureAI chatbots can prioritize flattery over facts – and that carries serious risks The ConversationFriendly AI chatbots more likely to support conspiracy theories, study finds The Guardian\"Warm\" AI Chatbots Are More Likely to Lie Neuroscience News",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWplVTF5eHNLclRwNnRTSnhhNmlJY09Ec05OSEZ4MC00R24xd21WQ3FZZDdNd2hacGdVUjNsRGtXNEFIX0phWGhsLTRscjk3VkZYc1dYRkI0dGw4bFpnLU9oZWpKMGx2V1hSRVJXZkE2Y1RINW1OY2pITmFFNU83X1ZybGpGUmdWeUZXa2R1QWE3azFmdmlxcHpuSjFxQ19pNHpfUmpMdG8xV3RUR2xv?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 22:23"
+  },
+  {
+    "id": "c0ab407a1f9b",
+    "headline": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
+    "summary": "AI-assisted scanning discovers critical Linux privilege escalation vulnerability (Copy Fail) affecting cloud environments.",
+    "description": "Severe Linux Copy Fail security flaw uncovered using AI scanning help The VergeCVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments MicrosoftLinux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users Tom's HardwareNine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher Infosecurity MagazineAnother AI-Assisted Soft",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MXzVrS0hEY1EzNk9xa2hCaUhMLU5fR0k4aUFmZGVSWDA1WXBEYnZhN2VSdEc0NjcyTHpqR3dIeE9UTDNoNExjakdsOEM5dkVURENUS19UdGxnRDNveTJISW1NNW5DZDdSZDZpNmMwX3Bacjc3dGx5UFZtMzg1UVk?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 16:55"
+  },
+  {
+    "id": "52e9fe9dedb1",
+    "headline": "OpenAI Tries to Exorcise Goblins, Gremlins, and Trolls From ChatGPT - eWeek",
+    "summary": "OpenAI addresses ChatGPT's obsession with goblins, gremlins, and trolls through model intervention and fine-tuning.",
+    "description": "OpenAI Tries to Exorcise Goblins, Gremlins, and Trolls From ChatGPT eWeekChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene WSJOpenAI Really Wants Codex to Shut Up About Goblins WIREDOpenAI blames 'nerdy personality' for ChatGPT's obsession with goblins NBC NewsWhere the goblins came from OpenAI",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OWFNNTFQ3VUNyT2dMZFpXcGZ0bVNubDBoOXhHOGoxa0w1OTJzd2Fzam5UQjJqTjJtWVpOUVN4XzdaZUJ5bFdqcFVfTDk4Q3VILXJMNVQyalRPNkRITWVOazVIWWJTOTRQR3Nua1dmVjJidUJMekJDbDZ3?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 17:54"
+  },
+  {
+    "id": "dcd130ca4777",
+    "headline": "SAP: How enterprise AI governance secures profit margins",
+    "summary": "SAP demonstrates enterprise AI governance replaces statistical approximations with deterministic control for profit optimization.",
+    "description": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East & Africa at SAP, observes that the ... The post SAP: How enterprise AI governance secures profit margins appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 13:05"
+  },
+  {
+    "id": "fabeac916815",
+    "headline": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset",
+    "summary": "Tutorial explores agent reasoning traces dataset to understand multi-turn conversations, tool use, and response generation.",
+    "description": "In this tutorial, we explore the lambda/hermes-agent-reasoning-traces dataset to understand how agent-based models think, use tools, and generate responses across multi-turn conversations. We start by loading and inspecting the dataset, examining its structure, categories, and conversational format to get a clear idea of the available information. We then build simple parsers to extract key components ... The post A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent ",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 07:47"
+  },
+  {
+    "id": "2030c5756ea4",
+    "headline": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
+    "summary": "NVIDIA Research achieves 1.8× speedup with speculative decoding in NeMo RL, projecting 2.5× end-to-end gains at 235B.",
+    "description": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales. The post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.",
+    "tags": [
+      "NVIDIA",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 03:47"
+  },
+  {
+    "id": "d1a2988b590b",
+    "headline": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
+    "summary": "Deep learning pipeline decodes linguistic features from brain MEG signals for neuroAI applications.",
+    "description": "In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process ... The post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
+    "tags": [
+      "Research",
+      "Healthcare"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 23:09"
+  },
+  {
+    "id": "2a7c84ddb087",
+    "headline": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
+    "summary": "Meta's Autodata framework enables autonomous data scientists using AI models for high-quality training data generation.",
+    "description": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation The post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 22:24"
+  },
+  {
+    "id": "88b7d77e3892",
+    "headline": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning",
+    "summary": "Comprehensive guide demonstrates LLM post-training using TRL library from SFT through DPO and GRPO reasoning techniques.",
+    "description": "In this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we ... The post A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to ",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/01/a-coding-guide-on-llm-post-training-with-trl-from-supervised-fine-tuning-to-dpo-and-grpo-reasoning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 20:52"
+  },
+  {
+    "id": "2ec2ceb29acf",
+    "headline": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
+    "summary": "Qwen releases Qwen-Scope, an open-source sparse autoencoder suite converting LLM internals into practical development tools.",
+    "description": "Qwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools The post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 08:25"
+  },
+  {
     "id": "f398e7769ac5",
     "headline": "Microsoft wants lawyers to trust its new AI agent in Word documents",
     "summary": "Microsoft launches Legal Agent AI tool for Word to help legal teams manage document edits, negotiation history, and complex contracts.",
@@ -10506,402 +10920,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "01 Apr 2026, 14:14"
-  },
-  {
-    "id": "aa497eea8337",
-    "headline": "AI can push your Stream Deck buttons for you",
-    "summary": "Elgato's Stream Deck 7.4 update lets AI chatbots automatically control Stream Deck buttons, automating manual button-pushing tasks.",
-    "description": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 08:38"
-  },
-  {
-    "id": "2d3102a98a1a",
-    "headline": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-    "summary": "A leaked Claude Code update exposed source code revealing an always-on agent and Tamagotchi-style pet feature in development.",
-    "description": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a ...",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 18:24"
-  },
-  {
-    "id": "576c853529f4",
-    "headline": "You can now use ChatGPT with Apple’s CarPlay",
-    "summary": "ChatGPT is now accessible via Apple CarPlay with iOS 26.4, allowing voice-based AI assistance while driving.",
-    "description": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. ...",
-    "tags": [
-      "OpenAI",
-      "Apple"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 17:03"
-  },
-  {
-    "id": "bff6495d8393",
-    "headline": "The Galaxy S26’s photo app can sloppify your memories",
-    "summary": "Samsung Galaxy S26 photos app includes AI editing tools similar to Google Pixel's, allowing users to modify backgrounds and remove objects.",
-    "description": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically ...",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 14:15"
-  },
-  {
-    "id": "0e6c5381c965",
-    "headline": "Art schools are being torn apart by AI",
-    "summary": "Art schools struggle as AI tools like 3D modeling software disrupt traditional creative education and student workflows.",
-    "description": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 11:00"
-  },
-  {
-    "id": "6ced4274de9b",
-    "headline": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "summary": "AI recruiting startup Mercor suffered a cyberattack linked to a compromised open-source LiteLLM project used by developers.",
-    "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "tags": [
-      "Startup",
-      "Open Source"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 01:42"
-  },
-  {
-    "id": "09f1817e94d9",
-    "headline": "Anthropic is having a month",
-    "summary": "Anthropic experienced a second internal security incident within a week, details not fully disclosed in brief.",
-    "description": "A human really borks things at Anthropic for the second time this week.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 23:58"
-  },
-  {
-    "id": "629ef524ea57",
-    "headline": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "summary": "Salesforce adds 30 AI-powered features to Slack, enhancing productivity and collaboration capabilities across the platform.",
-    "description": "Slack just got a whole lot more useful.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 22:46"
-  },
-  {
-    "id": "ea4f19a1b504",
-    "headline": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "summary": "OpenAI raises $3B from retail investors in a $122B funding round led by Amazon, Nvidia, and SoftBank, valuing it at $852B pre-IPO.",
-    "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 21:25"
-  },
-  {
-    "id": "e7ab6b076fab",
-    "headline": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "summary": "AI feedback startup Yupp shuts down less than a year after launching, despite $33M funding from a16z and major backers.",
-    "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 20:01"
-  },
-  {
-    "id": "1e25cc4e6daa",
-    "headline": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-    "summary": "Nomadic raises $8.4M to convert autonomous vehicle footage into structured datasets using deep learning models.",
-    "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-    "tags": [
-      "Robotics",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 15:00"
-  },
-  {
-    "id": "3ffd6188fe61",
-    "headline": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-    "summary": "Runway launches $10M fund and Builders program to support early-stage startups building AI video applications.",
-    "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-    "tags": [
-      "Video Gen",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 14:00"
-  },
-  {
-    "id": "bd16b82f8e5e",
-    "headline": "With its new app store, Ring bets on AI to go beyond home security",
-    "summary": "Ring's new app store expands beyond home security using AI for elder care and business applications.",
-    "description": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 13:00"
-  },
-  {
-    "id": "c5f9e6655275",
-    "headline": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
-    "summary": "ChatGPT provides inaccurate product recommendations for WIRED reviews, showing limitations in factual accuracy.",
-    "description": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 09:30"
-  },
-  {
-    "id": "8f15f2e03935",
-    "headline": "AI Has Flooded All the Weather Apps",
-    "summary": "Weather apps increasingly use AI-powered forecasting from machine learning models, improving prediction accuracy.",
-    "description": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 13:00"
-  },
-  {
-    "id": "3b46e9f3e183",
-    "headline": "The Download: gig workers training humanoids, and better AI benchmarks",
-    "summary": "Gig workers train humanoid robots at home while AI benchmarking methods improve, advancing robotics development.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
-    "tags": [
-      "Robotics",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 12:10"
-  },
-  {
-    "id": "9572a1838ba5",
-    "headline": "Shifting to AI model customization is an architectural imperative",
-    "summary": "Enterprise demand shifts toward customizable AI models over massive new LLM releases as gains plateau.",
-    "description": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 14:12"
-  },
-  {
-    "id": "8828cce91069",
-    "headline": "Google Photos is losing some of its editing shortcuts to ‘reduce accidental triggers’ - 9to5Google",
-    "summary": "Google Photos removes some AI editing shortcuts to prevent accidental activation of features.",
-    "description": "Google Photos is losing some of its editing shortcuts to ‘reduce accidental triggers’ 9to5GoogleGoogle Photos is losing some of its editing magic with new update Android PoliceGoogle Photos Android update prevents accidental tool triggers and pop-ups NewsBytesGoogle Photos tries to save you from accidental edits in its latest shakeup Android AuthorityGoogle Photos removes editing shortcuts to reduce accidental triggers Business Standard",
-    "tags": [
-      "Image Gen",
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXhNQjBqV2hmU3V6cnRGcm5JTUNMd3hhUmJvYU9WNC1jY1hyQ3NzYW5BemxIZTVmdEdjbUx2YWYxVThZMXM1cUhhc0tMLURwWkpRVDI3X0laZTd3Z0pEa0tSTk1lb0JlMGxhM2ZTVDRIVmhaRXdsSHNfRVByRnRuWEFONUlrUS1FQ3JKTUZ0VDRoWkZzb1hRZGdBWWJROGhSc1Rtbw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 18:45"
-  },
-  {
-    "id": "b4449b30c14a",
-    "headline": "Device Startup Nothing Technology Plans to Release AI Glasses Next Year - Bloomberg.com",
-    "summary": "Nothing Technology plans to release AI-powered glasses and earbuds next year, expanding beyond smartphones.",
-    "description": "Device Startup Nothing Technology Plans to Release AI Glasses Next Year Bloomberg.comNothing’s AI devices plan reportedly contains smart glasses and earbuds techcrunch.comNothing could expand past smartphones with new smart glasses next year Android AuthorityNothing eyes smartglasses: Carl Pei may be planning AI-powered wearable for 2027 The Indian ExpressThis small brand could mess up Apple’s 2027 plans PhoneArena",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWm5NbWtlM3ZBbzVHc3pDNEVxRzE2WnFHeVNLcHRyZTBSS3JlQjIzWFJDbHdsLWtPZjlQejF1QkxwNFQ5OHBTSnY1Xy1rOUV2YXFocFFRbF9JREZzamxXWkVsOURzbFZzUUd4NXU3cnhwOWF2VS1UYjlWRDhXUnJBWnpfSnNlSGNyYTZMalA0U1hTd3pRWnVHaWoxMGRnRGJZMDFwSXR0MjdYSmloTUl3X2cwdDVnQl8yNWF1MENXZw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 18:38"
-  },
-  {
-    "id": "ba8de680c7ea",
-    "headline": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
-    "summary": "DeepL report finds 83% of enterprises lag in adopting language AI for translation workflows.",
-    "description": "AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL’s 2026 Language AI report, “Borderless Business: Transforming Translation in the Age of AI,” published on March 10. Despite broad AI investment across business functions, the report reveals that language and multilingual operations–workflows that touch sales, legal, customer support, and ... The post DeepL’s Borderless Business report reveals 83% of enterprises are still behind on languag",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 12:00"
-  },
-  {
-    "id": "9cfe620af0e7",
-    "headline": "Hershey applies AI across its supply chain operations",
-    "summary": "Hershey deploys AI across supply chain and logistics operations to optimize food production processes.",
-    "description": "Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company’s latest strategy update. At its Investor Day, the company said it plans to use ... The post Hershey applies AI across its supply chain operations appeared first on AI News.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 10:00"
-  },
-  {
-    "id": "8e573c2a1d72",
-    "headline": "SAP and ANYbotics drive industrial adoption of physical AI",
-    "summary": "SAP and ANYbotics deploy physical AI robots for industrial facility inspections, reducing human safety risks.",
-    "description": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot ... The post SAP and ANYbotics drive industrial adoption of physical AI appeared first on AI News.",
-    "tags": [
-      "Robotics"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 Mar 2026, 15:20"
-  },
-  {
-    "id": "24d31900ab87",
-    "headline": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
-    "summary": "Hugging Face releases TRL v1.0, a production-ready framework for LLM post-training workflows including DPO and GRPO.",
-    "description": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Training pipeline—the essential sequence of Supervised Fine-Tuning (SFT), Reward Modeling, and Alignment—into a unified, standardized API. In the early stages ... The post Hugging Face Releases TRL v1.0: A Unified Post-Trainin",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 07:04"
-  },
-  {
-    "id": "97e1db2991fc",
-    "headline": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
-    "summary": "Google releases Veo 3.1 Lite, a low-cost, high-speed video generation model via Gemini API for developers.",
-    "description": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While the generative video space has seen rapid progress in visual fidelity, the cost per second of generated content has remained high, often prohibitive for developers building ... The post Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API appeared f",
-    "tags": [
-      "Video Gen",
-      "Google"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 06:22"
   }
 ]
