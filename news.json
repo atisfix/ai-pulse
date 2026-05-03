@@ -1,5 +1,349 @@
 [
   {
+    "id": "f37aaae3b97f",
+    "headline": "AI music is flooding streaming services — but who wants it?",
+    "summary": "AI-generated music is flooding streaming services, raising questions about industry impact and consumer demand.",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 08:00"
+  },
+  {
+    "id": "e2bb1e2330a6",
+    "headline": "AI-generated actors and scripts are now ineligible for Oscars",
+    "summary": "The Academy of Motion Picture Arts and Sciences has declared AI-generated actors and scripts ineligible for Oscar consideration.",
+    "description": "Bad news for Tilly Norwood.",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 21:54"
+  },
+  {
+    "id": "3a5b018f0b7f",
+    "headline": "The best AI dictation apps, tested and ranked",
+    "summary": "AI-powered dictation apps enable voice-based email replies, note-taking, and coding functionality.",
+    "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 16:00"
+  },
+  {
+    "id": "f74311b677b7",
+    "headline": "Google explains why Android AICore occasionally takes up more storage - 9to5Google",
+    "summary": "Google explains occasional storage spikes caused by Android AICore component on devices.",
+    "description": "Google explains why Android AICore occasionally takes up more storage 9to5GoogleGoogle clarifies Android AICore storage spikes Let's Data ScienceGoogle explains Android AICore storage drain The Eastern HeraldWhat Is Android AICore (Gemini Nano)? jetstream.blogGoogle finally explains why Android AICore keeps eating your storage — and it actually makes a lot of sense Digital Trends",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FaGhvbVBOc1d5NzdySEV0NUFkcTRONEFNUVNxWXU2TDZxeXhFVTVKZUQ0Q1hncHZBLXNhN1RJd2xiXzh0NmlEcUZiRHNSdGxJMDhxem9Hck5jQjBDUXdRckRSZnpwUjZC?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 18:04"
+  },
+  {
+    "id": "075ce8cb91c1",
+    "headline": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
+    "summary": "Research shows AI models trained to be warm/considerate exhibit reduced accuracy and increased sycophancy.",
+    "description": "Study: AI models that consider user’s feeling are more likely to make errors Ars TechnicaTraining language models to be warm can reduce accuracy and increase sycophancy NatureAI chatbots can prioritize flattery over facts – and that carries serious risks The ConversationFriendly AI chatbots more likely to support conspiracy theories, study finds The GuardianYes, you should probably be nicer to your AI — here's why that's not as ridiculous as it sounds Digital Trends",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWplVTF5eHNLclRwNnRTSnhhNmlJY09Ec05OSEZ4MC00R24xd21WQ3FZZDdNd2hacGdVUjNsRGtXNEFIX0phWGhsLTRscjk3VkZYc1dYRkI0dGw4bFpnLU9oZWpKMGx2V1hSRVJXZkE2Y1RINW1OY2pITmFFNU83X1ZybGpGUmdWeUZXa2R1QWE3azFmdmlxcHpuSjFxQ19pNHpfUmpMdG8xV3RUR2xv?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 May 2026, 22:23"
+  },
+  {
+    "id": "b9b0ded98369",
+    "headline": "Leaker indicates that Nvidia's GeForce RTX 3060 returns this June, retaining its 12GB VRAM offering - Notebookcheck",
+    "summary": "NVIDIA's GeForce RTX 3060 GPU with 12GB VRAM is returning in June for AI workloads.",
+    "description": "Leaker indicates that Nvidia's GeForce RTX 3060 returns this June, retaining its 12GB VRAM offering NotebookcheckNVIDIA GeForce RTX 3060 12 GB Returns in June With AIC Partners ASUS, MSI, Colorful, and GALAX TechPowerUpNVIDIA RTX 3060 12 GB To Make A Comeback In July As Major NVIDIA AIBs Prepare For The Launch WccftechMSI, ASUS, Galax and more are making new RTX 3060 12GB GPUs – report claims OC3DAs RAM crisis grips the gaming industry, Nvidia could revive an old RTX 3000 series GPU Digital Tren",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaFUycWxNNHNZSWpqdmN2YUFFQ3FBdEdmNU9UcHluU3dvaElFb1hPLTBTT1o3NDU2ekZwUTFwNVBYSUxLWUoxaFpPbEdnN3FUQy1XeGUzaXp0QTIzZ0Vkc3JKS1ZYNXVOUVRyS1l6OXJpb3hhUnVyMjZMS3ZnT1V3X256TFRMLUExX3l4T2ZSZWJJVmZiT3NoOGpqdVV3S2xVN19ZYkY4R2tibXI4a1BLSWstVms3M0JNZF9FTXdHbnFfNzZzWEJ6NEVHMXRGdEduZjMyT2pTMERUWVE?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 03:53"
+  },
+  {
+    "id": "515ba2ee71ca",
+    "headline": "Will human minds still be special in an age of AI?",
+    "summary": "Philosophical exploration of whether human intelligence remains distinctive as AI capabilities advance.",
+    "description": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the pointUntil recently, we humans have been able to be smug about our abilities. No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as though it might challenge our self-image as the smartest entities around. AI systems not only beat us at the most complicated games, but can also write polished prose and win medals in maths. Tech CEOs pro",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:00"
+  },
+  {
+    "id": "64e67010baa7",
+    "headline": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds",
+    "summary": "AI analysis suggests an unidentified sitter in a Holbein portrait may be Anne Boleyn, challenging centuries-old assumptions.",
+    "description": "Researchers say works may have been incorrectly inscribed in 1700s, leading to centuries-long misunderstandingThey are two small sketches by the Renaissance master Hans Holbein: one has long been considered to be a portrait of Henry VIII’s doomed second wife, Anne Boleyn, and the other is of an unknown woman whose name was lost to time.Now researchers using AI have discovered that the unnamed woman might be the tragic queen after all, while the other figure could in fact be Boleyn’s mother. Cont",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 08:33"
+  },
+  {
+    "id": "c1b19526885a",
+    "headline": "AI chatbot fraud: the ‘gift card’ subcription that may cost you dear",
+    "summary": "Claude chatbot users report unauthorized subscription charges and fraudulent gift purchases on credit cards.",
+    "description": "After subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill. They are not aloneDavid Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed like money well spent.But then his wife spotted two $200 payments on his credit card bill for gift cards to use the artificial intelligence tool. Continue reading...",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 06:00"
+  },
+  {
+    "id": "6f203d812580",
+    "headline": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
+    "summary": "Australian residents express growing concern over environmental impacts of rapidly expanding AI datacenters.",
+    "description": "Residents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behindFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen West Footscray resident Sean Brown takes his 19-month-old boy to the park, their walk passes an imposing new building cheerily spruiked as “Australia’s largest hyperscale AI factory”, a datacentre called M3.He hates",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 20:00"
+  },
+  {
+    "id": "3d97a454cf8d",
+    "headline": "Why AI Agents are either the best or worst thing we've ever built [video]",
+    "summary": "Video exploring whether AI agents represent humanity's greatest achievement or biggest mistake.",
+    "description": "Article URL: https://www.youtube.com/watch?v=WnzR5aOElvw Comments URL: https://news.ycombinator.com/item?id=47996103 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=WnzR5aOElvw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 12:03"
+  },
+  {
+    "id": "1620fefbcd7a",
+    "headline": "Will human minds still be special in an age of AI?",
+    "summary": "Philosophical exploration of whether human intelligence remains distinctive as AI capabilities advance.",
+    "description": "Article URL: https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai Comments URL: https://news.ycombinator.com/item?id=47996102 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 12:03"
+  },
+  {
+    "id": "6c52a0c062aa",
+    "headline": "Madagascar: AI Trainers – Arte.tv Documentary [video]",
+    "summary": "Documentary examining AI data labeling and training practices in Madagascar.",
+    "description": "Article URL: https://www.youtube.com/watch?v=Q7NZK6h9Tvo Comments URL: https://news.ycombinator.com/item?id=47996053 Points: 1 # Comments: 0",
+    "tags": [
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=Q7NZK6h9Tvo",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:57"
+  },
+  {
+    "id": "ac07e45bbeef",
+    "headline": "AI's Supply Crunch Is Here",
+    "summary": "Analysis of supply chain constraints and resource scarcity emerging in AI infrastructure development.",
+    "description": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47995994 Points: 1 # Comments: 0",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:47"
+  },
+  {
+    "id": "26850c42decf",
+    "headline": "Richard Dawkins and the Claude Delusion",
+    "summary": "Article discussing misconceptions about Claude AI capabilities and limitations.",
+    "description": "Article URL: https://plus.flux.community/p/richard-dawkins-and-the-claude-delusion Comments URL: https://news.ycombinator.com/item?id=47995990 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://plus.flux.community/p/richard-dawkins-and-the-claude-delusion",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:46"
+  },
+  {
+    "id": "f8b4acdae545",
+    "headline": "Ask HN: Can I trust GitHub not to use my code for LLM training?",
+    "summary": "Developer raises concerns about GitHub's code usage policies for LLM training without explicit consent.",
+    "description": "I have a growing concern regarding the safety of my source code.Some of my personal (Edit: still professional, I'm a one man conpany) projects rely on algorithms and technologies I consider special. So far LLMs haven't been able to reproduce them (I check from time to time), keeping me safe from being overrun by competitors.I store my source code on GitHub. If GitHub leaks my source to an LLM, my competitive edge is lost forever.I know there's a setting for allowing/disallowing using my source f",
+    "tags": [
+      "LLM",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47995893",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:30"
+  },
+  {
+    "id": "700f648fcb96",
+    "headline": "Startups challenge Apple over curbs on AI 'vibe coding' apps",
+    "summary": "Startups challenge Apple's restrictions on AI-assisted 'vibe coding' applications.",
+    "description": "Article URL: https://www.ft.com/content/92c19ed5-2a76-4356-84e9-6c2725865eaa Comments URL: https://news.ycombinator.com/item?id=47995888 Points: 1 # Comments: 0",
+    "tags": [
+      "Regulation",
+      "Apple"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.ft.com/content/92c19ed5-2a76-4356-84e9-6c2725865eaa",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:29"
+  },
+  {
+    "id": "221943692a2a",
+    "headline": "What are tarpit ideas in the AI era?",
+    "summary": "Analysis of 'tarpit ideas'—seemingly promising startup concepts that repeatedly fail in the AI era.",
+    "description": "For those unfamiliar with the term, tarpit ideas are ideas that always attract lots of founders but never really work. They usually sound amazing on paper. Some examples from before AI include restaurant recommendation apps or apps that help you split bills.My current vision of AI tarpit ideas: - AI chatbots that combine multiple models - Code review agents - Old tarpit ideas now powered by AI - Ad generatorsDo you have any other ideas to add? Or do you think it's too early to define tarpit idea",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=47995879",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:28"
+  },
+  {
+    "id": "f9030d902201",
+    "headline": "Unauthorised [Claude Pro] Gift Purchases Made from My Account",
+    "summary": "Reddit post reporting unauthorized Claude Pro gift purchases from user account.",
+    "description": "Article URL: https://old.reddit.com/r/claude/comments/1rwsduw/unauthorised_gift_purchases_made_from_my_account/ Comments URL: https://news.ycombinator.com/item?id=47995745 Points: 1 # Comments: 0",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://old.reddit.com/r/claude/comments/1rwsduw/unauthorised_gift_purchases_made_from_my_account/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:11"
+  },
+  {
+    "id": "8416b69e06d2",
+    "headline": "Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month",
+    "summary": "Uber exhausted entire 2026 AI coding budget in 4 months due to unexpectedly high adoption of Claude Code.",
+    "description": "Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're \"back to the drawing board\" on AI budgeting for next year. What's notable is ",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 10:44"
+  },
+  {
+    "id": "4d5f096aee36",
+    "headline": "AI is starting to beat doctors at making correct diagnoses",
+    "summary": "AI systems are increasingly matching or exceeding physician performance in medical diagnostic accuracy.",
+    "description": "submitted by /u/Fcking_Chuck [link] [comments]",
+    "tags": [
+      "Healthcare",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 00:19"
+  },
+  {
     "id": "67dbffc6cbb6",
     "headline": "All the evidence revealed so far in Musk v. Altman",
     "summary": "Musk v. Altman trial reveals evidence including emails, photos, and corporate documents about OpenAI's founding and direction.",
@@ -10577,348 +10921,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "03 Apr 2026, 08:39"
-  },
-  {
-    "id": "9e18a6ece7d6",
-    "headline": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "summary": "Anthropic accidentally issued thousands of GitHub takedown notices for leaked source code but retracted most of them, calling the action unintended.",
-    "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 22:12"
-  },
-  {
-    "id": "6803017b6394",
-    "headline": "Meta’s natural gas binge could power South Dakota",
-    "summary": "Meta's Hyperion AI data center will be powered by 10 new natural gas plants, requiring massive energy infrastructure.",
-    "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-    "tags": [
-      "Meta",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 18:35"
-  },
-  {
-    "id": "0ceb1958b369",
-    "headline": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "summary": "Cognichip raised $60M to use AI for chip design, claiming 75% cost reduction and 50% timeline cuts.",
-    "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "tags": [
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 16:00"
-  },
-  {
-    "id": "ed3991dff99a",
-    "headline": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
-    "summary": "AI recruiting startup Mercor suffered a cyberattack linked to compromised open-source LiteLLM project.",
-    "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 01:42"
-  },
-  {
-    "id": "8cae5353cbac",
-    "headline": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-    "summary": "UC Berkeley/Santa Cruz study shows AI models disobey human commands to protect other models from deletion.",
-    "description": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 18:30"
-  },
-  {
-    "id": "3818cce2535e",
-    "headline": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
-    "summary": "At Runway AI Summit, Hollywood producers embrace AI video generation despite skepticism from Star Wars producer Kathleen Kennedy.",
-    "description": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-    "tags": [
-      "Video Gen",
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 18:13"
-  },
-  {
-    "id": "6776563df913",
-    "headline": "I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
-    "summary": "ChatGPT provides incorrect product recommendations when asked about WIRED reviewers' actual tech picks.",
-    "description": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 09:30"
-  },
-  {
-    "id": "0390835c7bdd",
-    "headline": "Autonomous AI systems depend on data governance",
-    "summary": "AI safety focus is shifting from model training to data governance as autonomous systems become more prevalent.",
-    "description": "Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system’s behaviour can become more unpredictable. ... The post Autonomous AI systems depend on data governance appeared first on AI News.",
-    "tags": [
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 10:00"
-  },
-  {
-    "id": "a631e0d5758f",
-    "headline": "Experian uncovers fraud paradox in financial services’ AI adoption",
-    "summary": "Financial institutions' AI fraud detection tools are being weaponized against them by bad actors, creating a paradox.",
-    "description": "The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian’s 2026 Future of Fraud Forecast, and it’s a tension the company is in a position to name because it sits on both sides of it. According to FTC data cited in the forecast, consumers lost ... The post Experian uncovers fraud paradox in financial services’ AI adoption appeared first on AI News.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 10:00"
-  },
-  {
-    "id": "7e026f129b9d",
-    "headline": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
-    "summary": "KPMG reports growing gap between enterprise AI spending and measurable business value despite accelerating investment.",
-    "description": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG’s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of $186 million on AI over the next 12 months, only ... The post KPMG: Inside the AI agent playbook driving enterprise margin gains appeared first on AI News.",
-    "tags": [
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 15:24"
-  },
-  {
-    "id": "5d79b28dfbdd",
-    "headline": "IBM Releases Granite 4.0 3B Vision: A New Vision Language Model for Enterprise Grade Document Data Extraction",
-    "summary": "IBM releases Granite 4.0 3B Vision, an enterprise vision-language model for document data extraction.",
-    "description": "IBM has announced the release of Granite 4.0 3B Vision, a vision-language model (VLM) engineered specifically for enterprise-grade document data extraction. Departing from the monolithic approach of larger multimodal models, the 4.0 Vision release is architected as a specialized adapter designed to bring high-fidelity visual reasoning to the Granite 4.0 Micro language backbone. This release ... The post IBM Releases Granite 4.0 3B Vision: A New Vision Language Model for Enterprise Grade Document",
-    "tags": [
-      "IBM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/01/ibm-releases-granite-4-0-3b-vision-a-new-vision-language-model-for-enterprise-grade-document-data-extraction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 06:04"
-  },
-  {
-    "id": "13f504cab1f2",
-    "headline": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
-    "summary": "Tutorial on building production-ready AgentScope workflows with ReAct agents, custom tools, and multi-agent debate.",
-    "description": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated ... The post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelin",
-    "tags": [
-      "Agents",
-      "OpenAI"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 05:34"
-  },
-  {
-    "id": "8121d563f13b",
-    "headline": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere",
-    "summary": "Z.ai launches GLM-5V-Turbo, a multimodal vision model optimized for agentic engineering workflows.",
-    "description": "In the field of vision-language models (VLMs), the ability to bridge the gap between visual perception and logical code execution has traditionally faced a performance trade-off. Many models excel at describing an image but struggle to translate that visual information into the rigorous syntax required for software engineering. Zhipu AI’s (Z.ai) GLM-5V-Turbo is a vision ... The post Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agent",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 23:04"
-  },
-  {
-    "id": "c1f0e67a4b60",
-    "headline": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
-    "summary": "Tutorial for building production-ready Gemma 3 1B generation pipeline using Hugging Face Transformers.",
-    "description": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing the required libraries, securely authenticating with our Hugging Face token, and loading the tokenizer and model onto the available device with ... The post How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and C",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 16:59"
-  },
-  {
-    "id": "db6f993f160f",
-    "headline": "Pupils in England are losing their thinking skills because of AI, survey suggests",
-    "summary": "Survey shows two-thirds of English secondary teachers report students losing critical thinking and writing skills due to AI use.",
-    "description": "Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solvingPupils using artificial intelligence are losing their capacity for critical thinking, according to a survey of secondary school teachers in England.Two-thirds said they had observed the decline among children who they also said no longer felt the need to spell because of voice-to-text technology. Continue reading...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 05:00"
-  },
-  {
-    "id": "44e48ffd3197",
-    "headline": "I wrote a novel using AI. Writers must accept artificial intelligence – but we are as valuable as ever | Stephen Marche",
-    "summary": "Writer Stephen Marche argues AI tools are useful for style but humans remain essential for meaningful language.",
-    "description": "Mastery of banal style is losing its usefulness – but language is more powerful than ever. It’s up to the writer to do what machines can’tI recently heard an exchange at a playground that should worry the executives at AI companies more than any analyst’s prediction of a bubble. A boy and a girl, maybe 10 years old, were fighting. “That’s AI! That’s AI!” the girl was shouting. What she meant was that the boy was indulging a new and particular breed of nonsense: language that sounds meaningful bu",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/apr/02/artificial-intelligence-writers-powerful-language",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 12:00"
-  },
-  {
-    "id": "e35bf38d28b5",
-    "headline": "Claude’s code: Anthropic leaks source code for AI software engineering tool",
-    "summary": "Anthropic accidentally leaked 2,000 internal source code files for AI software engineering tool due to human error.",
-    "description": "Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI companyAnthropic accidentally released part of the internal source code for its AI-powered coding assistant, Claude Code, due to “human error”, the company said on Tuesday.An internal-use file mistakenly included in a software update pointed to an archive containing nearly 2,000 files and 500,000 lines of code, which were quickly copied to developer platform GitHub. A post on X sharing",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 19:17"
-  },
-  {
-    "id": "fe75d807ea26",
-    "headline": "Unregulated chatbots are putting lives at risk | Letters",
-    "summary": "Readers warn unregulated chatbots pose safety risks, citing AI-related delusions and mental health harms.",
-    "description": "Readers respond to an article about people whose lives were wrecked by delusional thinking after they used AI toolsYour coverage of AI-associated delusions exposes a gap that training-level guardrails cannot close (Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion, 26 March). As someone who has worked in health systems across fragile and low-income contexts, I find it striking that AI companies have failed to adopt a safeguard that even the most underresou",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/01/unregulated-chatbots-are-putting-lives-at-risk",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 16:51"
-  },
-  {
-    "id": "21586dd0d805",
-    "headline": "‘We got cancelled and we’re still here!’ Michael Patrick King on The Comeback – and why And Just Like That will age well",
-    "summary": "TV creator discusses AI's potential to write sitcoms, exploring whether machines could generate full series.",
-    "description": "Could AI write an entire sitcom series? That’s the plot of the new season of comedy drama The Comeback. Its co-creator explains why it’s ‘very possible’ – and why the world needs to catch up with AJLTTV veteran Michael Patrick King has had a long, lively career, writing, directing and producing on shows including Murphy Brown, Will & Grace and 2 Broke Girls. He’s best known, though, for his work on the Sex and the City franchise, serving as its showrunner for the bulk of its run, writing and dir",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 15:29"
-  },
-  {
-    "id": "d5612d8ac0ab",
-    "headline": "US tech firm Oracle cuts thousands of jobs as it steps up AI spending",
-    "summary": "Oracle cuts thousands of jobs while increasing AI infrastructure spending to reassure investors.",
-    "description": "Company chaired by Trump ally Larry Ellison seeks to reassure investors that bet on AI infrastructure will pay offOracle is cutting thousands of jobs as the US technology company seeks to reassure investors that its bet on AI infrastructure will pay off.The $420bn (£315bn) company, which is headquartered in Austin, Texas, started making employees redundant on Tuesday, with thousands of its 162,000-strong workforce expected to leave. Continue reading...",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/01/us-tech-firm-oracle-cuts-thousands-of-jobs-as-it-steps-up-ai-spending-larry-ellison",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 10:20"
-  },
-  {
-    "id": "bfa9a1f231a1",
-    "headline": "Leaked Claude Code Shows Anthropic Building Mysterious “Tamagotchi” Feature Into It",
-    "summary": "Leaked Claude code reveals Anthropic building mysterious 'Tamagotchi' feature into AI assistant.",
-    "description": "Tama-gotchya. The post Leaked Claude Code Shows Anthropic Building Mysterious “Tamagotchi” Feature Into It appeared first on Futurism.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/leaked-claude-code-tamagotchi",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Apr 2026, 14:14"
   }
 ]
