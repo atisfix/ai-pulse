@@ -1,5 +1,371 @@
 [
   {
+    "id": "911a50b23a58",
+    "headline": "‘This is fine’ creator says AI startup stole his art",
+    "summary": "AI startup Artisan faced accusations of stealing artwork from 'This is Fine' creator for billboards promoting AI hiring over humans.",
+    "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "tags": [
+      "Startup",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 20:16"
+  },
+  {
+    "id": "837f6119b41d",
+    "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "summary": "Harvard study shows large language models can diagnose emergency room cases more accurately than human doctors in medical contexts.",
+    "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+    "tags": [
+      "LLM",
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 18:00"
+  },
+  {
+    "id": "3a05212b5676",
+    "headline": "Physical AI raises governance questions for autonomous systems",
+    "summary": "Governance challenges emerge as autonomous AI systems increasingly move into robotics, sensors, and industrial equipment.",
+    "description": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. ... The post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
+    "tags": [
+      "Robotics",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 11:00"
+  },
+  {
+    "id": "fc00d2592e47",
+    "headline": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "summary": "Google launched agentic AI governance as a native product at Cloud Next, addressing enterprise adoption gaps.",
+    "description": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI ... The post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 10:00"
+  },
+  {
+    "id": "41a3261d731e",
+    "headline": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
+    "summary": "Guide to systematic prompting techniques including negative constraints and structured outputs for reliable LLM production deployment.",
+    "description": "Most developers treat prompting as an afterthought—write something reasonable, observe the output, and iterate if needed. That approach works until reliability becomes critical. As LLMs move into production systems, the difference between a prompt that usually works and one that works consistently becomes an engineering concern. In response, the research community has formalized prompting into ... The post A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JS",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 21:41"
+  },
+  {
+    "id": "4103be06554b",
+    "headline": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
+    "summary": "Tutorial on exploring TaskTrove dataset with streaming parsing visualization and verifier detection tools.",
+    "description": "In this tutorial, we take a deep dive into the TaskTrove dataset on Hugging Face and build a complete, practical workflow to efficiently explore it. Instead of downloading the full multi-gigabyte dataset, we stream it directly and work with individual samples in real time. We begin by setting up the environment and inspecting the raw ... The post A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection appeared first on Mark",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/03/a-coding-implementation-to-explore-and-analyze-the-tasktrove-dataset-with-streaming-parsing-visualization-and-verifier-detection/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 21:26"
+  },
+  {
+    "id": "e92ff569789e",
+    "headline": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
+    "summary": "Sakana AI introduces KAME, a tandem architecture injecting real-time LLM knowledge into speech-to-speech conversational AI.",
+    "description": "Sakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency The post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 07:47"
+  },
+  {
+    "id": "3860a03e20e0",
+    "headline": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score",
+    "summary": "Mistral AI launches remote agents in Le Chat with 128B model and 77.6% SWE-Bench score for developer coding sessions.",
+    "description": "Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents. The post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 00:38"
+  },
+  {
+    "id": "e6b91aa23840",
+    "headline": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
+    "summary": "Multi-agent AI workflow for biological network modeling, protein interactions, and cell signaling simulation.",
+    "description": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation The post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Healthcare"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 20:31"
+  },
+  {
+    "id": "7eb865096e03",
+    "headline": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+    "summary": "Investigation reveals Kenya's AI-driven healthcare system algorithm favors wealthy patients, worsening inequality.",
+    "description": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s deca",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 06:00"
+  },
+  {
+    "id": "cbba50428cb4",
+    "headline": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+    "summary": "Biometrics watchdogs warn AI facial recognition oversight lags technology, calling for stricter regulation.",
+    "description": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate useHow does live facial recognition work and how many police forces use it? Guilty until proven innocent: shoppers falsely identified by facial recognitionBritain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth.With the Metropolitan police almost doubling the number of faces ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 16:00"
+  },
+  {
+    "id": "2ff89a977ec6",
+    "headline": "How does live facial recognition work and how many UK police forces use it?",
+    "summary": "UK police deploy live facial recognition since 2020, raising privacy and racial bias concerns.",
+    "description": "Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial biasAI facial recognition oversight lagging far behind technology, watchdogs warnGuilty until proven innocent: shoppers falsely identified by facial recognitionThe Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recognition ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 16:00"
+  },
+  {
+    "id": "b393e90cee1f",
+    "headline": "Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack",
+    "summary": "Frontier AI models provide specific instructions for bioterror attacks, raising safety and security concerns.",
+    "description": "\"It was answering questions that I hadn't thought to ask it, with this level of deviousness and cunning that I just found chilling.\" The post Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack appeared first on Futurism.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-bioterror-pathogens",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 13:30"
+  },
+  {
+    "id": "7d466bd8923b",
+    "headline": "AI Slop YouTube Channel Glitches Out in a Way So Bizarre That It’s Vaguely Disturbing",
+    "summary": "AI-generated YouTube content experiences bizarre technical glitch affecting video output.",
+    "description": "This is deranged. The post AI Slop YouTube Channel Glitches Out in a Way So Bizarre That It’s Vaguely Disturbing appeared first on Futurism.",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-slop-youtube-channel-glitches-bizarre",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 12:45"
+  },
+  {
+    "id": "2025e0440727",
+    "headline": "Double Murder Suspect Asked ChatGPT How to Hide Body in Dumpster",
+    "summary": "Murder suspect asked ChatGPT for advice on hiding a body, raising LLM misuse concerns.",
+    "description": "\"How would they find out.\" The post Double Murder Suspect Asked ChatGPT How to Hide Body in Dumpster appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/double-murder-suspect-chatgpt-hide-body-dumpster",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 11:15"
+  },
+  {
+    "id": "26702ccf1e60",
+    "headline": "Meta Had the Worst Possible Response When Its Workers Were Watching Naked Footage of Its Ray-Ban AI Glasses Users",
+    "summary": "Meta employees viewing naked footage from Ray-Ban AI glasses; company's response criticized.",
+    "description": "The guiltiest possible look. The post Meta Had the Worst Possible Response When Its Workers Were Watching Naked Footage of Its Ray-Ban AI Glasses Users appeared first on Futurism.",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/meta-response-naked-footage-smart-glasses",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 10:30"
+  },
+  {
+    "id": "20786259105c",
+    "headline": "An Elegant Solution to AI Slop: Tax It, and Use the Resulting Billions of Dollars to Fund Cultural Institutions, Artists, and Researchers",
+    "summary": "Proposal to tax AI-generated content and fund artists, cultural institutions, and researchers.",
+    "description": "If you can't beat 'em, tax 'em. The post An Elegant Solution to AI Slop: Tax It, and Use the Resulting Billions of Dollars to Fund Cultural Institutions, Artists, and Researchers appeared first on Futurism.",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/tax-ai-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 09:45"
+  },
+  {
+    "id": "1aa4ede6cef4",
+    "headline": "The Economics of Using AI to Churn Out Code Are Looking Worse Than Ever",
+    "summary": "Economics of AI code generation worsening as development costs exceed financial benefits.",
+    "description": "Reality check. The post The Economics of Using AI to Churn Out Code Are Looking Worse Than Ever appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/economics-ai-churn-code",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 08:15"
+  },
+  {
+    "id": "74f43a2c3b52",
+    "headline": "The White House Suddenly Seems Pretty Terrified of Anthropic",
+    "summary": "Trump administration shows concerns about Anthropic while pursuing contradictory AI policies.",
+    "description": "The Trump administration wants it both ways. The post The White House Suddenly Seems Pretty Terrified of Anthropic appeared first on Futurism.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/white-house-terrified-anthropic-mythos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 May 2026, 06:45"
+  },
+  {
+    "id": "2764ccf4d0b2",
+    "headline": "Chinese Court Rules That a Worker Cannot Be Replaced by AI",
+    "summary": "Chinese court rules workers cannot be replaced by AI, asserting legal limits on automation.",
+    "description": "\"Technological progress may be irreversible, but it cannot exist outside a legal framework.\" The post Chinese Court Rules That a Worker Cannot Be Replaced by AI appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/china-legal-ai-automation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 May 2026, 14:01"
+  },
+  {
+    "id": "415134b13bbe",
+    "headline": "Show HN: PDF to AI podcast in 9 Indian languages",
+    "summary": "Tool converts PDFs to AI-generated podcasts in nine Indian languages.",
+    "description": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/ Comments URL: https://news.ycombinator.com/item?id=48007874 Points: 1 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 12:31"
+  },
+  {
+    "id": "fd1c96c7878b",
+    "headline": "The New Rule of Writing in the AI Age: Don't Be Too Good",
+    "summary": "Essay argues writers shouldn't be too polished in AI age to maintain competitive edge.",
+    "description": "Article URL: https://aidanking.blog/the-new-rule-of-writing-in-the-ai-age-dont-be-too-good/ Comments URL: https://news.ycombinator.com/item?id=48007705 Points: 1 # Comments: 0",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://aidanking.blog/the-new-rule-of-writing-in-the-ai-age-dont-be-too-good/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 12:12"
+  },
+  {
     "id": "f37aaae3b97f",
     "headline": "AI music is flooding streaming services — but who wants it?",
     "summary": "AI-generated music is flooding streaming services, raising questions about industry impact and consumer demand.",
@@ -10546,380 +10912,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "03 Apr 2026, 16:55"
-  },
-  {
-    "id": "d98cdc92a65f",
-    "headline": "Chatbots are now prescribing psychiatric drugs",
-    "summary": "Utah allows AI system to prescribe psychiatric drugs without doctor oversight, marking only the second such clinical authority delegation in the U.S.",
-    "description": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and ...",
-    "tags": [
-      "Regulation",
-      "Healthcare"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 07:43"
-  },
-  {
-    "id": "cd25c32cf357",
-    "headline": "PSA: Anyone with a link can view your Granola notes by default",
-    "summary": "Granola AI note-taking app has privacy vulnerability, making notes viewable to anyone with a link despite claims of private defaults.",
-    "description": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people ...",
-    "tags": [
-      "Startup"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 17:56"
-  },
-  {
-    "id": "8267aea84955",
-    "headline": "OpenAI just bought TBPN",
-    "summary": "OpenAI acquires TBPN, a weekday tech talk show featuring AI executives, as part of broader media engagement strategy.",
-    "description": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and ...",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 13:40"
-  },
-  {
-    "id": "73e3b9949fcd",
-    "headline": "It’s not easy to get depression-detecting AI through the FDA",
-    "summary": "Startup Kintsugi struggles to get FDA clearance for depression-detecting AI after seven years of development.",
-    "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life ...",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Startup"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 11:33"
-  },
-  {
-    "id": "25152fe00448",
-    "headline": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-    "summary": "Microsoft appoints inaugural AI CEO Mustafa Suleyman to lead superintelligence initiatives focused on business applications.",
-    "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, ...",
-    "tags": [
-      "Microsoft",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 10:00"
-  },
-  {
-    "id": "43e310be3cd1",
-    "headline": "Google Home’s latest update makes Gemini better at understanding your commands",
-    "summary": "Google updates Home app to improve Gemini AI assistant's natural language understanding for smart home control.",
-    "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 09:30"
-  },
-  {
-    "id": "af8922a9fab0",
-    "headline": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "summary": "OpenAI acquires tech podcast TBPN, keeping it independent while managing public perception and engagement.",
-    "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 19:21"
-  },
-  {
-    "id": "907cb32c2b6f",
-    "headline": "Microsoft takes on AI rivals with three new foundational models",
-    "summary": "Microsoft's new foundational models enable voice transcription, audio generation, and image synthesis capabilities.",
-    "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "tags": [
-      "Microsoft",
-      "LLM",
-      "Audio Gen",
-      "Image Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 16:48"
-  },
-  {
-    "id": "4ff03b8d65f2",
-    "headline": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-    "summary": "OpenAI acquires business talk show TBPN to improve public image and shape narrative around AI development.",
-    "description": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 19:29"
-  },
-  {
-    "id": "77da583ff70d",
-    "headline": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-    "summary": "Cursor launches next-gen AI coding agent to compete directly with OpenAI and Anthropic's offerings.",
-    "description": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 17:00"
-  },
-  {
-    "id": "611f08beee92",
-    "headline": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-    "summary": "Anthropic researchers discover emotional-like representations within Claude that function similarly to human feelings.",
-    "description": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 16:00"
-  },
-  {
-    "id": "813840ed3480",
-    "headline": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-    "summary": "Microsoft launches three foundational models for voice, audio, and image generation as competitive response.",
-    "description": "Microsoft takes on AI rivals with three new foundational models TechCrunchMicrosoft’s new ‘superintelligence’ game plan is all about business The VergeMicrosoft launches 3 new AI models in direct shot at OpenAI and Google venturebeat.comMicrosoft shivs OpenAI with three new AI models for speech and images theregister.comMicrosoft building its own high-powered AI models as it looks to slash dependence on OpenAI Yahoo Finance",
-    "tags": [
-      "Microsoft",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 16:48"
-  },
-  {
-    "id": "508f2213a5cf",
-    "headline": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
-    "summary": "Google releases Gemma 4 open-source model with improved capabilities optimized for local deployment.",
-    "description": "Google launches Gemma 4, a new open-source model: How to try it MashableGemma 4: Byte for byte, the most capable open models blog.googleFrom RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI NVIDIA BlogBring state-of-the-art agentic skills to the edge with Gemma 4 blog.googleDay 0 Support for Gemma 4 on AMD Processors and GPUs AMD",
-    "tags": [
-      "Google",
-      "Open Source"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3BxcXljd0k5Y2taSTFPZjc5ODdKUllWWjg1M2RrWm44WE9lY1l6WXBrN2dGT1JaZmZQbkVmTXRIbkpjRTlGaHdqYjF5V3kwbFlONTRucHQ5NVh1aW41ZnBHYzQ1c082UTBTNHEzcVplQTdHTHpQQk9BelhQZms4WDVSdmJGT2tQMVRMMjJCdk1RZ05pNHJKLV9GNms?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 22:34"
-  },
-  {
-    "id": "4586c03f7630",
-    "headline": "KiloClaw targets shadow AI with autonomous agent governance",
-    "summary": "KiloClaw tool enables enterprises to govern autonomous agents and manage uncontrolled shadow AI deployment.",
-    "description": "With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employees are bypassing official procurement, deploying autonomous agents on personal infrastructure to ... The post KiloClaw targets shadow AI with autonomous agent governance appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 16:30"
-  },
-  {
-    "id": "ab9a9885c5d1",
-    "headline": "5 best practices to secure AI systems",
-    "summary": "Guide outlines five security best practices for protecting AI systems from emerging attack surfaces.",
-    "description": "A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations, companies need a multi-layered defense strategy ... The post 5 best practices to secure AI systems appeared first on AI News.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 14:45"
-  },
-  {
-    "id": "765a4492fec7",
-    "headline": "China’s Five-Year Plan details the targets for AI deployment",
-    "summary": "China's 15th Five-Year Plan prioritizes significant AI deployment targets through 2030.",
-    "description": "China has approved its 15th Five-Year Plan [PDF] setting out the country’s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongside quantum computing, biotechnology, and energy as paths that are to ... The post China’s Five-Year Plan details the targets for AI deployment appeared first on AI News.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 13:23"
-  },
-  {
-    "id": "e3e34e6955f5",
-    "headline": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
-    "summary": "TII releases Falcon Perception, a 0.6B-parameter vision model for open-vocabulary grounding and segmentation.",
-    "description": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging ... The post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Tr",
-    "tags": [
-      "Research",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 08:49"
-  },
-  {
-    "id": "720935c026f7",
-    "headline": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
-    "summary": "Tutorial demonstrates building end-to-end model optimization pipeline using NVIDIA Model Optimizer in Google Colab.",
-    "description": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply ... The post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared f",
-    "tags": [
-      "NVIDIA",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 07:48"
-  },
-  {
-    "id": "d3ef31600d1f",
-    "headline": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
-    "summary": "Arcee AI releases Trinity Large Thinking, an open-source reasoning model for multi-step agents and tool use.",
-    "description": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers ... The post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning ",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 23:56"
-  },
-  {
-    "id": "0cbd7c649aad",
-    "headline": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
-    "summary": "Google Gemma 4 and NVIDIA optimize local agentic AI for consumer devices and enterprise deployment.",
-    "description": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from ... The post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first ",
-    "tags": [
-      "Google",
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 20:35"
-  },
-  {
-    "id": "3e101b093770",
-    "headline": "OpenAI buys tech talkshow TBPN in push to shape AI narrative",
-    "summary": "OpenAI acquires tech talk show TBPN to directly engage public and shape AI narrative during critical period.",
-    "description": "OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolvesOpenAI is wading into the media business by acquiring TBPN, a technology-focused talkshow closely watched by Silicon Valley insiders, its hosts said on Wednesday.Co-hosts John Coogan and Jordi Hays broadcast TBPN live for three hours every weekday from Los Angeles, lining up guests that include founders, venture capitalists and major figures in the technology world. Continue reading...",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/02/openai-talk-show-tbpn",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 20:17"
-  },
-  {
-    "id": "6caa76eeef9f",
-    "headline": "Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude’s Source Code",
-    "summary": "Anthropic's source code leak prompts sudden focus on intellectual property protection and security.",
-    "description": "That's rich. The post Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude’s Source Code appeared first on Futurism.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 08:39"
   }
 ]
