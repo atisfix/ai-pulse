@@ -1,5 +1,352 @@
 [
   {
+    "id": "478d947abe08",
+    "headline": "Google DeepMind workers are unionizing over AI military contracts",
+    "summary": "Google DeepMind workers unionize to prevent AI technology use in military contracts with Israel and the US.",
+    "description": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 06:08"
+  },
+  {
+    "id": "a4213d3a7117",
+    "headline": "OpenAI’s president does ‘all the things,’ except answer a question",
+    "summary": "Greg Brockman testifies in Elon Musk's lawsuit against OpenAI, with his journal serving as key evidence.",
+    "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 19:49"
+  },
+  {
+    "id": "05c0b848601a",
+    "headline": "The creator of Roomba is back with a furry robot companion",
+    "summary": "Roomba creator Colin Angle launches a furry AI robot companion robot, shifting from home cleaning to social interaction.",
+    "description": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that resembles ...",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 12:51"
+  },
+  {
+    "id": "1a58fbf90493",
+    "headline": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "summary": "Nvidia CEO Jensen Huang argues AI is creating jobs despite worker concerns about automation and displacement.",
+    "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "tags": [
+      "NVIDIA",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 03:31"
+  },
+  {
+    "id": "cc67dd777744",
+    "headline": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "summary": "AI chip maker Cerebras heads for IPO valued at $26.6B+, leveraging deep partnership with OpenAI.",
+    "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "tags": [
+      "OpenAI",
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 21:53"
+  },
+  {
+    "id": "23e197befe62",
+    "headline": "Image AI models now drive app growth, beating chatbot upgrades",
+    "summary": "Image AI model launches drive 6.5x more app downloads than chatbot upgrades, but struggle with monetization.",
+    "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "tags": [
+      "Image Gen",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 19:12"
+  },
+  {
+    "id": "f3fc1adc02ca",
+    "headline": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "summary": "AI researcher Stuart Russell testifies as expert witness in Musk v. OpenAI trial, warns of AGI arms race risks.",
+    "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 16:57"
+  },
+  {
+    "id": "0909a111160f",
+    "headline": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "summary": "Enterprise AI startup Sierra raises $950M to become global standard for AI-powered customer experiences.",
+    "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 16:45"
+  },
+  {
+    "id": "a6d9540c797e",
+    "headline": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "summary": "Anthropic and OpenAI launch enterprise joint ventures with asset managers to expand AI service offerings.",
+    "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 15:59"
+  },
+  {
+    "id": "5a40a5d5503e",
+    "headline": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "summary": "DoorDash deploys AI tools for merchant onboarding, photo editing, and website creation.",
+    "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 13:00"
+  },
+  {
+    "id": "7edc0faa838a",
+    "headline": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "summary": "Google DeepMind UK staff unionize to block military use of company's AI models.",
+    "description": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 11:59"
+  },
+  {
+    "id": "4f0105ef4089",
+    "headline": "He Couldn’t Land a Job Interview. Was AI to Blame?",
+    "summary": "Medical student investigates whether AI algorithm rejected his job application using Python analysis.",
+    "description": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 10:00"
+  },
+  {
+    "id": "e1ac1acd10f4",
+    "headline": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "summary": "MIT Tech Review covers week one of Musk v. Altman trial and AI's role in strengthening democracy.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 12:10"
+  },
+  {
+    "id": "6f12c85b389c",
+    "headline": "A blueprint for using AI to strengthen democracy",
+    "summary": "Article explores how AI can be used to strengthen democratic governance and information systems.",
+    "description": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 09:00"
+  },
+  {
+    "id": "d8f8b8397044",
+    "headline": "Tailoring AI solutions for health care needs",
+    "summary": "MIT Tech Review examines tailored AI solutions for healthcare addressing financial and labor pressures.",
+    "description": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 13:00"
+  },
+  {
+    "id": "a8ed447f14f3",
+    "headline": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs",
+    "summary": "Google adds event-driven webhooks to Gemini API for long-running AI jobs, eliminating polling requirements.",
+    "description": "A push-based notification system for Batch API, Deep Research, and video generation tasks arrives with built-in security, retry guarantees, and two configuration modes. The post Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 07:01"
+  },
+  {
+    "id": "fe1c8ceb8dbb",
+    "headline": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
+    "summary": "Tutorial covers building production-grade ML pipeline with ZenML including hyperparameter optimization.",
+    "description": "In this tutorial, we walk through an end-to-end implementation of an advanced machine learning pipeline using ZenML. We begin by setting up the environment and initializing a ZenML project, then define a custom materializer that enables seamless serialization and metadata extraction for a domain-specific dataset object. As we progress, we build a modular pipeline that ... The post How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Me",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 22:11"
+  },
+  {
+    "id": "1e86eedc2ded",
+    "headline": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers",
+    "summary": "Guide comparing top search/fetch APIs for building AI agents in 2026, analyzing latency and efficiency.",
+    "description": "Discover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval. The post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 17:55"
+  },
+  {
+    "id": "5e356a65e1a7",
+    "headline": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
+    "summary": "Study shows AI platforms reference UK politician Nigel Farage more than other leaders on politics prompts.",
+    "description": "Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchersAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large la",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 May 2026, 16:00"
+  },
+  {
+    "id": "e49ba02d6c73",
+    "headline": "An AI version of Milton’s Paradise Lost is fundamentally unworthy of one of the great works of art",
+    "summary": "Critic argues AI adaptation of Milton's Paradise Lost cannot match the original literary masterpiece.",
+    "description": "Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any goodThe thing about unfilmable works of literature is that most of them eventually turn out to be quite filmable after all. The Lord of the Rings was a bit of a mess when shot in rotoscope on a minuscule budget by the guy who filmed Fritz the Cat; it won Oscars when handed to Peter Jackson, given the GDP of a small nation and a visual effects department th",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 09:25"
+  },
+  {
+    "id": "793ae8e6ef7d",
+    "headline": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
+    "summary": "Guardian briefing explores how AI facial recognition in policing works and safeguard development needs.",
+    "description": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguardsGood morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being rolled out across the UK at a pace that appears to be outstripping the rules designed to govern it. Police forces are increasingly using live systems to scan members of the public in real time, while retailers are deploying similar tools to identify sus",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 05:45"
+  },
+  {
     "id": "911a50b23a58",
     "headline": "‘This is fine’ creator says AI startup stole his art",
     "summary": "AI startup Artisan faced accusations of stealing artwork from 'This is Fine' creator for billboards promoting AI hiring over humans.",
@@ -10525,392 +10872,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "05 Apr 2026, 09:32"
-  },
-  {
-    "id": "ccd28ca46402",
-    "headline": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-    "summary": "Anthropic introduces paid pricing for OpenClaw users starting April 4th, effectively making the tool more expensive to use with Claude.",
-    "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users ...",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 19:52"
-  },
-  {
-    "id": "b27b3e01c66a",
-    "headline": "OpenAI’s AGI boss is taking a leave of absence",
-    "summary": "Fidji Simo, OpenAI's CEO of AGI deployment, is taking medical leave as the company undergoes leadership changes.",
-    "description": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 16:22"
-  },
-  {
-    "id": "c459bfa6c846",
-    "headline": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "summary": "Anthropic is becoming the hottest trade in private markets while OpenAI loses ground in secondary share trading.",
-    "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 01:31"
-  },
-  {
-    "id": "b57fcced0c84",
-    "headline": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-    "summary": "OpenAI's COO Brad Lightcap gets new role leading special projects; CMO Kate Rouch steps away for health recovery.",
-    "description": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 20:35"
-  },
-  {
-    "id": "3204590898f4",
-    "headline": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "summary": "Anthropic acquires biotech startup Coefficient Bio for $400M to expand AI applications in biology.",
-    "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-    "tags": [
-      "Anthropic",
-      "Healthcare"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 20:28"
-  },
-  {
-    "id": "0b31b07b29e1",
-    "headline": "Anthropic ramps up its political activities with a new PAC",
-    "summary": "Anthropic launches a Political Action Committee to support candidates aligned with its AI policy agenda.",
-    "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 20:22"
-  },
-  {
-    "id": "ad501a17825d",
-    "headline": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-    "summary": "Meta, Microsoft, and Google are building massive natural gas plants to power AI data centers, raising environmental concerns.",
-    "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-    "tags": [
-      "Meta",
-      "Microsoft",
-      "Google",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 19:48"
-  },
-  {
-    "id": "07a07c277fdf",
-    "headline": "The Facebook insider building content moderation for the AI era",
-    "summary": "Moonbounce raises $12M for AI content moderation control engine that translates policies into consistent AI behavior.",
-    "description": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-    "tags": [
-      "Startup",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 14:00"
-  },
-  {
-    "id": "333482e85699",
-    "headline": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-    "summary": "Leaked Claude code is being shared online alongside malware, raising cybersecurity concerns for AI companies.",
-    "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 10:30"
-  },
-  {
-    "id": "fb9e588171d0",
-    "headline": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-    "summary": "Meta and other AI labs investigate Mercor data breach that potentially exposed secrets about AI model training.",
-    "description": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-    "tags": [
-      "Meta",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 21:28"
-  },
-  {
-    "id": "9d5986674aa5",
-    "headline": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-    "summary": "OpenAI's AGI deployment CEO Fidji Simo takes medical leave during major leadership restructuring.",
-    "description": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 19:38"
-  },
-  {
-    "id": "a323269eab21",
-    "headline": "OpenClaw gives users yet another reason to be freaked out about security",
-    "summary": "OpenClaw agentic tool allows attackers to gain silent unauthenticated admin access, exposing security vulnerabilities.",
-    "description": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 20:30"
-  },
-  {
-    "id": "1e099eaab2b1",
-    "headline": "Microsoft shivs OpenAI with three new AI models for speech and images - theregister.com",
-    "summary": "Microsoft releases three new AI models for speech and image generation, competing with OpenAI offerings.",
-    "description": "Microsoft shivs OpenAI with three new AI models for speech and images theregister.comMicrosoft launches ‘mid-class’ AI model as compute limits bite Financial TimesMicrosoft’s new ‘superintelligence’ game plan is all about business The VergeMicrosoft launches 3 new AI models in direct shot at OpenAI and Google VentureBeatIf Microsoft Get This One Thing Right, the Stock Could Explode Yahoo Finance",
-    "tags": [
-      "Microsoft",
-      "Image Gen"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3hpY3U1bExCUzBiMk9laEpnd2xabklPbzVDNld1bEU3ZnVZQ1dKUGRMaWlTU1BiMnRfWVktYmRZNlFzMmRYc3JVWDN3UmZuaTZXUTVFNVpiNTdUbkRUVk4zMHRyeFl0V25BWGgzTFNzWHZSVjFjZTByOGU4dGJkdzBn?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 Apr 2026, 20:07"
-  },
-  {
-    "id": "e9d95b2dbb44",
-    "headline": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
-    "summary": "Netflix open-sources VOID, an AI model that removes objects from videos while maintaining realistic physics.",
-    "description": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. ... The post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
-    "tags": [
-      "Video Gen",
-      "Creative AI"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 09:03"
-  },
-  {
-    "id": "3530ab6804a2",
-    "headline": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows",
-    "summary": "Tutorial on building production-ready agentic systems using Z.AI GLM-5 model with thinking mode and tool calling.",
-    "description": "In this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming ... The post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows appe",
-    "tags": [
-      "Agents",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 03:06"
-  },
-  {
-    "id": "66c296d2475f",
-    "headline": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts",
-    "summary": "Google DeepMind research shows LLMs can rewrite their own game theory algorithms, outperforming expert designs.",
-    "description": "Designing algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other’s private information, like poker — has historically relied on manual iteration. Researchers identify weighting schemes, discounting rules, and equilibrium solvers through intuition and trial-and-error. Google DeepMind researchers proposes AlphaEvolve, an LLM-powered evolutionary coding agent ... The post Google DeepMind’s Research",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 22:26"
-  },
-  {
-    "id": "071de08ddb17",
-    "headline": "UK’s leading AI research institute told to make ‘significant’ changes",
-    "summary": "UK's Alan Turing Institute told to make significant changes and improve strategic value after board review.",
-    "description": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdogThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpayer funding.The Guardian revealed last week that the board of the Alan Turing Institute was reminded of its legal duties by the charity watchdog after a whistleblower complaint. Continue reading...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 13:04"
-  },
-  {
-    "id": "1c4556525581",
-    "headline": "AI Is Killing Microsoft",
-    "summary": "Opinion piece arguing AI developments are creating challenges for Microsoft's business positioning.",
-    "description": "\"Redmond is in a pickle.\" The post AI Is Killing Microsoft appeared first on Futurism.",
-    "tags": [
-      "Microsoft"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-killing-microsoft",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 08:15"
-  },
-  {
-    "id": "a1f645801e6f",
-    "headline": "Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw",
-    "summary": "Startup founder discusses replacing all developers with OpenClaw AI agent, raising concerns about AI job displacement.",
-    "description": "\"I can replace everyone with AI.\" The post Say a Prayer for This Startup That’s Replacing Its Developers With OpenClaw appeared first on Futurism.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 22:30"
-  },
-  {
-    "id": "88d0f4fb4816",
-    "headline": "Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave",
-    "summary": "Two OpenAI executives, including AGI CEO, go on medical leave during leadership transition period.",
-    "description": "\"We're well-positioned to keep executing with continuity and momentum.\" The post Two OpenAI Execs, Including CEO of AGI, Going on Medical Leave appeared first on Futurism.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/health-medicine/openai-execs-medical-leave",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 18:30"
-  },
-  {
-    "id": "1f46a8484270",
-    "headline": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion",
-    "summary": "AI-powered tractor startup collapses after burning $250M in funding, fires all employees.",
-    "description": "\"It totally failed.\" The post AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars, Fires All Employees in Epic Implosion appeared first on Futurism.",
-    "tags": [
-      "Startup",
-      "Robotics"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/robots-and-machines/ai-tractor-startup-founders",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 10:30"
-  },
-  {
-    "id": "46d4eacb3ac2",
-    "headline": "Evaluating alignment of behavioral dispositions in LLMs",
-    "summary": "Research on evaluating alignment of behavioral dispositions in large language models.",
-    "description": "Generative AI",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Google AI Blog",
-    "link": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 08:00"
-  },
-  {
-    "id": "2367a532963b",
-    "headline": "Working to advance the nuclear renaissance",
-    "summary": "MIT researcher discusses AI's potential role in advancing nuclear power as clean energy solution.",
-    "description": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT News AI",
-    "link": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 Apr 2026, 16:55"
   }
 ]
