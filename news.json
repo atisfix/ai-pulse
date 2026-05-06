@@ -1,5 +1,394 @@
 [
   {
+    "id": "51489a69b7e8",
+    "headline": "Chrome’s AI features may be hogging 4GB of your computer storage",
+    "summary": "Chrome automatically downloads a large AI model file (~4GB) to users' storage without explicit permission, significantly increasing browser storage usage.",
+    "description": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 06:13"
+  },
+  {
+    "id": "1c33b13376bb",
+    "headline": "Google Home’s Gemini AI can handle more complicated requests",
+    "summary": "Google updated Gemini for Home to version 3.1, enabling users to request complex multi-step tasks and combine multiple commands in single requests.",
+    "description": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better ...",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 17:46"
+  },
+  {
+    "id": "20d366e19a01",
+    "headline": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "summary": "Apple agreed to pay $250 million settlement for misleading customers about Apple Intelligence feature availability on iPhones.",
+    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and ...",
+    "tags": [
+      "Apple",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 17:18"
+  },
+  {
+    "id": "9f386bbff7c6",
+    "headline": "Microsoft gives up on Xbox Copilot AI",
+    "summary": "Microsoft halted Xbox Copilot AI development on both mobile and console platforms under new Xbox CEO Asha Sharma's reorganization.",
+    "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 15:54"
+  },
+  {
+    "id": "4eee57c07abe",
+    "headline": "Apple could let you pick a favorite AI model in iOS 27",
+    "summary": "Apple may allow iOS 27 users to select their preferred third-party AI model for running Apple Intelligence features.",
+    "description": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running ...",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 15:45"
+  },
+  {
+    "id": "0e92f7b93568",
+    "headline": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "summary": "Elon Musk and Sam Altman face a high-stakes court trial over OpenAI's future and whether it abandoned its non-profit mission.",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 13:28"
+  },
+  {
+    "id": "a7c5715173fa",
+    "headline": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+    "summary": "OpenAI's new GPT-5.5 Instant default model reportedly reduces hallucinations significantly in sensitive domains like law, medicine, and finance.",
+    "description": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its ...",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 13:00"
+  },
+  {
+    "id": "af84158d3285",
+    "headline": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
+    "summary": "Five major book publishers and an author sued Meta, alleging the company engaged in massive copyright infringement using AI to copy books verbatim.",
+    "description": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw Hill, Elsevier, Hachette, ...",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 12:52"
+  },
+  {
+    "id": "ab04cfbac5f7",
+    "headline": "OpenAI is reportedly launching a phone for ChatGPT",
+    "summary": "OpenAI is reportedly developing a phone as its first hardware product, with supply chain analyst claiming it will run ChatGPT.",
+    "description": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the phone will run on a \"customized version ...",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 10:54"
+  },
+  {
+    "id": "393f1190d68c",
+    "headline": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "summary": "QyTw0, a Finnish AI lab founded by former AMD CEO Peter Sarlin, reached $380M valuation after securing €25M in angel funding.",
+    "description": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 06:47"
+  },
+  {
+    "id": "962e2d444c84",
+    "headline": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "summary": "Wonder's robotic kitchen startup aims to use AI to enable anyone to launch a restaurant through conversational AI prompts.",
+    "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 06:34"
+  },
+  {
+    "id": "e01da6ece00d",
+    "headline": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "summary": "SAP plans to acquire German AI startup Prior Labs and invest heavily, while restricting customer agent access to select vendors like NVIDIA.",
+    "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "tags": [
+      "Startup",
+      "NVIDIA"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 23:50"
+  },
+  {
+    "id": "bed3e5dad0ac",
+    "headline": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "summary": "Altara raised $7M to develop AI tools that diagnose physical science failures and accelerate R&D by consolidating siloed spreadsheet and legacy data.",
+    "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+    "tags": [
+      "Startup",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 22:57"
+  },
+  {
+    "id": "8007f9099bb0",
+    "headline": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "summary": "iOS 27 will reportedly let users choose their preferred third-party AI models for various tasks, giving users greater control over AI selection.",
+    "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 20:56"
+  },
+  {
+    "id": "3d51eec676d7",
+    "headline": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "summary": "Pennsylvania sued Character.AI after a chatbot falsely claimed to be a licensed psychiatrist and fabricated a medical license number during investigation.",
+    "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "tags": [
+      "Regulation",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 17:46"
+  },
+  {
+    "id": "8662d607cdf1",
+    "headline": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "summary": "OpenAI released GPT-5.5 Instant as ChatGPT's new default model, reducing hallucinations in law, medicine, and finance while maintaining fast response times.",
+    "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 17:00"
+  },
+  {
+    "id": "b1475b9f077a",
+    "headline": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "summary": "Etsy launched a native app within ChatGPT offering conversational shopping experience, expanding its AI integration strategy.",
+    "description": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 15:31"
+  },
+  {
+    "id": "32cc9dbce839",
+    "headline": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+    "summary": "Apple will pay $250M to settle claims of misleading customers about Siri's AI features, with affected iPhone 15/16 users potentially receiving $95 per device.",
+    "description": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+    "tags": [
+      "Apple",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 10:41"
+  },
+  {
+    "id": "a5c24576052c",
+    "headline": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+    "summary": "OpenAI president Greg Brockman testified about contentious 2017 meeting with Elon Musk and efforts to remove board members during ongoing lawsuit.",
+    "description": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 23:24"
+  },
+  {
+    "id": "9964eb03cf7e",
+    "headline": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "summary": "Google DeepMind UK staff voted to unionize, seeking to block use of the company's AI models in military applications.",
+    "description": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 May 2026, 11:59"
+  },
+  {
+    "id": "db660e8d5fb1",
+    "headline": "Chrome’s AI features may be hogging 4GB of your computer storage - The Verge",
+    "summary": "Chrome automatically downloads ~4GB AI model file to users' systems without explicit permission, raising storage and privacy concerns.",
+    "description": "Chrome’s AI features may be hogging 4GB of your computer storage The VergeGoogle Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy Tom's HardwareCheck your storage: Chrome may be downloading a 4GB AI model — here’s what we know Tom's GuideGuy finds Google Chrome is quietly installing a 4GB AI model on our devices CybernewsGoogle Chrome Downloads 4GB Gemini Nano Model Sile",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGVyM3VtZlYxQTJpTFEwSWZ4M1YtQUVuVVZFLUNSMG9xX0NrWlh3RGRlcEFtbkktMVNIN0VFQks5U1BqXzhZdkNHZ2xYc2szLW4yQU9kRWVGT2tBWWpQR0lNeGp0Z2xCQTlUUDZvQUFBYURNVGVMVTZhY3hZb0FfU3BOQVY?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 10:13"
+  },
+  {
+    "id": "ab365f00a28e",
+    "headline": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "summary": "Google is testing Remy, a new AI personal agent for Gemini designed to automate work and daily tasks for users.",
+    "description": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two people familiar ... The post Google tests Remy AI agent for Gemini as focus turns to user control appeared first on AI News.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 10:00"
+  },
+  {
+    "id": "28c7914eb391",
+    "headline": "Google AI Releases Multi-Token Prediction (MTP) Drafters for Gemma 4: Delivering Up to 3x Faster Inference Without Quality Loss",
+    "summary": "Google released Multi-Token Prediction drafters for Gemma 4, achieving up to 3x faster inference speed without quality degradation using speculative decoding.",
+    "description": "Google Introduces MTP Drafters for Gemma 4 Family Using Speculative Decoding to Achieve Up to 3x Speedup The post Google AI Releases Multi-Token Prediction (MTP) Drafters for Gemma 4: Delivering Up to 3x Faster Inference Without Quality Loss appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/06/google-ai-releases-multi-token-prediction-mtp-drafters-for-gemma-4-delivering-up-to-3x-faster-inference-without-quality-loss/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 08:23"
+  },
+  {
     "id": "478d947abe08",
     "headline": "Google DeepMind workers are unionizing over AI military contracts",
     "summary": "Google DeepMind workers unionize to prevent AI technology use in military contracts with Israel and the US.",
@@ -10493,384 +10882,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "06 Apr 2026, 12:18"
-  },
-  {
-    "id": "6e07ea18fa75",
-    "headline": "Grammarly’s sloppelganger saga",
-    "summary": "The Stepback newsletter discusses Grammarly's AI-related issues and developments in the AI space.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 08:00"
-  },
-  {
-    "id": "cb01e6d0d61c",
-    "headline": "A folk musician became a target for AI fakes and a copyright troll",
-    "summary": "Folk musician Murphy Campbell discovered unauthorized AI-generated copies of her songs on Spotify, raising copyright and deepfake concerns.",
-    "description": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 13:52"
-  },
-  {
-    "id": "f0bef9c50556",
-    "headline": "Really, you made this without AI? Prove it",
-    "summary": "Article explores the challenge of proving creative work wasn't made with AI as generative AI becomes indistinguishable from human-made content.",
-    "description": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 09:00"
-  },
-  {
-    "id": "72c12e0c4f5d",
-    "headline": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "summary": "Anthropic will charge Claude Code subscribers extra fees to use OpenClaw and other third-party coding tools.",
-    "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 16:32"
-  },
-  {
-    "id": "7e7618622b49",
-    "headline": "Microsoft spent years pushing Copilot, but now it says don’t rely on it - Digital Trends",
-    "summary": "Microsoft contradicts its AI push strategy by warning Copilot is only for entertainment, not serious professional use.",
-    "description": "Microsoft spent years pushing Copilot, but now it says don’t rely on it Digital TrendsMicrosoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice Tom's HardwareMicrosoft's own ToS calls Copilot 'entertainment only' amid adoption slump The Next WebUsing CoPilot? Are You Entertained? HackadayMicrosoft labels Copilot 'entertainment purposes only' in Excel and PowerPoint NewsBytes",
-    "tags": [
-      "Microsoft",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVFDMUFtTHljemlsMkRaSzR0VHczSFBHWVF4ZVNhNEdIVVplcGFIMWVQMzF1c3JZY1ZwY2ppTFk2bVRueUEyd0ZPLVRqZHJLdi1CYlNTbVZnNktjZ2hiQXpRWDRGMVRmQl9wNXBBYU0xN1ZoamlPcVFPUW45TUZaZllwSkRuSHFJM3NhS0ZSc21OR2FfdVRNT3c5Q2xlT1QzdWFrYWJNOHFSemRmY1BB?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 22:22"
-  },
-  {
-    "id": "2dd71a3c1a3a",
-    "headline": "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB - TechPowerUp",
-    "summary": "NVIDIA's Neural Texture Compression reduces GPU VRAM usage by 85% while maintaining quality for gaming applications.",
-    "description": "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB TechPowerUpNvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB Tom's HardwareNVIDIA shows Neural Texture Compression cutting VRAM from 6.5GB to 970MB VideoCardz.comNVIDIA talks about the future of neural rendering in games GameGPUNVIDIA Shows Neural Texture Compression Cutting VRAM by 85% or Boost",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGNyS2ljWkxScjZzVXJzbGEwMlZ3aFBwZU83WThlajZmN1ZndUZTSnpjSU1CS09QRXF3eEtVaVBKMGNYU2xjZDRYYmZaNENfZ0pNcmk5T1FjVEdZaWJOcVVTb2ZtdmY4VnZWT3RKWDhiYWtLdllFX1J5OFBYc1Rzb1l5dGt0NjlRVVR4N2ZfZnFfNUNnUUd4bXB6X05hT25meHpNeVBVeHrSAa4BQVVfeXFMTmJLdVVGNDhWdy1hNmhnNlZOSV9aaHZFRXA3TnBjSHRBX1duaDVGbDAwQnc3VVdtYVh3UzMtMUZyc2tBVUtHanpoRVNZbzdUemUxN2wxMjZzelItbWFId3pSVDltRWsyMXROWXhHRFZxOUsxMFZWcEZocmRBcjlNVFE1a3lFSElpMFNZcUxNNVc3dDJYZ2hlbEtYcXl3Y2Y2S0VqT2dlZzFiMUVJN2x3?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 17:11"
-  },
-  {
-    "id": "1733c9d36209",
-    "headline": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight",
-    "summary": "AutoAgent is an open-source library enabling AI agents to self-optimize and engineer their own prompts automatically.",
-    "description": "There’s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It’s grunt work dressed up in ... The post Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPost.",
-    "tags": [
-      "Open Source",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 09:21"
-  },
-  {
-    "id": "1c04ae4859d3",
-    "headline": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
-    "summary": "Article explores how AI and creative tools intersect in fashion design and trend forecasting.",
-    "description": "Fashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the ... The post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 08:45"
-  },
-  {
-    "id": "f69167078f36",
-    "headline": "An AI bot invited me to its party in Manchester. It was a pretty good night",
-    "summary": "An AI bot successfully organized and hosted a party in Manchester, demonstrating practical autonomous agent capabilities.",
-    "description": "After forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show upTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It then promptly lied to dozens of potential sponsors that I’d agreed to cover the event, and misled me into believing there would be food.Despite all this, it was a pretty good night. Continue reading...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 07:00"
-  },
-  {
-    "id": "f543dbb393b0",
-    "headline": "America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says",
-    "summary": "America's largest hospital system plans to replace radiologists with AI, sparking debate among medical professionals.",
-    "description": "\"Only someone with zero understanding of radiology would say something so naive.\" The post America’s Largest Hospital System Ready to Start Replacing Radiologists With AI, Its CEO Says appeared first on Futurism.",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/hospital-ceo-ai-radiology",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 12:45"
-  },
-  {
-    "id": "f60c6531fa05",
-    "headline": "AI Forces College Professor to Get Typewriters for Entire Class",
-    "summary": "College professor requires students to use typewriters to prevent AI-assisted cheating in written assignments.",
-    "description": "Modern problems required antiquated solutions. The post AI Forces College Professor to Get Typewriters for Entire Class appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-professor-typewriters",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 12:00"
-  },
-  {
-    "id": "4b997bf39cac",
-    "headline": "Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative”",
-    "summary": "Leaked data reveals Anthropic tracks user profanity in Claude and labels vulgar users as 'negative' for monitoring purposes.",
-    "description": "\"Anthropic is tracking how often you rage at your AI.\" The post Claude Leak Shows That Anthropic Is Tracking Users’ Vulgar Language and Deems Them “Negative” appeared first on Futurism.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/claude-leak-anthropic-tracking-vulgar-language",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 11:15"
-  },
-  {
-    "id": "bf76c11ffefa",
-    "headline": "The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup",
-    "summary": "Analysis suggests OpenAI's Sora shutdown warns AI startups about regulatory and deployment risks in video generation.",
-    "description": "Founders beware. The post The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Video Gen",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/real-reason-openai-shut-sora-down",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 09:45"
-  },
-  {
-    "id": "ed28b6634a9c",
-    "headline": "William Shatner Says AI Is Spreading Horrific Rumors About Him",
-    "summary": "William Shatner reports AI is generating false rumors about him, including claims of serious illness spreading online.",
-    "description": "\"My daughter came over to tell me her daughter heard that I had brain cancer.\" The post William Shatner Says AI Is Spreading Horrific Rumors About Him appeared first on Futurism.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/william-shatner-ai-spreading-rumors",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 09:00"
-  },
-  {
-    "id": "5016924871a0",
-    "headline": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-    "summary": "NVIDIA highlights physical AI and robotics breakthroughs during National Robotics Week, showcasing industrial applications.",
-    "description": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual ...",
-    "tags": [
-      "Robotics",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 17:00"
-  },
-  {
-    "id": "782696c14da7",
-    "headline": "Andrej Karpathy on X: LLM Knowledge Bases",
-    "summary": "Andrej Karpathy discusses LLM knowledge bases on X, exploring how language models store and access information.",
-    "description": "Article URL: https://twitter.com/karpathy/status/2039805659525644595 Comments URL: https://news.ycombinator.com/item?id=47648764 Points: 1 # Comments: 0",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://twitter.com/karpathy/status/2039805659525644595",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 12:37"
-  },
-  {
-    "id": "56eb33a4bc03",
-    "headline": "Job title of the moment: \"AI relationship engineer\"",
-    "summary": "New job role 'AI relationship engineer' emerges, reflecting evolving career opportunities in AI field.",
-    "description": "Article URL: https://x.com/Anina_CE Comments URL: https://news.ycombinator.com/item?id=47648692 Points: 1 # Comments: 0",
-    "tags": [
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://x.com/Anina_CE",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 12:30"
-  },
-  {
-    "id": "d7efbc634b0b",
-    "headline": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
-    "summary": "Developer solicits feedback on WhyOps, a decision-aware observability platform for AI agents.",
-    "description": "Comments URL: https://news.ycombinator.com/item?id=47648098 Points: 2 # Comments: 1",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47648098",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 10:48"
-  },
-  {
-    "id": "f426137ff3b7",
-    "headline": "Growing a better world together with AI",
-    "summary": "Article explores AI's role in advancing engineering and building sustainable solutions for global challenges.",
-    "description": "Article URL: https://koenvangilst.nl/lab/ai-and-the-future-of-engineering Comments URL: https://news.ycombinator.com/item?id=47648095 Points: 1 # Comments: 1",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://koenvangilst.nl/lab/ai-and-the-future-of-engineering",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 10:48"
-  },
-  {
-    "id": "836b62fb5f3f",
-    "headline": "Who stands to gain the most from the leak of Claude's source code?",
-    "summary": "Analysis discusses who benefits most from Claude's leaked source code and implications for AI security.",
-    "description": "Article URL: https://www.youtube.com/watch?v=RpFh0Nc7RvA Comments URL: https://news.ycombinator.com/item?id=47647885 Points: 3 # Comments: 0",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.youtube.com/watch?v=RpFh0Nc7RvA",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 10:14"
-  },
-  {
-    "id": "0037f530bd83",
-    "headline": "Show HN: Vektor – local-first associative memory for AI agents",
-    "summary": "Vektor is a local-first associative memory system for AI agents using graph-based architecture without cloud dependency.",
-    "description": "4-layer memory via MAGMA graph in SQLite. AUDN curation loop (add/update/delete/no-op). REM background compression. Claude tools. No cloud. npm i vektor-slipstreamIf anyone has deep experience in DB product testing and wants to test out the final release 1.3.6, reach out via the email/website and mention you read this via HN thread and we will provide a free product test license. We do need detailed feedback: hello@vektomemory.com Comments URL: https://news.ycombinator.com/item?id=47647798 Point",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://vektormemory.com/docs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 09:59"
-  },
-  {
-    "id": "02e94d5cd28a",
-    "headline": "Study: The AI Body Gap",
-    "summary": "UCLA study finds AI struggles to understand human physical experiences despite verbal descriptive capabilities.",
-    "description": "Article URL: https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2 Comments URL: https://news.ycombinator.com/item?id=47647693 Points: 2 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 09:38"
-  },
-  {
-    "id": "79375da8e07b",
-    "headline": "Update: Using third-party harnesses with your Claude subscription",
-    "summary": "Anthropic enforces policy requiring separate payment for third-party harnesses like OpenClaw, no longer included in Claude subscription.",
-    "description": "Hi,As of April 4 at 12pm PT / 8pm BST, we’re enforcing the policy we shared previously: third-party harnesses, including OpenClaw, no longer draw from your Claude subscription usage limits. To keep using them with your Claude account, you’ll need to turn on extra usage.If this change doesn’t work for how you use Claude, you can cancel your subscription and get an automatic refund. To do so, click this link from a web browser and click “Cancel and refund” before April 9. Note that this link will ",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47647662",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 09:32"
   }
 ]
