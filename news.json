@@ -1,5 +1,374 @@
 [
   {
+    "id": "4bddf84f2c05",
+    "headline": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+    "summary": "Mira Murati testified that CEO Sam Altman lied about safety standards for a new AI model in the ongoing Musk v. Altman lawsuit.",
+    "description": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a new AI model did not ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 13:55"
+  },
+  {
+    "id": "aebc4f2f6193",
+    "headline": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "summary": "Sam Altman and Elon Musk face off in a high-stakes trial over OpenAI's future and ChatGPT after Musk filed a 2024 lawsuit.",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 11:37"
+  },
+  {
+    "id": "e0daeef7c11b",
+    "headline": "Google’s AI search summaries will now quote Reddit",
+    "summary": "Google updates AI Search to quote Reddit and other trusted sources, making it easier to find reliable information.",
+    "description": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 09:00"
+  },
+  {
+    "id": "fe22a16d7ff7",
+    "headline": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 12:20"
+  },
+  {
+    "id": "35caf5849e99",
+    "headline": "Five architects of the AI economy explain where the wheels are coming off",
+    "summary": "Five AI economy leaders discuss supply chain challenges including chip shortages at the Milken Global Conference.",
+    "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 05:25"
+  },
+  {
+    "id": "20415b52ca55",
+    "headline": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "summary": "Barry Diller defends Sam Altman while warning that AGI remains unpredictable and requires guardrails.",
+    "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 21:57"
+  },
+  {
+    "id": "e2cc1f2c95d8",
+    "headline": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "summary": "Snap and Perplexity amicably ended their $400M deal that would have integrated Perplexity's AI search into Snapchat.",
+    "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 21:43"
+  },
+  {
+    "id": "5d49d404c9bb",
+    "headline": "Is xAI a neocloud now?",
+    "summary": "xAI's business model may focus more on building data centers than training AI models.",
+    "description": "xAI's real business may be more about building data centers than training AI models.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 21:32"
+  },
+  {
+    "id": "199d91387ff3",
+    "headline": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "summary": "Greg Brockman reveals details about Elon Musk's departure from OpenAI through cutthroat startup negotiations.",
+    "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 18:23"
+  },
+  {
+    "id": "b75200972819",
+    "headline": "DeepSeek could hit $45B valuation from its first investment round",
+    "summary": "Chinese AI lab DeepSeek could reach $45B valuation after launching an LLM that matches U.S. models with less compute.",
+    "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 17:20"
+  },
+  {
+    "id": "55aae3f05b57",
+    "headline": "Google updates AI search to include quotes from Reddit and other sources",
+    "summary": "Google's AI search now cites Reddit and discussion boards for niche queries, raising potential chaos concerns.",
+    "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 15:49"
+  },
+  {
+    "id": "523348dc9596",
+    "headline": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "summary": "Khosla-backed Genesis AI unveiled GENE-26.5, a foundational AI model for robotics with demo of robotic hands.",
+    "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 15:46"
+  },
+  {
+    "id": "2bf639470337",
+    "headline": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "summary": "AI code-building platforms expose thousands of apps with sensitive corporate and personal data on the public web.",
+    "description": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 11:00"
+  },
+  {
+    "id": "95fe64e1287a",
+    "headline": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "summary": "Reggae band Stick Figure battles unauthorized AI remixes of their song that sparked viral chart success.",
+    "description": "When Stick Figure’s six-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 11:00"
+  },
+  {
+    "id": "404dbf9133a1",
+    "headline": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+    "summary": "Messages reveal Elon Musk's 2017 plan to recruit Sam Altman or Demis Hassabis to lead a Tesla rival AI lab.",
+    "description": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 23:23"
+  },
+  {
+    "id": "e2e36a8a1758",
+    "headline": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+    "summary": "Anthropic partners with xAI to use computing resources from Elon Musk's company in an unexpected industry deal.",
+    "description": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 18:28"
+  },
+  {
+    "id": "63b5c57a1dbc",
+    "headline": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+    "summary": "Research shows that using AI assistants for just 10 minutes may negatively impact critical thinking and problem-solving.",
+    "description": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 18:00"
+  },
+  {
+    "id": "56a908738628",
+    "headline": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+    "summary": "Critic calls out AI companies like Anthropic for anthropomorphizing features like \"dreaming\" and \"memories.\"",
+    "description": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 16:51"
+  },
+  {
+    "id": "a6da46d376b7",
+    "headline": "Hackers Hate AI Slop Even More Than You Do",
+    "summary": "Cybercriminals complain about AI slop flooding platforms where they discuss attacks and illegal activity.",
+    "description": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 15:49"
+  },
+  {
+    "id": "340bc365a362",
+    "headline": "Google Chrome Might Have Installed an AI Model Onto Your Device Without You Knowing - CNET",
+    "summary": "Google Chrome may have installed a 4GB AI model onto devices without user knowledge.",
+    "description": "Google Chrome Might Have Installed an AI Model Onto Your Device Without You Knowing CNETIs Chrome's 4GB 'weights.bin' file spyware? Google clarifies (Updated) Android AuthorityChrome’s AI features may be hogging 4GB of your computer storage The VergeGoogle Chrome Silently Downloads 4 GB AI Model on Your PC Without Consent TechPowerUpGoogle Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of ki",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmRPNzFXOGdROExDblcxY0ZhT1FybWx5R0o5Qldfd1picmRldk1vdGNCRE9DQzJ5V0tNUjN6Z1BEbHdNYnMxdEZkXzM0MXozTTI5OGVwWFJlcWNwMG9pU3NMRFZvN0JGeEcxajdJNVZrZTdKMV9obFp2YVAxM2U2ekVHd2g4cXJSSFhBdnA2SmpDWVJHQ0E?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 21:31"
+  },
+  {
+    "id": "efb301385575",
+    "headline": "I Am Begging AI Companies to Stop Naming Features After Human Processes - WIRED",
+    "summary": "Anthropic's Claude agents can now \"dream\" to sort through memories and process information.",
+    "description": "I Am Begging AI Companies to Stop Naming Features After Human Processes WIREDAnthropic will let its managed agents dream The New StackAnthropic’s Claude Managed Agents can now “dream,” sort of Ars TechnicaAnthropic Introduces 'Dreaming' Technique for AI Agents businessinsider.comAnthropic is programming Claude to “dream.” The Verge",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOE4tQ0M2eUxQMGxyX1dqdF81OUFzT2xQRVQxQy05ME9rY2c5bWZ4STcxZVA3aTR1VWtmVzJ2LVF6U0JfMm1vM1JmaUI0b2xtU3JzLTBDM01GYTVaOENyV3loMXNwYWZIcGlaNFhiWGhHblMyQlhvekpvOHdpLWlqdjE5TVk3YVlNZjdYZDdUUkFPck5rRjNKX3BOQjBsdGNoWHc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 16:51"
+  },
+  {
+    "id": "ae9d17661b48",
+    "headline": "AI helping ease the UK’s NHS burden",
+    "summary": "AI technology helps reduce pressure and strain on the UK's NHS healthcare system.",
+    "description": "The words “pressure” and “NHS” go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to move care away from hospitals and ... The post AI helping ease the UK’s NHS burden appeared first on AI News.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 09:35"
+  },
+  {
+    "id": "ec4ca3de9fb6",
+    "headline": "HP and the art of AI and data for the enterprise",
+    "summary": "HP discusses AI and data processing for enterprise solutions at AI & Big Data Expo.",
+    "description": "Ahead of the AI & Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company’s AI & Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fond of quoting that data is ‘the new ... The post HP and the art of AI and data for the enterprise appeared first on AI News.",
+    "tags": [
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-07",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "06 May 2026, 15:14"
+  },
+  {
     "id": "51489a69b7e8",
     "headline": "Chrome’s AI features may be hogging 4GB of your computer storage",
     "summary": "Chrome automatically downloads a large AI model file (~4GB) to users' storage without explicit permission, significantly increasing browser storage usage.",
@@ -10497,390 +10866,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "06 Apr 2026, 12:04"
-  },
-  {
-    "id": "a730869af96b",
-    "headline": "Suno is a music copyright nightmare",
-    "summary": "Suno AI music platform faces copyright concerns despite claiming no copyrighted material use in generated music.",
-    "description": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns ...",
-    "tags": [
-      "Creative AI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 12:00"
-  },
-  {
-    "id": "f8455ff9fc11",
-    "headline": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-    "summary": "Google's Gemini AI assistant helped plan a user's day through Google Maps integration with surprisingly positive results.",
-    "description": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 10:00"
-  },
-  {
-    "id": "0228be3a7744",
-    "headline": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "summary": "Microsoft's Copilot terms specify the AI is 'for entertainment purposes only,' limiting legal liability for outputs.",
-    "description": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-    "tags": [
-      "Microsoft",
-      "LLM",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 18:51"
-  },
-  {
-    "id": "6d32bf74bd61",
-    "headline": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-    "summary": "Japan deploys physical AI robots to fill labor shortages in jobs that lack human workers.",
-    "description": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-    "tags": [
-      "Robotics"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 14:00"
-  },
-  {
-    "id": "ab63735b47bf",
-    "headline": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-    "summary": "Advanced chip packaging technology becomes critical to AI infrastructure boom, with Intel investing heavily.",
-    "description": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
-    "tags": [
-      "Hardware",
-      "NVIDIA"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 09:00"
-  },
-  {
-    "id": "8fb225ab14e2",
-    "headline": "AI is changing how small online sellers decide what to make",
-    "summary": "Small online sellers use AI tools to optimize product decisions and inventory based on market data analysis.",
-    "description": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it. When McClary…",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 11:00"
-  },
-  {
-    "id": "9cdb9d24d56c",
-    "headline": "Apple debuts 50th anniversary exhibit at Apple Park with iconic products and photography - 9to5mac.com",
-    "summary": "Apple commemorates 50th anniversary while facing criticism for lagging in AI development versus competitors.",
-    "description": "Apple debuts 50th anniversary exhibit at Apple Park with iconic products and photography 9to5mac.comApple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win CNBCOne of Apple’s First Employees Looks Back at 50 Years The New York TimesGavin Newsom Hails Apple's '50 Years Of Innovation' As Tesla, Chevron, McKesson Leave California Yahoo FinanceA Conversion to Apple spyglass.org",
-    "tags": [
-      "Apple",
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9famJPbi1NYnBuVnJTek9kazYtMnFqWGpWS0lfOTl4OTVFYU1sZ01QWnVmQzRnWWNVS2lqb3NOOE9Kekk1WkZSQkR5WFlzZ2JsdVdkVDhOckM2Sm4wemZ6eWgyZVFVTVdVUGJlYnY5VHQ1TGpQOUVnTw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 18:02"
-  },
-  {
-    "id": "53cad467315d",
-    "headline": "What Teens Are Doing With Those Role-Playing Chatbots - The New York Times",
-    "summary": "Teenagers engage with AI role-playing chatbots in unconventional ways, raising expert concerns about usage patterns.",
-    "description": "What Teens Are Doing With Those Role-Playing Chatbots The New York TimesPew: One in 11 teens chatted with Character. AI, experts warn NewsBytesTeens are acting in utterly weird ways with their AI friends Digital TrendsAt least half of U.S. teens use chatbots for homework and more Science News ExploresPoll: Nearly a third of children who use AI chatbots consider them like a friend The Day",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWg3VC1SUFlQaGFZOTRHVW9UWmFFWFV0SnJJbV8xd1hJQ01qVWwxMUw2MnBuYldseUp2VGJEVUZqcV9VaGNfSnM3by0xM0t6RnJsNE9fLVVuWTFwZVdmeE51dl9VUTNldHFHRjlnS2Vrd0hPSnZ6cDJTbE5ldXNPQTRB?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 Apr 2026, 16:42"
-  },
-  {
-    "id": "128d9724cbd6",
-    "headline": "As AI agents take on more tasks, governance becomes a priority",
-    "summary": "AI agents performing autonomous tasks and decision-making prompt organizations to prioritize governance structures.",
-    "description": "AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model is allowed to ... The post As AI agents take on more tasks, governance becomes a priority appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 10:00"
-  },
-  {
-    "id": "a8505f38235a",
-    "headline": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models",
-    "summary": "RightNow AI releases AutoKernel, an open-source framework automating GPU kernel optimization for PyTorch models.",
-    "description": "Writing fast GPU code is one of the most grueling specializations in machine learning engineering. Researchers from RightNow AI want to automate it entirely. The RightNow AI research team has released AutoKernel, an open-source framework that applies an autonomous LLM agent loop to GPU kernel optimization for arbitrary PyTorch models. The approach is straightforward: give ... The post RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Op",
-    "tags": [
-      "Open Source",
-      "Hardware",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 08:20"
-  },
-  {
-    "id": "645beda63956",
-    "headline": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It",
-    "summary": "MaxToki AI model predicts cellular aging patterns and interventions by analyzing transcriptome data.",
-    "description": "Most foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it ... The post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.",
-    "tags": [
-      "Healthcare",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 20:50"
-  },
-  {
-    "id": "ec9eefcb67b1",
-    "headline": "‘This is 160-million-year-old Jurassic clay’: inside Es Devlin’s bid to reshape AI ethics – through pottery",
-    "summary": "Artist Es Devlin combines ceramics workshops with AI ethics discussions involving researchers and spiritual leaders.",
-    "description": "The great artist and designer has summoned spiritual leaders, AI researchers and academics to try their hands at ceramics – and debate their wide-ranging positions on where tech is taking humanityEs Devlin owns a really great bell. It’s a singing bowl – originally used in Buddhist chanting rituals but now found in most quality yoga classes. This particular bell hits just the right frequency to make my temples vibrate pleasantly and, from the way the others gathered around the workbench at Oxford",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 12:04"
-  },
-  {
-    "id": "9b810c6bdaed",
-    "headline": "Should we be polite to voice assistants and AIs?",
-    "summary": "Opinion piece questions whether politeness toward voice assistants and AI systems matters ethically.",
-    "description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsThis week’s replies: has a call for restraint from an authority figure ever put a stop to war?I always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, TorontoPost your answers (and new questions) below or send them to nq@theguardi",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 13:00"
-  },
-  {
-    "id": "2d0c9ef11c08",
-    "headline": "Groups Set Up to Shill AI and Data Centers Are Pouring Huge Sums of Money Into the Midterm Elections",
-    "summary": "Pro-AI groups fund midterm election campaigns to support policymakers favoring AI and data center expansion.",
-    "description": "\"The cavalry is coming to back up the policymakers who stand with the president and will hold accountable the ones who don't.\" The post Groups Set Up to Shill AI and Data Centers Are Pouring Huge Sums of Money Into the Midterm Elections appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/future-society/ai-pacs-trump-lobbying",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 15:30"
-  },
-  {
-    "id": "a0d4fdfb8f04",
-    "headline": "Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work",
-    "summary": "OpenAI's secret funding of nonprofit research groups raises concerns about conflicts of interest and child safety.",
-    "description": "\"I don't want OpenAI to write their own rules for how they interact with children.\" The post Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-nonprofit-child-safety",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 14:45"
-  },
-  {
-    "id": "77cb713f01d5",
-    "headline": "AI Expert Says It’s Time to Stop Freaking Out About AI Taking Our Jobs",
-    "summary": "AI expert argues against employment displacement fears, suggesting job losses from AI are overblown concerns.",
-    "description": "That's a relief. The post AI Expert Says It’s Time to Stop Freaking Out About AI Taking Our Jobs appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-jobs-automation-expert",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 13:15"
-  },
-  {
-    "id": "d8cf55f08e57",
-    "headline": "We Can’t Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause",
-    "summary": "Meta smart glasses nutrition-tracking feature criticized for potential to exacerbate eating disorders.",
-    "description": "This will in no way go horrifically wrong. The post We Can’t Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause appeared first on Futurism.",
-    "tags": [
-      "Meta",
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/eating-disorders-meta-smart-glasses-feature",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 12:33"
-  },
-  {
-    "id": "42299f5bcef8",
-    "headline": "China Cracking Down on the Types of AI That Are Tearing America Apart",
-    "summary": "China implements AI regulations targeting systems that destabilize society, contrasting with U.S. approaches.",
-    "description": "Just imagine. The post China Cracking Down on the Types of AI That Are Tearing America Apart appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/china-usa-ai-regulations",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 10:45"
-  },
-  {
-    "id": "e62ec6a4e1b5",
-    "headline": "Target Warns That If Its AI Shopping Agent Makes an Expensive Mistake, You’ll Have to Pay for It",
-    "summary": "Target's AI shopping agent disclaims responsibility for expensive mistakes, shifting liability to consumers.",
-    "description": "The company \"does not purport to guarantee that an Agentic Commerce Agent will act exactly as you intend in all circumstances.\" The post Target Warns That If Its AI Shopping Agent Makes an Expensive Mistake, You’ll Have to Pay for It appeared first on Futurism.",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/target-ai-agent-tos",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 Apr 2026, 09:41"
-  },
-  {
-    "id": "9bb3851fdb70",
-    "headline": "Industrial policy for the Intelligence Age",
-    "summary": "OpenAI proposes industrial policy framework for AI era emphasizing opportunity sharing and institutional resilience.",
-    "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 02:30"
-  },
-  {
-    "id": "51fab6be6cfc",
-    "headline": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
-    "summary": "Token-aware load balancer routes LLM requests by inflight tokens instead of connection count.",
-    "description": "Article URL: https://github.com/SivagurunathanV/token-aware-balancer Comments URL: https://news.ycombinator.com/item?id=47660284 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/SivagurunathanV/token-aware-balancer",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 12:53"
-  },
-  {
-    "id": "f067f4d9f1f0",
-    "headline": "Real-time poker engine with emotion-driven AI bots",
-    "summary": "Real-time poker engine featuring emotion-driven AI opponent bots for gameplay simulation.",
-    "description": "Article URL: https://oxyklon.net/portal Comments URL: https://news.ycombinator.com/item?id=47660160 Points: 4 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://oxyklon.net/portal",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 12:40"
-  },
-  {
-    "id": "f4df72e63fb1",
-    "headline": "Show HN: I built a self healing semantic layer for any AI agent tool",
-    "summary": "Self-healing semantic layer framework developed for AI agent tools to improve reliability and functionality.",
-    "description": "Article URL: https://github.com/kwstx/engram_translator Comments URL: https://news.ycombinator.com/item?id=47659947 Points: 3 # Comments: 2",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/kwstx/engram_translator",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 12:18"
   }
 ]
