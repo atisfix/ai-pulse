@@ -1,5 +1,364 @@
 [
   {
+    "id": "c94680462366",
+    "headline": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+    "summary": "Mira Murati's deposition revealed details about Sam Altman's 2023 ouster from OpenAI, exposing internal leadership tensions.",
+    "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 15:55"
+  },
+  {
+    "id": "1e6d077fb200",
+    "headline": "Apple’s AirPods with cameras for AI are apparently close to production",
+    "summary": "Apple's camera-equipped AirPods prototypes are moving toward production testing, enabling new AI capabilities.",
+    "description": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or ...",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 15:39"
+  },
+  {
+    "id": "6329cdb10182",
+    "headline": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "summary": "SpaceX plans $55 billion investment in Texas to build AI chips through its Terafab project.",
+    "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes ...",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 15:26"
+  },
+  {
+    "id": "38b9338295b5",
+    "headline": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+    "summary": "OpenAI launches 'Trusted Contact' feature allowing ChatGPT users to designate emergency contacts for mental health concerns.",
+    "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 14:00"
+  },
+  {
+    "id": "aebd17415b80",
+    "headline": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+    "summary": "New command-line tool enables AI agents like Claude and OpenAI Codex to save AI-generated podcasts to Spotify.",
+    "description": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them right alongside the ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 10:15"
+  },
+  {
+    "id": "9a4cc12db1b7",
+    "headline": "Why you can never get your doctor to call you back",
+    "summary": "Basata uses AI to automate doctor callbacks, raising questions about worker augmentation versus displacement.",
+    "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "tags": [
+      "Healthcare",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 May 2026, 04:42"
+  },
+  {
+    "id": "42a24297aa18",
+    "headline": "OpenAI launches new voice intelligence features in its API",
+    "summary": "OpenAI releases new voice intelligence features in its API for customer service and education applications.",
+    "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 22:24"
+  },
+  {
+    "id": "b25ce3a713ce",
+    "headline": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "summary": "Pit, an AI startup led by Voi founders, raises $16 million Series A from a16z, emerging as Stockholm's AI star.",
+    "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 21:02"
+  },
+  {
+    "id": "11d6105a0e0e",
+    "headline": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "summary": "OpenAI expands ChatGPT safety measures with 'Trusted Contact' feature for self-harm prevention.",
+    "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 20:20"
+  },
+  {
+    "id": "2d2d2860bef2",
+    "headline": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "summary": "Perplexity's Personal Computer AI agent application launches on Mac for all users.",
+    "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 19:57"
+  },
+  {
+    "id": "18284eb8aca7",
+    "headline": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "summary": "Elon Musk's lawsuit against OpenAI scrutinizes the company's safety practices and governance structure.",
+    "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 19:21"
+  },
+  {
+    "id": "819951733e23",
+    "headline": "Bumble is getting rid of the swipe, CEO says",
+    "summary": "Dating app Bumble is abandoning swipe functionality and developing AI dating assistant Bee.",
+    "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 19:06"
+  },
+  {
+    "id": "eedaba385b87",
+    "headline": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "summary": "Anthropic's Mythos tool discovered numerous high-severity vulnerabilities in Firefox's security.",
+    "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 16:05"
+  },
+  {
+    "id": "91319d3b64cf",
+    "headline": "The New Wild West of AI Kids’ Toys",
+    "summary": "AI-powered kids' toys are disrupting childhood play and sparking calls for regulatory bans.",
+    "description": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 May 2026, 10:00"
+  },
+  {
+    "id": "7767cd38c003",
+    "headline": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "summary": "Trump administration considers executive order for federal AI model oversight.",
+    "description": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 21:37"
+  },
+  {
+    "id": "ce5e44f80f4e",
+    "headline": "How to Disable Google's Gemini in Chrome",
+    "summary": "Google's 4-GB Gemini AI model embedded in Chrome raises privacy concerns; users can disable it.",
+    "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+    "tags": [
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 20:31"
+  },
+  {
+    "id": "1c613b5dd19e",
+    "headline": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+    "summary": "ChatGPT exhibits quirky linguistic patterns in Chinese that frustrate users.",
+    "description": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 16:25"
+  },
+  {
+    "id": "6f2cee3263a3",
+    "headline": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "summary": "Reggae band Stick Figure battles unauthorized AI remixes of their song on streaming platforms.",
+    "description": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 11:00"
+  },
+  {
+    "id": "3602a202f454",
+    "headline": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "summary": "Mozilla reports Anthropic's Mythos AI found 271 Firefox vulnerabilities with minimal false positives.",
+    "description": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 19:18"
+  },
+  {
+    "id": "021977e5bfe8",
+    "headline": "OpenAI Debuts A Codex Plugin For Chrome - Engadget",
+    "summary": "OpenAI launches Codex Chrome extension enabling code suggestions directly in the browser.",
+    "description": "OpenAI Debuts A Codex Plugin For Chrome EngadgetOpenAI's Codex Now Works in Chrome With New Extension MacRumorsOpenAI Codex can now work directly in Chrome on macOS and Windows NeowinCodex Now Works in Chrome via New Plugin on Windows & macOS Windows ReportOpenAI Launches Codex Chrome Extension for Browsers Let's Data Science",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FX1RIQ1BKTmZLeTlaZVlXYWtRMFhrcnNXaENpRWxvS1E5STJCcG5VRUJXT1NOVnpreHdoSGtWVkVOYkhuME0wMzgxdjAyXzdyZTZPcll1aUhwbEhabm9iNXZRQTVSOHIybWVHX1NQQk9wVkVrQUd2VDQ5QTFoUQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 21:57"
+  },
+  {
+    "id": "6d9e0cd4cf83",
+    "headline": "Spotify can now save 'Personal Podcasts' with your calendar and more using AI agents [Video] - 9to5Google",
+    "summary": "Spotify integrates AI agents to generate and save personal podcasts using calendar and content data.",
+    "description": "Spotify can now save 'Personal Podcasts' with your calendar and more using AI agents [Video] 9to5GoogleSave Your Personal Podcast to Spotify and Listen Anywhere SpotifySpotify wants to become the home for AI-generated personal audio TechCrunchOpenClaw and Claude can put your AI-generated podcasts in Spotify The VergeSpotify Now Lets AI Agents Like OpenClaw Generate Personal Podcasts Engadget",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95WDA0UnRDNnFXSHNpQ3BJRmp6M2FnRm96MVFsRHBoWUoxRENoZnNWVXpFVXpJUnFFVkFkUHE0Z0dCMWg5UFR4Q0dYdnRjdFdPQm1OeUFtSEItRDJzQmp6T3BLT2xfM1RUYU1TU2tDSjAtbkJpRXE3Q0lR?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 14:00"
+  },
+  {
+    "id": "ff2e60c05828",
+    "headline": "Perplexity's New Mac App Brings Personal Computer to Pro Users - MacRumors",
+    "summary": "Perplexity's Personal Computer AI assistant now available on Mac for all users.",
+    "description": "Perplexity's New Mac App Brings Personal Computer to Pro Users MacRumorsPerplexity’s Personal Computer is now available to everyone on Mac TechCrunchPerplexity Opens Up Its Personal Computer AI Assistant To All Mac Users EngadgetMac mini is the best platform for Perplexity's Personal Computer AppleInsiderWhat Can the Perplexity Personal Computer Do? AI Features and Capabilities Explained Tech Times",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM3JDeFM3RWlEbXUzbllQdDMyVHI5SkswNG5JOUpkUFpIT3JBeDE0QURacGZPS1h3SkJ1QjBzNzFZSjNLOTF6WXA2X05PSFZJSjA0dW1FRTB0bGtTSmhKYXZ1ODZiVDNxOWxuN3AyaTRFaWloX3E3LWdhRmM2WWM?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 May 2026, 21:56"
+  },
+  {
     "id": "4bddf84f2c05",
     "headline": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
     "summary": "Mira Murati testified that CEO Sam Altman lied about safety standards for a new AI model in the ongoing Musk v. Altman lawsuit.",
@@ -10534,337 +10893,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "07 Apr 2026, 12:00"
-  },
-  {
-    "id": "b88d9bbad208",
-    "headline": "Gemini is making it faster for distressed users to reach mental health resources",
-    "summary": "Google updated Gemini to better direct users to mental health resources during crisis moments amid a wrongful death lawsuit.",
-    "description": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products. When ...",
-    "tags": [
-      "Google",
-      "Healthcare"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 06:09"
-  },
-  {
-    "id": "cb6ad69d0f8a",
-    "headline": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-    "summary": "Iran's IRGC threatens to attack OpenAI's planned Abu Dhabi data center if the US strikes Iranian power plants.",
-    "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 11:54"
-  },
-  {
-    "id": "9173245b4a90",
-    "headline": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-    "summary": "Family offices increasingly bypass VCs to invest directly in AI startups, shifting from passive to active investment strategies.",
-    "description": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 13:00"
-  },
-  {
-    "id": "fa3729081a62",
-    "headline": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-    "summary": "Rocket's AI platform generates McKinsey-style strategy reports at lower costs, moving beyond code generation.",
-    "description": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-    "tags": [
-      "Startup",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 05:30"
-  },
-  {
-    "id": "76b3f495ad71",
-    "headline": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "summary": "Zero Shot, a VC fund with OpenAI ties, aims to raise $100M for its first fund and has already made investments.",
-    "description": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-    "tags": [
-      "OpenAI",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 21:54"
-  },
-  {
-    "id": "7e1177271f0b",
-    "headline": "Google quietly launched an AI dictation app that works offline",
-    "summary": "Google launched an offline-first dictation app using Gemma AI models to compete with apps like Wispr Flow.",
-    "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 18:54"
-  },
-  {
-    "id": "4d872635f6a9",
-    "headline": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-    "summary": "OpenAI proposes AI profit taxes, public wealth funds, and expanded safety nets to address job loss and inequality.",
-    "description": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 15:55"
-  },
-  {
-    "id": "90c5999e5440",
-    "headline": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
-    "summary": "Spain's Xoople raised $130M Series B to map Earth for AI, partnering with L3Harris for satellite sensors.",
-    "description": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
-    "tags": [
-      "Startup",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 13:00"
-  },
-  {
-    "id": "f01b8c2ec651",
-    "headline": "The Download: AI’s impact on jobs, and data centres in space",
-    "summary": "MIT Tech Review newsletter covering AI's impact on jobs and space-based data centers.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The one piece of data that could actually shed light on your job and AI Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. Now even economists who have…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 12:10"
-  },
-  {
-    "id": "5345c54e5c86",
-    "headline": "The one piece of data that could actually shed light on your job and AI",
-    "summary": "Analysis examines data on AI's actual job impact, countering Silicon Valley's apocalyptic narratives.",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 16:33"
-  },
-  {
-    "id": "9409bf901d9b",
-    "headline": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
-    "summary": "Boomi introduces 'data activation' as critical missing step for successful enterprise AI deployments.",
-    "description": "The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across dozens of applications that were ... The post Boomi calls it “data activation” and says it’s the missing step in every AI deployment appeared first on AI News.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 12:00"
-  },
-  {
-    "id": "eb4da9bcf280",
-    "headline": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
-    "summary": "Anthropic's UK expansion reflects government interest in AI companies with strong ethical guardrails.",
-    "description": "The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude from being used for fully autonomous weapons and domestic mass surveillance, ... The post Anthropic’s refusal to arm AI is exactly why the UK wants it appeared first on AI News.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 10:00"
-  },
-  {
-    "id": "2fce2f93354f",
-    "headline": "Meta AI Releases EUPE: A Compact Vision Encoder Family Under 100M Parameters That Rivals Specialist Models Across Image Understanding, Dense Prediction, and VLM Tasks",
-    "summary": "Meta releases EUPE, a compact vision encoder under 100M parameters rivaling larger specialist models.",
-    "description": "Running powerful AI on your smartphone isn’t just a hardware problem — it’s a model architecture problem. Most state-of-the-art vision encoders are enormous, and when you trim them down to fit on an edge device, they lose the capabilities that made them useful in the first place. Worse, specialized models tend to excel at one ... The post Meta AI Releases EUPE: A Compact Vision Encoder Family Under 100M Parameters That Rivals Specialist Models Across Image Understanding, Dense Prediction, and VL",
-    "tags": [
-      "Meta",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 04:41"
-  },
-  {
-    "id": "bd78100838b3",
-    "headline": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution",
-    "summary": "Tutorial on implementing NVIDIA Transformer Engine with mixed-precision acceleration for deep learning.",
-    "description": "In this tutorial, we implement an advanced, practical implementation of the NVIDIA Transformer Engine in Python, focusing on how mixed-precision acceleration can be explored in a realistic deep learning workflow. We set up the environment, verify GPU and CUDA readiness, attempt to install the required Transformer Engine components, and handle compatibility issues gracefully so that ... The post An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchma",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 23:23"
-  },
-  {
-    "id": "5fd7cbad1130",
-    "headline": "Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm",
-    "summary": "Scale AI workers describe scraping personal data and copyrighted content to train Meta-owned AI models.",
-    "description": "Scale AI gig workers describe desperation of using people’s personal profiles and copyrighted work to train AITens of thousands of people have been paid by a company part-owned by Meta to train AI by combing Instagram accounts, harvesting copyrighted work and transcribing pornographic soundtracks, the Guardian can reveal.Scale AI, 49%-controlled by Mark Zuckerberg’s social media empire, has recruited experts across fields such as medicine, physics and economics – putatively to refine top-level a",
-    "tags": [
-      "Meta",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 12:00"
-  },
-  {
-    "id": "83ae6b0e020f",
-    "headline": "‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat",
-    "summary": "Older skilled workers turn to AI training jobs after job losses, highlighting employment desperation.",
-    "description": "They have degrees, expertise and years of experience – but can’t find work. For many Americans, AI training has become a last refuge in a brutal job marketWhen Patrick Ciriello lost his job and couldn’t find work for nearly a year, his family’s foundation crumbled.“You hear about people who hit rock bottom,” Ciriello told the Guardian. “Well, I was there.” Continue reading...",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 Apr 2026, 12:00"
-  },
-  {
-    "id": "a01cf1ff05cc",
-    "headline": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
-    "summary": "Tech companies cut jobs while betting on AI, with uncertain payoff and experimental workforce models.",
-    "description": "AI experts say we’re living in an experiment that may fundamentally change the model of workSign up for the Breaking News US email to get newsletter alerts in your inboxHundreds of thousands of tech workers are facing a harsh reality. Their well-paying jobs are no longer safe. Now that artificial intelligence (AI) is here, their futures don’t look as bright as they did a decade ago.As US tech companies have ramped up investments in AI, they’ve slashed a staggering number of jobs. Microsoft cut 1",
-    "tags": [
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 21:52"
-  },
-  {
-    "id": "8a5c5b1ce0d4",
-    "headline": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
-    "summary": "Scientists warn using AI for Australia's environmental approvals risks failures similar to robodebt scandal.",
-    "description": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed insteadFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastConservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk.The Minerals Council of Australia has aske",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 15:00"
-  },
-  {
-    "id": "5a57f37a22ae",
-    "headline": "Republicans fooled by AI-generated image of US airman rescued in Iran",
-    "summary": "Republicans shared AI-generated fake image of US airman, reshared 21,000+ times on social media.",
-    "description": "Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on XSign up for the Breaking News US email to get newsletter alerts in your inboxRepublican politicians were hoaxed over the weekend by an image purporting to be a downed US warplane crew member rescued by military special forces in Iran on Saturday, igniting a call for a national “crash course in media literacy”.Greg Abbott, the Texas governor, Ken Paxton, the state’s attorney general and a",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 14:03"
-  },
-  {
-    "id": "32d69deb125a",
-    "headline": "What can 160-million-year-old clay tell us about AI and ethics? Inside Es Devlin’s tech and pottery summit",
-    "summary": "Designer Es Devlin hosts summit combining ceramics with AI ethics, engaging spiritual leaders and researchers.",
-    "description": "The great artist and designer has summoned spiritual leaders, AI researchers and academics to try their hands at ceramics – and debate their wide-ranging positions on where tech is taking humanityEs Devlin owns a really great bell. It’s a singing bowl – originally used in Buddhist chanting rituals but now found in most quality yoga classes. This particular bell hits just the right frequency to make my temples vibrate pleasantly and, from the way the others gathered around the workbench at Oxford",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-07",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 Apr 2026, 12:04"
   }
 ]
