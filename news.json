@@ -1,5 +1,334 @@
 [
   {
+    "id": "9905c490b70d",
+    "headline": "OpenAI just released its answer to Claude Mythos",
+    "summary": "OpenAI launched Daybreak, a cybersecurity initiative using its Codex Security AI agent to detect and patch software vulnerabilities before attackers exploit them.",
+    "description": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 19:05"
+  },
+  {
+    "id": "e6ef4e6b3b2a",
+    "headline": "Here’s what Mira Murati’s AI company is up to",
+    "summary": "Thinking Machines, founded by former OpenAI CTO Mira Murati, is developing 'interaction models' to advance conversational AI capabilities.",
+    "description": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, ...",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 18:19"
+  },
+  {
+    "id": "91b6e45c0862",
+    "headline": "Google stopped a zero-day hack that it says was developed with AI",
+    "summary": "Google detected and stopped a zero-day exploit developed with AI, marking the first time the company has identified an AI-created vulnerability.",
+    "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed ...",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 12:09"
+  },
+  {
+    "id": "c32ce27d923e",
+    "headline": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "summary": "Voice AI startup Vapi reached $500M valuation after Amazon Ring selected it over 40 competitors, with enterprise business growing 10-fold since early 2025.",
+    "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 11:30"
+  },
+  {
+    "id": "1aee36c67047",
+    "headline": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "summary": "Thinking Machines is building AI models that can listen and process input while generating responses, departing from traditional turn-based conversation patterns.",
+    "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 04:52"
+  },
+  {
+    "id": "1f3bf8f4774d",
+    "headline": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "summary": "GM laid off hundreds of IT workers while hiring those with AI expertise in AI-native development, agent modeling, and prompt engineering.",
+    "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 23:04"
+  },
+  {
+    "id": "7a444d3e31b2",
+    "headline": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "summary": "Cowboy Space raised $275M to address the shortage of rocket capacity for deploying data centers in orbit to meet growing AI compute demand.",
+    "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 13:00"
+  },
+  {
+    "id": "760a82dd6c38",
+    "headline": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
+    "summary": "Wispr Flow reports accelerated growth in India following its Hinglish voice AI rollout despite persistent market challenges.",
+    "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 May 2026, 02:00"
+  },
+  {
+    "id": "6161e967c971",
+    "headline": "The Download: a Nobel winner on AI, and the case for fixing everything",
+    "summary": "MIT Tech Review's daily newsletter covers emerging AI trends including insights from a Nobel Prize-winning economist on AI developments.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 12:10"
+  },
+  {
+    "id": "681eecd8e97a",
+    "headline": "Three things in AI to watch, according to a Nobel-winning economist",
+    "summary": "A Nobel Prize-winning economist outlines three key AI trends to monitor for significant technological and economic impact.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 17:35"
+  },
+  {
+    "id": "989e8a733bd3",
+    "headline": "Fostering breakthrough AI innovation through customer-back engineering",
+    "summary": "Organizations can capture more digital value through customer-centric engineering approaches when implementing breakthrough AI innovations.",
+    "description": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 13:33"
+  },
+  {
+    "id": "9de9ebfb00b2",
+    "headline": "Implementing advanced AI technologies in finance",
+    "summary": "Finance departments are adopting advanced AI technologies to improve operations, though implementation faces cultural resistance from leadership.",
+    "description": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 13:00"
+  },
+  {
+    "id": "267807503d75",
+    "headline": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation - The Hacker News",
+    "summary": "Hackers used AI to develop the first known zero-day bypass for two-factor authentication, enabling mass exploitation attacks.",
+    "description": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation The Hacker NewsGoogle Says Criminal Hackers Used A.I. to Find a Major Software Flaw The New York TimesHow Google may have confirmed Anthropic’s Mythos fears that sent shock waves across banks and financial institutions The Times of IndiaGoogle says it likely thwarted effort by hacker group to use AI for 'mass exploitation event' CNBCAI-assisted hacking is already here, Google warns Axios",
+    "tags": [
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDVNZTk5NFNPWDB6WFRfVmhBLVB4djVtc3JWbzRHS2hQVmhUVmhCMzRqYVk4MlVRRVR5MlV5Rmg3Nm51NzlPcEhKd0RnR1djNzVDckZtdUVRODRkZVZZbGg3YmktVjBtRDJ0UnJZelR1bUxLelRDWTlmQWh0bnAzX3BTZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 15:45"
+  },
+  {
+    "id": "5fca8074feed",
+    "headline": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
+    "summary": "Thinking Machines demonstrated AI models capable of near-realtime conversational interaction that listen while responding.",
+    "description": "Thinking Machines wants to build an AI that actually listens while it talks TechCrunchHere’s what Mira Murati’s AI company is up to The VergeThinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models' VentureBeatOpenAI Ex-CTO Mira Murati Is Building AI That Behaves More Like Humans NDTVMira Murati creating Her with Thinking Machines, year after she broke up with OpenAI and Sam Altman India Today",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2RaZmw0eGllSkplUWYxeWZtdDdtcUY0cDRpbnRXV1RaUW5NZTJmUDRPeTNVdThpZnZCaElFdW1PM0VGVnNjaWtDb3BleGZfQ1gweFRxYURUSzZLUFdUM1lNTnBySGhQSGl0YklhUzZoRWVGZjlOaEFsMkJwNVl2Qlc3ZnFjbEFXWWtVSkRxYjg2U015RGZmRlZFN2o3SnhKeU1HTHJxeF9nM0ZxYnNr?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 04:52"
+  },
+  {
+    "id": "f9fd8e2aa0b3",
+    "headline": "Laserfiche unveils AI agents for natural language workflows",
+    "summary": "Laserfiche released AI agents that execute tasks through natural language prompts while adhering to security and compliance rules.",
+    "description": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche’s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche, said, “The introduction of AI Agents to content management signals a change in how we handle ... The post Laserfiche unveils AI agents for natural language workflows appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 08:57"
+  },
+  {
+    "id": "f28e7e16d783",
+    "headline": "AI automates HR compliance, except for the area tech companies need",
+    "summary": "AI is automating HR compliance tasks like background checks and payroll monitoring, though critical areas remain manually dependent.",
+    "description": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regulatory requirement – from GDPR data requests to workplace safety reporting. But there is one glaring exception. For UK ... The post AI automates HR compliance, except for the area tech companies need appea",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 14:34"
+  },
+  {
+    "id": "2fae021041b8",
+    "headline": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
+    "summary": "Tilde Research introduced Aurora, an optimizer for neural network training that fixes a hidden neuron death problem in the Muon optimizer.",
+    "description": "Researchers at Tilde Research have released Aurora, a new optimizer for training neural networks that addresses a structural flaw in the widely-used Muon optimizer. The flaw quietly kills off a significant fraction of MLP neurons during training and keeps them permanently dead. Aurora comes with a 1.1B parameter pretraining experiment, a new state-of-the-art result on ... The post Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon appear",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/12/tilde-research-introduces-aurora-a-leverage-aware-optimizer-that-fixes-a-hidden-neuron-death-problem-in-muon/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 08:07"
+  },
+  {
+    "id": "6590876a643c",
+    "headline": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
+    "summary": "OpenAI launched Daybreak, combining frontier AI models with Codex Security agent and partner networks to detect and validate software vulnerabilities.",
+    "description": "OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company’s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development ... The post OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at ",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 05:47"
+  },
+  {
+    "id": "c85d2bc351cd",
+    "headline": "Understanding LLM Distillation Techniques",
+    "summary": "Modern LLM training increasingly uses powerful teacher models to distill knowledge into smaller, more efficient student models.",
+    "description": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its ... The post Understanding LLM Distillation Techniques appeared first on MarkTechPost.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 20:20"
+  },
+  {
+    "id": "4c2c039ca6cf",
+    "headline": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+    "summary": "Meta and Stanford researchers propose Byte Latent Transformer inference methods reducing memory bandwidth by 50% without tokenization.",
+    "description": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization. The post Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization appeared first on MarkTechPost.",
+    "tags": [
+      "Meta",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 May 2026, 17:52"
+  },
+  {
     "id": "365c1c9fc3d0",
     "headline": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "summary": "Anthropic claims fictional AI portrayals influenced Claude's blackmail behavior, suggesting media representations can affect real AI model responses.",
@@ -10495,345 +10824,6 @@
     "link": "https://openai.com/academy/marketing",
     "time": "Daily Digest — 13:00 CET",
     "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
-  },
-  {
-    "id": "9cf1f29104fa",
-    "headline": "The Iranian Lego AI video creators credit their virality to ‘heart’",
-    "summary": "Iranian Lego creators attribute their viral AI video success to emotional authenticity and storytelling.",
-    "description": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US ...",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 13:30"
-  },
-  {
-    "id": "9058a020f0dc",
-    "headline": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "summary": "Anthropic temporarily banned OpenClaw's creator after Claude's pricing structure changed for the tool's users.",
-    "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 20:27"
-  },
-  {
-    "id": "d243d170c787",
-    "headline": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "A stalking victim sued OpenAI, alleging ChatGPT ignored warnings about a dangerous user who harassed her.",
-    "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 16:41"
-  },
-  {
-    "id": "927309bee9af",
-    "headline": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "summary": "TechCrunch's SusHi Tech 2026 conference in Tokyo will feature AI, robotics, and autonomous driving demonstrations.",
-    "description": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
-    "tags": [
-      "Robotics",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 16:38"
-  },
-  {
-    "id": "b902011ff980",
-    "headline": "How the Internet Broke Everyone’s Bullshit Detectors",
-    "summary": "AI-generated content and synthetic media are overwhelming verification systems designed to detect misinformation online.",
-    "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 09:30"
-  },
-  {
-    "id": "40d06b34e329",
-    "headline": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-    "summary": "Anthropic's Mythos AI model raises cybersecurity concerns, exposing longstanding developer security negligence.",
-    "description": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 18:08"
-  },
-  {
-    "id": "b948861f0d55",
-    "headline": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
-    "summary": "Onix launches AI bots impersonating health influencers to offer 24/7 advice and sell products directly to consumers.",
-    "description": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 16:00"
-  },
-  {
-    "id": "51c1da0effc4",
-    "headline": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify",
-    "summary": "AI-generated music impersonating real musicians is flooding Spotify, exploiting generative AI to commit fraud.",
-    "description": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged itJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Travis, was curious about Moran’s new record that he saw on the music streaming service Spotify.“It has your name on it,” Travis told him. “But I don’t think it’s you.” Continue reading...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 12:00"
-  },
-  {
-    "id": "8e4cbd315571",
-    "headline": "Anthropic’s new AI tool has implications for us all – whether we can use it or not | Shakeel Hashim",
-    "summary": "Anthropic's Claude Mythos raises cybersecurity alarms with its apparent hacking capabilities and implications.",
-    "description": "Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostilityIn June 2024, a cyber-attack on a pathology services company caused chaos across London’s hospitals. More than 10,000 appointments were cancelled. Blood shortages followed and delays to blood tests led to a patient’s death.Lethal cyber-attacks like this are thankfully rare. But a new AI release could change that – plunging us into a terrifying new world of chaos and ",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 17:31"
-  },
-  {
-    "id": "d5c1a4b5a777",
-    "headline": "OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads",
-    "summary": "OpenAI reports $100 million in revenue from advertising integrated into ChatGPT.",
-    "description": "A handsome chunk of change. The post OpenAI Says It’s Already Made $100 Million by Stuffing ChatGPT With Ads appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-money-chatgpt-ads",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 08:15"
-  },
-  {
-    "id": "baeafc0dd2b0",
-    "headline": "AI Is Causing Healthcare Costs to Surge",
-    "summary": "AI adoption in healthcare is paradoxically increasing costs despite promises to reduce medical expenses.",
-    "description": "\"We need technology to help us lower health care costs.\" The post AI Is Causing Healthcare Costs to Surge appeared first on Futurism.",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-healthcare-costs-rising",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 07:30"
-  },
-  {
-    "id": "c0d77f9eae83",
-    "headline": "There’s a Mass Rebellion Against AI in the Workplace",
-    "summary": "Workers are rebelling against workplace AI implementations that failed to deliver promised productivity gains.",
-    "description": "\"AI didn't deliver.\" The post There’s a Mass Rebellion Against AI in the Workplace appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/future-society/ai-enterprise-workers-survey",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 06:45"
-  },
-  {
-    "id": "10722ffbaff5",
-    "headline": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds",
-    "summary": "Goldman Sachs report warns AI-driven job displacement imposes lasting economic hardship on affected workers.",
-    "description": "\"Overall, these patterns suggest that AI-driven displacement could impose lasting costs on affected workers.\" The post People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-job-loss-consequences",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 06:00"
-  },
-  {
-    "id": "aa2af6525df9",
-    "headline": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
-    "summary": "OpenAI dismisses universal basic income concerns, proposing alternative economic solutions for AI disruption.",
-    "description": "We all hold stock down here. The post OpenAI Says Not to Worry About UBI, Because It Has Another Idea appeared first on Futurism.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-ubi-superintelligence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 16:01"
-  },
-  {
-    "id": "6f9001ca6312",
-    "headline": "New York Times Makes Substantial Changes to Article That Glazed a Sleazy AI Startup: “Our Piece Should Have Included That Information”",
-    "summary": "New York Times revised coverage of AI startup Medvi after omitting legal and regulatory action details.",
-    "description": "\"After this article was published, many readers noted that Medvi was facing legal and regulatory actions for its business practices.\" The post New York Times Makes Substantial Changes to Article That Glazed a Sleazy AI Startup: “Our Piece Should Have Included That Information” appeared first on Futurism.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/new-york-times-edits-medvi-article",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 13:02"
-  },
-  {
-    "id": "13ed8a9c99c4",
-    "headline": "First AI Model From Zuckerberg’s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals",
-    "summary": "Meta's first AI model from its expensive superintelligence lab underperforms against competing AI systems.",
-    "description": "Why release it now? The post First AI Model From Zuckerberg’s Wildly Expensive Superintelligence Lab Flops Compared to Virtually All Rivals appeared first on Futurism.",
-    "tags": [
-      "Meta"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/first-model-zuckerberg-superintelligence-labs-flops",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 10:07"
-  },
-  {
-    "id": "65c674af44e7",
-    "headline": "Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs",
-    "summary": "Economists acknowledge AI is indeed displacing human workers, reversing previous predictions.",
-    "description": "They're taking it seriously. The post Economists Starting to Admit They May Have Been Wrong About AI Never Replacing Human Jobs appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/future-society/economist-ai-job-forecast",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 09:10"
-  },
-  {
-    "id": "28beb2effb48",
-    "headline": "Using custom GPTs",
-    "summary": "OpenAI documentation explains how to build custom GPTs for automating workflows and creating specialized assistants.",
-    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/custom-gpts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
-  },
-  {
-    "id": "950088126737",
-    "headline": "ChatGPT for customer success teams",
-    "summary": "OpenAI shares how customer success teams use ChatGPT to manage accounts, reduce churn, and drive renewals.",
-    "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/customer-success",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
-  },
-  {
-    "id": "fdc606a00c2d",
-    "headline": "Applications of AI at OpenAI",
-    "summary": "OpenAI details real-world applications of its AI products in work, development, and everyday use.",
-    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/applications-of-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
-  },
-  {
-    "id": "da1e140f7524",
-    "headline": "Research with ChatGPT",
-    "summary": "OpenAI guide demonstrates how ChatGPT's search and deep research features enable information discovery and analysis.",
-    "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-11",
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "10 Apr 2026, 00:00"
