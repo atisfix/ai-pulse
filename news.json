@@ -1,5 +1,354 @@
 [
   {
+    "id": "508cfbca2d3d",
+    "headline": "Meta won’t let you block its AI account on Threads",
+    "summary": "Meta is testing a Threads feature allowing users to tag a Meta AI account for answers and conversation context.",
+    "description": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people ...",
+    "tags": [
+      "Meta"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 16:35"
+  },
+  {
+    "id": "f549af9ff490",
+    "headline": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+    "summary": "Sam Altman testifies that Elon Musk caused significant damage to OpenAI's culture during Musk's lawsuit against the company.",
+    "description": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 13:34"
+  },
+  {
+    "id": "be37d3cfc67b",
+    "headline": "The 9 biggest new features in Android 17",
+    "summary": "Android 17 introduces AI-enabled features including improved dictation and vibe-coded widgets alongside non-AI updates.",
+    "description": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 13:00"
+  },
+  {
+    "id": "d10f09b9e1d7",
+    "headline": "Gemini’s latest updates are all about controlling your phone",
+    "summary": "Google announces new Gemini features designed to help control and automate phone tasks across multiple interfaces.",
+    "description": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. ...",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 13:00"
+  },
+  {
+    "id": "0d8d9e912629",
+    "headline": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+    "summary": "Family of 19-year-old sues OpenAI, claiming ChatGPT gave dangerous drug advice that led to accidental overdose.",
+    "description": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 12:30"
+  },
+  {
+    "id": "1564b3f11eac",
+    "headline": "Sam Altman takes the stand in trial against Elon Musk",
+    "summary": "OpenAI CEO Sam Altman testifies in jury trial against Elon Musk over the company's governance and direction.",
+    "description": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 12:05"
+  },
+  {
+    "id": "49afa24bfa4b",
+    "headline": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
+    "summary": "Hollywood actors endorse new 'Human Consent Standard' for AI licensing to govern use of likeness and creative work.",
+    "description": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission ...",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 12:00"
+  },
+  {
+    "id": "91d622466626",
+    "headline": "Rivian’s AI-powered voice assistant is ready to roll",
+    "summary": "Rivian rolls out AI-powered voice assistant to its vehicle fleet via software update for Gen 1 and Gen 2 models.",
+    "description": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a year, or are in an ...",
+    "tags": [
+      "Agents",
+      "Robotics"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 11:51"
+  },
+  {
+    "id": "aff543517f46",
+    "headline": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "summary": "Adaption launches AutoScientist, an AI tool enabling models to self-train through automated fine-tuning approaches.",
+    "description": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 May 2026, 12:11"
+  },
+  {
+    "id": "c40356fe83b6",
+    "headline": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "summary": "Medicare's new payment model is designed to support AI agents monitoring patients and coordinating healthcare services.",
+    "description": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+    "tags": [
+      "Healthcare",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 May 2026, 00:26"
+  },
+  {
+    "id": "9fb3809caf35",
+    "headline": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "summary": "Altman testifies Musk considered handing OpenAI to his children, raising concerns about AI concentration of power.",
+    "description": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 18:05"
+  },
+  {
+    "id": "d4dcfd247feb",
+    "headline": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "summary": "Anthropic warns investors that secondary platforms selling company shares are invalid and won't be recognized.",
+    "description": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:36"
+  },
+  {
+    "id": "d3b9b848d38f",
+    "headline": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "summary": "Google and SpaceX explore orbital data centers for AI compute, despite current costs exceeding ground-based alternatives.",
+    "description": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:30"
+  },
+  {
+    "id": "1914e9cdd89b",
+    "headline": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "summary": "Google unveils AI-first Googlebooks laptops, agentic Gemini features, vibe-coded widgets, and enhanced Chrome integration.",
+    "description": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:01"
+  },
+  {
+    "id": "c9346d4e0446",
+    "headline": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "summary": "Google adds Gemini-powered dictation to Gboard for Samsung and Google phones, potentially disrupting dictation startups.",
+    "description": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:00"
+  },
+  {
+    "id": "88dfc4aeb299",
+    "headline": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "summary": "Anthropic launches AI legal tools automating document review, case law research, and deposition prep for law firms.",
+    "description": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:00"
+  },
+  {
+    "id": "b6280e782020",
+    "headline": "Google brings agentic AI and vibe-coded widgets to Android",
+    "summary": "Google brings agentic Gemini AI and vibe-coded widgets to Android with Gboard dictation and form-filling capabilities.",
+    "description": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:00"
+  },
+  {
+    "id": "140136d6e041",
+    "headline": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+    "summary": "Altman describes Musk's allegedly obsessive attempts to control OpenAI and plan to pass it to his children.",
+    "description": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 May 2026, 00:10"
+  },
+  {
+    "id": "80906c1f4fa5",
+    "headline": "World Models: 10 Things That Matter in AI Right Now",
+    "summary": "MIT Technology Review highlights world models as emerging AI area gaining significant attention and research focus.",
+    "description": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 16:22"
+  },
+  {
+    "id": "383360b7bd04",
+    "headline": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal - MacRumors",
+    "summary": "Google announces Android 17 with 'Gemini Intelligence' features ahead of Apple's iOS reveal.",
+    "description": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal MacRumorsThe Android Show: I/O Edition 2026 blog.googleGoogle Is Giving My Phone Habits Just the Right Boost With These 3 New Android Features CNETGoogle races to put Gemini at the center of Android before Apple’s AI reboot CNBCGoogle’s ‘Create My Widget’ feature will let you vibe-code your own widgets TechCrunch",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxSnFKSzZ1U21OX1dTOE5XZzY1d2tFSDNnQ1YyOXM2Rm1KdnMtYmNWMHBZUjk3LXcyRTRVcHQ4TXFkb3Q4akNNbEpybW5HRzJ5U05qRXhUbThYSDU0RlZQWXVxNFllVGNVeE1hX29CV1diQQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 19:21"
+  },
+  {
+    "id": "2354956ef049",
+    "headline": "First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET",
+    "summary": "Google introduces Googlebook, a premium Chromebook alternative designed for Gemini Intelligence on Android.",
+    "description": "First look at Googlebook: A premium Chromebook alternative for Android users ZDNETIntroducing Googlebook, designed for Gemini Intelligence blog.googleGooglebooks Could Be the Ultimate Laptop for Android Fans CNETGoogle announces its Chromebook successor: the Googlebook The VergeGoogle’s Android-powered laptops are called Googlebooks, and they’re coming this year Ars Technica",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWZtYmlDTDYyYjRaajVXRDZmaTVMckV0M3llcGtnM2I1X2Q0ZWN4cklIQ09jeDlLZ1dzZkxrdlMtZGQ5OHFYNlp3Y2s2TldENkRnVmxxNWdmWlNmQ0thbnZ1bXJHTERSZDhLMHFncXhlZVNLWlhsaDE4VWVubk9zMlVvZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 May 2026, 17:00"
+  },
+  {
     "id": "9905c490b70d",
     "headline": "OpenAI just released its answer to Claude Mythos",
     "summary": "OpenAI launched Daybreak, a cybersecurity initiative using its Codex Security AI agent to detect and patch software vulnerabilities before attackers exploit them.",
@@ -10494,338 +10843,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "13 Apr 2026, 12:54"
-  },
-  {
-    "id": "7bb5e706e56b",
-    "headline": "The AI code wars are heating up",
-    "summary": "The Verge explores the competitive landscape of AI coding tools and their growing impact on software development.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI ...",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 08:00"
-  },
-  {
-    "id": "6d80ddf447b6",
-    "headline": "Your article about AI doesn’t need AI art",
-    "summary": "Article critiques the use of AI-generated art in journalism, highlighting poor quality illustrations of OpenAI's Sam Altman.",
-    "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests ...",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 11:00"
-  },
-  {
-    "id": "82783eb3df32",
-    "headline": "How Iran out-shitposted the White House",
-    "summary": "Compares AI-generated content quality between US and Iranian state media during geopolitical tensions.",
-    "description": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. ...",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 09:00"
-  },
-  {
-    "id": "f1d5948f1931",
-    "headline": "Framework CEO warns AI boom may lead to a scenario where \"personal computing as we know it is dead - Notebookcheck",
-    "summary": "Framework CEO warns that AI boom may eliminate traditional personal computing as we know it.",
-    "description": "Framework CEO warns AI boom may lead to a scenario where \"personal computing as we know it is dead NotebookcheckFramework founder says that ‘personal computing as we know it is dead’ — vows to keep building ‘computers that you can own at the deepest level’ Tom's HardwareThe Laptop That Refuses To Die: Inside Framework's Mission To Fix Tech ForbesPC Industry in Dire Straits, 'Asking You to Own Nothing and Be Happy,’ Says Framework CEO GizmodoThe Death of PC Ownership? Framework Computer CEO Issue",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbWRkc3RVRzJ1UXM1VW5Pb1NpVG1BRjJVZVN6MGVNNk5RWFYzbWg3dHRFQVlTOXVtQ1ZUT3lTN3R5aFk3WWJnbFVtNmhNcHNnWlAwWGUxMnJTaFMwcUM4d3dYSFBMSzZmb01RTWhvWFV0aGlkVW54WjFFT05ZSHdhZ2ZkbUlSYkxCSC1HcHU3RW5kMXNfWWtod1BTS01vUEc5SzFWdmZDbXFIdXhKZ0RELVRxcndJN3RieTZMUXhLZUs3blA3dEtqOGh6TFZLOVhYTWJ3aEFoZWl6Zw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 02:09"
-  },
-  {
-    "id": "5514a9f0a3e8",
-    "headline": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
-    "summary": "MiniMax open-sources M2.7, a self-evolving agent model achieving 56.22% on SWE-Pro benchmarks.",
-    "description": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built ... The post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2 appea",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 09:20"
-  },
-  {
-    "id": "7d8302c4781d",
-    "headline": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
-    "summary": "Liquid AI releases LFM2.5-VL-450M vision-language model with bounding box prediction and edge inference.",
-    "description": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expanded multilingual understanding, and function calling support — all within a 450M-parameter footprint designed to run directly on edge hardware ranging from embedded AI modules like NVIDIA Jetson Orin, to mini-PC ... The post Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model wi",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 02:41"
-  },
-  {
-    "id": "2af07dd17ceb",
-    "headline": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
-    "summary": "Researchers propose TriAttention, a KV cache compression method matching full attention at 2.5× higher throughput.",
-    "description": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache ... The post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput appeare",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 20:10"
-  },
-  {
-    "id": "73dcde9740bf",
-    "headline": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
-    "summary": "Article explains knowledge distillation techniques for compressing ensemble AI models into single deployable models.",
-    "description": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student ... The post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployabl",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 07:33"
-  },
-  {
-    "id": "ab1a30ce5bf1",
-    "headline": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
-    "summary": "Alibaba's Tongyi Lab releases VimRAG, a multimodal RAG framework using memory graphs for visual contexts.",
-    "description": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step ... The post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Con",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 23:06"
-  },
-  {
-    "id": "59159f6349b7",
-    "headline": "NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Model",
-    "summary": "NVIDIA releases AITune, an open-source toolkit that optimizes inference backends for PyTorch models.",
-    "description": "Deploying a deep learning model into production has always involved a painful gap between the model a researcher trains and the model that actually runs efficiently at scale. TensorRT exists, Torch-TensorRT exists, TorchAO exists — but wiring them together, deciding which backend to use for which layer, and validating that the tuned model still produces ... The post NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Mod",
-    "tags": [
-      "NVIDIA",
-      "Open Source",
-      "Hardware"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/10/nvidia-releases-aitune-an-open-source-inference-toolkit-that-automatically-finds-the-fastest-inference-backend-for-any-pytorch-model/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 17:43"
-  },
-  {
-    "id": "f249a1ea943a",
-    "headline": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
-    "summary": "Major AI companies fund policy papers and think tanks to improve public perception amid declining approval.",
-    "description": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AIOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disapprov",
-    "tags": [
-      "Regulation",
-      "Market"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 10:00"
-  },
-  {
-    "id": "d325f4c28c96",
-    "headline": "Is AI the greatest art heist in history?",
-    "summary": "Article examines whether generative AI constitutes art theft, criticizing poor-quality AI-generated content.",
-    "description": "New technologies of reproduction are plundering the art world – and getting away with itIn 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselves",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 11:00"
-  },
-  {
-    "id": "2dcaec6cea07",
-    "headline": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
-    "summary": "Anthropic claims it withheld powerful cybersecurity AI model publicly; skeptics view it as investment hype.",
-    "description": "The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investmentThis week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public.The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “engage with AI firm A",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 09:00"
-  },
-  {
-    "id": "9336ccde2e34",
-    "headline": "Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’",
-    "summary": "Physicist Brian Cox discusses excitement and risks of increasingly powerful AI systems.",
-    "description": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moonsWhat is the inspiration behind your latest live show, Emergence?It came from a book that I’ve loved for years: The Six-Cornered Snowflake by Johannes Kepler. Kepler is most famous for his laws of planetary motion in and around 1610, but he wrote this little book about New Year’s Eve in 1609, when he was walking across the Charles Bridge in Prague in a snowstorm.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 20:00"
-  },
-  {
-    "id": "ed1a0fdb3e50",
-    "headline": "OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad",
-    "summary": "Futurism critiques OpenAI's recent announcements and compute claims as underwhelming.",
-    "description": "This compute measuring contest is just pitiful. The post OpenAI’s Latest Thing It’s Bragging About Is Actually Kind of Sad appeared first on Futurism.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-bragging-compute-sad",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 07:30"
-  },
-  {
-    "id": "67b9e08d87d8",
-    "headline": "Gen Z Sabotaging AI at Work So It Won’t Take Their Job",
-    "summary": "Gen Z workers reportedly sabotage AI systems at workplaces to protect jobs from automation.",
-    "description": "They're fed up. The post Gen Z Sabotaging AI at Work So It Won’t Take Their Job appeared first on Futurism.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/zoomers-ai-sabotage",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 Apr 2026, 06:45"
-  },
-  {
-    "id": "d5b6da04430b",
-    "headline": "The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny",
-    "summary": "Article discusses unintended consequences of AI-generated code being deployed in corporate environments.",
-    "description": "Womp womp! The post The Effects of AI-Generated Code Tearing Through Corporations Is Actually Kind of Funny appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-code-tearing-through-corporations",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 12:45"
-  },
-  {
-    "id": "2640569d4db3",
-    "headline": "Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value",
-    "summary": "Pollsters using AI to simulate voter responses and publishing results as scientific findings.",
-    "description": "\"Pure fictions are on the brink of being treated as scientific and political knowledge.\" The post Foolish Pollsters Are Now Just Asking AI What Voters Would Say in Response to Questions and Publishing It at Face Value appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-polls-silicon-sampling",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 Apr 2026, 09:00"
-  },
-  {
-    "id": "be950e6be1d5",
-    "headline": "Using projects in ChatGPT",
-    "summary": "OpenAI blog explains ChatGPT Projects feature for organizing chats, files, and collaborative work.",
-    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/projects",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
-  },
-  {
-    "id": "ae4e24771506",
-    "headline": "ChatGPT for marketing teams",
-    "summary": "OpenAI blog demonstrates how marketing teams leverage ChatGPT for campaign planning and content generation.",
-    "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/marketing",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
   }
 ]
