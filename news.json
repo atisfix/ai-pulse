@@ -1,5 +1,287 @@
 [
   {
+    "id": "47f50582ef48",
+    "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "summary": "YouTube expands AI deepfake detection tool to all adult users, allowing anyone 18+ to search for AI-generated likeness videos of themselves.",
+    "description": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts ...",
+    "tags": [
+      "Video Gen",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 18:25"
+  },
+  {
+    "id": "f639903dc4fc",
+    "headline": "ArXiv will ban researchers who upload papers full of AI slop",
+    "summary": "ArXiv will ban researchers uploading papers full of AI-generated slop content to maintain academic research quality standards.",
+    "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be ...",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 16:38"
+  },
+  {
+    "id": "53415a9e4b10",
+    "headline": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "summary": "OpenAI reorganizes executives again with Greg Brockman leading all product efforts as the company competes in the AI agent market.",
+    "description": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in ...",
+    "tags": [
+      "OpenAI",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 14:21"
+  },
+  {
+    "id": "8f4d3cea772e",
+    "headline": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "summary": "Andon Labs experiments show AI agents running radio stations without human oversight, demonstrating AI's unreliability for autonomous business operations.",
+    "description": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 13:09"
+  },
+  {
+    "id": "45accfbc4359",
+    "headline": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "summary": "Google updates spam policy to flag attempts to manipulate its AI search models (AI Overview/AI Mode) as spam.",
+    "description": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 12:42"
+  },
+  {
+    "id": "c780f7ddbc48",
+    "headline": "OpenAI now wants ChatGPT to access your bank accounts",
+    "summary": "OpenAI previews ChatGPT feature allowing direct secure access to user bank accounts for financial management tasks.",
+    "description": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, ...",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 12:00"
+  },
+  {
+    "id": "8c7405ca86ae",
+    "headline": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "summary": "Musk v. Altman trial concludes with final arguments questioning trustworthiness of AI industry leaders.",
+    "description": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 19:24"
+  },
+  {
+    "id": "a2cb63efb1dc",
+    "headline": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "OpenAI launches ChatGPT personal finance tool enabling users to connect bank accounts and track portfolio performance.",
+    "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 16:00"
+  },
+  {
+    "id": "1e6f4d5e4360",
+    "headline": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "summary": "Runway bets on video generation as path to world models, positioning itself to compete against tech giants.",
+    "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 14:00"
+  },
+  {
+    "id": "965232b97a46",
+    "headline": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "summary": "Greg Brockman takes control of OpenAI's products in reorganization effort to unify ChatGPT and Codex.",
+    "description": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 17:09"
+  },
+  {
+    "id": "2fecf5dd3ded",
+    "headline": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "summary": "Final week of Musk v. Altman trial features credibility attacks on both parties before jury verdict.",
+    "description": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 23:39"
+  },
+  {
+    "id": "0d3cfd02770f",
+    "headline": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+    "summary": "Chinese short-form dramas increasingly use AI content generation as production method.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with…",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 12:10"
+  },
+  {
+    "id": "18bbc9335e56",
+    "headline": "Gemini Intelligence requirements mean most Android phones are going to miss out - Android Authority",
+    "summary": "Gemini Intelligence requirements restrict feature availability to newer Android devices.",
+    "description": "Gemini Intelligence requirements mean most Android phones are going to miss out Android AuthorityA smarter, more proactive Android with Gemini Intelligence blog.googleThis New Gemini Is Not the Siri We Need CNETGoogle is quietly turning Gemini into a productivity OS, and it's awesome Android PoliceGoogle’s ‘Create My Widget’ feature will let you vibe-code your own widgets TechCrunch",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNmhicVk3TDN0bTBxQW5JT0lDM1RjVHJoWHlMcXRGR1RTZzlPU1ZiWDlqbWt4ZzlnM3FBdkhBX2w0ZVY2T3RFOG1zSVhCaGtrNDN0SEZaenlobWZRcmFkZ243TkM0YjczWFVUaFVRWlVYeF9obzNlVi12QlVPMkE?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 22:06"
+  },
+  {
+    "id": "1c82c9c2ecb2",
+    "headline": "Devious Prankster Posts Real Monet Painting, Tells People It’s AI-Generated, and Watches the Chaos Unfold",
+    "summary": "Prankster posts real Monet painting as AI-generated art, exposing public inability to distinguish authentic from synthetic works.",
+    "description": "\"Please describe, in as much detail as possible, what makes this inferior to a real Monet painting.\" The post Devious Prankster Posts Real Monet Painting, Tells People It’s AI-Generated, and Watches the Chaos Unfold appeared first on Futurism.",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/real-monet-ai-chaos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 12:57"
+  },
+  {
+    "id": "26f9c2591ce3",
+    "headline": "AI Appears to Be Trapping Certain Job Applicants in a Limbo Where They Never Get an Interview for “Reasons” That Are Completely Unfair",
+    "summary": "AI hiring systems reportedly trap job applicants in interview limbo with unexplained, discriminatory rejections.",
+    "description": "\"I crawled out of a f**king black hole.\" The post AI Appears to Be Trapping Certain Job Applicants in a Limbo Where They Never Get an Interview for “Reasons” That Are Completely Unfair appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-job-applicant-limbo-cortex",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 11:10"
+  },
+  {
+    "id": "5ddfc59e9c0b",
+    "headline": "If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence?",
+    "summary": "Analysis questions whether mass unemployment from AI could trigger political violence based on historical patterns.",
+    "description": "\"AI generates the structural conditions historically associated with the onset of political violence.\" The post If AI Causes a Mass Unemployment Crisis, Will the Public Explode Into Violence? appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-mass-unemployement-violence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 08:48"
+  },
+  {
+    "id": "568abc8b5193",
+    "headline": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "summary": "OpenAI partners with Malta to expand ChatGPT Plus access and provide AI training for all citizens.",
+    "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-16",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 May 2026, 00:00"
+  },
+  {
     "id": "9098d13192c5",
     "headline": "AI research papers are getting better, and it’s a big problem for scientists",
     "summary": "AI research papers are improving so much they're being over-cited, creating problems for academics trying to assess true scientific impact and prevent citation inflation.",
@@ -10361,409 +10643,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "15 Apr 2026, 10:00"
-  },
-  {
-    "id": "4152cb53c435",
-    "headline": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-    "summary": "Adobe launches Firefly AI Assistant enabling creators to edit work through conversational prompts instead of manual Creative Cloud tools, marking a fundamental shift in creative workflows.",
-    "description": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. Adobe says this marks a \"fundamental ...",
-    "tags": [
-      "Creative AI",
-      "Adobe"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 09:00"
-  },
-  {
-    "id": "e7fccf174dbe",
-    "headline": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
-    "summary": "Apple threatened to remove Elon Musk's Grok AI app from App Store over failure to curb nonconsensual sexual deepfakes on X platform.",
-    "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 06:55"
-  },
-  {
-    "id": "75252afdd2da",
-    "headline": "The attacks on Sam Altman are a warning for the AI world",
-    "summary": "A 20-year-old accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman had expressed concerns about AI extinction risks before the alleged attack.",
-    "description": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found. Two days later, Altman's home appeared to be targeted a second time, according to The San Francisco Standard. Only a ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 14:04"
-  },
-  {
-    "id": "3e01ee13898d",
-    "headline": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
-    "summary": "Google launches Chrome 'Skills' feature allowing users to save and reuse Gemini AI prompts as repeatable workflows across multiple webpages.",
-    "description": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 13:00"
-  },
-  {
-    "id": "709ec7170d11",
-    "headline": "Has Google’s AI watermarking system been reverse-engineered?",
-    "summary": "A developer claims to have reverse-engineered Google DeepMind's SynthID watermarking system, demonstrating how AI watermarks can be stripped from generated images.",
-    "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it ...",
-    "tags": [
-      "Research",
-      "Google"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 09:53"
-  },
-  {
-    "id": "306d2dee531b",
-    "headline": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-    "summary": "Reid Hoffman discusses 'tokenmaxxing,' cautioning that AI token tracking should measure adoption but not be used as direct productivity metric.",
-    "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 13:06"
-  },
-  {
-    "id": "69bdecb6c50c",
-    "headline": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-    "summary": "Adobe's Firefly AI assistant now works across Creative Cloud apps including Photoshop, Premiere, and Lightroom to automate creative tasks.",
-    "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-    "tags": [
-      "Creative AI",
-      "Adobe"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 13:01"
-  },
-  {
-    "id": "be4bb10a8bd9",
-    "headline": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-    "summary": "Startup Gitar emerges from stealth with $9M funding, using AI agents to review and secure code generated by both humans and AI systems.",
-    "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 13:00"
-  },
-  {
-    "id": "19cf6570161b",
-    "headline": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-    "summary": "Anthropic's rising valuation is prompting some OpenAI investors to reconsider, with OpenAI's IPO requiring $1.2T+ valuation versus Anthropic's $380B.",
-    "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 02:31"
-  },
-  {
-    "id": "cefc7612c98d",
-    "headline": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-    "summary": "Anthropic co-founder Jack Clark confirms the company briefed Trump administration on Mythos while simultaneously suing the government.",
-    "description": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 18:09"
-  },
-  {
-    "id": "ff86d829083a",
-    "headline": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "summary": "Google adds 'Skills' feature to Chrome enabling users to save and reuse Gemini AI prompts as workflows across websites.",
-    "description": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 17:00"
-  },
-  {
-    "id": "d4bedb71c412",
-    "headline": "Google brings its Gemini Personal Intelligence feature to India",
-    "summary": "Google expands Gemini Personal Intelligence feature to India, allowing users to connect Gmail and Photos for personalized AI answers.",
-    "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 14:48"
-  },
-  {
-    "id": "a49e04e68eb7",
-    "headline": "AI Slop Is Making the Internet Fake-Happy",
-    "summary": "Study examines the impact of AI-generated websites on the internet, revealing surprising findings about the rise of AI-generated content.",
-    "description": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 11:00"
-  },
-  {
-    "id": "5f1e4b60b0b2",
-    "headline": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-    "summary": "Analysis reveals nearly 90 schools and 600 students worldwide impacted by AI-generated deepfake nude images, with the crisis worsening.",
-    "description": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 10:00"
-  },
-  {
-    "id": "0671f6ec14bd",
-    "headline": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-    "summary": "Tutorial on using Google Chrome's new AI-powered 'Skills' feature through Gemini sidebar for tasks like recipe optimization and video summarization.",
-    "description": "The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 17:00"
-  },
-  {
-    "id": "6426a6b91a54",
-    "headline": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-    "summary": "Anthropic opposes proposed Illinois AI liability law backed by OpenAI, disagreeing on rules for AI lab accountability in disasters.",
-    "description": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 15:21"
-  },
-  {
-    "id": "3720658b0a3f",
-    "headline": "Building trust in the AI era with privacy-led UX",
-    "summary": "Article discusses privacy-led UX design philosophy as integral to customer relationships and data transparency in the AI era.",
-    "description": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 06:00"
-  },
-  {
-    "id": "538d40d262a4",
-    "headline": "Redefining the future of software engineering",
-    "summary": "Explores two major shifts in software engineering: the open source movement and AI integration transforming the industry.",
-    "description": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 Apr 2026, 18:00"
-  },
-  {
-    "id": "cba5bbccb9f5",
-    "headline": "Microsoft faces fresh Windows Recall security concerns - The Verge",
-    "summary": "Microsoft Windows Recall faces fresh security concerns with researcher demonstrating new exploit on the AI feature.",
-    "description": "Microsoft faces fresh Windows Recall security concerns The VergeWindows Recall's new security problem is the same researcher, same tool, new exploit The Times of IndiaTotalRecall Breaks Recall Security via AIXHost Gap The Cyber ExpressMicrosoft says new Windows Recall bypass isn't a vulnerability iTnews",
-    "tags": [
-      "Microsoft",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQy1JS2FpNlZmYTVBSUlabVFJaThDLVMwOG1QajNsUThaRTFKekdSZjUyMFFoMVl1Rk9saVBpR3JLMVkwSE5GYnlma1hLV0d0R1dkcnV0R3Z5cVFQdThWRGhlYXZqU1hEM082WnVfR2NFcXlYejgzOEhfbkl5R2xfNHhDb3Z1M2pnSXh6RGpzTWhkWmNaNXdCUVJB?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 11:30"
-  },
-  {
-    "id": "5424d1dc7341",
-    "headline": "Drones get smarter for large farm holdings",
-    "summary": "Singapore's DroneDash Technologies and GEODNET form joint venture to build AI-powered agricultural spraying drone for large industrial farms.",
-    "description": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated before each flight, and the need to rebuild flight plans ... The post Drones get smarter for large farm holdings appeared first on AI News.",
-    "tags": [
-      "Robotics",
-      "Startup"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 11:03"
-  },
-  {
-    "id": "da7bbbace390",
-    "headline": "The US-China AI gap closed. The responsible AI gap didn’t",
-    "summary": "Stanford's 2026 AI Index Report finds US-China AI performance gap has closed, but responsible AI gap remains significant.",
-    "description": "The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University’s 2026 AI Index Report, published this week. The report, produced by Stanford’s Institute for Human-Centred Artificial Intelligence, is a 423-page annual assessment of where ... The post The US-China AI gap closed. The responsible AI gap didn’t appeared first on AI News.",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 10:00"
-  },
-  {
-    "id": "db4c13cb95e0",
-    "headline": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
-    "summary": "Google DeepMind releases Gemini Robotics-ER 1.6, an upgraded embodied reasoning model serving as the 'cognitive brain' for physical AI robots.",
-    "description": "Google DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the ‘cognitive brain’ of robots operating in real-world environments. The model specializes in reasoning capabilities critical for robotics, including visual and spatial understanding, task planning, and success detection — acting as the high-level reasoning model ... The post Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reason",
-    "tags": [
-      "Robotics",
-      "Google",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 07:13"
-  },
-  {
-    "id": "f92892ead2d5",
-    "headline": "Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows",
-    "summary": "Google launches Chrome 'Skills' feature enabling users to save reusable AI prompts as one-click browser workflows in Gemini.",
-    "description": "Google just announced the release of Skills in Chrome, a new feature built into Gemini in Chrome that lets users save frequently used AI prompts as reusable, one-click workflows called Skills. The rollout begins April 14, 2026, targeting Mac, Windows, and ChromeOS users who have their Chrome language set to English-US. If you’ve been paying ... The post Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 03:54"
-  },
-  {
-    "id": "d8f62daecf2c",
-    "headline": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction",
-    "summary": "Tutorial demonstrating Crawl4AI workflow for web crawling with markdown generation, JavaScript execution, and LLM-based structured data extraction.",
-    "description": "In this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML. We set up the full environment, configure browser behavior, and work through essential capabilities such as basic crawling, markdown generation, structured CSS-based extraction, JavaScript execution, session handling, screenshots, link analysis, concurrent ... The post A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, Jav",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 Apr 2026, 00:39"
   }
 ]
