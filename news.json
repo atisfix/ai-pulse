@@ -1,5 +1,374 @@
 [
   {
+    "id": "3d0f6dbfbfbc",
+    "headline": "Gemini is in danger of going full Copilot",
+    "summary": "Google's Gemini AI assistant is increasingly integrated across Google apps, raising concerns about feature creep similar to Microsoft's Copilot strategy.",
+    "description": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's ...",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 06:30"
+  },
+  {
+    "id": "a502443bbdda",
+    "headline": "Musk v. Altman proved that AI is led by the wrong people",
+    "summary": "Elon Musk sued Sam Altman over control of OpenAI, arguing Altman shouldn't direct the company's future direction.",
+    "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 15:00"
+  },
+  {
+    "id": "9013ae95a7bc",
+    "headline": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "summary": "Musk and Altman faced off in a high-stakes trial that could reshape OpenAI's future and ChatGPT's development.",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 13:49"
+  },
+  {
+    "id": "350d6d1843ee",
+    "headline": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "summary": "Amazon's Alexa Plus now generates AI podcasts on virtually any topic, expanding its AI assistant capabilities.",
+    "description": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation ...",
+    "tags": [
+      "Amazon",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 11:55"
+  },
+  {
+    "id": "e223b3fa6348",
+    "headline": "Revamped Siri will reportedly offer autodeleting chats",
+    "summary": "Apple is revamping Siri with auto-deleting chats to differentiate on privacy as it lags competitors in AI features.",
+    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. ...",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 May 2026, 14:40"
+  },
+  {
+    "id": "3ae294a79b8d",
+    "headline": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "summary": "SandboxAQ integrated its drug discovery AI models with Claude, making advanced research tools accessible without coding expertise.",
+    "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "tags": [
+      "Anthropic",
+      "Healthcare",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 21:29"
+  },
+  {
+    "id": "ef3321129630",
+    "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "summary": "Anthropic acquired Stainless, a dev tools startup used by OpenAI and Google, to automate SDK creation for AI development.",
+    "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 19:27"
+  },
+  {
+    "id": "a51f0e6da3ea",
+    "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "summary": "Elon Musk lost his lawsuit against OpenAI and Sam Altman after a jury unanimously decided his claims were filed too late.",
+    "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 17:34"
+  },
+  {
+    "id": "95bd7ef6f754",
+    "headline": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "summary": "Amazon's Alexa+ expands into a personalized AI content platform by generating custom podcast episodes on demand.",
+    "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "tags": [
+      "Amazon",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 14:56"
+  },
+  {
+    "id": "bdd70bc1765e",
+    "headline": "South Korea’s LetinAR is building optics behind AI glasses",
+    "summary": "South Korean startup LetinAR develops thumbnail-sized optics that could become the foundation for next-generation AI glasses.",
+    "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 11:00"
+  },
+  {
+    "id": "591e7612c888",
+    "headline": "The haves and have-nots of the AI gold rush",
+    "summary": "The AI industry's enthusiasm is waning as participants grapple with challenges amid the ongoing AI gold rush.",
+    "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 May 2026, 20:17"
+  },
+  {
+    "id": "4949910f345f",
+    "headline": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "summary": "A jury unanimously sided with OpenAI in Musk's landmark lawsuit, reaching a verdict in just two hours.",
+    "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 17:40"
+  },
+  {
+    "id": "8a49d9300a30",
+    "headline": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+    "summary": "Elon Musk lost his OpenAI lawsuit; coverage includes smart glasses for warfare and Google I/O updates.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
+    "tags": [
+      "OpenAI",
+      "Google"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 12:10"
+  },
+  {
+    "id": "f1f2535fb28f",
+    "headline": "Here’s why Elon Musk lost his suit against OpenAI",
+    "summary": "Jury ruled Musk sued OpenAI too late, with claims barred by statute of limitations in the landmark trial.",
+    "description": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it. Musk announced on X that he will…",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 00:53"
+  },
+  {
+    "id": "230be9748d64",
+    "headline": "What to expect from Google this week",
+    "summary": "Google's annual developer conference features AI announcements and strategy updates for The Algorithm newsletter.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+    "tags": [
+      "Google"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 17:35"
+  },
+  {
+    "id": "dea14ab304d6",
+    "headline": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "summary": "In Musk v. Altman trial week 3, both founders traded credibility arguments before jury ruled in OpenAI's favor.",
+    "description": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s…",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 May 2026, 23:39"
+  },
+  {
+    "id": "b65774f44b0d",
+    "headline": "Apple unveils new accessibility features, and updates with Apple Intelligence - Apple",
+    "summary": "Apple announces new accessibility features and Apple Intelligence updates across iPhone, Mac, and Vision Pro.",
+    "description": "Apple unveils new accessibility features, and updates with Apple Intelligence AppleApple Intelligence Brings Accessibility Updates Across iPhone, Mac and Vision Pro CNETApple bringing new accessibility features boosted by its AI system Seeking AlphaApple Intelligence-Infused Accessibility Features Promise Greater Flexibility and Power MacStoriesApple announces return of popular MagSafe iPhone stand and grip 9to5Mac",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFBXLWwxYUJpelJGU09LTlVpbjhtUGRyaWZxVXMzSkpMY3pubnMzX2tBTUUzSVVxTVEwTFhWbjByVllQQmFxZVMyVmJHVElYRDk1ck42N1dJSjlMbDUzQms2VzY5Q0NIc092TmwtRENDd19mMmhSQXVaS2paU3ZjY3NXZXd0aTZRVENtZTdZVU1GSTBGVVFuYWxSY0ZTb214OWI4QTgtRlFIWXM2dHlMRmphcmpFZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 12:03"
+  },
+  {
+    "id": "75d97c854c64",
+    "headline": "Gemini is in danger of going full Copilot - The Verge",
+    "summary": "Google's Gemini faces feature creep risks similar to Microsoft Copilot integration across apps.",
+    "description": "Gemini is in danger of going full Copilot The VergeSee more headlines & perspectives on Google News",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnM1RndRUEdrVWNDZlVGSXRqZVJhRUdjTlk0Y2lrSVE2dHRNQ3FjWE94bllZOE9KSWNRZDlRZnYyV1FGOEQ3S1ZSM0EtOVB1MHhMdWM5V1R0T0NXSHQ1MmRGWEJwWEMzSEZZd2xTejBfRkJKRlhPZk1nOWdJLVhJeS1sR18?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 10:30"
+  },
+  {
+    "id": "2b8c6142bdb7",
+    "headline": "Alexa+ now generates podcast episodes on demand - About Amazon",
+    "summary": "Amazon's Alexa+ generates podcast episodes on demand, creating AI-generated audio content from topics.",
+    "description": "Alexa+ now generates podcast episodes on demand About AmazonAlexa+ Can Now Turn Any Topic Into an AI Podcast eWeekAmazon’s Alexa+ Now Produces AI-Generated ‘Podcasts’ Featuring Chats Between Two Robot ‘Co-Hosts’ VarietyAmazon Alexa Plus can now create AI-generated podcasts The VergeAmazon's copies NotebookLM in the worst way with AI podcasts MakeUseOf",
+    "tags": [
+      "Amazon",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm14dHVZRlA4NTRRVmdUMy1iRTNEeWc2RXFpX01Xc1liNkdaeXdoRUFSTTIwZU9yY2QwWml5SGIyQU5EV2hEQkY5RlZhWl9GNU5IT1NSb2pPeGVITHBnVEpuUGRUTGwxdV8yTzdfaTJNU3VOTnZtUDlMRm9FM0tpM0ZzMy1JZkY2ZTlF?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 07:51"
+  },
+  {
+    "id": "4f60bae33cb0",
+    "headline": "What We’re Expecting at Google I/O 2026 - Gizmodo",
+    "summary": "Google I/O 2026 will showcase smarter Android with Gemini Intelligence and smart glasses updates.",
+    "description": "What We’re Expecting at Google I/O 2026 GizmodoA smarter, more proactive Android with Gemini Intelligence blog.googleGoogle I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen WIREDWhat to expect from Google this week MIT Technology ReviewGoogle I/O preview: AI set to take center stage Seeking Alpha",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZFVNUWZYT1hoWHlJalkyLXNaTVFZZnY1YmFXN1BpRHZxUk02Q0JYOVV1MzNmWWJBWE1yeExxb2FBd3JJQUpfVWJNeFczMFJxaGNEdlJrWk5XRlBsT2J3dHd6T2RSbjA1bnVSS0h3Q2xqYmhlVElTaw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 11:00"
+  },
+  {
+    "id": "cbef342f11b8",
+    "headline": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports - The Verge",
+    "summary": "Linus Torvalds reports Linux security mailing list becoming unmanageable due to AI-generated bug reports.",
+    "description": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports The VergeLinus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’ The RegisterLinus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' — private list 'a waste of time for everybody involved' in switch to new public system Tom's HardwareLinux developers are getting bomba",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jemlqakJOZTl4cmZ1NTg0ekp2cjJkdGgwQ0lKTUdGQVlWWEpFRE5zSktVVWlDLW1pYmE3V056bGdHTWpJYkgyWkF6NnFMWURKUDRHVktpbWpVaUN6VXBFYlN1WllXc19HdGl6aDIxMmFITFBwT2d3WEwtTFBJZGc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 May 2026, 14:21"
+  },
+  {
+    "id": "55e49a347e47",
+    "headline": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "summary": "TechEx North America highlights AI as a matter of power, infrastructure, and security across industries.",
+    "description": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it’s sometimes the smaller considerations that need to play big – at least, in the minds of enterprise decision-makers. ... The post AI is a matter of power, infrastructure and security: TechEx North America appeared first on AI News.",
+    "tags": [
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-19",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "19 May 2026, 01:36"
+  },
+  {
     "id": "8b1f8651d0c8",
     "headline": "Revamped Siri will reportedly offer auto-deleting chats",
     "summary": "Apple plans to revamp Siri with auto-deleting chats, positioning privacy as a competitive differentiator in the AI market as it catches up to competitors.",
@@ -10342,289 +10711,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "19 Apr 2026, 11:57"
-  },
-  {
-    "id": "a3d10ac4e4cc",
-    "headline": "OpenAI’s former Sora boss is leaving",
-    "summary": "OpenAI's Sora team leader Bill Peebles is leaving after the company abandoned its video generation tool, signaling a strategic shift in priorities.",
-    "description": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company ...",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 17:13"
-  },
-  {
-    "id": "7bf45bef7c8d",
-    "headline": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-    "summary": "Anthropic launches a cybersecurity model amid political tensions with the Trump administration over the company's values.",
-    "description": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. ...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 16:14"
-  },
-  {
-    "id": "adcbf84a0c2c",
-    "headline": "This charming gadget writes bad AI poetry",
-    "summary": "A novelty Poetry Camera gadget uses AI to generate poetry, offering a whimsical but flawed creative experience.",
-    "description": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 13:30"
-  },
-  {
-    "id": "390558bc2b00",
-    "headline": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-    "summary": "Dairy Queen deploys AI chatbots in drive-thrus across North America to improve service speed and efficiency.",
-    "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Following a ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 11:46"
-  },
-  {
-    "id": "c39ee1ed9456",
-    "headline": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "summary": "OpenAI executives Kevin Weil and Bill Peebles depart as the company discontinues Sora and its science team to focus on enterprise AI.",
-    "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-    "tags": [
-      "OpenAI",
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 20:38"
-  },
-  {
-    "id": "e6b7863fb8f2",
-    "headline": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "summary": "Growing divergence between AI insiders and general public widens as OpenAI aggressively acquires companies and spending increases dramatically.",
-    "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too ...",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 15:57"
-  },
-  {
-    "id": "abf655b50010",
-    "headline": "Anthropic launches Claude Design, a new product for creating quick visuals",
-    "summary": "Anthropic launches Claude Design tool to help non-designers quickly create visuals and communicate ideas.",
-    "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-    "tags": [
-      "Anthropic",
-      "Image Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 15:00"
-  },
-  {
-    "id": "ffc363181614",
-    "headline": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "summary": "Schematik, a coding tool for hardware design, attracts Anthropic's interest as an AI-powered development aid.",
-    "description": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "tags": [
-      "Anthropic",
-      "Hardware"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "18 Apr 2026, 10:30"
-  },
-  {
-    "id": "4b5a7c01c2f1",
-    "headline": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "summary": "Former Instagram VP Kevin Weil leaves OpenAI; the company consolidates his science team into Codex.",
-    "description": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 19:56"
-  },
-  {
-    "id": "513ff1c414f9",
-    "headline": "AI Drafting My Stories? Over My Dead Body",
-    "summary": "Newsrooms increasingly adopt AI writing assistance tools, raising concerns about editorial integrity and deeper professional implications.",
-    "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 15:46"
-  },
-  {
-    "id": "6974ed72227e",
-    "headline": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale",
-    "summary": "Google releases Auto-Diagnose, an LLM-based system to automatically diagnose integration test failures at scale.",
-    "description": "If you have ever stared at thousands of lines of integration test logs wondering which of the sixteen log files actually contains your bug, you are not alone — and Google now has data to prove it. A team of Google researchers introduced Auto-Diagnose, an LLM-powered tool that automatically reads the failure logs from a ... The post Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "18 Apr 2026, 06:00"
-  },
-  {
-    "id": "6515ea3e153d",
-    "headline": "A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows",
-    "summary": "Tutorial for running OpenAI's open-weight GPT-OSS models in Google Colab with advanced inference workflows.",
-    "description": "In this tutorial, we explore how to run OpenAI’s open-weight GPT-OSS models in Google Colab with a strong focus on their technical behavior, deployment requirements, and practical inference workflows. We begin by setting up the exact dependencies needed for Transformers-based execution, verifying GPU availability, and loading openai/gpt-oss-20b with the correct configuration using native MXFP4 quantization, ... The post A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with ",
-    "tags": [
-      "OpenAI",
-      "LLM",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "18 Apr 2026, 03:39"
-  },
-  {
-    "id": "4b03cb5d08e0",
-    "headline": "Top 19 AI Red Teaming Tools (2026): Secure Your ML Models",
-    "summary": "Comprehensive guide to 19 AI red teaming security tools for 2026 as regulatory requirements increase.",
-    "description": "As Generative AI matures, so do the threats against it. AI Red Teaming has evolved from a niche security practice into a regulatory requirement. Our 2026 guide breaks down the top 19 tools—including Mindgard, Garak, and Microsoft’s PyRIT—to help security teams identify vulnerabilities like data leakage and bias before they reach production. The post Top 19 AI Red Teaming Tools (2026): Secure Your ML Models appeared first on MarkTechPost.",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 20:45"
-  },
-  {
-    "id": "90f4dd5314ae",
-    "headline": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court",
-    "summary": "Legal analysis warns that sharing privileged information with ChatGPT or Claude may waive attorney-client privilege.",
-    "description": "\"Disclosure of privileged communications to a third-party AI platform may constitute a waiver of the attorney-client privilege.\" The post Things You Told ChatGPT or Claude My Have Already Doomed You in Court appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/lawyer-claude-ai-chatbot",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 Apr 2026, 08:15"
-  },
-  {
-    "id": "23dcd7ee03a0",
-    "headline": "Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice",
-    "summary": "Millions of Americans increasingly seek medical advice from AI chatbots despite receiving dangerously inaccurate health information.",
-    "description": "What could possibly go wrong? The post Millions of Americans Are Talking to AI Instead of Going to the Doctor, and It’s Giving Them Horrendously Flawed Medical Advice appeared first on Futurism.",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/millions-americans-ai-instead-doctor-bad-advice",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 16:06"
-  },
-  {
-    "id": "76cef0a3a7eb",
-    "headline": "Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave",
-    "summary": "Val Kilmer's estate announces AI-generated film using his likeness posthumously, sparking outrage over ethical implications.",
-    "description": "\"This is truly the MOST disgusting thing I’ve ever seen.\" The post Fury Erupts as Val Kilmer’s Estate Announces Starring Role in AI Film Made From Beyond the Grave appeared first on Futurism.",
-    "tags": [
-      "Creative AI",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/fury-val-kilmer-role-ai-film",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 Apr 2026, 09:21"
-  },
-  {
-    "id": "317318e54dee",
-    "headline": "Healthcare",
-    "summary": "OpenAI blog highlights how ChatGPT supports clinicians with HIPAA-compliant tools for diagnosis and patient care.",
-    "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "tags": [
-      "OpenAI",
-      "Healthcare"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/academy/healthcare",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 Apr 2026, 00:00"
   }
 ]
