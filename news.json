@@ -1,5 +1,337 @@
 [
   {
+    "id": "b739488c1b2e",
+    "headline": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+    "summary": "Elon Musk sues OpenAI, alleging the company abandoned its non-profit mission and became a for-profit entity controlled by Microsoft.",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 16:15"
+  },
+  {
+    "id": "7e60f1aa66b9",
+    "headline": "This AI guitar pedal let me roll my own effects",
+    "summary": "Polyend releases an AI guitar pedal that generates custom effects, marking the arrival of AI-powered music hardware.",
+    "description": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around old-school trackers and a multi-effect ...",
+    "tags": [
+      "Creative AI",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 13:00"
+  },
+  {
+    "id": "d94af35fce60",
+    "headline": "Spotify is launching AI-generated remixes",
+    "summary": "Spotify and Universal Music Group partner to enable AI-generated song covers and remixes with artist revenue sharing.",
+    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 11:54"
+  },
+  {
+    "id": "45ded52eb862",
+    "headline": "Spotify Studio’s AI agent creates a daily podcast just for you",
+    "summary": "Spotify Studio is a new AI app generating daily podcasts, briefings, and playlists based on user prompts and listening history.",
+    "description": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can ...",
+    "tags": [
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 11:47"
+  },
+  {
+    "id": "81a6505b2f10",
+    "headline": "AI video is moving beyond clip slop",
+    "summary": "AI-generated video content is becoming more sophisticated and moving beyond low-quality clips, reshaping entertainment production.",
+    "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa ...",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 11:30"
+  },
+  {
+    "id": "92f013028c20",
+    "headline": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+    "summary": "Anthropic secures $15 billion annual access to SpaceX's Colossus data centers to power AI model training and deployment.",
+    "description": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's company. In its S-1 filing, SpaceX said ...",
+    "tags": [
+      "Anthropic",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 09:35"
+  },
+  {
+    "id": "2fa65df388e8",
+    "headline": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "summary": "Spotify and Universal Music Group enable AI-generated song covers with artist revenue participation for Premium subscribers.",
+    "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 19:45"
+  },
+  {
+    "id": "f9a8a76abb73",
+    "headline": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "summary": "Trump delays AI security executive order requiring pre-release government reviews of AI models, citing language concerns.",
+    "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 17:30"
+  },
+  {
+    "id": "f30bd587abb0",
+    "headline": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "summary": "Spotify adds AI-powered briefing and Q&A generation for podcasts, enabling users to create custom content summaries.",
+    "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 15:27"
+  },
+  {
+    "id": "bd9e0d36026b",
+    "headline": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "summary": "Spotify launches ElevenLabs-powered AI audiobook tool allowing authors to generate audiobooks without exclusive contracts.",
+    "description": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 15:27"
+  },
+  {
+    "id": "84f9f80b9d71",
+    "headline": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "summary": "The Path launches safer AI therapy with 95/100 mental health safety score, vastly outperforming consumer AI chatbots.",
+    "description": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+    "tags": [
+      "Healthcare",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 14:00"
+  },
+  {
+    "id": "4ceca3a64d92",
+    "headline": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+    "summary": "Hark raises $700M Series A for multimodal AI models powering a universal personal AI assistant platform launching summer 2025.",
+    "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 14:00"
+  },
+  {
+    "id": "22b8c577c817",
+    "headline": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "summary": "Google introduces AI agents at I/O as new consumer web interface, though market reception remains unclear amid complexity.",
+    "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 13:52"
+  },
+  {
+    "id": "0a98e2b9d8b6",
+    "headline": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "summary": "OpenAI's Chris Lehane aims to moderate AI debate and influence state legislation favoring the company's growth.",
+    "description": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 May 2026, 00:04"
+  },
+  {
+    "id": "7b77d2d0afe0",
+    "headline": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+    "summary": "Google's Gemini AI avatar tool generates realistic video clones of users, raising both creative and ethical questions.",
+    "description": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.",
+    "tags": [
+      "Google",
+      "Video Gen"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 15:48"
+  },
+  {
+    "id": "baf9ca5dba53",
+    "headline": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "summary": "Anthropic's Code with Claude conference showcases AI's role in programming, exploring coding's AI-driven future.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 May 2026, 12:10"
+  },
+  {
+    "id": "ae2fc4c58623",
+    "headline": "Google I/O showed how the path for AI-driven science is shifting",
+    "summary": "Google DeepMind CEO claims AI is reaching singularity foothills, highlighting AI's expanding role in scientific discovery.",
+    "description": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the…",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 May 2026, 10:00"
+  },
+  {
+    "id": "806ed7de3208",
+    "headline": "Roundtables: Can AI Learn to Understand the World?",
+    "summary": "AI companies develop world models to help systems understand external environments beyond LLM limitations.",
+    "description": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 20:41"
+  },
+  {
+    "id": "70d350f874e2",
+    "headline": "Scaling creativity in the age of AI",
+    "summary": "Article explores AI's impact on creative storytelling and how technology shapes narrative media distribution.",
+    "description": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 19:16"
+  },
+  {
+    "id": "e277b7721b53",
+    "headline": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "summary": "Anthropic's Code with Claude event showcases Claude's capabilities in software development and AI coding tools.",
+    "description": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-22",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 May 2026, 14:30"
+  },
+  {
     "id": "25d09933c0e4",
     "headline": "Meta lays off thousands of employees to offset AI investments",
     "summary": "Meta is laying off thousands of employees to offset its substantial AI investments, as the company prioritizes AI development.",
@@ -10513,335 +10845,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "22 Apr 2026, 09:30"
-  },
-  {
-    "id": "0fc7bbe16e54",
-    "headline": "Yelp is making its AI chatbot way more useful",
-    "summary": "Yelp upgrades its AI chatbot with new features to function as a digital concierge for completing tasks on the platform.",
-    "description": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 07:00"
-  },
-  {
-    "id": "df202fad8679",
-    "headline": "Fortnite developers can make AI characters now — just don’t try to date them",
-    "summary": "Epic Games launches a new AI 'conversations' tool for Fortnite creators to build AI characters with restrictions on dating interactions.",
-    "description": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 12:58"
-  },
-  {
-    "id": "c8dbe2cdc7a2",
-    "headline": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "summary": "Amazon invests $5B in Anthropic, which commits to spending $100B on AWS cloud services in return.",
-    "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 23:10"
-  },
-  {
-    "id": "7dec4a43cd53",
-    "headline": "Google rolls out Gemini in Chrome in 7 new countries",
-    "summary": "Google expands Gemini AI assistant availability in Chrome to seven Asian-Pacific countries on desktop and iOS.",
-    "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 22:00"
-  },
-  {
-    "id": "fc27d5a3b627",
-    "headline": "It’s not just one thing — it’s another thing",
-    "summary": "Analysis of common sentence patterns in AI-generated writing that reveal synthetic text authorship.",
-    "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 19:37"
-  },
-  {
-    "id": "729051acfa69",
-    "headline": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "summary": "NSA reportedly uses Anthropic's restricted Mythos AI model despite tensions with the Pentagon.",
-    "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 16:06"
-  },
-  {
-    "id": "95f6ea9b8666",
-    "headline": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "summary": "CEO and CFO abruptly depart Fermi, an AI nuclear power startup co-founded by Rick Perry facing operational challenges.",
-    "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-    "tags": [
-      "Startup",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 15:30"
-  },
-  {
-    "id": "dbb0ee01716f",
-    "headline": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
-    "summary": "Medical student reportedly profits thousands by selling AI-generated photos and videos of a fictional conservative woman.",
-    "description": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-generated-maga-girls/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 11:00"
-  },
-  {
-    "id": "4ba0181ca457",
-    "headline": "Deezer says AI song uploads have nearly overtaken human music - The Verge",
-    "summary": "Deezer reports AI-generated music now comprises 44% of all new uploads to its streaming platform.",
-    "description": "Deezer says AI song uploads have nearly overtaken human music The VergeDeezer: AI-generated tracks now represent 44% of all new uploaded music Deezer NewsroomDeezer says 44% of songs uploaded to its platform daily are AI-generated TechCrunchDeezer says 44% of new music uploads are AI-generated, most streams are fraudulent Ars TechnicaAI music goes crazy with nearly 50 percent of monthly uploads pickr.com.au",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWUzZVNsVjlOckhOaGxxQllWdnB3MmJuMWxndGNBcU41WnI4aVlQSmMzcWRmSUVCdUhId29BckRjSzZIb3VJU0VLYTJDR25oOGNUbnJTWmFYamRoaF9ubG1zSV9ZNjcxSjh6UEhSS2UwRTk2OGJXcTVnVzM2OFpLRA?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 17:56"
-  },
-  {
-    "id": "480e35df1888",
-    "headline": "Siemens introduces AI system for automation engineering",
-    "summary": "Siemens introduces Eigen Engineering Agent, an AI system for planning and validating automation engineering tasks.",
-    "description": "Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, letting it to complete workflows from initial design through to validation. Autonomous engineering workflows The agent ... The post Siemens introduces AI system for automation engineering appeared first on ",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 10:00"
-  },
-  {
-    "id": "1535d58b6811",
-    "headline": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-    "summary": "Bobyard releases version 2.0 with improved takeoff workflows and unified AI tools for construction estimators.",
-    "description": "AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landscaping industry. By speeding up takeoff operations, a important part of estimating a ... The post Bobyard 2.0 offers improved takeoffs and unified AI for estimators appeared first on AI News.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 13:15"
-  },
-  {
-    "id": "3cc75d24f02b",
-    "headline": "A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG, and Session Persistence",
-    "summary": "Technical tutorial demonstrating multimodal inference, tool calling, and RAG implementations using Qwen 3.6-35B model.",
-    "description": "In this tutorial, we build an end-to-end implementation around Qwen 3.6-35B-A3B and explore how a modern multimodal MoE model can be used in practical workflows. We begin by setting up the environment, loading the model adaptively based on available GPU memory, and creating a reusable chat framework that supports both standard responses and explicit thinking ... The post A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG, a",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 07:54"
-  },
-  {
-    "id": "ae078b243044",
-    "headline": "Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps",
-    "summary": "Moonshot AI open-sources Kimi K2.6, a multimodal agentic model supporting agent swarms with 300+ sub-agents and 4,000 coordinated steps.",
-    "description": "Moonshot AI, the Chinese AI lab behind the Kimi assistant, today open-sourced Kimi K2.6 — a native multimodal agentic model that pushes the boundaries of what an AI system can do when left to run autonomously on hard software engineering problems. The release targets practical deployment scenarios: long-running coding agents, front-end generation from natural language, ... The post Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinate",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-with-long-horizon-coding-agent-swarm-scaling-to-300-sub-agents-and-4000-coordinated-steps/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 01:58"
-  },
-  {
-    "id": "e7a1c8d82bc6",
-    "headline": "A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning",
-    "summary": "Tutorial covering quantized inference, reasoning, tool use, RAG, and fine-tuning implementations with Microsoft's Phi-4-mini model.",
-    "description": "In this tutorial, we build a pipeline on Phi-4-mini to explore how a compact yet highly capable language model can handle a full range of modern LLM workflows within a single notebook. We begin by setting up a stable environment, loading Microsoft’s Phi-4-mini-instruct in efficient 4-bit quantization, and then move step by step through streaming ... The post A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning appeared first on Mar",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/20/a-coding-implementation-on-microsofts-phi-4-mini-for-quantized-inference-reasoning-tool-use-rag-and-lora-fine-tuning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 00:13"
-  },
-  {
-    "id": "43453238a9c2",
-    "headline": "Jean-Michel Jarre urges music and film industries to embrace AI",
-    "summary": "Musician Jean-Michel Jarre advocates for AI adoption in music and film industries, contrasting with other artists' concerns.",
-    "description": "French musician’s comments are in stark contrast to fears expressed by artists such as Elton John and Dua LipaJean-Michel Jarre has attacked the conservatism of the music and film industries over AI and urged them to embrace the technology instead of being fearful and “very anti-AI”.Jarre, one of the pioneers of electronic music in the 1970s, said while the existing creative industries were “freaking out” over the technology, artists would use AI “to create the cinema of tomorrow, the hip-hop of",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/music/2026/apr/21/jean-michel-jarre-music-film-industries-embrace-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 12:20"
-  },
-  {
-    "id": "0a3343470eac",
-    "headline": "‘Uber for nurses’: gig-work apps lobby to deregulate healthcare, report finds",
-    "summary": "Report warns gig-work platforms using AI lobby for deregulation of nursing services, compromising worker protections.",
-    "description": "Growing use of AI tech comes at expense of workers’ rights, protections and pay, report warnsBillion-dollar tech platforms are aggressively pushing for deregulation of the “Uber for nursing” industry in an effort to expand gig work in the healthcare sector, according to a report published Tuesday.The report from the AI Now Institute, Uber for Nursing Part II: How Gig Nursing Companies Are Lobbying States to Deregulate Healthcare, examines the use of artificial intelligence to staff hospitals and",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/apr/21/healthcare-nurses-gig-work-ai-apps",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 10:00"
-  },
-  {
-    "id": "700f34bfa5f3",
-    "headline": "Why are respected film-makers suddenly embracing AI?",
-    "summary": "Renowned filmmakers including Soderbergh and Aronofsky are incorporating AI tools into film production workflows.",
-    "description": "From Soderbergh to Aronofsky, esteemed Hollywood directors are starting to find ways to include artificial intelligence in the production of their filmsIn Steven Soderbergh’s beguiling new movie The Christophers, a reclusive artist (Ian McKellen) tangles with the quiet art forger (Michaela Coel) who his greedy children have hired to secretly finish further entries in a well-known painting series. The movie is smart and provocative about the nature of artistry and authorship, exploring what it me",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 09:00"
-  },
-  {
-    "id": "9bc35bcc388d",
-    "headline": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
-    "summary": "Palantir's CEO manifesto promoting US military dominance and AI weaponization raises concerns over UK government contracts.",
-    "description": "Alarm caused by posts of Alex Karp, tech firm’s CEO, championing US military dominance and of AI weaponsThe US spy tech company Palantir published a manifesto extolling the benefits of American power and implying some cultures are inferior to others – in what MPs have called “a parody of a RoboCop film” and “the ramblings of a supervillain”.“Some cultures have produced vital advances; others remain dysfunctional and regressive,” wrote Palantir in a 22-point post on X over the weekend, which also",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 05:00"
-  },
-  {
-    "id": "8fc4ff303d72",
-    "headline": "Mythos: are fears over new AI model panic or PR? – podcast",
-    "summary": "Podcast examining Anthropic's decision to restrict its powerful Mythos AI model and debate over justified safety concerns.",
-    "description": "Earlier this month the AI company Anthropic said it had created a model so powerful that, out of a sense of responsibility, it was not going to release it to the public. Anthropic says the model, Mythos Preview, excels at spotting and exploiting vulnerabilities in software, and could pose a severe risk to economies, public safety and national security. But is this the whole story? Some experts have expressed scepticism about the extent of the model’s capabilities. Ian Sample hears from Aisha Dow",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/science/audio/2026/apr/21/mythos-are-fears-over-new-ai-model-panic-or-pr-podcast",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 Apr 2026, 04:00"
-  },
-  {
-    "id": "b299ff57c61c",
-    "headline": "Is Richard Tice’s picture AI-manipulated? Here are five giveaways",
-    "summary": "Analysis of AI-manipulated elements in Richard Tice's campaign photo, with experts identifying digital artifacts.",
-    "description": "Experts and social media sleuths studying the Reform deputy leader’s image of an apparent campaign event say the sausage fingers point to sleight of hand***After Richard Tice posted a picture of an apparent Reform campaign event on Sunday, experts and social media detectives took a closer look and concluded from a variety of telltale signs that the image had either been edited or generated by artificial intelligence. Here are some of the elements that critics called into question. Continue readi",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/politics/ng-interactive/2026/apr/20/five-signs-richard-tice-picture-ai-manipulated",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 Apr 2026, 16:56"
   }
 ]
