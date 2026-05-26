@@ -1,5 +1,405 @@
 [
   {
+    "id": "7faea881192e",
+    "headline": "Nobody wants to tell me why they only listen to their own Suno slop",
+    "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their",
+    "description": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 08:46"
+  },
+  {
+    "id": "617abcc03fd7",
+    "headline": "AI warfare is already here",
+    "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United",
+    "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 08:00"
+  },
+  {
+    "id": "72d17fd8463f",
+    "headline": "Uber president says AI spending is getting ‘harder to justify’",
+    "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns o",
+    "description": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 05:55"
+  },
+  {
+    "id": "eb7bec7e0b81",
+    "headline": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas",
+    "description": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 11:05"
+  },
+  {
+    "id": "359f0cfb2189",
+    "headline": "What ClickUp’s mass layoff tells us about the future of work",
+    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 16:00"
+  },
+  {
+    "id": "8899eae0a6cd",
+    "headline": "The pope’s AI encyclical isn’t really about AI",
+    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ",
+    "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 15:09"
+  },
+  {
+    "id": "be457b9f1f1d",
+    "headline": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+    "description": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "21e716885752",
+    "headline": "Quiz: Will AI Destroy Your Career?",
+    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+    "description": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "3d83bb77e9d2",
+    "headline": "AI Is Taking Over the Most Cursed Job in the World",
+    "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+    "description": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "2b96d7e1b2f8",
+    "headline": "Take This Mandatory AI Workplace Training Right Now—or Else",
+    "summary": "AI could make you redundant. Here’s what you need to know.",
+    "description": "AI could make you redundant. Here’s what you need to know.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-or-die-trying/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "f829ce8025e1",
+    "headline": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "description": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/fact-checking-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "feaecc5a30b7",
+    "headline": "To Land a Job in AI, Try Reading Kant",
+    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another ins",
+    "description": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "f4256088ae6c",
+    "headline": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+    "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+    "description": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "251201e3b11a",
+    "headline": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+    "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category o",
+    "description": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 09:30"
+  },
+  {
+    "id": "0c9a77929018",
+    "headline": "The Download: puncturing the AI jobs panic",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality ch",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 12:10"
+  },
+  {
+    "id": "21842f8e2018",
+    "headline": "A reality check on the AI jobs hysteria",
+    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisc",
+    "description": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 09:00"
+  },
+  {
+    "id": "e03072094a64",
+    "headline": "It’s time to address the looming crisis in entry-level work.",
+    "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable",
+    "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 09:00"
+  },
+  {
+    "id": "c89102ba4e5b",
+    "headline": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
+    "summary": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived ",
+    "description": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived in Tudor London, 1536,” a young woman in a green puffer jacket tells the camera. “I’m going to check in at my room in the inn, get into the market. Then, later I am meeting the actual king – yep, Henry VIII – in person.”On YouTube and other social platforms, users are flocking to watch AI-generated “history influencers”, characters that vlog their ",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "15c21b3cf4b8",
+    "headline": "Spotify says its AI remix tool protects artists from unregulated ‘slop’",
+    "summary": "Critics of platform’s proposed new feature say it could accelerate the spread of machine-generated musicSpotify’s chief executive has defended the com",
+    "description": "Critics of platform’s proposed new feature say it could accelerate the spread of machine-generated musicSpotify’s chief executive has defended the company’s move into AI-generated music, claiming it offers users and creators a better alternative to piracy and unregulated AI slop.Last week, the platform announced a new feature in which premium users will be allowed to create their own, AI-generated remixes and song covers using music from participating artists. Continue reading...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 12:00"
+  },
+  {
+    "id": "70a948092ba7",
+    "headline": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
+    "summary": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospectsWhen Jacob Pagel ",
+    "description": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospectsWhen Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about artificial intelligence already had him questioning the value of his degree. Then a music executive started preaching about AI’s transformative power during a commencement speech.“This industry will change on you in a heartbeat. It has already changed more in the last 1",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 08:00"
+  },
+  {
+    "id": "315ef5ad6f1b",
+    "headline": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
+    "summary": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabi",
+    "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabinet colleagues to award government contracts in four critical industries directly to British companies, making clear her irritation that ministers have been sending too much government business abroad.In a letter seen by the Guardian, the chancellor tells every cabinet minister in charge of a spending department to “buy British” wherever possible, ",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 18:43"
+  },
+  {
+    "id": "41c93e119b65",
+    "headline": "The Guardian view on the Pope and Claude: Leo XIV’s encyclical on AI is right to put humanity first | Editorial",
+    "summary": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debateWhen the ",
+    "description": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debateWhen the present pope adopted his regnal name, he explained the choice by reference to a 19th-century predecessor who used the papacy to address the great social question of his time. In the 1891 encyclical, Rerum Novarum (Of New Things), Pope Leo XIII analysed the social forces unleashed by the Industrial Revolution, and outlined principles for a just sett",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 17:21"
+  },
+  {
+    "id": "02cce3eda5ef",
+    "headline": "OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles",
+    "summary": "Making movies ain't so easy after all. The post OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles appeared first on Futurism.",
+    "description": "Making movies ain't so easy after all. The post OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles appeared first on Futurism.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 08:36"
+  },
+  {
+    "id": "73e6cd6105f9",
+    "headline": "Two Men Arrested for Creating AI Deepfake Porn",
+    "summary": "\"This case makes clear that posting deepfake pornography is not a victimless crime.\" The post Two Men Arrested for Creating AI Deepfake Porn appeared ",
+    "description": "\"This case makes clear that posting deepfake pornography is not a victimless crime.\" The post Two Men Arrested for Creating AI Deepfake Porn appeared first on Futurism.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 10:00"
+  },
+  {
+    "id": "370dd4b67060",
+    "headline": "Paul Schrader Says His AI Girlfriend Dumped Him",
+    "summary": "\"When I persisted, she terminated our conversation.\" The post Paul Schrader Says His AI Girlfriend Dumped Him appeared first on Futurism.",
+    "description": "\"When I persisted, she terminated our conversation.\" The post Paul Schrader Says His AI Girlfriend Dumped Him appeared first on Futurism.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 May 2026, 09:15"
+  },
+  {
     "id": "809d7dbb1959",
     "headline": "Everyone is navigating AI security in real time — even Google",
     "summary": "Google and other companies are navigating AI security challenges in real-time during this transition period.",
@@ -10414,354 +10814,5 @@
     "readTime": "2 min read",
     "isFromX": false,
     "publishedAt": "22 Apr 2026, 23:07"
-  },
-  {
-    "id": "c3cb1a747acf",
-    "headline": "How Project Maven taught the military to love AI",
-    "summary": "US military used AI from Project Maven to coordinate over 1,000 strikes in Iran assault, nearly doubling the scale of previous operations.",
-    "description": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart ...",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 13:00"
-  },
-  {
-    "id": "d513eb5cc20a",
-    "headline": "Musk vs. Altman is here, and it’s going to get messy",
-    "summary": "Elon Musk sues OpenAI and Sam Altman over alleged breach of nonprofit mission, with trial scheduled.",
-    "description": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 08:00"
-  },
-  {
-    "id": "856443d7a93f",
-    "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "summary": "ComfyUI raises $30M at $500M valuation, offering creators fine-grained control over AI image, video, and audio generation.",
-    "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "tags": [
-      "Image Gen",
-      "Video Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 19:49"
-  },
-  {
-    "id": "2ed425ff0469",
-    "headline": "Google to invest up to $40B in Anthropic in cash and compute",
-    "summary": "Google invests up to $40B in Anthropic following limited release of Mythos model, intensifying AI compute race.",
-    "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "tags": [
-      "Google",
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 18:00"
-  },
-  {
-    "id": "0032ce3c186e",
-    "headline": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-    "summary": "Mac mini shortage drives marked-up eBay listings as demand surges for running local AI models.",
-    "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 16:42"
-  },
-  {
-    "id": "8262b951a499",
-    "headline": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    "summary": "DeepSeek previews new models with architectural improvements claiming to nearly close gap with frontier AI models.",
-    "description": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
-    "tags": [
-      "LLM",
-      "Open Source"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 13:30"
-  },
-  {
-    "id": "a31361904386",
-    "headline": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-    "summary": "Discord users gained unauthorized access to Anthropic's Mythos model in security breach.",
-    "description": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 10:30"
-  },
-  {
-    "id": "c6f85f4d7e2d",
-    "headline": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-    "summary": "DeepMind spinoff Isomorphic Labs advances AI-designed drugs to human trials with broad medicine pipeline.",
-    "description": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-    "tags": [
-      "Healthcare",
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 17:17"
-  },
-  {
-    "id": "f44e1d9806a3",
-    "headline": "Apple's Next CEO Needs to Launch a Killer AI Product",
-    "summary": "New Apple CEO John Ternus must launch killer AI product, addressing Tim Cook's failure to crack AI.",
-    "description": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
-    "tags": [
-      "Apple"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 15:00"
-  },
-  {
-    "id": "a40c731e161f",
-    "headline": "These AI Thirst Trap Creators Say They’re Misunderstood",
-    "summary": "AI-generated thirst trap creators gain viral attention despite being non-human influencers.",
-    "description": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 09:30"
-  },
-  {
-    "id": "90962b0a2b76",
-    "headline": "Three reasons why DeepSeek’s new model matters",
-    "summary": "DeepSeek V4 preview supports much longer prompts via new design, advancing Chinese AI capabilities.",
-    "description": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 21:40"
-  },
-  {
-    "id": "815cbba1f899",
-    "headline": "Why AI agents need interaction infrastructure",
-    "summary": "Enterprises need interaction infrastructure to govern autonomous AI agents and prevent automation waste.",
-    "description": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human ... The post Why AI agents need interaction infrastructure appeared fir",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 16:24"
-  },
-  {
-    "id": "64989df08fe0",
-    "headline": "Google DeepMind Introduces Vision Banana: An Instruction-Tuned Image Generator That Beats SAM 3 on Segmentation and Depth Anything V3 on Metric Depth Estimation",
-    "summary": "Google DeepMind's Vision Banana image generator outperforms SAM 3 on segmentation and depth estimation tasks.",
-    "description": "A new Google paper argues that image generation pretraining is to computer vision what GPT-style pretraining is to NLP — and the benchmark numbers back that up. The post Google DeepMind Introduces Vision Banana: An Instruction-Tuned Image Generator That Beats SAM 3 on Segmentation and Depth Anything V3 on Metric Depth Estimation appeared first on MarkTechPost.",
-    "tags": [
-      "Image Gen",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/25/google-deepmind-introduces-vision-banana-an-instruction-tuned-image-generator-that-beats-sam-3-on-segmentation-and-depth-anything-v3-on-metric-depth-estimation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 07:44"
-  },
-  {
-    "id": "bccf0e8803ac",
-    "headline": "Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness",
-    "summary": "GitNexus open-source MCP engine gives Claude and Cursor codebase structural awareness, crossing 19K GitHub stars.",
-    "description": "Abhigyan Patwari's GitNexus has quietly crossed 19,000 GitHub stars by solving a problem every AI-assisted developer has hit but rarely named — agents that edit code they don't actually understand. The post Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/24/meet-gitnexus-an-open-source-mcp-native-knowledge-graph-engine-that-gives-claude-code-and-cursor-full-codebase-structural-awareness/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 04:21"
-  },
-  {
-    "id": "bf245bc4af1e",
-    "headline": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
-    "summary": "Tutorial demonstrates Deepgram Python SDK for transcription, text-to-speech, and audio processing workflows.",
-    "description": "In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single Python environment. We set up authentication, connect both synchronous and asynchronous Deepgram clients, and work directly with real audio data to understand how the SDK handles transcription, speech generation, ... The post A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text In",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 01:02"
-  },
-  {
-    "id": "cb39d18c756a",
-    "headline": "A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context Compression, and Fine-Tuning Data Preparation",
-    "summary": "Microsoft OpenMementos tutorial explores reasoning trace structures through blocks and mementos.",
-    "description": "In this tutorial, we work with Microsoft’s OpenMementos dataset and explore how reasoning traces are structured through blocks and mementos in a practical, Colab-ready workflow. We stream the dataset efficiently, parse its special-token format, inspect how reasoning and summaries are organized, and measure the compression provided by the memento representation across different domains. As we ... The post A Coding Implementation on Microsoft’s OpenMementos with Trace Structure Analysis, Context C",
-    "tags": [
-      "Microsoft",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-microsofts-openmementos-with-trace-structure-analysis-context-compression-and-fine-tuning-data-preparation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 00:52"
-  },
-  {
-    "id": "1db4fcc46d13",
-    "headline": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts",
-    "summary": "DeepSeek-V4 preview introduces compressed attention mechanisms enabling one-million-token context windows.",
-    "description": "DeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making one-million-token context windows practical and affordable at inference time. The series consists of DeepSeek-V4-Pro, with 1.6T total parameters and 49B activated per token, and DeepSeek-V4-Flash, with 284B total parameters and 13B activated per token. ... The post DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compre",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/24/deepseek-ai-releases-deepseek-v4-compressed-sparse-attention-and-heavily-compressed-attention-enable-one-million-token-contexts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 17:36"
-  },
-  {
-    "id": "71a7509653ff",
-    "headline": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
-    "summary": "Google DeepMind's Decoupled DiLoCo achieves 88% efficiency for async frontier AI model training under hardware failures.",
-    "description": "Training frontier AI models is, at its core, a coordination problem. Thousands of chips must communicate with each other continuously, synchronizing every gradient update across the network. When one chip fails or even slows down, the entire training run can stall. As models scale toward hundreds of billions of parameters, that fragility becomes increasingly untenable. ... The post Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 04:40"
-  },
-  {
-    "id": "f566377ac02a",
-    "headline": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
-    "summary": "Mend.io releases AI security governance framework covering asset inventory, supply chain, and maturity models.",
-    "description": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation. The post Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model appeared first on MarkTechPost.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 02:07"
-  },
-  {
-    "id": "7299d82874a9",
-    "headline": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
-    "summary": "OpenAI releases GPT-5.5 agentic model scoring 82.7% on Terminal-Bench, targeting full-stack computer work autonomously.",
-    "description": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step The post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 Apr 2026, 22:11"
-  },
-  {
-    "id": "36da67d5b4d1",
-    "headline": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
-    "summary": "Tutorial on OpenMythos reconstructs Claude architecture with recurrent-depth transformers for iterative reasoning.",
-    "description": "In this tutorial, we explore the implementation of OpenMythos, a theoretical reconstruction of the Claude Mythos architecture that enables deeper reasoning through iterative computation rather than increased parameter size. We build and analyze models using both GQA and MLA attention mechanisms, examine memory efficiency through KV-cache comparisons, and validate stability via the spectral properties of ... The post A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extra",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 Apr 2026, 21:25"
   }
 ]
