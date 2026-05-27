@@ -1,5 +1,397 @@
 [
   {
+    "id": "4fd735de99e5",
+    "headline": "YouTube is putting AI labels where you’ll actually see them",
+    "summary": "YouTube is relocating AI disclosures to be more visible to users following Google's expanded AI verification efforts announced at I/O.",
+    "description": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform. For ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 09:00"
+  },
+  {
+    "id": "99af44120f4d",
+    "headline": "The AI fight brewing inside The New York Times",
+    "summary": "Debate continues within The New York Times newsroom about how journalists should use AI, with new rules being negotiated.",
+    "description": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 08:00"
+  },
+  {
+    "id": "708824333f75",
+    "headline": "The Pope isn’t AGI-pilled",
+    "summary": "Pope Leo XIV's encyclical 'Magnifica Humanitas' warns about AI's societal implications and questions whether AI use serves genuine purposes.",
+    "description": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 08:00"
+  },
+  {
+    "id": "b3ef4478009b",
+    "headline": "Did the Pope use AI to write about the dangers of AI?",
+    "summary": "Analysis suggests parts of the Pope's AI-critical encyclical may have been written with AI assistance, raising ironic questions about the document.",
+    "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The ...",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 20:38"
+  },
+  {
+    "id": "003dfa3c2704",
+    "headline": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+    "summary": "Google CEO Sundar Pichai discusses AI's future in search and the web in post-I/O 2026 interview.",
+    "description": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "5d33860eb84a",
+    "headline": "YouTube will now automatically label AI videos",
+    "summary": "YouTube will automatically label videos with significant photorealistic AI content rather than relying solely on creator disclosure.",
+    "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 13:00"
+  },
+  {
+    "id": "04097dd7e20e",
+    "headline": "Tech CEOs are apparently suffering from AI psychosis",
+    "summary": "Tech CEOs exhibit what some call 'AI psychosis,' displaying almost religious belief in AI productivity gains despite unproven benefits.",
+    "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 12:30"
+  },
+  {
+    "id": "71a019d84a4b",
+    "headline": "Robinhood now lets your AI agents trade stocks",
+    "summary": "Robinhood enables users to create AI agent accounts with pre-loaded balances to autonomously trade stocks.",
+    "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 12:30"
+  },
+  {
+    "id": "c85f18f09068",
+    "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "summary": "DuckDuckGo app installs surge 30% as users reject Google's AI-integrated Search redesigned at I/O 2026.",
+    "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 22:32"
+  },
+  {
+    "id": "426d000c3ee4",
+    "headline": "This startup is betting India’s gig economy can train the world’s robots",
+    "summary": "Human Archive startup pays Indian gig workers to wear sensor-equipped caps and cameras for robotic training data collection.",
+    "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 16:00"
+  },
+  {
+    "id": "2c6488a45018",
+    "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "summary": "UMG and TikTok renew agreement to combat unauthorized AI-generated music on the platform.",
+    "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 14:55"
+  },
+  {
+    "id": "00d146096f33",
+    "headline": "Pope Leo Schooled the Tech Bros on Tolkien",
+    "summary": "Pope Leo's AI encyclical references Tolkien's Lord of the Rings, indirectly critiquing tech billionaires' misinterpretations of the work.",
+    "description": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 23:19"
+  },
+  {
+    "id": "525af5d51ef8",
+    "headline": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+    "summary": "The Vatican invited Anthropic to present at the Pope's AI encyclical, marking unprecedented Church-Silicon Valley collaboration.",
+    "description": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 20:46"
+  },
+  {
+    "id": "85bb05162145",
+    "headline": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+    "summary": "Pope Leo's encyclical 'Magnifica Humanitas' criticizes concentration of AI technological power in few global companies.",
+    "description": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 20:17"
+  },
+  {
+    "id": "c9f5e2b939e0",
+    "headline": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "summary": "Critical 'BadHost' vulnerability discovered in Starlette package (325M weekly downloads) endangers millions of AI agents.",
+    "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 19:50"
+  },
+  {
+    "id": "601a23a3e450",
+    "headline": "The Download: keeping up with AI, and the future of IVF",
+    "summary": "MIT Technology Review newsletter covers current AI developments and trends.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 12:10"
+  },
+  {
+    "id": "56c8eed4cbb6",
+    "headline": "Rethinking organizational design in the age of agentic AI",
+    "summary": "Gap emerging between enterprise organizations' AI agent ambitions (85% want agentic systems) and actual execution capabilities.",
+    "description": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows. The sticky…",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 14:54"
+  },
+  {
+    "id": "f04574f2ddf7",
+    "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search - TechCrunch",
+    "summary": "DuckDuckGo installs surge 30% as users reject Google's AI-integrated Search approach.",
+    "description": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search TechCrunchDuckDuckGo Reports A Surge In Installs After Google Put More AI Into Search EngadgetDuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O 9to5MacSix search engines worth trying now that Google isn’t really Google anymore TechCrunchDuckDuckGo Usage Surges Since Google I/O 26 Thurrott.com",
+    "tags": [
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWZ6eUwxTWJvM1d1d3BtZXVhM182WjRNcjF2V2V5dy1WeTBZVGwydFFsN0pqVk91TDZwemZNY21zakRVMU41N1VrSU9wRDN5Y1JvQUl6M1BhdFpDX0JjSzdJWHE0Z0NKRjhrM1FLS3l6dlFaOHdSY0V1QWQyWTZHaExmUzY5aTdjYnZiNThqc1VxZG9OTjZWdjF6WjRuRVRwR1VrNkRYX3lLRDBHcWJPa2g4SVI?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 22:32"
+  },
+  {
+    "id": "e4162ea16904",
+    "headline": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+    "summary": "Forex trading increasingly uses AI bot automation for speed and precision over intuition-based approaches.",
+    "description": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit can be based on clear rules, not ... The post Exploring the Benefits of AI Bots for Forex Trading in Forex Markets appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 12:38"
+  },
+  {
+    "id": "65b08b477137",
+    "headline": "Autonomous AI systems test governance in physical environments",
+    "summary": "Autonomous AI systems expanding beyond software into warehouses and delivery networks, raising governance questions.",
+    "description": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied ... The post Autonomous AI systems test governance in physical environments appeared first on AI News",
+    "tags": [
+      "Agents",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 10:00"
+  },
+  {
+    "id": "d8eef5d0c99d",
+    "headline": "Proving the case on day two at TechEx North America",
+    "summary": "TechEx North America discussion highlights 'AI graveyard' of pilot projects that fail to become durable systems.",
+    "description": "The AI and Big Data programme on day two of TechEx North America referred at least once to the “AI graveyard,” meaning the large number of pilots that never become durable systems. That phrase set the tone. The question was proof. The Enterprise AI Implementation, ROI and Adoption track dealt with the hard middle of ... The post Proving the case on day two at TechEx North America appeared first on AI News.",
+    "tags": [
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 May 2026, 02:37"
+  },
+  {
+    "id": "13c13c6bac6c",
+    "headline": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
+    "summary": "EAGLE 3.1 speculative decoding algorithm released to fix attention drift instability in LLM inference.",
+    "description": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production. The post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 07:23"
+  },
+  {
+    "id": "593ae85d238f",
+    "headline": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
+    "summary": "MEMO framework from NUS/MIT/A*STAR enables training dedicated memory models for LLM knowledge updates without parameter modification.",
+    "description": "Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model. The post MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 May 2026, 05:24"
+  },
+  {
+    "id": "bc269daca341",
+    "headline": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
+    "summary": "Stability AI releases Stable Audio 3, family of latent diffusion models for music and sound generation with open-weight variants.",
+    "description": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores FAD ",
+    "tags": [
+      "Open Source",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 May 2026, 22:31"
+  },
+  {
     "id": "7faea881192e",
     "headline": "Nobody wants to tell me why they only listen to their own Suno slop",
     "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their",
@@ -10582,237 +10974,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "27 Apr 2026, 00:00"
-  },
-  {
-    "id": "a3be941f841c",
-    "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "summary": "Anthropic created a test marketplace where AI agents acted as buyers and sellers, conducting real transactions with actual money and goods.",
-    "description": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 21:43"
-  },
-  {
-    "id": "dc4d71eac987",
-    "headline": "Why Cohere is merging with Aleph Alpha",
-    "summary": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha to create a sovereign European AI alternative with backing from Schwarz Group.",
-    "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 16:00"
-  },
-  {
-    "id": "14ab9f9783f7",
-    "headline": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
-    "summary": "Article discusses key benchmarks for evaluating agentic reasoning in LLMs as agents move from research to production deployment.",
-    "description": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numbers tell you very little about whether a model can navigate a real website, resolve a GitHub issue, or reliably handle a customer ... The post Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 07:59"
-  },
-  {
-    "id": "001530581da9",
-    "headline": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More",
-    "summary": "xAI launched grok-voice-think-fast-1.0, a voice model outperforming Gemini and GPT Realtime on retail, airline, and telecom tasks.",
-    "description": "The new flagship voice model outperforms Gemini, GPT Realtime, and its own predecessor across retail, airline, and telecom workflows The post xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/25/xai-launches-grok-voice-think-fast-1-0-topping-%cf%84-voice-bench-at-67-3-outperforming-gemini-gpt-realtime-and-more/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 22:36"
-  },
-  {
-    "id": "d8d9912b9fdd",
-    "headline": "A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing",
-    "summary": "Tutorial on kvcached, a dynamic KV-cache implementation for optimizing GPU memory usage in large language model serving.",
-    "description": "In this tutorial, we explore kvcached, a dynamic KV-cache implementation on top of vLLM, to understand how dynamic KV-cache allocation transforms GPU memory usage for large language models. We begin by setting up the environment and deploying lightweight Qwen2.5 models through an OpenAI-compatible API, ensuring a realistic inference workflow. We then design controlled experiments where ... The post A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Mod",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 21:30"
-  },
-  {
-    "id": "0702ab22fa8f",
-    "headline": "UK departments at odds over energy demands of AI datacentres",
-    "summary": "UK government departments disagree on energy forecasts for AI datacenters, raising net-zero planning concerns.",
-    "description": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.The government departments responsible for these two visions do not appear to have agreed on their numbers. Continue reading...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 07:00"
-  },
-  {
-    "id": "092f29b504f7",
-    "headline": "Cannes AI film festival raises eyebrows – and questions about future",
-    "summary": "Cannes Film Festival bans emerging AI technology from Palme d'Or while AI cinema gains investment and attention.",
-    "description": "While emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attentionIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of the World AI film festival (WAIFF) showcased visions of men with fish scales erupting from their necks and seaweed from their mouths, a heroine with a heart beating outside her body and so many massed armies of AI-generated tanned men sweeping across",
-    "tags": [
-      "Creative AI",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 06:00"
-  },
-  {
-    "id": "88e4ef8dda24",
-    "headline": "Met investigates hundreds of officers after using Palantir AI tool",
-    "summary": "UK Metropolitan Police launched investigations into hundreds of officers after using Palantir's AI tool uncovered rule-breaking.",
-    "description": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruptionThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company Palantir to root out rogue cops.The software was deployed by the Met over the course of a week, surveilling staff members using data the force has ready access to, unearthing rule-breaking ranging from work-from-home violations to suspected corruption",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 15:34"
-  },
-  {
-    "id": "d85bcd39f271",
-    "headline": "Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version",
-    "summary": "A new AI tool can clone software while circumventing copyright protections held by original creators.",
-    "description": "\"I don’t think there’s any putting the genie back in the bottle at this point.\" The post Devious New AI Tool “Clones” Software So That the Original Creator Doesn’t Hold a Copyright Over the New Version appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/malus-clones-software-copyright",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 08:15"
-  },
-  {
-    "id": "b6be94939a4a",
-    "headline": "Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court",
-    "summary": "A prestigious Wall Street law firm faced embarrassment when its undisclosed use of AI in court filings was discovered.",
-    "description": "Rookie mistake. The post Prestigious Wall Street Law Firm Humiliated When Its AI Use Is Discovered in Court appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/prestigious-law-firm-humiliated-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 06:00"
-  },
-  {
-    "id": "2269f1774a60",
-    "headline": "Unions Attack AI for Menacing Human Jobs",
-    "summary": "Labor unions criticize AI technology for threatening human employment and job security.",
-    "description": "\"Some of us are old-fashioned, and we believe in human beings.\" The post Unions Attack AI for Menacing Human Jobs appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/union-labor-ai-bernie",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 13:30"
-  },
-  {
-    "id": "b1bc02c756df",
-    "headline": "Your Former Employer Is Selling Your Slacks and Emails to Train AI",
-    "summary": "Former employers are selling employee communications like Slack and emails to AI training companies even after company closure.",
-    "description": "Even when your boss's company goes belly-up, they still have a hold over your. Or at least your data. The post Your Former Employer Is Selling Your Slacks and Emails to Train AI appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/employer-selling-emails-train-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 Apr 2026, 11:15"
-  },
-  {
-    "id": "e26f3f52a193",
-    "headline": "AI Image Generation and the Future of Creative Workflows in CapCut - The Good Men Project",
-    "summary": "Article discusses AI image generation integration in CapCut and its impact on creative workflows.",
-    "description": "AI Image Generation and the Future of Creative Workflows in CapCut The Good Men Project",
-    "tags": [
-      "Image Gen",
-      "Creative AI"
-    ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFxbnhvT04tV0g3ci1SWFZLTmxhY2pjT2J4QS1MeFFBU0FFME53UGNUZ2JONTE0dXdtRTJld0VVbHBiUnpZNzM4amVMLUJ4X180T0w1V3hleldhODlpdnJmLXlfTk1FaGlmVFRneDdOM0ZERzdONGd0dHJhRDdkUlRac3UtbFY3WEZucHpWQTJIWHBYOXVETVhzTTRaSklDQy15VHR2dWo?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 Apr 2026, 12:46"
-  },
-  {
-    "id": "b17865a3da35",
-    "headline": "Sayonara, Sora! Say Hello to Hollywood’s Uncertain Future Licensing to AI Giants - luminatedata.com",
-    "summary": "Article examines uncertain licensing negotiations between Hollywood studios and AI video giants regarding models like Sora.",
-    "description": "Sayonara, Sora! Say Hello to Hollywood’s Uncertain Future Licensing to AI Giants luminatedata.com",
-    "tags": [
-      "Video Gen",
-      "Regulation"
-    ],
-    "source": "Google News AI Video",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMG5yM0FnY1VUMkRSQmo3S05jSWZ1UXk3Z2VTcGg2YjRVNVFUWkhvNjFXZ3lVdUZHQ0FYLUtIeG1YbTlaTElKNHlfZXlnUF9wc1R2VDNjVGJZWnptMm0xbkhscHhBWG9TQmp5ODRlVFVGSVZKdzQ4ZEhxYzhMaC1md3FaVVNZREo5M0F6UVBKejZBR2k1NXRfZWxTZ3pZMFZzeUZwRVc3ZVdQZzR5?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 Apr 2026, 23:07"
   }
 ]
