@@ -1,5 +1,356 @@
 [
   {
+    "id": "b212a6e3cfa7",
+    "headline": "This AI startup will clean your home for free to train future robots",
+    "summary": "AI startup Shift offers free home cleaning services while recording cleaners to collect training data for future robots.",
+    "description": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on ...",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 07:58"
+  },
+  {
+    "id": "483226fa6fd7",
+    "headline": "Adobe’s conversational AI agent is a mediocre design intern",
+    "summary": "Adobe's conversational AI agent for design tasks functions as a mediocre design intern, lacking true creative partnership.",
+    "description": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 06:00"
+  },
+  {
+    "id": "6a2e0176a9cf",
+    "headline": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "summary": "Microsoft launches revamped Microsoft 365 Copilot with faster loading, cleaner design, and more reliable outputs.",
+    "description": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 16:14"
+  },
+  {
+    "id": "452e20b171c0",
+    "headline": "Claude’s new model is more ‘honest’ when it messes up",
+    "summary": "Anthropic releases Claude Opus 4.8, trained to be more 'honest' and avoid making up information.",
+    "description": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 13:00"
+  },
+  {
+    "id": "6b47146208c6",
+    "headline": "A $2,000 AI-generated film will make its debut at Tribeca",
+    "summary": "AI-generated film 'Dreams of Violets' will premiere at Tribeca Festival, depicting Iran's mass killings.",
+    "description": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make ...",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 12:08"
+  },
+  {
+    "id": "3fa53fb4c0c9",
+    "headline": "These new iOS 27 renders hint at Siri’s big redesign",
+    "summary": "Apple's iOS 27 Siri redesign reportedly resembles ChatGPT with Liquid Glass styling.",
+    "description": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] ...",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 10:33"
+  },
+  {
+    "id": "a01bd2431e64",
+    "headline": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+    "summary": "CNN sues Perplexity for generating 'verbatim' copies of its news articles using AI tools.",
+    "description": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 10:08"
+  },
+  {
+    "id": "484723eb6c49",
+    "headline": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "summary": "South Korean chip startup Xcena raised $135M betting AI's bottleneck is memory, not compute.",
+    "description": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 12:00"
+  },
+  {
+    "id": "49f1317b87ec",
+    "headline": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "summary": "Enterprise AI search startup Glean tripled revenue to $300M+, positioning cost-cutting as key selling point.",
+    "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 00:44"
+  },
+  {
+    "id": "11de86ca9ea1",
+    "headline": "The internet is being rebuilt for machines",
+    "summary": "AWS, Cloudflare, and others redesign cloud infrastructure for AI agents generating machine traffic.",
+    "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "tags": [
+      "Agents",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 21:24"
+  },
+  {
+    "id": "61b5a1bf9ddb",
+    "headline": "Asana acquires no-code agent-builder StackAI",
+    "summary": "Asana acquires StackAI, a no-code agent-builder, to expand its AI workflow tools.",
+    "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 20:06"
+  },
+  {
+    "id": "46a0e10a86b1",
+    "headline": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "summary": "Anthropic closes $65B Series H round at $965B valuation ahead of anticipated IPO.",
+    "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 18:52"
+  },
+  {
+    "id": "b7291f4937d6",
+    "headline": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "summary": "Major exchanges design derivative products for AI tokens, treating them as raw material inputs.",
+    "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 18:32"
+  },
+  {
+    "id": "0d3a29418c71",
+    "headline": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "summary": "Anthropic releases Opus 4.8 with Dynamic Workflows tool for coordinating swarms of subagents.",
+    "description": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 17:00"
+  },
+  {
+    "id": "791f0103bcee",
+    "headline": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "summary": "Sesame, conversational AI startup from Oculus founders, launches iOS app with natural agent interactions.",
+    "description": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 15:35"
+  },
+  {
+    "id": "98b44af71528",
+    "headline": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+    "summary": "Waymo's Ojai robotaxis will begin public rides in California and Arizona within weeks.",
+    "description": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 15:00"
+  },
+  {
+    "id": "737485e079b2",
+    "headline": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "summary": "Developer embeds data-deletion prompt injection into jqwik to disrupt AI coding agents.",
+    "description": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 20:29"
+  },
+  {
+    "id": "2b9b2bf5be59",
+    "headline": "YouTube Now Lets You Offload Your Playlist Curation To AI - Engadget",
+    "summary": "YouTube lets users ask AI to curate video playlists and customize feed recommendations.",
+    "description": "YouTube Now Lets You Offload Your Playlist Curation To AI EngadgetYouTube's AI Is Ready to Customize Your Scrolling CNETYouTube now lets you ask AI to build a video feed for you MashableYouTube adds conversational custom feed generation Social Media TodayYouTube adds ‘custom feed’ to home page, just in case the search bar is too boring for you 9to5Google",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MNUxPdmVBYkswOWhYQkdWTF9nMVkxbXM0dFdFRXpZNE51TnJDV3ZDanFybmNNWFBRbWF4N29WMENCelhHV19falpBSGtPc01pUGVnRnl6NnNMZHZrZ0x0TFl6Z2VYNy1JOFRWNlZaS1h1QQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 10:23"
+  },
+  {
+    "id": "88ae02b76b7a",
+    "headline": "Google adjusts Gemini’s new usage limits in response to complaints - 9to5Google",
+    "summary": "Google adjusts Gemini usage limits following user complaints about costs.",
+    "description": "Google adjusts Gemini’s new usage limits in response to complaints 9to5GoogleYour AI bill is out of control. Google has been waiting for this moment. Business InsiderGoogle's entire suite of apps has been \"contaminated\" by the new model. eu.36kr.comGoogle Debuts Gemini 3.5 Flash (Low) to Resolve Antigravity Token Quota Issues IT Voice Media Pvt. Ltd.Google Lowers Inference Costs With Gemini Flash Let's Data Science",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JRmFxUUZOSVNfNGl2Q055eFZZa2lrTWdEOXdKbEQ4NFZfSldxTXVVTF9DajVZNUdHMkhQMmIxM1FfUGNaME8xTXMtR09RS3h3bVYweXFnRmVzY0h0aW13aGFkazRxbzNGRkE?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 02:03"
+  },
+  {
+    "id": "66700b596bfc",
+    "headline": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch",
+    "summary": "iOS 27 Siri redesign leaks show Apple's strategy to compete with ChatGPT.",
+    "description": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more TechCrunchApple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek Bloomberg.comBrace Yourself for These Big Siri Changes at WWDC26 - Video CNETHere's What Apple's Siri Overhaul For iOS 27 Could Look Like EngadgetNew iOS 27 Rumors Include Revamped AirPods Settings Menu and More MacRumors",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHRQUjJjb1drcHlWenRoNlVRTGF2a2NMczMyZWVOUF9qT1o5dVdVdF9SeXdweENzWFBtVks5emNGOV80ZmpvYmJqVENZelJtZTgtTzZZRlpkRzFnLTNVRWZGd2cxeUt4VEUxUE9EZS0zSmZPejExTTdrZUVfd0t2N0puOHZUanpwVU4xNXJ0bHdOcDc2cHdvUDdiQWF4U0RjVWo5M3gwNkdMV3puTzZz?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "28 May 2026, 14:45"
+  },
+  {
+    "id": "703f3b8e52d2",
+    "headline": "Anthropic releases Claude Opus 4.8",
+    "summary": "Anthropic releases Claude Opus 4.8 with improvements for coding, agents, reasoning, and knowledge work.",
+    "description": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of ... The post Anthropic releases Claude Opus 4.8 appeared first on AI News.",
+    "tags": [
+      "Anthropic",
+      "LLM",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-29",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "29 May 2026, 10:44"
+  },
+  {
     "id": "196ec890d820",
     "headline": "YouTube will let you ask AI to make a custom video feed",
     "summary": "YouTube launches AI feature to create personalized video feeds based on user descriptions of desired content.",
@@ -10632,353 +10983,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "29 Apr 2026, 09:08"
-  },
-  {
-    "id": "4420b01988ad",
-    "headline": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
-    "summary": "Google signed a classified deal allowing the US Department of Defense to use its AI models for any lawful government purpose.",
-    "description": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used ...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 Apr 2026, 07:09"
-  },
-  {
-    "id": "b242f72fa1b5",
-    "headline": "Attack of the killer script kiddies",
-    "summary": "DARPA's AI Cyber Challenge showcases top cybersecurity teams' AI bug-finding systems at an annual competition.",
-    "description": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to ...",
-    "tags": [
-      "Research",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "28 Apr 2026, 07:00"
-  },
-  {
-    "id": "128acef74c64",
-    "headline": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-    "summary": "Jury selection begins in Elon Musk's lawsuit against Sam Altman over alleged broken promises at OpenAI.",
-    "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 23:39"
-  },
-  {
-    "id": "a388acf74af5",
-    "headline": "Google is testing AI chatbot search for YouTube",
-    "summary": "Google tests AI chatbot-style search experience for YouTube with conversational results.",
-    "description": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 20:01"
-  },
-  {
-    "id": "210ef8e7a8de",
-    "headline": "Canonical lays out a plan for AI in Ubuntu Linux",
-    "summary": "Canonical plans to integrate AI features into Ubuntu Linux distribution.",
-    "description": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI ...",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 16:47"
-  },
-  {
-    "id": "2046523b29cf",
-    "headline": "Google employees ask Sundar Pichai to say no to classified military AI use",
-    "summary": "Over 600 Google employees petition CEO Sundar Pichai to block Pentagon use of AI for classified purposes.",
-    "description": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to ...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 14:17"
-  },
-  {
-    "id": "fec25710bb89",
-    "headline": "Microsoft and OpenAI’s famed AGI agreement is dead",
-    "summary": "OpenAI and Microsoft's AGI clause agreement has been terminated, signaling reduced partnership commitment.",
-    "description": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first ...",
-    "tags": [
-      "OpenAI",
-      "Microsoft"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 12:15"
-  },
-  {
-    "id": "7a909c4c6ffd",
-    "headline": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "summary": "Elon Musk sues Sam Altman in high-stakes trial over OpenAI's future and founding promises.",
-    "description": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 11:50"
-  },
-  {
-    "id": "3f1adf4249fb",
-    "headline": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-    "summary": "Canva apologizes after its AI Magic Layers feature replaces 'Palestine' with other terms in designs.",
-    "description": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 10:29"
-  },
-  {
-    "id": "f1ae9815b05b",
-    "headline": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "summary": "OpenAI gains concessions from Microsoft to sell AWS products while Microsoft receives increased revenue share.",
-    "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-    "tags": [
-      "OpenAI",
-      "Microsoft"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 17:40"
-  },
-  {
-    "id": "3d443b635903",
-    "headline": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "summary": "Ineffable Intelligence, founded by former DeepMind researcher David Silver, raises $1.1B to build AI learning without human data.",
-    "description": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "tags": [
-      "Research",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 17:24"
-  },
-  {
-    "id": "70279111855a",
-    "headline": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "summary": "Skye's AI home screen app attracts investor backing ahead of iPhone launch.",
-    "description": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "tags": [
-      "Apple",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 16:13"
-  },
-  {
-    "id": "26ae2dd0cb67",
-    "headline": "China blocks Meta’s $2B Manus deal after months-long probe",
-    "summary": "China orders Meta to unwind its $2B Manus acquisition after months-long investigation.",
-    "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 13:16"
-  },
-  {
-    "id": "bdeef8b2d3b0",
-    "headline": "OpenAI could be making a phone with AI agents replacing apps",
-    "summary": "OpenAI reportedly developing phone with AI agents replacing traditional apps as core interface.",
-    "description": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-    "tags": [
-      "OpenAI",
-      "Agents",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 13:08"
-  },
-  {
-    "id": "1458eabd9842",
-    "headline": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-    "summary": "Bloomberg Terminal receives major chatbot-style AI overhaul for traders.",
-    "description": "WIRED spoke with Bloomberg's chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 Apr 2026, 08:30"
-  },
-  {
-    "id": "9bc7a41ebed5",
-    "headline": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "summary": "David Silver, AlphaGo creator, launches billion-dollar company to build AI 'superlearners' without human data.",
-    "description": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-    "tags": [
-      "Research",
-      "Startup"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 14:00"
-  },
-  {
-    "id": "2f4e8d4f78b4",
-    "headline": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-    "summary": "MIT Tech Review covers Musk-Altman legal showdown and AI industry's profitability challenges.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequences. Ahead…",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 Apr 2026, 12:10"
-  },
-  {
-    "id": "746be8c28deb",
-    "headline": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "summary": "Elon Musk and Sam Altman head to trial over OpenAI's future with potential sweeping industry consequences.",
-    "description": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 22:52"
-  },
-  {
-    "id": "51db492ea576",
-    "headline": "The missing step between hype and profit",
-    "summary": "Article explores the gap between AI hype and actual profitable implementation.",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. But…",
-    "tags": [
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 16:13"
-  },
-  {
-    "id": "f53958448bde",
-    "headline": "Rebuilding the data stack for AI",
-    "summary": "Enterprises face data infrastructure challenges as major barrier to meaningful AI adoption.",
-    "description": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI at scale requires something far less glamorous but far more consequential: data…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 Apr 2026, 13:00"
-  },
-  {
-    "id": "9b744c4fff0e",
-    "headline": "Health-care AI is here. We don’t know if it actually helps patients.",
-    "summary": "Healthcare AI adoption accelerates but evidence for actual patient benefits remains unclear.",
-    "description": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and x-rays. A…",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 Apr 2026, 09:00"
   }
 ]
