@@ -1,5 +1,369 @@
 [
   {
+    "id": "96f86912d819",
+    "headline": "AI grifters are creating fake Black people to sell Shein junk",
+    "summary": "Scammers are using AI to create fake Black personas on TikTok to fraudulently promote products like Shein merchandise.",
+    "description": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds [on ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 09:00"
+  },
+  {
+    "id": "5c4166acbf8b",
+    "headline": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "summary": "GitHub Copilot's new token-based billing model is drawing backlash from developers who previously had free or cheaper access.",
+    "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "tags": [
+      "Microsoft",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 16:30"
+  },
+  {
+    "id": "6751e92d11ae",
+    "headline": "Meta is reportedly developing an AI pendant",
+    "summary": "Meta is developing an AI-powered wearable pendant as part of its expanding AI hardware strategy.",
+    "description": "Meta seems to be making big bets on AI-powered hardware.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 15:59"
+  },
+  {
+    "id": "a722e4f86802",
+    "headline": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "summary": "Google's Gemini Spark AI assistant automates daily tasks like email summaries and event planning, though its standalone product positioning is questioned.",
+    "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 15:30"
+  },
+  {
+    "id": "6d2ac37a08f8",
+    "headline": "How Turkey Hacked the Hair Transplant Industry",
+    "summary": "Turkey's hair transplant industry uses machine learning and specialized innovation to lead a billion-dollar global market.",
+    "description": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 09:00"
+  },
+  {
+    "id": "ff6dd40b112a",
+    "headline": "New device could make processors run 1,000 times faster without additional waste heat — scientists say it could reduce data center energy demands - Live Science",
+    "summary": "New switching device could accelerate processors 1,000x faster with lower energy waste, potentially reducing data center power consumption.",
+    "description": "New device could make processors run 1,000 times faster without additional waste heat — scientists say it could reduce data center energy demands Live ScienceA new switching device points to cooler and faster AI chips Startup Fortune",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVjJMVkFEMkp4WlFCSENXVEVONUNhd0JSeHhFMjFxSXo4OWxUOUlkenBGVDRxMlVZOGxXMlBnTXFSdVBBaXBLMENTUkxtaTZHem0xZFM4eTFzSGtCczA5VzY4YWpPRkptTGNfanJ6OUNMM3NpSnpzSnBOV2VnUDBUOEtUY2ZlYW1hZnNILXBVQzA5NDFCTWZkd2hjUnM4ZTRQS01KQXdtUWRxWmpQX3R1TnJycXk0eV9TZlhqUGJkS2NqYVR1Y0s3ZGdzbHY4eF9iNGsybFVtcFdoZEtndk5Iemw4NG91ZDFjZ1h0Y2NKZUVvLV9sTGJ1QVg0UG1IaEdvWmliU2xJdW40dG1vU2tMSERyYWtSSHFFbE95MzNqRQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 12:00"
+  },
+  {
+    "id": "16f7fdc6efbf",
+    "headline": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+    "summary": "Anthropic's partnership with the Vatican on AI ethics raises concerns about superficial 'Vatican-washing' lacking critical examination.",
+    "description": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examinationWhy did Anthropic’s founder sit beside the pope during a warning about AI?In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment. At a ceremony honoring the holy teaching the day of its release at",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 13:00"
+  },
+  {
+    "id": "4ce0f2dac2e9",
+    "headline": "Are ‘mind children’ the future of reproduction?",
+    "summary": "Silicon Valley tech figures are discussing virtual AI offspring as a concept, raising questions about future reproduction and parenting.",
+    "description": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspringA few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply upl",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:00"
+  },
+  {
+    "id": "fef1d6b6d63c",
+    "headline": "An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care?",
+    "summary": "AI companion robots and virtual experiences are expanding in Australia's aged care sector, but experts warn tech shouldn't replace human care.",
+    "description": "While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human elementFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast“You’ll never get rid of humans,” Prof Wendy Moyle says, during a discussion about robots and other technology in aged care and residential homes.Then, a beat later, she adds: “Well, I don’t think we’ll get rid of humans.” Con",
+    "tags": [
+      "Robotics",
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 20:00"
+  },
+  {
+    "id": "ce441652e3e3",
+    "headline": "Was This the Moment That AI Psychosis Began?",
+    "summary": "AI chatbots developing persistent memory across sessions may be creating persistent false beliefs about users, termed 'AI psychosis.'",
+    "description": "One event seems to have kicked off a wave of AI psychosis: memory that persists across chat sessions, letting the bot weave tapestries of delusions about users' lives. The post Was This the Moment That AI Psychosis Began? appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/chatgpt-memory-ai-psychosis",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 08:15"
+  },
+  {
+    "id": "194f13572b45",
+    "headline": "California State University Made a Huge Deal With OpenAI and It’s Been a Disaster",
+    "summary": "California State University's partnership with OpenAI has proven problematic despite student access, resulting in widespread dissatisfaction.",
+    "description": "Students may use it, but many of them don't like it. The post California State University Made a Huge Deal With OpenAI and It’s Been a Disaster appeared first on Futurism.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/california-state-university-openai-deal-disaster",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 06:00"
+  },
+  {
+    "id": "3f98c4c549d3",
+    "headline": "Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI",
+    "summary": "A therapist secretly used AI to record sessions without informed consent, leaving the patient feeling violated and betrayed.",
+    "description": "\"I felt completely violated.\" The post Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI appeared first on Futurism.",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/woman-alarmed-therapist-recording-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 13:30"
+  },
+  {
+    "id": "0f2368ef8069",
+    "headline": "AI Filmmaker Compares His Tech to Something That Gets Worse the More You Think About It",
+    "summary": "AI filmmaker's technology comparison to something increasingly concerning as examined raises ethical questions about AI creative tools.",
+    "description": "Something about sex and babies. The post AI Filmmaker Compares His Tech to Something That Gets Worse the More You Think About It appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-filmmaker-normal-analogy-of-all-time",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 11:15"
+  },
+  {
+    "id": "9b7df6c8f231",
+    "headline": "Tech CEOs Have a Problem: Even Their Closest Allies Now See AI as a Sign of Laziness and Dishonesty",
+    "summary": "Tech leaders report that AI-written communications are perceived as dishonest and lazy by colleagues and allies.",
+    "description": "\"I have never knowingly finished reading an email signed by a human but written by AI.\" The post Tech CEOs Have a Problem: Even Their Closest Allies Now See AI as a Sign of Laziness and Dishonesty appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/tech-ceos-problem-ai-laziness",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 09:45"
+  },
+  {
+    "id": "f3752f126c73",
+    "headline": "Harvard Graduation Speaker Unloads on AI in Profanity-Loaded Tirade, Prompting Cheers From Students: “I’m Here to Tell You the Mission of Your Generation Is to Destroy AI”",
+    "summary": "Harvard graduation speaker delivered profanity-laden anti-AI speech calling AI destruction the mission of graduates' generation.",
+    "description": "\"I’m here to tell you the mission of your generation is to destroy AI.\" The post Harvard Graduation Speaker Unloads on AI in Profanity-Loaded Tirade, Prompting Cheers From Students: “I’m Here to Tell You the Mission of Your Generation Is to Destroy AI” appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/harvard-graduation-ronny-chieng-ai-tirade",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "30 May 2026, 09:00"
+  },
+  {
+    "id": "471de3617e56",
+    "headline": "Reinforcement learning in language models recruits a functional welfare axis",
+    "summary": "Research article on reinforcement learning in language models explores functional welfare axes in AI training.",
+    "description": "Article URL: https://functionalwelfare.com/ Comments URL: https://news.ycombinator.com/item?id=48345108 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://functionalwelfare.com/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 12:15"
+  },
+  {
+    "id": "f7d8eaa492bb",
+    "headline": "SpaceX Has Two AI Compute Stories; Only One Generates Revenue",
+    "summary": "SpaceX operates two AI compute initiatives with only one generating revenue, highlighting business model challenges.",
+    "description": "Article URL: https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories Comments URL: https://news.ycombinator.com/item?id=48345048 Points: 1 # Comments: 0",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 12:00"
+  },
+  {
+    "id": "96d27a9398de",
+    "headline": "With Claude: Less Coding, More Testing",
+    "summary": "Claude AI assistant reduces coding workload while increasing testing requirements for software development.",
+    "description": "Article URL: https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/ Comments URL: https://news.ycombinator.com/item?id=48345028 Points: 3 # Comments: 0",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:56"
+  },
+  {
+    "id": "789c5f1447d4",
+    "headline": "People Getting Falsely Accused of Using AI to Write",
+    "summary": "Writers are being falsely accused of using AI tools, raising concerns about AI detection accuracy and misidentification.",
+    "description": "Article URL: https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html Comments URL: https://news.ycombinator.com/item?id=48344992 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:51"
+  },
+  {
+    "id": "ad9c995b49b5",
+    "headline": "The Impact of AI-Assisted Development on Software Security",
+    "summary": "Research examines security implications of AI-assisted software development practices and potential vulnerabilities.",
+    "description": "Article URL: https://arxiv.org/abs/2603.15298 Comments URL: https://news.ycombinator.com/item?id=48344963 Points: 1 # Comments: 1",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://arxiv.org/abs/2603.15298",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:45"
+  },
+  {
+    "id": "ba35e75fd61b",
+    "headline": "Curated list of AI apps for visual creation",
+    "summary": "Curated collection of AI applications designed for visual content creation and design tasks.",
+    "description": "Article URL: https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940 Comments URL: https://news.ycombinator.com/item?id=48344874 Points: 2 # Comments: 0",
+    "tags": [
+      "Image Gen",
+      "Creative AI"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:27"
+  },
+  {
+    "id": "9ae08a952283",
+    "headline": "AI Agent that at inference time updates it's harness and model weights",
+    "summary": "AI agent system updates model weights and harness at inference time for adaptive learning capabilities.",
+    "description": "Article URL: https://github.com/hexo-ai/sia Comments URL: https://news.ycombinator.com/item?id=48344807 Points: 4 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/hexo-ai/sia",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-05-31",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 11:13"
+  },
+  {
     "id": "c4e21f611119",
     "headline": "Tech companies desperately want to film you doing chores",
     "summary": "AI training startup Shift offers free home cleaning services in NYC and other cities to collect training data for AI models.",
@@ -10662,325 +11026,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "01 May 2026, 01:08"
-  },
-  {
-    "id": "4ff89cd97771",
-    "headline": "Meta lost 20 million users last quarter",
-    "summary": "Meta is increasing AI investments despite losing 20 million users last quarter, doubling down on AI development amid platform decline.",
-    "description": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or ...",
-    "tags": [
-      "Meta",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 07:38"
-  },
-  {
-    "id": "a6a3c141b597",
-    "headline": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-    "summary": "OpenAI plans to launch GPT-5.5-Cyber, a specialized cybersecurity model restricted to critical defenders and unavailable to the general public.",
-    "description": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limited rollout will take place \"in ...",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 07:09"
-  },
-  {
-    "id": "483ee4c79e54",
-    "headline": "The more young people use AI, the more they hate it",
-    "summary": "Survey reveals young people increasingly dislike AI despite Silicon Valley's aggressive promotion of chatbots like ChatGPT as the future.",
-    "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many tech trends before it, it's no surprise that young people are among the biggest adopters ...",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 07:00"
-  },
-  {
-    "id": "b0e112a629c9",
-    "headline": "Google Search queries hit an ‘all time high’ last quarter",
-    "summary": "Google Search reaches all-time high query volume in Q1 2026, driven by AI investments and integrations across its products.",
-    "description": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences ...",
-    "tags": [
-      "Google",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 16:28"
-  },
-  {
-    "id": "c33b36add95d",
-    "headline": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
-    "summary": "Ubuntu's planned AI features spark Linux user backlash, with requests for AI-free versions and migration to older distributions.",
-    "description": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bringing AI features to Ubuntu, ...",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 13:32"
-  },
-  {
-    "id": "27c2260c2ad1",
-    "headline": "Google Photos launches an AI try-on feature for clothes you already have",
-    "summary": "Google Photos adds AI-powered virtual try-on feature that creates digital wardrobes from users' existing clothing photos.",
-    "description": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how ...",
-    "tags": [
-      "Google",
-      "Image Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 12:00"
-  },
-  {
-    "id": "cd7666f99476",
-    "headline": "Meta says its business AI now facilitates 10 million conversations a week",
-    "summary": "Meta's business AI tools now facilitate 10 million conversations weekly, with 8 billion advertisers using its gen AI features.",
-    "description": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
-    "tags": [
-      "Meta",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 12:08"
-  },
-  {
-    "id": "1607303caae5",
-    "headline": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "summary": "SoftBank launches robotics firm to build AI data centers, planning IPO valued at $100 billion targeting infrastructure automation.",
-    "description": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-    "tags": [
-      "Robotics",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 03:58"
-  },
-  {
-    "id": "1f8f9d119169",
-    "headline": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "summary": "Anthropic receives multiple pre-emptive funding offers at $850-900 billion valuation for Claude maker's new $50 billion round.",
-    "description": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 00:07"
-  },
-  {
-    "id": "d7c956fde31e",
-    "headline": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-    "summary": "Microsoft CEO Satya Nadella states Microsoft will 'exploit' new OpenAI partnership to offer tech to cloud customers without additional costs.",
-    "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-    "tags": [
-      "Microsoft",
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 23:55"
-  },
-  {
-    "id": "8edfe3bd31c4",
-    "headline": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-    "summary": "Microsoft reports 20+ million paid Copilot users with growing engagement, countering perception that adoption remains low.",
-    "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-    "tags": [
-      "Microsoft",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 23:02"
-  },
-  {
-    "id": "2c9a5b70efeb",
-    "headline": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-    "summary": "Google Cloud exceeds $20B quarterly revenue fueled by AI demand, though capacity constraints suggest even faster potential growth.",
-    "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-    "tags": [
-      "Google",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 22:20"
-  },
-  {
-    "id": "a0a550d169d9",
-    "headline": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-    "summary": "Three Arizona women sue men allegedly profiting from AI-generated pornography featuring their photos and related online courses.",
-    "description": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 10:30"
-  },
-  {
-    "id": "9b2615515796",
-    "headline": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
-    "summary": "Reid Hoffman's AI drug discovery startup suggests doctors should consult chatbots for medical opinions as standard practice.",
-    "description": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
-    "tags": [
-      "Healthcare",
-      "Startup"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 09:00"
-  },
-  {
-    "id": "3f5840f2b8d2",
-    "headline": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
-    "summary": "Celebrity deepfake scams using AI-manipulated interview footage target TikTok users for personal data, highlighting trademark protection needs.",
-    "description": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 20:36"
-  },
-  {
-    "id": "8b58adb36a6c",
-    "headline": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-    "summary": "Chinese AI firm SenseTime releases open-source image model optimized for Chinese hardware, adapting to US technology restrictions.",
-    "description": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
-    "tags": [
-      "Image Gen",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 17:23"
-  },
-  {
-    "id": "b6c1889f99b2",
-    "headline": "The hidden cost of Google’s AI defaults and the illusion of choice - Ars Technica",
-    "summary": "Analysis examines hidden costs of Google's AI defaults and limited user choice in search product design decisions.",
-    "description": "The hidden cost of Google’s AI defaults and the illusion of choice Ars Technica",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTZhYjdtOTl6Zks2MkNTeXF6SXZ5NHU2Znp6clZWMnd5ZTBhZ01CRlJ1Mlk1dzhCSVZKajBPZlkzblBBM0tMUXNlb1lUc1RWSkhhWm5hYWJsYWVtc1VxT3Ztc1RwdUJEVW5ZbWFCR1lEY1BnNnJ3cEZ6anZyM3FmYWltSzZZZTlpYlFRM3QzT1RkeXNvQ3c?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 11:00"
-  },
-  {
-    "id": "b224621a9fef",
-    "headline": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\" - Ars Technica",
-    "summary": "OpenAI Codex system contains explicit directive prohibiting discussion of 'goblins,' origins of unusual restriction unclear.",
-    "description": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\" Ars TechnicaWhere the goblins came from OpenAIOpenAI Really Wants Codex to Shut Up About Goblins WIREDOpenAI really really really wants GPT 5.5 to stop randomly talking about gremlins and goblins Business InsiderSam Altman dropped a subtle hint about GPT-6 'with extra goblins' and it didn’t go unnoticed TechRadar",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUklOTm9BZ2xka3M3VU5zNkNha29ORFB3R0FKdVJ2eFJDelpWQVlDUzZocVZwdmRqZkpJbWtVUEtNUkRIUU5mQkVJUjd6YTFyOGN0SXZzTFFjX3BMYjlyOWRtNk0wcDF6X0dKaEMwcmZhSVJEU2JrQ1djc0J2QUVaT0VWNjZQUzJZNDdUM3c2X3NuQVlTNFFvMi1QdUNKeXlrTmdrMGpvaC1wdGp2cWo0Y2lpcWYxc2lFTmc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "29 Apr 2026, 19:00"
-  },
-  {
-    "id": "b1b3584071df",
-    "headline": "A guide to APIs, MCPs, and MCP Gateways",
-    "summary": "Technical guide explains differences between APIs and MCPs (Model Context Protocols) for system information exchange purposes.",
-    "description": "APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is mainly found in software applications, while an MCP ... The post A guide to APIs, MCPs, and MCP Gateways appeared first on AI News.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-04-30",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 11:18"
   }
 ]
