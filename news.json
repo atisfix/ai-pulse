@@ -1,5 +1,348 @@
 [
   {
+    "id": "1460c80a93ae",
+    "headline": "Making sense of the debate over AI psychosis",
+    "summary": "Tech industry debate on whether AI CEOs exhibit 'AI psychosis' in their decision-making.",
+    "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 15:30"
+  },
+  {
+    "id": "c33df4390a93",
+    "headline": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally - CNBC",
+    "summary": "Arm, IBM, and HP stocks rise as NVIDIA introduces AI-optimized chips and agents.",
+    "description": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally CNBCNvidia Introduces First PCs Designed for AI Agents WSJServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally MarketWatchIntroducing Surface Laptop Ultra: Made for world makers Windows BlogNVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk NVIDIA Newsroom",
+    "tags": [
+      "Hardware",
+      "Agents",
+      "NVIDIA"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaERvOWlCZXlZM3RhcVMtSlBCQmZtWlVZZXBSQU95UFRqOVptcUdydTdrN0lvSkRIVUlXU0xHZmtIVU9vanNfSHJPTEM4bDBfRWV0bW1RLVJiTUxuRERUUEZKb3dnaFdnNjNBUkpjbDdwZ296Z3hPVm9LbGRDR0pzT3FNMU9zanNtTklGbVVyeTIzek5EbEVXc0lObnZXeURm0gGmAUFVX3lxTFAxM0NvdFkxZ3g0dVYtT2N2dU0xNE9vVUpYZWRWYm9WaU9KbEJIYlpWOEZkRnFfRlhBQjEtSTVYTFQwclpqYzYxZnY3eTBjeGVETkR2eGpGVEpjTnRlRjhKSmdWWFNCLW1MZm5QMHFCNDZtMWhRbE8xdGh5dnJTSU91WEJYZVo3RDVYM0dOQkVya1JYVUk5SmR3MnpsdGpxcllLanlJWGc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 09:58"
+  },
+  {
+    "id": "77c698821d87",
+    "headline": "AI in video game development: How artificial intelligence is reshaping the industry",
+    "summary": "90% of game developers integrate AI; Steam shows 681% increase in AI-disclosed titles in 2025.",
+    "description": "A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from concept through launch, and ... The post AI in video game development: How artificial intelligence is reshaping the industry appeared first on AI News.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 08:46"
+  },
+  {
+    "id": "a983340476b2",
+    "headline": "Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch",
+    "summary": "Parallax improves local linear attention mechanism, doubling arithmetic intensity and perplexity.",
+    "description": "Parallax replaces LLA's per-query solver with a learned projector, doubling arithmetic intensity and improving perplexity at 0.6B and 1.7B. The post Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch appeared first on MarkTechPost.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/31/parallax-a-parameterized-local-linear-attention-that-keeps-softmax-and-adds-a-learned-covariance-correction-branch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 04:36"
+  },
+  {
+    "id": "dc268824c4de",
+    "headline": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
+    "summary": "Microsoft Agent Governance Toolkit implementation enables safe AI agents with policy controls.",
+    "description": "In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and ... The post An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approva",
+    "tags": [
+      "Agents",
+      "Microsoft"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 20:07"
+  },
+  {
+    "id": "372aca552708",
+    "headline": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain",
+    "summary": "Trajectory releases concurrent multi-LoRA training stack achieving 2.81× throughput gain.",
+    "description": "Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81× end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL. The post Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput G",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 02:04"
+  },
+  {
+    "id": "41dae503c9ce",
+    "headline": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
+    "summary": "SkillNet framework enables AI agents to discover and execute reusable skills for task planning.",
+    "description": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills. The post Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning appeared first on MarkTechPost.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 01:28"
+  },
+  {
+    "id": "11d3f17776a8",
+    "headline": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+    "summary": "Documentary examines AI's historical roots in eugenics and right-wing ideology.",
+    "description": "The roots of AI in rightwing ideology is examined in Valerie Veatch’s enjoyable doc, including an array of colourful, often crazed, figuresDirector Valerie Veatch made her name with documentaries such as Love Child (about an online gaming-addicted couple whose child died of malnutrition) and Me at the Zoo (about American vlogger Cara Cunningham), films that explore the intersection of real-world subcultures and internet communities. Her latest continues in this vein, although its self-set remit ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 12:00"
+  },
+  {
+    "id": "727c602208df",
+    "headline": "The dating apps that failed to deliver the joys of sex and romance now offer AI as cupid. No thanks | Tatum Hunter",
+    "summary": "Dating apps increasingly use AI to match users, but critics doubt it replaces human connection.",
+    "description": "Endless swiping has left a generation of singles burned out. But get real: dating assistants and AI-aided chats will never recreate the friction of real romanceAfter years of shrinking usage and tumbling stock prices, the dating app Bumble is teasing a major change to its product. But in solving one problem, it might be walking right into another. The company told Axios this month that it’s getting rid of a dating app mainstay: the swipe. The feature made it easy for people to carelessly flick t",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/01/dating-apps-failed-sex-romance-ai-cupid-swiping-bumble",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 09:00"
+  },
+  {
+    "id": "6321ee8e9968",
+    "headline": "AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment | Nesrine Malik",
+    "summary": "Opinion piece critiques AI's lack of meaning and humanity in contemporary political discourse.",
+    "description": "For ease and speed, we are degrading our ability to connect and to organise our societies. We must assert our trust in humans over machinesHere is a nightmare scenario for you. You are writing a book about how AI reshapes reality. You start using it as a research partner, confident that you are applying the right hygiene by not letting it actually write a sentence of the book. You think you’ll be careful, you will double check everything. And then your book comes out and it appears that it inclu",
+    "tags": [],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 05:00"
+  },
+  {
+    "id": "d48fba7b1c52",
+    "headline": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+    "summary": "Over 100 charities oppose UK plan to use AI for assessing asylum seekers' ages.",
+    "description": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilitiesA coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.The warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asylum seekers whose ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 05:00"
+  },
+  {
+    "id": "f8c7eaca8065",
+    "headline": "This model is not a real person: how AI is changing online shopping – video",
+    "summary": "AI-generated fashion models replace human models in e-commerce, raising ethical concerns.",
+    "description": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to see if the garments were more than mere pixels.The Iconic, which sells the dress worn in this video, said in a statement: ‘Where AI-generated imagery is used to advertise products for sale on our platform, our expectation is that it is clearly labelled",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 15:00"
+  },
+  {
+    "id": "f6aa392c41e5",
+    "headline": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
+    "summary": "Tech billionaires including Sam Altman push 'transhuman' AI vision for space conquest.",
+    "description": "A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damnedSam Altman, the chief executive of OpenAI, took to the Internet a few years ago to propose that homo sapiens would be the first species “to design our own descendants”. In his best case scenario, the “merge” between humans and artificial intelligence occurs at some point over the next 50 years. The alternative, where we remain simply human and the machines follow their own ",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 13:00"
+  },
+  {
+    "id": "b7ab72f64cbd",
+    "headline": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI",
+    "summary": "Teachers union urges elementary schools to stop using AI tools with young students.",
+    "description": "\"If we don't find a way to call this out from an education perspective, I fear that we will lose a generation of kids.\" The post Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/teachers-union-schools-kids-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 13:00"
+  },
+  {
+    "id": "323a34a6bdf2",
+    "headline": "Take-No-Prisoners Professor Will Fail Any Student Who Uses AI",
+    "summary": "University professor enforces strict no-AI policy, failing any student using AI tools.",
+    "description": "\"I get paid the same whether I pass you or fail you.\" The post Take-No-Prisoners Professor Will Fail Any Student Who Uses AI appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/future-society/professor-fail-any-student-uses-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 10:30"
+  },
+  {
+    "id": "0e93502aa3c3",
+    "headline": "AI Company Paying Random People $2,000 Per Month to Crank the Hog",
+    "summary": "AI startup pays $2,000/month to individuals for unspecified work labeled 'crank the hog.'",
+    "description": "\"Time to go pro.\" The post AI Company Paying Random People $2,000 Per Month to Crank the Hog appeared first on Futurism.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "31 May 2026, 09:45"
+  },
+  {
+    "id": "4480af8c6bd8",
+    "headline": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+    "summary": "NVIDIA AI Cloud ecosystem expands globally to meet enterprise and startup compute demand.",
+    "description": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. ...",
+    "tags": [
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 05:00"
+  },
+  {
+    "id": "3e7e7978ab5c",
+    "headline": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+    "summary": "NVIDIA Factory Operations Blueprint integrates AI to connect machine signals and alerts.",
+    "description": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer. Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager ...",
+    "tags": [
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 05:00"
+  },
+  {
+    "id": "3e69e3fc9a44",
+    "headline": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+    "summary": "Taiwan's 500+ NVIDIA partners accelerate global AI infrastructure buildout capacity.",
+    "description": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans the full supply chain — from key ...",
+    "tags": [
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 05:00"
+  },
+  {
+    "id": "55d7f70e60d9",
+    "headline": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+    "summary": "NVIDIA Cosmos 3 enables physical AI systems to reason before acting.",
+    "description": "",
+    "tags": [
+      "Robotics",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 04:45"
+  },
+  {
+    "id": "9826077ab8b5",
+    "headline": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+    "summary": "NVIDIA enables local AI agents on RTX PCs and DGX Spark for personalized adaptation.",
+    "description": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive processes and manage multi-step tasks — all while running locally on device. Today at ...",
+    "tags": [
+      "Agents",
+      "NVIDIA"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-01",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 04:30"
+  },
+  {
     "id": "96f86912d819",
     "headline": "AI grifters are creating fake Black people to sell Shein junk",
     "summary": "Scammers are using AI to create fake Black personas on TikTok to fraudulently promote products like Shein merchandise.",
@@ -10675,356 +11018,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "01 May 2026, 08:25"
-  },
-  {
-    "id": "f398e7769ac5",
-    "headline": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-    "summary": "Microsoft launches Legal Agent AI tool for Word to help legal teams manage document edits, negotiation history, and complex contracts.",
-    "description": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing ...",
-    "tags": [
-      "Microsoft",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 07:18"
-  },
-  {
-    "id": "b1e0a0a155bf",
-    "headline": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-    "summary": "Elon Musk testifies in court that xAI used OpenAI's models to train Grok through model distillation, a common industry practice.",
-    "description": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller ...",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 14:16"
-  },
-  {
-    "id": "494857b971f1",
-    "headline": "Meta is running get-rich-quick ads for its AI tools",
-    "summary": "Meta's acquired AI company Manus runs ads promising quick profits by using AI to build websites for local businesses.",
-    "description": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build ...",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 12:48"
-  },
-  {
-    "id": "f957aee05f6e",
-    "headline": "Gemini is rolling out to cars with Google built-in",
-    "summary": "Google rolling out Gemini AI assistant to vehicles with Google built-in as an upgrade from Google Assistant.",
-    "description": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information, settings adjustments, and more. \"When cars with Google built-in first hit the road ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 12:00"
-  },
-  {
-    "id": "a1eca9fd9433",
-    "headline": "Here’s how the new Microsoft and OpenAI deal breaks down",
-    "summary": "Article explores the complex partnership breakdown between Microsoft and OpenAI, involving contract disputes and executive disagreements.",
-    "description": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in ...",
-    "tags": [
-      "Microsoft",
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 12:00"
-  },
-  {
-    "id": "7644e62d6b52",
-    "headline": "OpenAI talks about not talking about goblins",
-    "summary": "OpenAI addresses instructions in its coding model to avoid discussing fictional creatures like goblins and gremlins.",
-    "description": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as ...",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 09:42"
-  },
-  {
-    "id": "9d9b2b88b1cc",
-    "headline": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "summary": "ChatGPT Images 2.0 gains popularity in India for creating avatars and cinematic portraits but has limited adoption elsewhere.",
-    "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-    "tags": [
-      "OpenAI",
-      "Image Gen"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 02:00"
-  },
-  {
-    "id": "a492c078a761",
-    "headline": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "summary": "Anthropic seeks investor allocations for latest fundraise potentially reaching $900B+ valuation within two weeks.",
-    "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 23:07"
-  },
-  {
-    "id": "7002ba93acf2",
-    "headline": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "summary": "Legal AI startup Legora reaches $5.6B valuation amid competitive rivalry with Harvey and dueling advertising campaigns.",
-    "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 20:14"
-  },
-  {
-    "id": "3b60d1250ee6",
-    "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "summary": "OpenAI restricts access to GPT-5.5 Cyber cybersecurity tool to critical defenders only, mirroring Anthropic's content restrictions.",
-    "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 19:27"
-  },
-  {
-    "id": "29786686d0e6",
-    "headline": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-    "summary": "OpenAI launches Advanced Account Security for ChatGPT with new partnership with Yubico for enhanced account protection.",
-    "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 18:20"
-  },
-  {
-    "id": "c2438375d609",
-    "headline": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-    "summary": "Elon Musk testifies xAI trained Grok using OpenAI models through distillation, sparking debate among frontier AI labs.",
-    "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 18:03"
-  },
-  {
-    "id": "56968843e8b8",
-    "headline": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "summary": "BioticsAI founder discusses FDA approval processes and fundraising challenges in regulated healthcare AI space.",
-    "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-    "tags": [
-      "Healthcare",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 17:53"
-  },
-  {
-    "id": "1653e8d6edf3",
-    "headline": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-    "summary": "Google deploys Gemini AI assistant to millions of vehicles to enhance conversational driving experiences.",
-    "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 17:46"
-  },
-  {
-    "id": "1a2f52f6636e",
-    "headline": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-    "summary": "Stripe launches Link digital wallet enabling autonomous AI agents to securely make payments with user approval.",
-    "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 17:15"
-  },
-  {
-    "id": "4312f6f4ff4d",
-    "headline": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-    "summary": "Trial reveals how Shivon Zilis acted as intermediary between Elon Musk and OpenAI through confidential messages.",
-    "description": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 00:51"
-  },
-  {
-    "id": "f9642b4a4de3",
-    "headline": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-    "summary": "Musk-Altman trial explores implications for OpenAI and AI industry beyond their personal rivalry.",
-    "description": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 18:54"
-  },
-  {
-    "id": "2eaddc19c45a",
-    "headline": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-    "summary": "Musk testifies xAI used OpenAI models for training, arguing model use among competitors is standard practice.",
-    "description": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 17:41"
-  },
-  {
-    "id": "85dc487f3ebb",
-    "headline": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-    "summary": "OpenAI rolls out Advanced Account Security to protect ChatGPT users from phishing and unauthorized access.",
-    "description": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 17:30"
-  },
-  {
-    "id": "c6c94593c4cd",
-    "headline": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-    "summary": "Startup Goodfire releases Silico tool allowing researchers to debug and adjust LLM parameters for mechanistic interpretability.",
-    "description": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "30 Apr 2026, 15:59"
-  },
-  {
-    "id": "9b4f708b7383",
-    "headline": "AI just killed your last excuse for not starting a business - Axios",
-    "summary": "AI tools lower barriers to business startup with $24 prompting tool designed for improved first-try results.",
-    "description": "AI just killed your last excuse for not starting a business AxiosThis $24 AI prompting tool is built to give you better results on the first try Yahoo TechAxios Finish Line: Make AI remember you AxiosAxios Finish Line: Prompt like a pro Axios",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yS0hERVFab3JmemFaeEJwSk5iSGNsU3hZTEd5RkFNTTU5UmQ4Z0NOdTY4ZmI4X2FOWlJacHM0Qm9kQTFMalh5ZHQ1RnByWkdpQWh3X0J2dWxSMXVtS2piYVlvaFJ5VlZYbExkZ01B?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 01:08"
   }
 ]
