@@ -1,5 +1,405 @@
 [
   {
+    "id": "db5392e0a2d8",
+    "headline": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+    "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promi",
+    "description": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 08:38"
+  },
+  {
+    "id": "5ed0346ebf6b",
+    "headline": "Gemini’s new AI agent is about as good as Google’s demo",
+    "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and ",
+    "description": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 16:00"
+  },
+  {
+    "id": "a2419b5d4603",
+    "headline": "Meta’s own AI was exploited to hijack Instagram accounts",
+    "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows ho",
+    "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 15:20"
+  },
+  {
+    "id": "d07969365e23",
+    "headline": "Anthropic has officially filed to go public",
+    "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing",
+    "description": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 12:40"
+  },
+  {
+    "id": "d036ea69ec19",
+    "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+    "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when",
+    "description": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 10:39"
+  },
+  {
+    "id": "5368bd21fbee",
+    "headline": "AI is blowing up music. How should the Grammys handle it?",
+    "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harv",
+    "description": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen. Well, it’s been ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 10:30"
+  },
+  {
+    "id": "3da260f2daf3",
+    "headline": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+    "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier b",
+    "description": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava ...",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 10:06"
+  },
+  {
+    "id": "691e72135df6",
+    "headline": "ZeroDrift raises $10 million to protect AI models from themselves",
+    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+    "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:32"
+  },
+  {
+    "id": "94f15a4683cf",
+    "headline": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+    "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:00"
+  },
+  {
+    "id": "5dd0a9c6a063",
+    "headline": "Alphabet plans to raise $80B to pay for AI buildout",
+    "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’",
+    "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 22:55"
+  },
+  {
+    "id": "30d17b285b8a",
+    "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 21:35"
+  },
+  {
+    "id": "71624a3c7cf5",
+    "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 20:03"
+  },
+  {
+    "id": "da3977f323dc",
+    "headline": "Anthropic files to go public",
+    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language",
+    "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 16:36"
+  },
+  {
+    "id": "19f55af96df9",
+    "headline": "This AI weather startup is out-forecasting government agencies",
+    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering senso",
+    "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 16:00"
+  },
+  {
+    "id": "659e07251848",
+    "headline": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+    "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+    "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+    "tags": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 14:49"
+  },
+  {
+    "id": "9da9a3c52259",
+    "headline": "The Trump Administration Is at War With Itself Over AI Regulation",
+    "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything le",
+    "description": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 09:30"
+  },
+  {
+    "id": "0f3810d094c6",
+    "headline": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "description": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "tags": [
+      "AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 17:17"
+  },
+  {
+    "id": "eff6185568c9",
+    "headline": "The Download: AI can run your admin department now",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small bu",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:10"
+  },
+  {
+    "id": "b9c02018ed24",
+    "headline": "Rehumanizing global health care with agentic AI",
+    "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surg",
+    "description": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 11:23"
+  },
+  {
+    "id": "02b774c0bfbf",
+    "headline": "How small businesses can leverage AI",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo",
+    "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 09:00"
+  },
+  {
+    "id": "a8b5450198fd",
+    "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch",
+    "summary": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP TechCrunchNvidia's new PC chips represent CEO Huang's bid to win at ever",
+    "description": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP TechCrunchNvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack CNBCNVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI NVIDIA NewsroomIntroducing Surface Laptop Ultra: Made for world makers Windows BlogNvidia Is Bigger, Stronger, and Trying to Slay the Laptop Dragon Again Bloomberg",
+    "tags": [
+      "AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHJTNHRSY0pFRmJ0a3VybVloaTJ3WVlEZjdvOUl1LVZIeGlJM1M4dGJtemdVOVFBRnpZU2lRT2RkVU1PeW90MmxWYXN5dTJPVUhadllrWld2ei1zSFdqSURqQ2MzMlBySHNLekR0SVRzTlhYVXpfa3R0eENFU2FUbEcxdXZMT1R2THh6bmVqcnpyNmlWem9lc2lJZ2M2QnBqczdEZElzUko4Y1I1TXc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 21:35"
+  },
+  {
+    "id": "4feee020d6ac",
+    "headline": "Gemini’s new AI agent is about as good as Google’s demo - The Verge",
+    "summary": "Gemini’s new AI agent is about as good as Google’s demo The VergeGemini Spark is the most impressive and terrifying AI experience I’ve had yet The Ver",
+    "description": "Gemini’s new AI agent is about as good as Google’s demo The VergeGemini Spark is the most impressive and terrifying AI experience I’ve had yet The VergeGoogle Tests New AI Agent To Take On OpenClaw With Advanced Task Automation: Report Yahoo FinanceGoogle's Agentic AI Tool Gemini Spark Is Now Available PCMag AustraliaI put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful TechCrunch",
+    "tags": [
+      "AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QRmJZakxwbW50XzBJbThBSVJoLVhLTzR2S0FzWjRVbTgzbmF2Smc4QTZqQS0wRndPd2FmWWkwZUI1V3JSOC15UFl2T1BKMjJuTGVJRU5HbkFGRm1iVEVQbE9jSjRmN2c0amstZVdXVnBPNzRDdUNlUmw3b2c0dmM?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jun 2026, 20:00"
+  },
+  {
+    "id": "7c555f9e4173",
+    "headline": "Anthropic surges as OpenAI struggles to keep up",
+    "summary": "Stock market filing illustrates AI company’s meteoric rise, while California’s tech billionaires pour cash into elections Hello, and welcome to TechSc",
+    "description": "Stock market filing illustrates AI company’s meteoric rise, while California’s tech billionaires pour cash into elections Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. This week in tech, we’re discussing Anthropic’s meteoric rise, both theological and financial, and California’s unprecedented infusion of political cash from Silicon Valley.‘Like a billionaire on acid’: Star Wars director Gareth Edwards comes out in favour of AITo YouTube and bey",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/01/anthropic-openai-techscape",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 13:06"
+  },
+  {
+    "id": "e9d17a94cf0e",
+    "headline": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
+    "summary": "Rolling coverage of the latest economic and financial newsAnthropic confidentially files for initial public offering on US stock marketIn a landmark m",
+    "description": "Rolling coverage of the latest economic and financial newsAnthropic confidentially files for initial public offering on US stock marketIn a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European Central Bank.The ECB says that gold made up 27% of total official foreign reserves at the end of 2025, ahead of US Treasuries (22% of reserves) and the euro (15%).Forces of fragmentation are becoming more pronounced. Geopoliti",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:39"
+  },
+  {
+    "id": "d5528b762296",
+    "headline": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
+    "summary": "Markets take note as world’s biggest equity fundraiser bids to garner more money than the three biggest-ever IPOs combinedBusiness live – latest updat",
+    "description": "Markets take note as world’s biggest equity fundraiser bids to garner more money than the three biggest-ever IPOs combinedBusiness live – latest updatesKenneth Rogoff: will AI create a permanent underclass?Google’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infrastructure investments, raising further questions over the economics of the AI boom.The move, the largest equity fundraising ever according to analysts, incl",
+    "tags": [
+      "AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:33"
+  },
+  {
     "id": "1460c80a93ae",
     "headline": "Making sense of the debate over AI psychosis",
     "summary": "Tech industry debate on whether AI CEOs exhibit 'AI psychosis' in their decision-making.",
@@ -10604,419 +11004,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "03 May 2026, 00:19"
-  },
-  {
-    "id": "67dbffc6cbb6",
-    "headline": "All the evidence revealed so far in Musk v. Altman",
-    "summary": "Musk v. Altman trial reveals evidence including emails, photos, and corporate documents about OpenAI's founding and direction.",
-    "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 15:14"
-  },
-  {
-    "id": "f88743958745",
-    "headline": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "summary": "Pentagon secures classified AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI, and Reflection, but not Anthropic.",
-    "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - ...",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Microsoft",
-      "NVIDIA",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 10:09"
-  },
-  {
-    "id": "825e10f10be5",
-    "headline": "Elon Musk had a bad week in court",
-    "summary": "Elon Musk faces setbacks in court during OpenAI trial, claiming the company stole a nonprofit with his founding role.",
-    "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 09:33"
-  },
-  {
-    "id": "11f38e7d57c2",
-    "headline": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-    "summary": "Content creators increasingly use Fiverr gig workers to generate AI-produced content, shifting from specialized creative labor.",
-    "description": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly ...",
-    "tags": [
-      "Creative AI",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 09:25"
-  },
-  {
-    "id": "f3312f9f4585",
-    "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "summary": "Meta acquires humanoid robotics startup Assured Robot Intelligence to strengthen AI capabilities for robotic systems.",
-    "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-    "tags": [
-      "Meta",
-      "Robotics",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 22:13"
-  },
-  {
-    "id": "2fbb5fd6eb0a",
-    "headline": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-    "summary": "Musk's testimony in OpenAI lawsuit reveals communications highlighting legal and ethical disputes over the company's founding.",
-    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 17:44"
-  },
-  {
-    "id": "85e40668d14b",
-    "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "summary": "Pentagon diversifies AI vendor partnerships with Nvidia, Microsoft, AWS deals for classified network deployment amid Anthropic dispute.",
-    "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-    "tags": [
-      "NVIDIA",
-      "Microsoft",
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 16:02"
-  },
-  {
-    "id": "37ecfa87c267",
-    "headline": "Musk v. Altman is just getting started",
-    "summary": "Musk v. Altman trial escalates with damaging emails and social media evidence emerging from witness testimony.",
-    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 14:00"
-  },
-  {
-    "id": "476d0a07dd07",
-    "headline": "Disneyland Now Uses Face Recognition on Visitors",
-    "summary": "Disneyland deploys face recognition on visitors; NSA tests Anthropic's Mythos Preview for vulnerabilities.",
-    "description": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 10:30"
-  },
-  {
-    "id": "3bea67b304e4",
-    "headline": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-    "summary": "A dark-money nonprofit linked to OpenAI and a16z funds campaign spreading pro-AI messaging and anti-China fears.",
-    "description": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-    "tags": [
-      "OpenAI",
-      "Regulation",
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 20:25"
-  },
-  {
-    "id": "d4bfc0211aa1",
-    "headline": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "summary": "Musk testifies he was deceived by Altman and Brockman; admits xAI distills OpenAI models; warns of AI existential risk.",
-    "description": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 22:08"
-  },
-  {
-    "id": "64d391dca5a1",
-    "headline": "Cyber-Insecurity in the AI Era",
-    "summary": "AI expansion increases cybersecurity attack surface, straining legacy security approaches and creating new vulnerabilities.",
-    "description": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
-    "tags": [
-      "Regulation",
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 15:54"
-  },
-  {
-    "id": "3b176b85a075",
-    "headline": "Operationalizing AI for Scale and Sovereignty",
-    "summary": "Companies leverage proprietary data to customize AI models while balancing data ownership with quality and trustworthiness.",
-    "description": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data…",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 15:31"
-  },
-  {
-    "id": "fdb287b6eb79",
-    "headline": "The Download: a new Christian phone network, and debugging LLMs",
-    "summary": "Christian phone network blocks explicit content; debugging techniques for large language models discussed.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 12:10"
-  },
-  {
-    "id": "ecc9d0295d1e",
-    "headline": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
-    "summary": "Study shows AI models trained to be warm and considerate exhibit reduced accuracy and increased sycophancy.",
-    "description": "Study: AI models that consider user’s feeling are more likely to make errors Ars TechnicaTraining language models to be warm can reduce accuracy and increase sycophancy NatureAI chatbots can prioritize flattery over facts – and that carries serious risks The ConversationFriendly AI chatbots more likely to support conspiracy theories, study finds The Guardian\"Warm\" AI Chatbots Are More Likely to Lie Neuroscience News",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWplVTF5eHNLclRwNnRTSnhhNmlJY09Ec05OSEZ4MC00R24xd21WQ3FZZDdNd2hacGdVUjNsRGtXNEFIX0phWGhsLTRscjk3VkZYc1dYRkI0dGw4bFpnLU9oZWpKMGx2V1hSRVJXZkE2Y1RINW1OY2pITmFFNU83X1ZybGpGUmdWeUZXa2R1QWE3azFmdmlxcHpuSjFxQ19pNHpfUmpMdG8xV3RUR2xv?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 22:23"
-  },
-  {
-    "id": "c0ab407a1f9b",
-    "headline": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
-    "summary": "AI-assisted scanning discovers critical Linux privilege escalation vulnerability (Copy Fail) affecting cloud environments.",
-    "description": "Severe Linux Copy Fail security flaw uncovered using AI scanning help The VergeCVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments MicrosoftLinux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users Tom's HardwareNine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher Infosecurity MagazineAnother AI-Assisted Soft",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MXzVrS0hEY1EzNk9xa2hCaUhMLU5fR0k4aUFmZGVSWDA1WXBEYnZhN2VSdEc0NjcyTHpqR3dIeE9UTDNoNExjakdsOEM5dkVURENUS19UdGxnRDNveTJISW1NNW5DZDdSZDZpNmMwX3Bacjc3dGx5UFZtMzg1UVk?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 16:55"
-  },
-  {
-    "id": "52e9fe9dedb1",
-    "headline": "OpenAI Tries to Exorcise Goblins, Gremlins, and Trolls From ChatGPT - eWeek",
-    "summary": "OpenAI addresses ChatGPT's obsession with goblins, gremlins, and trolls through model intervention and fine-tuning.",
-    "description": "OpenAI Tries to Exorcise Goblins, Gremlins, and Trolls From ChatGPT eWeekChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene WSJOpenAI Really Wants Codex to Shut Up About Goblins WIREDOpenAI blames 'nerdy personality' for ChatGPT's obsession with goblins NBC NewsWhere the goblins came from OpenAI",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OWFNNTFQ3VUNyT2dMZFpXcGZ0bVNubDBoOXhHOGoxa0w1OTJzd2Fzam5UQjJqTjJtWVpOUVN4XzdaZUJ5bFdqcFVfTDk4Q3VILXJMNVQyalRPNkRITWVOazVIWWJTOTRQR3Nua1dmVjJidUJMekJDbDZ3?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 17:54"
-  },
-  {
-    "id": "dcd130ca4777",
-    "headline": "SAP: How enterprise AI governance secures profit margins",
-    "summary": "SAP demonstrates enterprise AI governance replaces statistical approximations with deterministic control for profit optimization.",
-    "description": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europe, APAC, Middle East & Africa at SAP, observes that the ... The post SAP: How enterprise AI governance secures profit margins appeared first on AI News.",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 13:05"
-  },
-  {
-    "id": "fabeac916815",
-    "headline": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset",
-    "summary": "Tutorial explores agent reasoning traces dataset to understand multi-turn conversations, tool use, and response generation.",
-    "description": "In this tutorial, we explore the lambda/hermes-agent-reasoning-traces dataset to understand how agent-based models think, use tools, and generate responses across multi-turn conversations. We start by loading and inspecting the dataset, examining its structure, categories, and conversational format to get a clear idea of the available information. We then build simple parsers to extract key components ... The post A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent ",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 07:47"
-  },
-  {
-    "id": "2030c5756ea4",
-    "headline": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
-    "summary": "NVIDIA Research achieves 1.8× speedup with speculative decoding in NeMo RL, projecting 2.5× end-to-end gains at 235B.",
-    "description": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales. The post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.",
-    "tags": [
-      "NVIDIA",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 03:47"
-  },
-  {
-    "id": "d1a2988b590b",
-    "headline": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
-    "summary": "Deep learning pipeline decodes linguistic features from brain MEG signals for neuroAI applications.",
-    "description": "In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process ... The post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
-    "tags": [
-      "Research",
-      "Healthcare"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 23:09"
-  },
-  {
-    "id": "2a7c84ddb087",
-    "headline": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
-    "summary": "Meta's Autodata framework enables autonomous data scientists using AI models for high-quality training data generation.",
-    "description": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation The post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.",
-    "tags": [
-      "Meta",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 22:24"
-  },
-  {
-    "id": "88b7d77e3892",
-    "headline": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning",
-    "summary": "Comprehensive guide demonstrates LLM post-training using TRL library from SFT through DPO and GRPO reasoning techniques.",
-    "description": "In this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we ... The post A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to ",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/01/a-coding-guide-on-llm-post-training-with-trl-from-supervised-fine-tuning-to-dpo-and-grpo-reasoning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 20:52"
-  },
-  {
-    "id": "2ec2ceb29acf",
-    "headline": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
-    "summary": "Qwen releases Qwen-Scope, an open-source sparse autoencoder suite converting LLM internals into practical development tools.",
-    "description": "Qwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools The post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost.",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-02",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 08:25"
   }
 ]
