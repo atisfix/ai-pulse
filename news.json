@@ -1,5 +1,411 @@
 [
   {
+    "id": "65d727efd3c2",
+    "headline": "AI has a water problem. Google thinks it has a fix",
+    "summary": "Google addresses AI data center water consumption concerns by implementing measures to minimize environmental impact and increase water availability for local communities.",
+    "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 05:00"
+  },
+  {
+    "id": "a405d933ee1b",
+    "headline": "Google must let publishers opt out of AI Search features, rules UK",
+    "summary": "UK regulators require Google to let publishers opt out of AI Search features, giving content creators more control over their data usage in AI systems.",
+    "description": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used ...",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 04:45"
+  },
+  {
+    "id": "90a4e58cad58",
+    "headline": "Microsoft Build 2026: The 7 biggest announcements",
+    "summary": "Microsoft Build 2026 features major announcements including new Surface hardware and always-on AI features from CEO Satya Nadella.",
+    "description": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the ...",
+    "tags": [
+      "Microsoft",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 15:23"
+  },
+  {
+    "id": "5804b9e1000e",
+    "headline": "Trump signs executive order to review AI models before they’re released",
+    "summary": "Trump signs executive order establishing voluntary framework requiring AI companies to submit frontier models for federal government review before release.",
+    "description": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 14:33"
+  },
+  {
+    "id": "49a9fe8d65b1",
+    "headline": "Microsoft’s first advanced reasoning AI is here",
+    "summary": "Microsoft announces MAI-Thinking-1, a flagship advanced reasoning AI model, marking a significant step in the company's model development efforts.",
+    "description": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According ...",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 14:12"
+  },
+  {
+    "id": "28e3988b30e7",
+    "headline": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+    "summary": "Microsoft Scout is an always-on AI personal assistant integrating with Microsoft 365 apps like Outlook, Teams, and OneDrive.",
+    "description": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside ...",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 14:00"
+  },
+  {
+    "id": "d0938d8bcc0e",
+    "headline": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+    "summary": "Google Phone app adds feature detecting AI impersonation scams by identifying fraudulent calls spoofing known contacts.",
+    "description": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 14:00"
+  },
+  {
+    "id": "1043f1842880",
+    "headline": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+    "summary": "Microsoft unveils Project Solara, a new operating system designed specifically for gadgets running AI agents.",
+    "description": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara devices at Build today: Desk concept and badge ...",
+    "tags": [
+      "Microsoft",
+      "Agents",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 13:31"
+  },
+  {
+    "id": "0c0f2644eb38",
+    "headline": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+    "summary": "Microsoft releases Surface RTX Spark Dev Box, a compact developer device powered by Nvidia's new AI chip.",
+    "description": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized for sustained workloads and local AI tasks. ...",
+    "tags": [
+      "Microsoft",
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 12:30"
+  },
+  {
+    "id": "1ec87b75950f",
+    "headline": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+    "summary": "Microsoft Build 2026 introduces Windows updates, Scout AI assistant, Majorana 2 quantum chip, and RTX Spark developer hardware.",
+    "description": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI ...",
+    "tags": [
+      "Microsoft",
+      "Agents",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 11:59"
+  },
+  {
+    "id": "f8406bedbe74",
+    "headline": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "summary": "Coralogix raises $200M in Series F funding at $1.6B valuation for AI agent monitoring and observability platform.",
+    "description": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 13:02"
+  },
+  {
+    "id": "306ed8ddf926",
+    "headline": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "summary": "Uber caps employee AI spending after budget exhaustion in 4 months, following aggressive internal AI adoption push.",
+    "description": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 19:11"
+  },
+  {
+    "id": "3fb40d583a91",
+    "headline": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "summary": "Microsoft releases open-source framework for creating AI behavior tests and evaluations using natural language descriptions.",
+    "description": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 19:02"
+  },
+  {
+    "id": "953b2d0da876",
+    "headline": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "summary": "Martin Scorsese uses AI technology for storyboarding, becoming notable Hollywood figure adopting the tool for creative purposes.",
+    "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:16"
+  },
+  {
+    "id": "48bb07575fc9",
+    "headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "summary": "Microsoft Scout brings OpenClaw-inspired AI assistant capabilities to Microsoft 365 ecosystem for enterprise productivity.",
+    "description": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:02"
+  },
+  {
+    "id": "6890fe54da6b",
+    "headline": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "summary": "Google deploys fake call detection using AI to protect users against deepfake impersonation scams spoofing trusted numbers.",
+    "description": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:00"
+  },
+  {
+    "id": "27401e25d2d8",
+    "headline": "Microsoft offers devs a better way to control AI agent behavior",
+    "summary": "Microsoft provides developers portable policy files to control AI agent behavior and ensure compliance and security standards.",
+    "description": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:00"
+  },
+  {
+    "id": "75866b7876d4",
+    "headline": "Trump signs narrower executive order on AI oversight after industry objections",
+    "summary": "Trump revises AI executive order to voluntary framework after industry pushback, requiring prerelease model reviews only.",
+    "description": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 16:23"
+  },
+  {
+    "id": "9393284b8cef",
+    "headline": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+    "summary": "Nvidia's RTX Spark chips aim to make AI PCs viable reality with significant performance improvements for edge AI tasks.",
+    "description": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 11:00"
+  },
+  {
+    "id": "d7a748e83b39",
+    "headline": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+    "summary": "World Cup fans use Claude AI to build DIY ticketing software, automating purchases and outmaneuvering scalpers.",
+    "description": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 09:00"
+  },
+  {
+    "id": "d0706acd6b81",
+    "headline": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+    "summary": "Microsoft Scout OpenClaw-style agent automates office tasks within Teams, functioning as always-on AI coworker.",
+    "description": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:00"
+  },
+  {
+    "id": "feac381fb6b5",
+    "headline": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+    "summary": "Opal pivots to AI-powered audio gadget with backing from OpenAI and Samsung, building consumer electronics.",
+    "description": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
+    "tags": [
+      "OpenAI",
+      "Startup",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 15:30"
+  },
+  {
+    "id": "cee27fe38a73",
+    "headline": "The Download: Trump’s new AI order, and smart glasses for warfare",
+    "summary": "MIT Tech Review covers Trump's new AI executive order and emerging smart glasses for military applications.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
+    "tags": [
+      "Regulation",
+      "Hardware"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 12:10"
+  },
+  {
+    "id": "a2203eda5586",
+    "headline": "Microsoft testing wearable AI gadget aimed at office workers - BBC",
+    "summary": "Microsoft develops wearable AI gadget targeting office workers, unveiled at Build 2026 as productivity tool.",
+    "description": "Microsoft testing wearable AI gadget aimed at office workers BBCBuild 2026: Furthering Windows as the trusted platform for development Windows BlogMicrosoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers CNBCMicrosoft launches new MAI family of AI models for reasoning, voice, coding, and images MashableInside Microsoft’s Project Solara: A new platform for devices that run AI agents instead of apps GeekWire",
+    "tags": [
+      "Microsoft",
+      "Hardware",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRalJTcl83aFBpRW54R1JtVjlKcEdDNGVrTGpwVFVwd0dFbVJhbHhzQzFrMmNLalgydllacFRTLXhpUTNLZGlxcWRiUjJkeU41RHA2SldmaFRtZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-03",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 21:47"
+  },
+  {
     "id": "db5392e0a2d8",
     "headline": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
     "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promi",
@@ -10660,349 +11066,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "04 May 2026, 12:12"
-  },
-  {
-    "id": "f37aaae3b97f",
-    "headline": "AI music is flooding streaming services — but who wants it?",
-    "summary": "AI-generated music is flooding streaming services, raising questions about industry impact and consumer demand.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 08:00"
-  },
-  {
-    "id": "e2bb1e2330a6",
-    "headline": "AI-generated actors and scripts are now ineligible for Oscars",
-    "summary": "The Academy of Motion Picture Arts and Sciences has declared AI-generated actors and scripts ineligible for Oscar consideration.",
-    "description": "Bad news for Tilly Norwood.",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 21:54"
-  },
-  {
-    "id": "3a5b018f0b7f",
-    "headline": "The best AI dictation apps, tested and ranked",
-    "summary": "AI-powered dictation apps enable voice-based email replies, note-taking, and coding functionality.",
-    "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 16:00"
-  },
-  {
-    "id": "f74311b677b7",
-    "headline": "Google explains why Android AICore occasionally takes up more storage - 9to5Google",
-    "summary": "Google explains occasional storage spikes caused by Android AICore component on devices.",
-    "description": "Google explains why Android AICore occasionally takes up more storage 9to5GoogleGoogle clarifies Android AICore storage spikes Let's Data ScienceGoogle explains Android AICore storage drain The Eastern HeraldWhat Is Android AICore (Gemini Nano)? jetstream.blogGoogle finally explains why Android AICore keeps eating your storage — and it actually makes a lot of sense Digital Trends",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FaGhvbVBOc1d5NzdySEV0NUFkcTRONEFNUVNxWXU2TDZxeXhFVTVKZUQ0Q1hncHZBLXNhN1RJd2xiXzh0NmlEcUZiRHNSdGxJMDhxem9Hck5jQjBDUXdRckRSZnpwUjZC?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 18:04"
-  },
-  {
-    "id": "075ce8cb91c1",
-    "headline": "Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica",
-    "summary": "Research shows AI models trained to be warm/considerate exhibit reduced accuracy and increased sycophancy.",
-    "description": "Study: AI models that consider user’s feeling are more likely to make errors Ars TechnicaTraining language models to be warm can reduce accuracy and increase sycophancy NatureAI chatbots can prioritize flattery over facts – and that carries serious risks The ConversationFriendly AI chatbots more likely to support conspiracy theories, study finds The GuardianYes, you should probably be nicer to your AI — here's why that's not as ridiculous as it sounds Digital Trends",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWplVTF5eHNLclRwNnRTSnhhNmlJY09Ec05OSEZ4MC00R24xd21WQ3FZZDdNd2hacGdVUjNsRGtXNEFIX0phWGhsLTRscjk3VkZYc1dYRkI0dGw4bFpnLU9oZWpKMGx2V1hSRVJXZkE2Y1RINW1OY2pITmFFNU83X1ZybGpGUmdWeUZXa2R1QWE3azFmdmlxcHpuSjFxQ19pNHpfUmpMdG8xV3RUR2xv?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 May 2026, 22:23"
-  },
-  {
-    "id": "b9b0ded98369",
-    "headline": "Leaker indicates that Nvidia's GeForce RTX 3060 returns this June, retaining its 12GB VRAM offering - Notebookcheck",
-    "summary": "NVIDIA's GeForce RTX 3060 GPU with 12GB VRAM is returning in June for AI workloads.",
-    "description": "Leaker indicates that Nvidia's GeForce RTX 3060 returns this June, retaining its 12GB VRAM offering NotebookcheckNVIDIA GeForce RTX 3060 12 GB Returns in June With AIC Partners ASUS, MSI, Colorful, and GALAX TechPowerUpNVIDIA RTX 3060 12 GB To Make A Comeback In July As Major NVIDIA AIBs Prepare For The Launch WccftechMSI, ASUS, Galax and more are making new RTX 3060 12GB GPUs – report claims OC3DAs RAM crisis grips the gaming industry, Nvidia could revive an old RTX 3000 series GPU Digital Tren",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaFUycWxNNHNZSWpqdmN2YUFFQ3FBdEdmNU9UcHluU3dvaElFb1hPLTBTT1o3NDU2ekZwUTFwNVBYSUxLWUoxaFpPbEdnN3FUQy1XeGUzaXp0QTIzZ0Vkc3JKS1ZYNXVOUVRyS1l6OXJpb3hhUnVyMjZMS3ZnT1V3X256TFRMLUExX3l4T2ZSZWJJVmZiT3NoOGpqdVV3S2xVN19ZYkY4R2tibXI4a1BLSWstVms3M0JNZF9FTXdHbnFfNzZzWEJ6NEVHMXRGdEduZjMyT2pTMERUWVE?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 03:53"
-  },
-  {
-    "id": "515ba2ee71ca",
-    "headline": "Will human minds still be special in an age of AI?",
-    "summary": "Philosophical exploration of whether human intelligence remains distinctive as AI capabilities advance.",
-    "description": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the pointUntil recently, we humans have been able to be smug about our abilities. No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as though it might challenge our self-image as the smartest entities around. AI systems not only beat us at the most complicated games, but can also write polished prose and win medals in maths. Tech CEOs pro",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:00"
-  },
-  {
-    "id": "64e67010baa7",
-    "headline": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds",
-    "summary": "AI analysis suggests an unidentified sitter in a Holbein portrait may be Anne Boleyn, challenging centuries-old assumptions.",
-    "description": "Researchers say works may have been incorrectly inscribed in 1700s, leading to centuries-long misunderstandingThey are two small sketches by the Renaissance master Hans Holbein: one has long been considered to be a portrait of Henry VIII’s doomed second wife, Anne Boleyn, and the other is of an unknown woman whose name was lost to time.Now researchers using AI have discovered that the unnamed woman might be the tragic queen after all, while the other figure could in fact be Boleyn’s mother. Cont",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 08:33"
-  },
-  {
-    "id": "c1b19526885a",
-    "headline": "AI chatbot fraud: the ‘gift card’ subcription that may cost you dear",
-    "summary": "Claude chatbot users report unauthorized subscription charges and fraudulent gift purchases on credit cards.",
-    "description": "After subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill. They are not aloneDavid Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed like money well spent.But then his wife spotted two $200 payments on his credit card bill for gift cards to use the artificial intelligence tool. Continue reading...",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 06:00"
-  },
-  {
-    "id": "6f203d812580",
-    "headline": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
-    "summary": "Australian residents express growing concern over environmental impacts of rapidly expanding AI datacenters.",
-    "description": "Residents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behindFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen West Footscray resident Sean Brown takes his 19-month-old boy to the park, their walk passes an imposing new building cheerily spruiked as “Australia’s largest hyperscale AI factory”, a datacentre called M3.He hates",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 20:00"
-  },
-  {
-    "id": "3d97a454cf8d",
-    "headline": "Why AI Agents are either the best or worst thing we've ever built [video]",
-    "summary": "Video exploring whether AI agents represent humanity's greatest achievement or biggest mistake.",
-    "description": "Article URL: https://www.youtube.com/watch?v=WnzR5aOElvw Comments URL: https://news.ycombinator.com/item?id=47996103 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.youtube.com/watch?v=WnzR5aOElvw",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 12:03"
-  },
-  {
-    "id": "1620fefbcd7a",
-    "headline": "Will human minds still be special in an age of AI?",
-    "summary": "Philosophical exploration of whether human intelligence remains distinctive as AI capabilities advance.",
-    "description": "Article URL: https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai Comments URL: https://news.ycombinator.com/item?id=47996102 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 12:03"
-  },
-  {
-    "id": "6c52a0c062aa",
-    "headline": "Madagascar: AI Trainers – Arte.tv Documentary [video]",
-    "summary": "Documentary examining AI data labeling and training practices in Madagascar.",
-    "description": "Article URL: https://www.youtube.com/watch?v=Q7NZK6h9Tvo Comments URL: https://news.ycombinator.com/item?id=47996053 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.youtube.com/watch?v=Q7NZK6h9Tvo",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:57"
-  },
-  {
-    "id": "ac07e45bbeef",
-    "headline": "AI's Supply Crunch Is Here",
-    "summary": "Analysis of supply chain constraints and resource scarcity emerging in AI infrastructure development.",
-    "description": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47995994 Points: 1 # Comments: 0",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:47"
-  },
-  {
-    "id": "26850c42decf",
-    "headline": "Richard Dawkins and the Claude Delusion",
-    "summary": "Article discussing misconceptions about Claude AI capabilities and limitations.",
-    "description": "Article URL: https://plus.flux.community/p/richard-dawkins-and-the-claude-delusion Comments URL: https://news.ycombinator.com/item?id=47995990 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://plus.flux.community/p/richard-dawkins-and-the-claude-delusion",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:46"
-  },
-  {
-    "id": "f8b4acdae545",
-    "headline": "Ask HN: Can I trust GitHub not to use my code for LLM training?",
-    "summary": "Developer raises concerns about GitHub's code usage policies for LLM training without explicit consent.",
-    "description": "I have a growing concern regarding the safety of my source code.Some of my personal (Edit: still professional, I'm a one man conpany) projects rely on algorithms and technologies I consider special. So far LLMs haven't been able to reproduce them (I check from time to time), keeping me safe from being overrun by competitors.I store my source code on GitHub. If GitHub leaks my source to an LLM, my competitive edge is lost forever.I know there's a setting for allowing/disallowing using my source f",
-    "tags": [
-      "LLM",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47995893",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:30"
-  },
-  {
-    "id": "700f648fcb96",
-    "headline": "Startups challenge Apple over curbs on AI 'vibe coding' apps",
-    "summary": "Startups challenge Apple's restrictions on AI-assisted 'vibe coding' applications.",
-    "description": "Article URL: https://www.ft.com/content/92c19ed5-2a76-4356-84e9-6c2725865eaa Comments URL: https://news.ycombinator.com/item?id=47995888 Points: 1 # Comments: 0",
-    "tags": [
-      "Regulation",
-      "Apple"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.ft.com/content/92c19ed5-2a76-4356-84e9-6c2725865eaa",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:29"
-  },
-  {
-    "id": "221943692a2a",
-    "headline": "What are tarpit ideas in the AI era?",
-    "summary": "Analysis of 'tarpit ideas'—seemingly promising startup concepts that repeatedly fail in the AI era.",
-    "description": "For those unfamiliar with the term, tarpit ideas are ideas that always attract lots of founders but never really work. They usually sound amazing on paper. Some examples from before AI include restaurant recommendation apps or apps that help you split bills.My current vision of AI tarpit ideas: - AI chatbots that combine multiple models - Code review agents - Old tarpit ideas now powered by AI - Ad generatorsDo you have any other ideas to add? Or do you think it's too early to define tarpit idea",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://news.ycombinator.com/item?id=47995879",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:28"
-  },
-  {
-    "id": "f9030d902201",
-    "headline": "Unauthorised [Claude Pro] Gift Purchases Made from My Account",
-    "summary": "Reddit post reporting unauthorized Claude Pro gift purchases from user account.",
-    "description": "Article URL: https://old.reddit.com/r/claude/comments/1rwsduw/unauthorised_gift_purchases_made_from_my_account/ Comments URL: https://news.ycombinator.com/item?id=47995745 Points: 1 # Comments: 0",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://old.reddit.com/r/claude/comments/1rwsduw/unauthorised_gift_purchases_made_from_my_account/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:11"
-  },
-  {
-    "id": "8416b69e06d2",
-    "headline": "Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month",
-    "summary": "Uber exhausted entire 2026 AI coding budget in 4 months due to unexpectedly high adoption of Claude Code.",
-    "description": "Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're \"back to the drawing board\" on AI budgeting for next year. What's notable is ",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 10:44"
-  },
-  {
-    "id": "4d5f096aee36",
-    "headline": "AI is starting to beat doctors at making correct diagnoses",
-    "summary": "AI systems are increasingly matching or exceeding physician performance in medical diagnostic accuracy.",
-    "description": "submitted by /u/Fcking_Chuck [link] [comments]",
-    "tags": [
-      "Healthcare",
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-03",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 00:19"
   }
 ]
