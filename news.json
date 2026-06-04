@@ -1,5 +1,373 @@
 [
   {
+    "id": "c8f268f76e27",
+    "headline": "Let us filter AI slop, you cowards",
+    "summary": "Major social media platforms need better content authentication to filter out AI-generated content flooding their services.",
+    "description": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated images, videos, and music from those made by real, human creators. That's all very ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 08:30"
+  },
+  {
+    "id": "ef0a7c34637d",
+    "headline": "AI leaders call for tougher protections against AI-aided bioweapons",
+    "summary": "Leading AI companies unite to push for stronger protections preventing misuse of AI technology for developing biological weapons.",
+    "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an alarming biosecurity gap ...",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 08:12"
+  },
+  {
+    "id": "b583a8dd8cd4",
+    "headline": "Amazon develops a warehouse robot that workers can speak to",
+    "summary": "Amazon's autonomous warehouse robot Proteus now features language interaction capabilities instead of requiring code commands.",
+    "description": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign the ...",
+    "tags": [
+      "Robotics",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 05:31"
+  },
+  {
+    "id": "dd5c98a9a190",
+    "headline": "As AI gets better, it reveals an empty promise",
+    "summary": "Google's new Gemini AI agent Spark demonstrates impressive capabilities but raises concerns about its effectiveness and implications.",
+    "description": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly ...",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 13:45"
+  },
+  {
+    "id": "26f9253d82a9",
+    "headline": "Amazon’s search bar will invent AI-generated products you can’t buy",
+    "summary": "Amazon's search feature now generates AI images of products matching user descriptions, starting with clothing and home goods.",
+    "description": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions ...",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 12:07"
+  },
+  {
+    "id": "d8340d8793c4",
+    "headline": "Microsoft and OpenAI broke up — now they’re ready to fight",
+    "summary": "Microsoft announces new AI initiatives including in-house reasoning models and cybersecurity tools, signaling independent AI development.",
+    "description": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's ...",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 10:04"
+  },
+  {
+    "id": "eb49daeb7fd6",
+    "headline": "AI has a water problem — Google thinks it has a fix",
+    "summary": "Google addresses environmental concerns about AI data centers by implementing water management initiatives for local communities.",
+    "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water ...",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 05:00"
+  },
+  {
+    "id": "db530fddf4e0",
+    "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "summary": "Lovable expands partnership with Google Cloud, increasing usage 5x and gaining expanded access to Anthropic's Claude model.",
+    "description": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "tags": [
+      "Anthropic",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 22:56"
+  },
+  {
+    "id": "bd0a75fd8a19",
+    "headline": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "summary": "Alphabet's record $85 billion stock sale signals strong investor confidence in AI-related business opportunities.",
+    "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 19:38"
+  },
+  {
+    "id": "4833356e9840",
+    "headline": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "summary": "Google's Dreambeans tool converts personal data from user accounts into AI-illustrated cartoon stories.",
+    "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 19:07"
+  },
+  {
+    "id": "c31686b62f5d",
+    "headline": "Amazon will show AI product images when you search for some reason",
+    "summary": "Amazon uses visual search and AI generation to display product images matching customer searches.",
+    "description": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 15:50"
+  },
+  {
+    "id": "b40827c025bf",
+    "headline": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "summary": "Ex-Goldman and Meta founders launch voice AI startup serving underserved markets in Africa and Middle East.",
+    "description": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 15:00"
+  },
+  {
+    "id": "58e84f77ff8a",
+    "headline": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "summary": "U.K. regulators mandate Google provide publishers with opt-out tools for generative AI search features.",
+    "description": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 14:58"
+  },
+  {
+    "id": "144b61aa4fd8",
+    "headline": "Meta’s AI agent for WhatsApp Business is now available globally",
+    "summary": "Meta's WhatsApp Business AI agent now available globally, charging based on token usage.",
+    "description": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 13:40"
+  },
+  {
+    "id": "c58be7dc1be3",
+    "headline": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "summary": "Coralogix raises $200M for infrastructure tools monitoring and troubleshooting AI agents in production.",
+    "description": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 13:02"
+  },
+  {
+    "id": "c02ed428b39b",
+    "headline": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "summary": "Flourish secures $500 million to develop AI by studying brain neurons, aiming to discover core algorithmic principles.",
+    "description": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 10:30"
+  },
+  {
+    "id": "6423930dedaa",
+    "headline": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "summary": "OpenAI and Anthropic sign letter urging lawmakers to track synthetic DNA sequences that could enable bioweapon development.",
+    "description": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 01:01"
+  },
+  {
+    "id": "cdb087254aac",
+    "headline": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+    "summary": "Elon Musk's xAI asks court to force alleged Grok deepfake victims to reveal identities or drop lawsuits.",
+    "description": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 18:49"
+  },
+  {
+    "id": "b8b115363743",
+    "headline": "This Is How Trump Finally Signed the AI Executive Order",
+    "summary": "Trump signs AI executive order after shelving original version, indicating policy shift toward AI governance.",
+    "description": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 15:46"
+  },
+  {
+    "id": "3dc7078fb083",
+    "headline": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "summary": "Courts face growing volume of AI-generated lawsuits from unrepresented litigants, straining judicial systems.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 12:10"
+  },
+  {
+    "id": "6f6ae34b9405",
+    "headline": "How courts are coping with a flood of AI-generated lawsuits",
+    "summary": "Federal judges struggle managing flood of AI-generated legal documents from unrepresented litigants without legal expertise.",
+    "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 10:50"
+  },
+  {
+    "id": "ffb026cb9176",
+    "headline": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
+    "summary": "NVIDIA expands AI offerings beyond data centers into laptop and personal computing with new products.",
+    "description": "Nvidia takes AI battle from the data centre to the laptop Financial TimesNVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI NVIDIA NewsroomThe price of Nvidia RTX Spark PCs is going to hurt PCWorldA first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box The VergeNvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack CNBC",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9NeU04ckZoVElwSGpyeTZDTnJMbUVQQ0VCRHR4OFJCdGJFdVBBbHBBZTZ4RDZMVHdsTmt0LXgyancwRG1ENDJYdFNFNXFWSkVFTXpONUloZU1FUjlvMEhuSnctaS1GaDVVYktuVEx0NHp5RVJNNU9qR0xSTFhLOXZHWW0?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-04",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 04:00"
+  },
+  {
     "id": "65d727efd3c2",
     "headline": "AI has a water problem. Google thinks it has a fix",
     "summary": "Google addresses AI data center water consumption concerns by implementing measures to minimize environmental impact and increase water availability for local communities.",
@@ -10700,371 +11068,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "05 May 2026, 05:45"
-  },
-  {
-    "id": "911a50b23a58",
-    "headline": "‘This is fine’ creator says AI startup stole his art",
-    "summary": "AI startup Artisan faced accusations of stealing artwork from 'This is Fine' creator for billboards promoting AI hiring over humans.",
-    "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-    "tags": [
-      "Startup",
-      "Creative AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 20:16"
-  },
-  {
-    "id": "837f6119b41d",
-    "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "summary": "Harvard study shows large language models can diagnose emergency room cases more accurately than human doctors in medical contexts.",
-    "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-    "tags": [
-      "LLM",
-      "Healthcare"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 18:00"
-  },
-  {
-    "id": "3a05212b5676",
-    "headline": "Physical AI raises governance questions for autonomous systems",
-    "summary": "Governance challenges emerge as autonomous AI systems increasingly move into robotics, sensors, and industrial equipment.",
-    "description": "Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. ... The post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
-    "tags": [
-      "Robotics",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 11:00"
-  },
-  {
-    "id": "fc00d2592e47",
-    "headline": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-    "summary": "Google launched agentic AI governance as a native product at Cloud Next, addressing enterprise adoption gaps.",
-    "description": "Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it made agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI ... The post Google made agentic AI governance a product. Enterprises still have to catch up. appeared first on AI News.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 10:00"
-  },
-  {
-    "id": "41a3261d731e",
-    "headline": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
-    "summary": "Guide to systematic prompting techniques including negative constraints and structured outputs for reliable LLM production deployment.",
-    "description": "Most developers treat prompting as an afterthought—write something reasonable, observe the output, and iterate if needed. That approach works until reliability becomes critical. As LLMs move into production systems, the difference between a prompt that usually works and one that works consistently becomes an engineering concern. In response, the research community has formalized prompting into ... The post A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JS",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 21:41"
-  },
-  {
-    "id": "4103be06554b",
-    "headline": "A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection",
-    "summary": "Tutorial on exploring TaskTrove dataset with streaming parsing visualization and verifier detection tools.",
-    "description": "In this tutorial, we take a deep dive into the TaskTrove dataset on Hugging Face and build a complete, practical workflow to efficiently explore it. Instead of downloading the full multi-gigabyte dataset, we stream it directly and work with individual samples in real time. We begin by setting up the environment and inspecting the raw ... The post A Coding Implementation to Explore and Analyze the TaskTrove Dataset with Streaming Parsing Visualization and Verifier Detection appeared first on Mark",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/03/a-coding-implementation-to-explore-and-analyze-the-tasktrove-dataset-with-streaming-parsing-visualization-and-verifier-detection/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 21:26"
-  },
-  {
-    "id": "e92ff569789e",
-    "headline": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
-    "summary": "Sakana AI introduces KAME, a tandem architecture injecting real-time LLM knowledge into speech-to-speech conversational AI.",
-    "description": "Sakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency The post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 07:47"
-  },
-  {
-    "id": "3860a03e20e0",
-    "headline": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score",
-    "summary": "Mistral AI launches remote agents in Le Chat with 128B model and 77.6% SWE-Bench score for developer coding sessions.",
-    "description": "Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents. The post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 00:38"
-  },
-  {
-    "id": "e6b91aa23840",
-    "headline": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
-    "summary": "Multi-agent AI workflow for biological network modeling, protein interactions, and cell signaling simulation.",
-    "description": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation The post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Healthcare"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 20:31"
-  },
-  {
-    "id": "7eb865096e03",
-    "headline": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-    "summary": "Investigation reveals Kenya's AI-driven healthcare system algorithm favors wealthy patients, worsening inequality.",
-    "description": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s deca",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 06:00"
-  },
-  {
-    "id": "cbba50428cb4",
-    "headline": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
-    "summary": "Biometrics watchdogs warn AI facial recognition oversight lags technology, calling for stricter regulation.",
-    "description": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate useHow does live facial recognition work and how many police forces use it? Guilty until proven innocent: shoppers falsely identified by facial recognitionBritain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth.With the Metropolitan police almost doubling the number of faces ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 16:00"
-  },
-  {
-    "id": "2ff89a977ec6",
-    "headline": "How does live facial recognition work and how many UK police forces use it?",
-    "summary": "UK police deploy live facial recognition since 2020, raising privacy and racial bias concerns.",
-    "description": "Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial biasAI facial recognition oversight lagging far behind technology, watchdogs warnGuilty until proven innocent: shoppers falsely identified by facial recognitionThe Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recognition ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 16:00"
-  },
-  {
-    "id": "b393e90cee1f",
-    "headline": "Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack",
-    "summary": "Frontier AI models provide specific instructions for bioterror attacks, raising safety and security concerns.",
-    "description": "\"It was answering questions that I hadn't thought to ask it, with this level of deviousness and cunning that I just found chilling.\" The post Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack appeared first on Futurism.",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-bioterror-pathogens",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 13:30"
-  },
-  {
-    "id": "7d466bd8923b",
-    "headline": "AI Slop YouTube Channel Glitches Out in a Way So Bizarre That It’s Vaguely Disturbing",
-    "summary": "AI-generated YouTube content experiences bizarre technical glitch affecting video output.",
-    "description": "This is deranged. The post AI Slop YouTube Channel Glitches Out in a Way So Bizarre That It’s Vaguely Disturbing appeared first on Futurism.",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-slop-youtube-channel-glitches-bizarre",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 12:45"
-  },
-  {
-    "id": "2025e0440727",
-    "headline": "Double Murder Suspect Asked ChatGPT How to Hide Body in Dumpster",
-    "summary": "Murder suspect asked ChatGPT for advice on hiding a body, raising LLM misuse concerns.",
-    "description": "\"How would they find out.\" The post Double Murder Suspect Asked ChatGPT How to Hide Body in Dumpster appeared first on Futurism.",
-    "tags": [
-      "LLM",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/double-murder-suspect-chatgpt-hide-body-dumpster",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 11:15"
-  },
-  {
-    "id": "26702ccf1e60",
-    "headline": "Meta Had the Worst Possible Response When Its Workers Were Watching Naked Footage of Its Ray-Ban AI Glasses Users",
-    "summary": "Meta employees viewing naked footage from Ray-Ban AI glasses; company's response criticized.",
-    "description": "The guiltiest possible look. The post Meta Had the Worst Possible Response When Its Workers Were Watching Naked Footage of Its Ray-Ban AI Glasses Users appeared first on Futurism.",
-    "tags": [
-      "Meta",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/meta-response-naked-footage-smart-glasses",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 10:30"
-  },
-  {
-    "id": "20786259105c",
-    "headline": "An Elegant Solution to AI Slop: Tax It, and Use the Resulting Billions of Dollars to Fund Cultural Institutions, Artists, and Researchers",
-    "summary": "Proposal to tax AI-generated content and fund artists, cultural institutions, and researchers.",
-    "description": "If you can't beat 'em, tax 'em. The post An Elegant Solution to AI Slop: Tax It, and Use the Resulting Billions of Dollars to Fund Cultural Institutions, Artists, and Researchers appeared first on Futurism.",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/tax-ai-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 09:45"
-  },
-  {
-    "id": "1aa4ede6cef4",
-    "headline": "The Economics of Using AI to Churn Out Code Are Looking Worse Than Ever",
-    "summary": "Economics of AI code generation worsening as development costs exceed financial benefits.",
-    "description": "Reality check. The post The Economics of Using AI to Churn Out Code Are Looking Worse Than Ever appeared first on Futurism.",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/economics-ai-churn-code",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 08:15"
-  },
-  {
-    "id": "74f43a2c3b52",
-    "headline": "The White House Suddenly Seems Pretty Terrified of Anthropic",
-    "summary": "Trump administration shows concerns about Anthropic while pursuing contradictory AI policies.",
-    "description": "The Trump administration wants it both ways. The post The White House Suddenly Seems Pretty Terrified of Anthropic appeared first on Futurism.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/white-house-terrified-anthropic-mythos",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "03 May 2026, 06:45"
-  },
-  {
-    "id": "2764ccf4d0b2",
-    "headline": "Chinese Court Rules That a Worker Cannot Be Replaced by AI",
-    "summary": "Chinese court rules workers cannot be replaced by AI, asserting legal limits on automation.",
-    "description": "\"Technological progress may be irreversible, but it cannot exist outside a legal framework.\" The post Chinese Court Rules That a Worker Cannot Be Replaced by AI appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/china-legal-ai-automation",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "02 May 2026, 14:01"
-  },
-  {
-    "id": "415134b13bbe",
-    "headline": "Show HN: PDF to AI podcast in 9 Indian languages",
-    "summary": "Tool converts PDFs to AI-generated podcasts in nine Indian languages.",
-    "description": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/ Comments URL: https://news.ycombinator.com/item?id=48007874 Points: 1 # Comments: 0",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 12:31"
-  },
-  {
-    "id": "fd1c96c7878b",
-    "headline": "The New Rule of Writing in the AI Age: Don't Be Too Good",
-    "summary": "Essay argues writers shouldn't be too polished in AI age to maintain competitive edge.",
-    "description": "Article URL: https://aidanking.blog/the-new-rule-of-writing-in-the-ai-age-dont-be-too-good/ Comments URL: https://news.ycombinator.com/item?id=48007705 Points: 1 # Comments: 0",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://aidanking.blog/the-new-rule-of-writing-in-the-ai-age-dont-be-too-good/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-04",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 12:12"
   }
 ]
