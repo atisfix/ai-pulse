@@ -1,5 +1,304 @@
 [
   {
+    "id": "37a8ee4a7b25",
+    "headline": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+    "summary": "TSMC, the world's largest chipmaker, struggles to meet AI demand from American customers despite US factory expansion.",
+    "description": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on ...",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 10:15"
+  },
+  {
+    "id": "b0fba9125fd5",
+    "headline": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "summary": "Anthropic's annualized revenue surged to $47 billion in May, up from $9 billion at end of 2025, ahead of its IPO.",
+    "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 22:43"
+  },
+  {
+    "id": "bd01b198c050",
+    "headline": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "summary": "Airbnb CEO Brian Chesky plans to launch an AI lab after finding existing LLM products weren't ready for partnership.",
+    "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "tags": [
+      "LLM",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 22:29"
+  },
+  {
+    "id": "6de0ff90f536",
+    "headline": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "summary": "Poke becomes the first AI agent approved for Apple's Messages for Business platform.",
+    "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+    "tags": [
+      "Agents",
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 19:20"
+  },
+  {
+    "id": "f8c52713439a",
+    "headline": "Meta rolls out a new AI creator assistant on Facebook",
+    "summary": "Meta launches an AI creator assistant on Facebook to help creators analyze performance and optimize posting.",
+    "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 16:32"
+  },
+  {
+    "id": "3c9416679886",
+    "headline": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+    "summary": "Investors are backing both OpenAI and Anthropic despite their rivalry, viewing them as complementary opportunities.",
+    "description": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 10:30"
+  },
+  {
+    "id": "cb4357b7fc4c",
+    "headline": "AI Has Come for Serif Fonts",
+    "summary": "AI companies use serif fonts to project humanity, with critics calling the trend 'tasteslop.'",
+    "description": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 09:00"
+  },
+  {
+    "id": "1b2d263d5e24",
+    "headline": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+    "summary": "AI companies enter IPO bonanza with investors seeking Anthropic stock for real estate deals.",
+    "description": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+    "tags": [
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 18:44"
+  },
+  {
+    "id": "ef63826c5a02",
+    "headline": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+    "summary": "Meta AI security hack and chatbot impacts on human cognition are highlighted in The Download newsletter.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 12:10"
+  },
+  {
+    "id": "e06f9fe62833",
+    "headline": "Are AI chatbots making us lose control of our brains?",
+    "summary": "Psychologist explores whether AI chatbots are causing humans to lose cognitive control at SXSW London.",
+    "description": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 09:00"
+  },
+  {
+    "id": "975e96253c72",
+    "headline": "The Meta hack shows there’s more to AI security than Mythos",
+    "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts by requesting email linkages.",
+    "description": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 09:00"
+  },
+  {
+    "id": "d925f197765f",
+    "headline": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch",
+    "summary": "WWDC 2026 will feature Siri revamp and Apple Intelligence updates alongside Google services integration.",
+    "description": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates TechCrunchWhat to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC BloombergApple to use Google servers with Nvidia hardware for the new Siri MacworldiOS 27: All the Rumored App Features MacRumorsWhat to expect at Apple WWDC 2026: AI, Siri, and iOS 27 Mashable",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXpMYmNZZzFTOFFTbzJ0N3FCN19GNTJoRWJIdEloeFlqVi1iQmx4dTN5bTRiQktpMzhDcEhOZnYwZGo5b3ZES0Y3VEJJVEd5dDAxaVhfVG5MRTF0VDRLcmkzWXFmYzhJNHdsMVl0VDM1MW9Rdl9BTExNZ0czU3d0dGMxYXhrajc5OW1fRTFfLVctWjVIcHlzWV93bGcwZnY1MU5MS0hNSnNnOV9TV1RaZHNnbVNuUEJzZ3FpVWxuQWRZbDFaT1E?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 16:31"
+  },
+  {
+    "id": "ae863cc7dc38",
+    "headline": "The price of Nvidia RTX Spark PCs is going to hurt - PCWorld",
+    "summary": "Nvidia RTX Spark PCs will be expensive, launching as Microsoft and Nvidia position Windows for personal AI.",
+    "description": "The price of Nvidia RTX Spark PCs is going to hurt PCWorldNVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI NVIDIA NewsroomNvidia’s PC Chip Reveal Obscures a Bigger Catalyst for the Stock Barron'sBuilding the next generation of devices for developers: Surface RTX Spark Dev Box Windows BlogNvidia wants to supercharge your laptop The Economist",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1h1dWxzcXB5Z3BpX0xRSkcwWlVPeENRNkZrU2czV1NQUFFKWFN6eFBEVUFJMUVqTEJZcGdNdjBTekZDUXk1U3NhLTFXNy1YOGdsMjB5cVY3Z0NZbnNiQTFCOWYtWjI0Q2ZzZTB5b0FlbnFiY1R6ZDA0X0hjNDFzYzlfT0xLSDlVTzM2R2xOWkQyd2hRWEhxQXZQTQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 12:00"
+  },
+  {
+    "id": "8b712b814ec1",
+    "headline": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
+    "summary": "Roblox acquires Morpheus AI to advance its vision with AI founders joining the initiative.",
+    "description": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision RobloxWilson Sonsini Advises Roblox on Acquisition of Morpheus AI Wilson SonsiniRoblox announces acquisition of Morpheus AI video world model lab as part of Roblox Reality push ShacknewsRoblox Just Claimed Spatial AI Before Snap Or Apple Could ForbesComing Soon to a Roblox Game Near You: Strange AI-Generated Machines and Creatures CNET",
+    "tags": [
+      "Startup"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3ZGLU5GQkY3RGhBT3JGaURGMFlxN2laZUhQdGczUjNVaUEzYkVDd19WNnJpMU1mTlpXNm9uMkRxYTJWQTFPTEZNMnBsRVBoSlgwTmI4azFITGFUaU5QLXBET1MyMURwZEhIQlNFVVhQdGwwaE83MVZOMjhLakJTYWQwY2dSY2VoRjZaZjBiNGl6eEUyU19wMlQzNTlISGlHUDBtOHhKc0I?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 21:55"
+  },
+  {
+    "id": "b36181d8ca5c",
+    "headline": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive - Bloomberg",
+    "summary": "Microsoft's AI Chief states Anthropic models are too expensive compared to alternatives.",
+    "description": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive BloombergWindows is back on the Microsoft menu The VergeBuild 2026: Furthering Windows as the trusted platform for development Windows BlogMicrosoft’s Project Solara is an Android OS designed for agents instead of apps Ars TechnicaMicrosoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases Microsoft Azure",
+    "tags": [
+      "Microsoft",
+      "Anthropic",
+      "Market"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1Z5SnN2TXZiQXh3YWd5TXBiRmhmMFlCMlV1TTRnR0lxSzhfdEhGYmVSbmEzVGRJVHNPRHQ0MF8yU3g3VXIyY2lrLXlZRlNoRVBvU2ktUnBETUJrRzNnS04yRVdVRkRyX1IycTlrb0RtV1FzclN3RWNYT0JCNTFyNWRqWWNIMWZXYjNKcnRxS3V5ZzlOVkwxQ3c5TkJQbWpTUy1PLUdR?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 07:27"
+  },
+  {
+    "id": "be918259eb63",
+    "headline": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
+    "summary": "AI provided dangerous DIY advice about building on rotting stumps, revealing limitations of AI assistance.",
+    "description": "Nothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertipsI am not, by nature, an early adopter. There comes a point in our lives where change becomes more irritating than exciting and, I suspect, I reached it sooner than most. But when a workplace recently tasked me with exploring practical applications for AI, I spotted an opportunity to cast off my luddite inclinations.It turned out AI was very good at mimickin",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/commentisfree/2026/jun/05/ai-artificial-intelligence-help-with-diy-valuable-lessons",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 15:00"
+  },
+  {
+    "id": "102b1f466d5b",
+    "headline": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
+    "summary": "Multiple claimants pursue legal action against Elon Musk's xAI for demeaning sexualized content from Grok.",
+    "description": "Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI toolNew claimants have come forward to take legal action against Elon Musk’s company xAI after the Labour MP Jess Asato launched a test case against the firm over demeaning sexualised material created by its Grok AI tool.A handful of complainants contacted Asato’s lawyer on Thursday in response to coverage of the MP’s decision to sue Musk’s company for damages over its creation and circulati",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 06:00"
+  },
+  {
+    "id": "50d09cc929e9",
+    "headline": "A uni professor admitted using AI to write an opinion piece. Here’s what it revealed about trust in the technology",
+    "summary": "University professor disclosed using AI to write opinion piece, raising trust concerns about undisclosed AI use.",
+    "description": "Without disclosing that work has been generated using the technology, faith in existing industries will continue to be undermined Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcasWhen a pro vice-chancellor at a university this week admitted to using AI in writing an opinion piece for a major Australian masthead, but did not disclose that use prior to publication, it highlighted the growing gap between people’s use of AI and trust in ",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-05",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 04:49"
+  },
+  {
     "id": "c8f268f76e27",
     "headline": "Let us filter AI slop, you cowards",
     "summary": "Major social media platforms need better content authentication to filter out AI-generated content flooding their services.",
@@ -10721,352 +11020,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "06 May 2026, 08:23"
-  },
-  {
-    "id": "478d947abe08",
-    "headline": "Google DeepMind workers are unionizing over AI military contracts",
-    "summary": "Google DeepMind workers unionize to prevent AI technology use in military contracts with Israel and the US.",
-    "description": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent ...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 06:08"
-  },
-  {
-    "id": "a4213d3a7117",
-    "headline": "OpenAI’s president does ‘all the things,’ except answer a question",
-    "summary": "Greg Brockman testifies in Elon Musk's lawsuit against OpenAI, with his journal serving as key evidence.",
-    "description": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 19:49"
-  },
-  {
-    "id": "05c0b848601a",
-    "headline": "The creator of Roomba is back with a furry robot companion",
-    "summary": "Roomba creator Colin Angle launches a furry AI robot companion robot, shifting from home cleaning to social interaction.",
-    "description": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that resembles ...",
-    "tags": [
-      "Robotics"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 12:51"
-  },
-  {
-    "id": "1a58fbf90493",
-    "headline": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "summary": "Nvidia CEO Jensen Huang argues AI is creating jobs despite worker concerns about automation and displacement.",
-    "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "tags": [
-      "NVIDIA",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 03:31"
-  },
-  {
-    "id": "cc67dd777744",
-    "headline": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "summary": "AI chip maker Cerebras heads for IPO valued at $26.6B+, leveraging deep partnership with OpenAI.",
-    "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "tags": [
-      "OpenAI",
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 21:53"
-  },
-  {
-    "id": "23e197befe62",
-    "headline": "Image AI models now drive app growth, beating chatbot upgrades",
-    "summary": "Image AI model launches drive 6.5x more app downloads than chatbot upgrades, but struggle with monetization.",
-    "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "tags": [
-      "Image Gen",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 19:12"
-  },
-  {
-    "id": "f3fc1adc02ca",
-    "headline": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "summary": "AI researcher Stuart Russell testifies as expert witness in Musk v. OpenAI trial, warns of AGI arms race risks.",
-    "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 16:57"
-  },
-  {
-    "id": "0909a111160f",
-    "headline": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "summary": "Enterprise AI startup Sierra raises $950M to become global standard for AI-powered customer experiences.",
-    "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-    "tags": [
-      "Startup",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 16:45"
-  },
-  {
-    "id": "a6d9540c797e",
-    "headline": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "summary": "Anthropic and OpenAI launch enterprise joint ventures with asset managers to expand AI service offerings.",
-    "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 15:59"
-  },
-  {
-    "id": "5a40a5d5503e",
-    "headline": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "summary": "DoorDash deploys AI tools for merchant onboarding, photo editing, and website creation.",
-    "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 13:00"
-  },
-  {
-    "id": "7edc0faa838a",
-    "headline": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-    "summary": "Google DeepMind UK staff unionize to block military use of company's AI models.",
-    "description": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 11:59"
-  },
-  {
-    "id": "4f0105ef4089",
-    "headline": "He Couldn’t Land a Job Interview. Was AI to Blame?",
-    "summary": "Medical student investigates whether AI algorithm rejected his job application using Python analysis.",
-    "description": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 10:00"
-  },
-  {
-    "id": "e1ac1acd10f4",
-    "headline": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-    "summary": "MIT Tech Review covers week one of Musk v. Altman trial and AI's role in strengthening democracy.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 12:10"
-  },
-  {
-    "id": "6f12c85b389c",
-    "headline": "A blueprint for using AI to strengthen democracy",
-    "summary": "Article explores how AI can be used to strengthen democratic governance and information systems.",
-    "description": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 09:00"
-  },
-  {
-    "id": "d8f8b8397044",
-    "headline": "Tailoring AI solutions for health care needs",
-    "summary": "MIT Tech Review examines tailored AI solutions for healthcare addressing financial and labor pressures.",
-    "description": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 13:00"
-  },
-  {
-    "id": "a8ed447f14f3",
-    "headline": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs",
-    "summary": "Google adds event-driven webhooks to Gemini API for long-running AI jobs, eliminating polling requirements.",
-    "description": "A push-based notification system for Batch API, Deep Research, and video generation tasks arrives with built-in security, retry guarantees, and two configuration modes. The post Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 07:01"
-  },
-  {
-    "id": "fe1c8ceb8dbb",
-    "headline": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
-    "summary": "Tutorial covers building production-grade ML pipeline with ZenML including hyperparameter optimization.",
-    "description": "In this tutorial, we walk through an end-to-end implementation of an advanced machine learning pipeline using ZenML. We begin by setting up the environment and initializing a ZenML project, then define a custom materializer that enables seamless serialization and metadata extraction for a domain-specific dataset object. As we progress, we build a modular pipeline that ... The post How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Me",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 22:11"
-  },
-  {
-    "id": "1e86eedc2ded",
-    "headline": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers",
-    "summary": "Guide comparing top search/fetch APIs for building AI agents in 2026, analyzing latency and efficiency.",
-    "description": "Discover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval. The post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 17:55"
-  },
-  {
-    "id": "5e356a65e1a7",
-    "headline": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
-    "summary": "Study shows AI platforms reference UK politician Nigel Farage more than other leaders on politics prompts.",
-    "description": "Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchersAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large la",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "04 May 2026, 16:00"
-  },
-  {
-    "id": "e49ba02d6c73",
-    "headline": "An AI version of Milton’s Paradise Lost is fundamentally unworthy of one of the great works of art",
-    "summary": "Critic argues AI adaptation of Milton's Paradise Lost cannot match the original literary masterpiece.",
-    "description": "Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any goodThe thing about unfilmable works of literature is that most of them eventually turn out to be quite filmable after all. The Lord of the Rings was a bit of a mess when shot in rotoscope on a minuscule budget by the guy who filmed Fritz the Cat; it won Oscars when handed to Peter Jackson, given the GDP of a small nation and a visual effects department th",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 09:25"
-  },
-  {
-    "id": "793ae8e6ef7d",
-    "headline": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
-    "summary": "Guardian briefing explores how AI facial recognition in policing works and safeguard development needs.",
-    "description": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguardsGood morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being rolled out across the UK at a pace that appears to be outstripping the rules designed to govern it. Police forces are increasingly using live systems to scan members of the public in real time, while retailers are deploying similar tools to identify sus",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-05",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 05:45"
   }
 ]
