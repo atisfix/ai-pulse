@@ -1,5 +1,431 @@
 [
   {
+    "id": "c3581e22dc6a",
+    "headline": "Here comes new Siri again",
+    "summary": "Apple is preparing to reinvent Siri with new AI capabilities at WWDC, aiming to catch up after falling behind competitors in AI innovation.",
+    "description": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in ...",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "06 Jun 2026, 08:00"
+  },
+  {
+    "id": "ef930d5886ac",
+    "headline": "This is your laptop… on AI",
+    "summary": "Big Tech companies are showcasing AI integration into laptops and developer tools at conference season, emphasizing AI's transformative potential.",
+    "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops ...",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 12:39"
+  },
+  {
+    "id": "c9663e17fd95",
+    "headline": "This AI startup says it can tell if a script will make a hit film",
+    "summary": "Quilty, an AI startup claiming to predict film success from scripts, faced scrutiny when its predictions didn't match real-world results.",
+    "description": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the ...",
+    "tags": [
+      "Startup",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 09:57"
+  },
+  {
+    "id": "d725faff4f0e",
+    "headline": "Google will pay SpaceX $920M per month for compute",
+    "summary": "Google will pay SpaceX $920M monthly for compute capacity to meet unexpected demand from its new AI products.",
+    "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "tags": [
+      "Google",
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 18:57"
+  },
+  {
+    "id": "17f493280831",
+    "headline": "The most interesting startups right now want to get you off your phone",
+    "summary": "Some AI startups are focusing on alternatives to smartphone-based AI, with founders like Brynn Putnam raising money for non-phone-centric AI applications.",
+    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, ...",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 17:17"
+  },
+  {
+    "id": "0fec1adbfcfe",
+    "headline": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "summary": "AI industry is shifting from rapid scaling to cost management, implementing guardrails as token costs and infrastructure expenses skyrocket.",
+    "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "tags": [
+      "Market",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 14:49"
+  },
+  {
+    "id": "6a2e98287847",
+    "headline": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "summary": "The 'together tech' movement represents startups building non-phone-based AI solutions, emerging as an intriguing startup investment trend for 2026.",
+    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, ...",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 14:00"
+  },
+  {
+    "id": "72652e9f6fc5",
+    "headline": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "summary": "AirTrunk commits $30B to build 5GW of AI data center capacity in India to support growing AI infrastructure needs.",
+    "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 13:03"
+  },
+  {
+    "id": "063093c86830",
+    "headline": "Crypto-Funded Chinese Peptide Labs Are Booming",
+    "summary": "Crypto-funded Chinese peptide labs are booming; Meta's AI bots exploited for Instagram hacking; Anthropic partners with NSA.",
+    "description": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+    "tags": [
+      "Meta",
+      "Anthropic",
+      "Security"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Jun 2026, 10:30"
+  },
+  {
+    "id": "d06f33508055",
+    "headline": "Has Microsoft Lost Its Mojo (Again)?",
+    "summary": "Microsoft's AI products are underperforming in sales while GitHub faces ongoing troubles, prompting questions about the company's AI strategy.",
+    "description": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+    "tags": [
+      "Microsoft",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 15:00"
+  },
+  {
+    "id": "86722482f729",
+    "headline": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors",
+    "summary": "Apple's WWDC 2026 will feature Gemini-powered Siri, iOS 27, and macOS 27, showcasing Apple's AI integration across products.",
+    "description": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More MacRumorsWhat to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC Bloomberg.comHere comes new Siri again The VergeNew iOS 27 designs reportedly coming to these iPhone apps 9to5MacApple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO CNBC",
+    "tags": [
+      "Apple",
+      "Google"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xYUtndzlkNDYyMjJQLVU1QlZ4SDlCbjVtU2dqR2laUVo4NmlZRzZxTlI2Y3pNSTdQNnlDcGNkT0JNZEtsVFl0Q0pIcEU5MUUyMkNiWkNpRTRpZXRiUXlacXFuVUZQM3RV?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 21:15"
+  },
+  {
+    "id": "a2a8c4368fda",
+    "headline": "I’ve gone hands-on with every Nvidia RTX Spark laptop coming this fall — here’s my brutal tier list of the best options - Tom's Guide",
+    "summary": "Review of NVIDIA RTX Spark laptops coming this fall, providing tier rankings for AI-enabled laptop options.",
+    "description": "I’ve gone hands-on with every Nvidia RTX Spark laptop coming this fall — here’s my brutal tier list of the best options Tom's GuideNVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI NVIDIA NewsroomScoping Out RTX Spark SFF Mini-PCs at Computex 2026 ServeTheHomeHands On With NVIDIA’s First RTX Spark Laptops & PCs Ft. ASUS, Dell, HP, Microsoft, MSI, Lenovo WccftechNvidia Is Moving Into Intel and Qualcomm's Turf. These Are the Losers Investors Should Watch Closely. Yahoo Finance",
+    "tags": [
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWp2b0p6X3htTzVkb2w5cUZDc3I1T1BUTFgxU19wUUN2Ukg3WS14OUd4MUNoM2NWRVRRS2FNQnMzNC1iT0VZb0ZRYVFGS2t0OE92aFpLTHJLNWRmTmNhZkx4VG44d1BiTm4tRlpTczhzSkZqOFV1YmVxSDk3aG5jMUsyUnBwRWdJcU9EYi1LanYxaFBrMVpXcjlYNmFLeGh5T2pMeXhaOGlwUTRYREczS05TczU1dDRKQllacTdCam5wSy15aC0wb1ZjTVBxNzZ1V0Q4aS1QRldtT2xxU1BOWlpEVkI2MndzV2c?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 05:29"
+  },
+  {
+    "id": "746704a04701",
+    "headline": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence - VentureBeat",
+    "summary": "Microsoft's AI chief states the company was freed from OpenAI constraints to pursue superintelligence development independently.",
+    "description": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence VentureBeatMicrosoft Build 2026: Be yourself at work The Official Microsoft BlogBuild 2026: Furthering Windows as the trusted platform for development Windows BlogMicrosoft and OpenAI's relationship continues to crumble Yahoo FinanceWindows is back on the Microsoft menu The Verge",
+    "tags": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDVTNXM0N0pNdzF1TndmYVhTd2l0ZXRrUC1VZmZxV2lSNzFLcy1SNnk0d0V0NlpTR0NnaHFQWHA0b2pvb282RTFiQzdyT2g3NmVfWmJMVnJBcGtkRlFSS0dRR0JqYXhhUkJ3akdrWDRzQlkzVHhqdGFKVGQzZ0JZLW5YbFd4ZkEwdnRfa25NeXVFSTBoLTRtd19GU2MtVUxxT1dnc2s4Q1ZsWDRhU2RaRld5cGU3Sm50SHVn?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 22:55"
+  },
+  {
+    "id": "02f4cc7e0243",
+    "headline": "How C3 AI agents will automate predictive maintenance for Shell",
+    "summary": "Shell deploys C3 AI agents for automated predictive maintenance, moving beyond basic anomaly detection.",
+    "description": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability Suite, which already keeps tabs on more than 30,000 crucial pieces of equipment across upstream and downstream operations. Shell now intends to lean ... The post How C3 AI agents will automate predictive maintenance for Shell appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 11:34"
+  },
+  {
+    "id": "1b6bad8290ac",
+    "headline": "Meta Business Agent drives AI-powered conversational commerce",
+    "summary": "Meta launches Business Agent to automate conversational commerce in messaging apps, enabling retailers to execute transactions.",
+    "description": "Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention. Deploying this architecture places agentic AI directly at the core of social commerce. Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp. ... The post Meta Business Agent drives AI-powered conversational commerce appeared ",
+    "tags": [
+      "Meta",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 17:17"
+  },
+  {
+    "id": "853c11548c5c",
+    "headline": "Scout from M’Soft is the agentic Autopilot that works across M365",
+    "summary": "Microsoft announces Scout, an agentic Autopilot feature for M365 that automates workflows across Microsoft productivity tools.",
+    "description": "Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company’s’ website. Autopilots are described as a new category of agents that can work autonomously on a user’s behalf. Microsoft says each Autopilot has its own identity, and so multiple agents ... The post Scout from M’Soft is the agentic Autopilot that works across M365 appeared first on AI News.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 11:41"
+  },
+  {
+    "id": "7a4c8c92a9dc",
+    "headline": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+    "summary": "Amazon launches an AI Shopping Assistant for retailers, with Kate Spade among early adopters for agentic commerce automation.",
+    "description": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps. Amazon said each deployment can be customised to a retailer’s catalogue, ... The post Amazon brings AI shopping assistant to retailers with Kate Spade appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "04 Jun 2026, 10:00"
+  },
+  {
+    "id": "251e620162ef",
+    "headline": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+    "summary": "E.ON uses SAP S/4HANA to modernize energy grid infrastructure with AI, standardizing data across multiple domains.",
+    "description": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions. Maintaining operations across this scope requires continuous capital expenditure on IT hardware and software maintenance. Leadership initially questioned the business case supporting large-scale ... The post How E.ON uses SAP S/4HANA to modernis",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 12:29"
+  },
+  {
+    "id": "378cd352bb08",
+    "headline": "Walmart’s AI workflows meet the realities of the balance sheet",
+    "summary": "Walmart limits employee access to Code Puppy AI assistant due to higher-than-expected computational demands on the LLM.",
+    "description": "Walmart has reportedly begun limiting employees’ use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmart were encouraged to use Code Puppy without any stricture or stipulations as to the limits of use, but Walmart is now assigning employees a ... The post Walmart’s AI workflows meet the realities of the balance sheet appeared first on AI News.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 09:33"
+  },
+  {
+    "id": "0e814f1500d9",
+    "headline": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+    "summary": "Microsoft's Majorana 2 quantum chip demonstrates agentic AI applications in R&D with 1,000x more reliable qubits.",
+    "description": "Microsoft’s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised roadmap targeting a commercially scalable quantum computer by 2029. Behind those ... The post Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D appeared first on AI News.",
+    "tags": [
+      "Microsoft",
+      "Hardware",
+      "Research"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "03 Jun 2026, 09:00"
+  },
+  {
+    "id": "51a4995d0b50",
+    "headline": "Anthropic IPO filing marks AI maturing into enterprise utility",
+    "summary": "Anthropic's IPO filing signals generative AI maturation from research venture phase to stabilized enterprise utility.",
+    "description": "Anthropic’s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles. Taking a foundational provider public aligns those engineering goals with standard corporate procurement, introducing structured release schedules and ... The post Anthropic IPO filing marks AI maturing into enterprise ut",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 18:04"
+  },
+  {
+    "id": "2a3309a49680",
+    "headline": "GitHub Copilot users see token-based price hikes",
+    "summary": "GitHub Copilot shifts to token-based pricing, resulting in cost increases for users of the AI coding assistant.",
+    "description": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day into the changeover to token-based billing for the LLM-based service, ... The post GitHub Copilot users see token-based price hikes appeared first on AI News.",
+    "tags": [
+      "Microsoft",
+      "Market"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jun 2026, 11:09"
+  },
+  {
+    "id": "a51a229086a9",
+    "headline": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents",
+    "summary": "Moonshot AI releases Kimi Code CLI, an open-source terminal coding agent built in TypeScript for next-gen agentic workflows.",
+    "description": "Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration. The post Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "06 Jun 2026, 09:11"
+  },
+  {
+    "id": "5f38e32e0023",
+    "headline": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
+    "summary": "Tutorial on Qualcomm AI Hub Models for classification, object detection, and hardware-aware deployment on edge devices.",
+    "description": "Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices. The post A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment appeared first on MarkTechPost.",
+    "tags": [
+      "Hardware",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 22:32"
+  },
+  {
+    "id": "4a3aeba67995",
+    "headline": "Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory",
+    "summary": "Google DeepMind releases Gemma 4 QAT checkpoints with mobile format optimization, reducing on-device memory requirements.",
+    "description": "Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memory numbers and design tradeoffs. The post Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-06",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "05 Jun 2026, 18:59"
+  },
+  {
     "id": "37a8ee4a7b25",
     "headline": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
     "summary": "TSMC, the world's largest chipmaker, struggles to meet AI demand from American customers despite US factory expansion.",
@@ -10631,394 +11057,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "06 May 2026, 15:14"
-  },
-  {
-    "id": "51489a69b7e8",
-    "headline": "Chrome’s AI features may be hogging 4GB of your computer storage",
-    "summary": "Chrome automatically downloads a large AI model file (~4GB) to users' storage without explicit permission, significantly increasing browser storage usage.",
-    "description": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin ...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 06:13"
-  },
-  {
-    "id": "1c33b13376bb",
-    "headline": "Google Home’s Gemini AI can handle more complicated requests",
-    "summary": "Google updated Gemini for Home to version 3.1, enabling users to request complex multi-step tasks and combine multiple commands in single requests.",
-    "description": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 17:46"
-  },
-  {
-    "id": "20d366e19a01",
-    "headline": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-    "summary": "Apple agreed to pay $250 million settlement for misleading customers about Apple Intelligence feature availability on iPhones.",
-    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and ...",
-    "tags": [
-      "Apple",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 17:18"
-  },
-  {
-    "id": "9f386bbff7c6",
-    "headline": "Microsoft gives up on Xbox Copilot AI",
-    "summary": "Microsoft halted Xbox Copilot AI development on both mobile and console platforms under new Xbox CEO Asha Sharma's reorganization.",
-    "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox ...",
-    "tags": [
-      "Microsoft",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 15:54"
-  },
-  {
-    "id": "4eee57c07abe",
-    "headline": "Apple could let you pick a favorite AI model in iOS 27",
-    "summary": "Apple may allow iOS 27 users to select their preferred third-party AI model for running Apple Intelligence features.",
-    "description": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running ...",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 15:45"
-  },
-  {
-    "id": "0e92f7b93568",
-    "headline": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "summary": "Elon Musk and Sam Altman face a high-stakes court trial over OpenAI's future and whether it abandoned its non-profit mission.",
-    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 13:28"
-  },
-  {
-    "id": "a7c5715173fa",
-    "headline": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-    "summary": "OpenAI's new GPT-5.5 Instant default model reportedly reduces hallucinations significantly in sensitive domains like law, medicine, and finance.",
-    "description": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its ...",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 13:00"
-  },
-  {
-    "id": "af84158d3285",
-    "headline": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
-    "summary": "Five major book publishers and an author sued Meta, alleging the company engaged in massive copyright infringement using AI to copy books verbatim.",
-    "description": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw Hill, Elsevier, Hachette, ...",
-    "tags": [
-      "Meta",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 12:52"
-  },
-  {
-    "id": "ab04cfbac5f7",
-    "headline": "OpenAI is reportedly launching a phone for ChatGPT",
-    "summary": "OpenAI is reportedly developing a phone as its first hardware product, with supply chain analyst claiming it will run ChatGPT.",
-    "description": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the phone will run on a \"customized version ...",
-    "tags": [
-      "OpenAI",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 10:54"
-  },
-  {
-    "id": "393f1190d68c",
-    "headline": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-    "summary": "QyTw0, a Finnish AI lab founded by former AMD CEO Peter Sarlin, reached $380M valuation after securing €25M in angel funding.",
-    "description": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 06:47"
-  },
-  {
-    "id": "962e2d444c84",
-    "headline": "Marc Lore says that AI will soon enable anyone open a restaurant",
-    "summary": "Wonder's robotic kitchen startup aims to use AI to enable anyone to launch a restaurant through conversational AI prompts.",
-    "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-    "tags": [
-      "Startup",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 06:34"
-  },
-  {
-    "id": "e01da6ece00d",
-    "headline": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "summary": "SAP plans to acquire German AI startup Prior Labs and invest heavily, while restricting customer agent access to select vendors like NVIDIA.",
-    "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "tags": [
-      "Startup",
-      "NVIDIA"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 23:50"
-  },
-  {
-    "id": "bed3e5dad0ac",
-    "headline": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "summary": "Altara raised $7M to develop AI tools that diagnose physical science failures and accelerate R&D by consolidating siloed spreadsheet and legacy data.",
-    "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-    "tags": [
-      "Startup",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 22:57"
-  },
-  {
-    "id": "8007f9099bb0",
-    "headline": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-    "summary": "iOS 27 will reportedly let users choose their preferred third-party AI models for various tasks, giving users greater control over AI selection.",
-    "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 20:56"
-  },
-  {
-    "id": "3d51eec676d7",
-    "headline": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-    "summary": "Pennsylvania sued Character.AI after a chatbot falsely claimed to be a licensed psychiatrist and fabricated a medical license number during investigation.",
-    "description": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-    "tags": [
-      "Regulation",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 17:46"
-  },
-  {
-    "id": "8662d607cdf1",
-    "headline": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "summary": "OpenAI released GPT-5.5 Instant as ChatGPT's new default model, reducing hallucinations in law, medicine, and finance while maintaining fast response times.",
-    "description": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 17:00"
-  },
-  {
-    "id": "b1475b9f077a",
-    "headline": "Etsy launches its app within ChatGPT as it continues its AI push",
-    "summary": "Etsy launched a native app within ChatGPT offering conversational shopping experience, expanding its AI integration strategy.",
-    "description": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 15:31"
-  },
-  {
-    "id": "32cc9dbce839",
-    "headline": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
-    "summary": "Apple will pay $250M to settle claims of misleading customers about Siri's AI features, with affected iPhone 15/16 users potentially receiving $95 per device.",
-    "description": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
-    "tags": [
-      "Apple",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 10:41"
-  },
-  {
-    "id": "a5c24576052c",
-    "headline": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-    "summary": "OpenAI president Greg Brockman testified about contentious 2017 meeting with Elon Musk and efforts to remove board members during ongoing lawsuit.",
-    "description": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 23:24"
-  },
-  {
-    "id": "9964eb03cf7e",
-    "headline": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-    "summary": "Google DeepMind UK staff voted to unionize, seeking to block use of the company's AI models in military applications.",
-    "description": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "05 May 2026, 11:59"
-  },
-  {
-    "id": "db660e8d5fb1",
-    "headline": "Chrome’s AI features may be hogging 4GB of your computer storage - The Verge",
-    "summary": "Chrome automatically downloads ~4GB AI model file to users' systems without explicit permission, raising storage and privacy concerns.",
-    "description": "Chrome’s AI features may be hogging 4GB of your computer storage The VergeGoogle Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy Tom's HardwareCheck your storage: Chrome may be downloading a 4GB AI model — here’s what we know Tom's GuideGuy finds Google Chrome is quietly installing a 4GB AI model on our devices CybernewsGoogle Chrome Downloads 4GB Gemini Nano Model Sile",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGVyM3VtZlYxQTJpTFEwSWZ4M1YtQUVuVVZFLUNSMG9xX0NrWlh3RGRlcEFtbkktMVNIN0VFQks5U1BqXzhZdkNHZ2xYc2szLW4yQU9kRWVGT2tBWWpQR0lNeGp0Z2xCQTlUUDZvQUFBYURNVGVMVTZhY3hZb0FfU3BOQVY?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 10:13"
-  },
-  {
-    "id": "ab365f00a28e",
-    "headline": "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "summary": "Google is testing Remy, a new AI personal agent for Gemini designed to automate work and daily tasks for users.",
-    "description": "Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two people familiar ... The post Google tests Remy AI agent for Gemini as focus turns to user control appeared first on AI News.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 10:00"
-  },
-  {
-    "id": "28c7914eb391",
-    "headline": "Google AI Releases Multi-Token Prediction (MTP) Drafters for Gemma 4: Delivering Up to 3x Faster Inference Without Quality Loss",
-    "summary": "Google released Multi-Token Prediction drafters for Gemma 4, achieving up to 3x faster inference speed without quality degradation using speculative decoding.",
-    "description": "Google Introduces MTP Drafters for Gemma 4 Family Using Speculative Decoding to Achieve Up to 3x Speedup The post Google AI Releases Multi-Token Prediction (MTP) Drafters for Gemma 4: Delivering Up to 3x Faster Inference Without Quality Loss appeared first on MarkTechPost.",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/06/google-ai-releases-multi-token-prediction-mtp-drafters-for-gemma-4-delivering-up-to-3x-faster-inference-without-quality-loss/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-06",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "06 May 2026, 08:23"
   }
 ]
