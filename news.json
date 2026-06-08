@@ -1,5 +1,352 @@
 [
   {
+    "id": "d0a79c19dbe7",
+    "headline": "Is this the dawn of the Tokenpocalypse?",
+    "summary": "Major AI companies planning IPOs may drive price increases in AI services, potentially marking the start of significant cost escalation.",
+    "description": "We're likely to see more price increases as the big AI companies plan to go public.",
+    "tags": [
+      "Market",
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 20:26"
+  },
+  {
+    "id": "a8d3881c09a0",
+    "headline": "Notion restores access to Anthropic after service disruption",
+    "summary": "Notion restored access to Anthropic after a service disruption, with the incident generating significant social media attention.",
+    "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 17:56"
+  },
+  {
+    "id": "65fa01de060c",
+    "headline": "OpenAI is still working on that ‘super app’",
+    "summary": "OpenAI continues developing a 'super app' beyond chat, with executives suggesting the era of chat-only interfaces is ending.",
+    "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 16:23"
+  },
+  {
+    "id": "a388acbd2f3d",
+    "headline": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+    "summary": "Influencers promote ChatGPT for household task automation and parenting support, while gender disparities in AI adoption persist.",
+    "description": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 10:30"
+  },
+  {
+    "id": "a108e566ad43",
+    "headline": "5 Things to Watch for During Apple's WWDC 2026 Keynote Today - MacRumors",
+    "summary": "Apple WWDC 2026 keynote expected to showcase major Siri AI upgrades after two years of performance challenges.",
+    "description": "5 Things to Watch for During Apple's WWDC 2026 Keynote Today MacRumorsSaving Siri: After two years of stumbles, is Apple's AI moment here? ReutersApple WWDC 2026: Big Siri upgrade? - Rich On Tech YahooWhat to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC BloombergHow to Watch Apple’s WWDC 2026 Keynote—and What to Expect WIRED",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42bmh1SFRyVWt0MUUwVWsxUkNGcFNndXFWLVlha0VxaUJnMk5kVUltSU8ydkdXeHUzVjV1clB6NjBsX2RWLTh4dGx0ajVoYjV2ZnFxMnlacFh0M2FneUpiSWttT1Z6dTdKUlNPSkFiX2FIVnBDZExR?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 11:13"
+  },
+  {
+    "id": "82f0f045237d",
+    "headline": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+    "summary": "Aviva uses AI tools to detect record £230M in insurance fraud, combating increasingly sophisticated claim scams.",
+    "description": "Aviva has uncovered a record £230 million in insurance fraud claims and is using AI tools to counter the growing problem. The battleground has changed, and the culprits are also coming armed with a new generation of tools. We’re now in an environment where AI is being used not just to defend against fraud, but ... The post Aviva deploys AI to stop £230M in sophisticated insurance fraud appeared first on AI News.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 12:19"
+  },
+  {
+    "id": "4db79d1c9042",
+    "headline": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+    "summary": "Weis Markets deploys Instacart's AI-powered Caper Carts offering digital coupons and personalized shopping recommendations.",
+    "description": "Weis Markets is adding Instacart’s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania, bringing digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle. The Pennsylvania-based grocery chain is working with Instacart to deploy the smart carts, which include cameras, certified scales, location systems, and a touchscreen. According to Instacart, Caper Carts ... The post Weis Markets adds Instacart AI-powered shopping carts to stores appear",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 10:00"
+  },
+  {
+    "id": "72ff063772ec",
+    "headline": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
+    "summary": "Microsoft releases MAI-Transcribe-1.5 speech-to-text model supporting 43 languages with improved accuracy and speed.",
+    "description": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry. The post Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster",
+    "tags": [
+      "Microsoft",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 08:56"
+  },
+  {
+    "id": "c6e4691804d6",
+    "headline": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries",
+    "summary": "Google adds agentic RAG framework to Gemini Enterprise Agent Platform for handling complex multi-hop queries.",
+    "description": "Google Research details an agentic RAG framework in Gemini Enterprise Agent Platform. A Sufficient Context Agent re-searches until multi-hop, multi-source queries have enough grounding to answer. The framework raises factuality accuracy up to 34% versus standard RAG. The post Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 08:25"
+  },
+  {
+    "id": "0564fae678ec",
+    "headline": "Best 21 Low-Code and No-Code AI Tools in 2026",
+    "summary": "Guide comparing 21 low-code and no-code AI platforms for building applications, agents, and ML models without extensive coding.",
+    "description": "Low-code and no-code AI platforms now turn a prompt into a working app, agent, or model. This guide compares 21 tools across app builders, automation, AI agents, and machine learning platforms, each linked to its official site. The post Best 21 Low-Code and No-Code AI Tools in 2026 appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/07/best-21-low-code-and-no-code-ai-tools-in-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 08:40"
+  },
+  {
+    "id": "f0641afd9c6a",
+    "headline": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
+    "summary": "UIUC and Chroma develop Harness-1, a 20B retrieval subagent using reinforcement learning for improved search performance.",
+    "description": "UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping — candidate pool, importance-tagged curated set, evidence graph, verification records — while the policy decides what to search, curate, verify, and when to stop. It reaches 0.730 average curated recall across eight benchmarks, beating the next open subagent by 11.4 points and trailing only Opus-4.6. Weights and harness code are publi",
+    "tags": [
+      "Research",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 06:25"
+  },
+  {
+    "id": "de369c8ff375",
+    "headline": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
+    "summary": "Tutorial on NVIDIA garak framework for defensive LLM red-teaming and security testing with custom probes.",
+    "description": "This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagged outputs, and extends garak with a custom probe and detector. It closes by exporting results in AVID format for structured vulnerability The post NVIDIA garak Tutorial: Build a Complete Defensive LL",
+    "tags": [
+      "NVIDIA",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 05:11"
+  },
+  {
+    "id": "cae954cc9b39",
+    "headline": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
+    "summary": "Google releases Colab CLI enabling developers to execute Python code on remote GPU/TPU resources from terminal.",
+    "description": "Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime The post Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal appeared first on MarkTechPost.",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "06 Jun 2026, 22:07"
+  },
+  {
+    "id": "df5b3e1a0b9a",
+    "headline": "Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’",
+    "summary": "Artists create 'anti-slop' aesthetic in response to AI hyperrealism, rejecting polished AI outputs for imperfect human work.",
+    "description": "In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfectEarlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 Holiday Caravan a",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 13:00"
+  },
+  {
+    "id": "f8e8eb954f4a",
+    "headline": "Majority of US’s new AI datacenters to be built on drought-hit land",
+    "summary": "Analysis reveals most new US AI datacenters planned for drought-affected regions, raising environmental sustainability concerns.",
+    "description": "Guardian analysis finds facilities to be built in some of the driest areas as outcry grows over water needed to power AIA record-shattering drought has racked much of the US. But the artificial intelligence industry is pushing ahead regardless, with the majority of planned datacenters set to be built in drought-ridden locations, a Guardian analysis has found.About two-thirds of upcoming datacenters, which typically require a large amount of water to operate, are set to be built in places that ha",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 11:00"
+  },
+  {
+    "id": "cbb5befb1af5",
+    "headline": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
+    "summary": "Aviva identifies record £230M in fraudulent insurance claims with scammers using AI to fabricate accident documentation.",
+    "description": "Insurer found 18,400 suspect claims last year with some scammers using AI to fake accident scenes and documentsBogus insurance claims worth more than £230m were detected by the insurance firm Aviva last year as scammers tried new tricks including using artificial intelligence to fake car accident scenes, documents and to exaggerate damage.The insurer identified more than 18,400 suspect claims across its brands in 2025, with a combined value of £233m. The fraud claims level was a record for the i",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 05:00"
+  },
+  {
+    "id": "cc17e2eafc43",
+    "headline": "Writing is an exercise in the art of persuasion. If we use AI we lose the art | Alan Finkel",
+    "summary": "Opinion piece argues readers deserve transparency about AI-generated content versus human writing in media.",
+    "description": "Every reader deserves to be informed about whether what they are reading is human or AIA few weeks ago, Dr Kylie Moore-Gilbert, an academic in political science at Macquarie University, wrote an opinion piece in the Sydney Morning Herald in which she reported on excessive use of AI chatbots by students to write their essays.In it, she raised her concern that universities are qualifying lawyers, nurses, financial advisers, engineers and teachers who do not have the essential skills required to pe",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 00:54"
+  },
+  {
+    "id": "a711a1efb490",
+    "headline": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+    "summary": "UK leverages NVIDIA technology to establish sovereign AI manufacturing capabilities rather than AI service dependency.",
+    "description": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 06:00"
+  },
+  {
+    "id": "92253845c27a",
+    "headline": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+    "summary": "NVIDIA and LG Group partner to build AI factory advancing robotics, autonomous vehicles, and GPU cloud services.",
+    "description": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings ...",
+    "tags": [
+      "NVIDIA",
+      "Robotics",
+      "Hardware"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 03:00"
+  },
+  {
+    "id": "227167b86679",
+    "headline": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+    "summary": "NVIDIA and Doosan Group expand collaboration on physical AI and robotics infrastructure for manufacturing applications.",
+    "description": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials ...",
+    "tags": [
+      "NVIDIA",
+      "Robotics"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jun 2026, 23:00"
+  },
+  {
+    "id": "78be3752630f",
+    "headline": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
+    "summary": "Developer discussion seeking recommendations for LLM integration approaches and best practices for new projects.",
+    "description": "I have been working as a software developer for more than 20 years now. Been around the block a few times. Thanks to generous allowances in my current place, I've dipped my toes into LLM world and am quite impressed with it. However, we are on a legacy code base, LLM impact is limited in a sense. If I was to start a new project (let's say a web app with backend) - what is the state of the art for the setup? From Issue tracking, CI, automated deployments, agents, documentation etc - is there some",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://news.ycombinator.com/item?id=48445024",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-08",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 13:22"
+  },
+  {
     "id": "dd3296ecb77f",
     "headline": "AI ‘content creators’ are getting harder to spot",
     "summary": "AI-generated content is becoming increasingly difficult to distinguish from human-created material, raising concerns about authenticity in online spaces.",
@@ -10675,364 +11022,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "09 May 2026, 07:30"
-  },
-  {
-    "id": "c94680462366",
-    "headline": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-    "summary": "Mira Murati's deposition revealed details about Sam Altman's 2023 ouster from OpenAI, exposing internal leadership tensions.",
-    "description": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 15:55"
-  },
-  {
-    "id": "1e6d077fb200",
-    "headline": "Apple’s AirPods with cameras for AI are apparently close to production",
-    "summary": "Apple's camera-equipped AirPods prototypes are moving toward production testing, enabling new AI capabilities.",
-    "description": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or ...",
-    "tags": [
-      "Apple",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 15:39"
-  },
-  {
-    "id": "6329cdb10182",
-    "headline": "SpaceX has a $55 billion plan to build AI chips in Texas",
-    "summary": "SpaceX plans $55 billion investment in Texas to build AI chips through its Terafab project.",
-    "description": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes ...",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 15:26"
-  },
-  {
-    "id": "38b9338295b5",
-    "headline": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
-    "summary": "OpenAI launches 'Trusted Contact' feature allowing ChatGPT users to designate emergency contacts for mental health concerns.",
-    "description": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 14:00"
-  },
-  {
-    "id": "aebd17415b80",
-    "headline": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-    "summary": "New command-line tool enables AI agents like Claude and OpenAI Codex to save AI-generated podcasts to Spotify.",
-    "description": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them right alongside the ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 10:15"
-  },
-  {
-    "id": "9a4cc12db1b7",
-    "headline": "Why you can never get your doctor to call you back",
-    "summary": "Basata uses AI to automate doctor callbacks, raising questions about worker augmentation versus displacement.",
-    "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-    "tags": [
-      "Healthcare",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 04:42"
-  },
-  {
-    "id": "42a24297aa18",
-    "headline": "OpenAI launches new voice intelligence features in its API",
-    "summary": "OpenAI releases new voice intelligence features in its API for customer service and education applications.",
-    "description": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 22:24"
-  },
-  {
-    "id": "b25ce3a713ce",
-    "headline": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "summary": "Pit, an AI startup led by Voi founders, raises $16 million Series A from a16z, emerging as Stockholm's AI star.",
-    "description": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 21:02"
-  },
-  {
-    "id": "11d6105a0e0e",
-    "headline": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "summary": "OpenAI expands ChatGPT safety measures with 'Trusted Contact' feature for self-harm prevention.",
-    "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 20:20"
-  },
-  {
-    "id": "2d2d2860bef2",
-    "headline": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "summary": "Perplexity's Personal Computer AI agent application launches on Mac for all users.",
-    "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 19:57"
-  },
-  {
-    "id": "18284eb8aca7",
-    "headline": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "summary": "Elon Musk's lawsuit against OpenAI scrutinizes the company's safety practices and governance structure.",
-    "description": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 19:21"
-  },
-  {
-    "id": "819951733e23",
-    "headline": "Bumble is getting rid of the swipe, CEO says",
-    "summary": "Dating app Bumble is abandoning swipe functionality and developing AI dating assistant Bee.",
-    "description": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 19:06"
-  },
-  {
-    "id": "eedaba385b87",
-    "headline": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-    "summary": "Anthropic's Mythos tool discovered numerous high-severity vulnerabilities in Firefox's security.",
-    "description": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 16:05"
-  },
-  {
-    "id": "91319d3b64cf",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "AI-powered kids' toys are disrupting childhood play and sparking calls for regulatory bans.",
-    "description": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 10:00"
-  },
-  {
-    "id": "7767cd38c003",
-    "headline": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-    "summary": "Trump administration considers executive order for federal AI model oversight.",
-    "description": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 21:37"
-  },
-  {
-    "id": "ce5e44f80f4e",
-    "headline": "How to Disable Google's Gemini in Chrome",
-    "summary": "Google's 4-GB Gemini AI model embedded in Chrome raises privacy concerns; users can disable it.",
-    "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-    "tags": [
-      "Google"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 20:31"
-  },
-  {
-    "id": "1c613b5dd19e",
-    "headline": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
-    "summary": "ChatGPT exhibits quirky linguistic patterns in Chinese that frustrate users.",
-    "description": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 16:25"
-  },
-  {
-    "id": "6f2cee3263a3",
-    "headline": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-    "summary": "Reggae band Stick Figure battles unauthorized AI remixes of their song on streaming platforms.",
-    "description": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 11:00"
-  },
-  {
-    "id": "3602a202f454",
-    "headline": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "summary": "Mozilla reports Anthropic's Mythos AI found 271 Firefox vulnerabilities with minimal false positives.",
-    "description": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 19:18"
-  },
-  {
-    "id": "021977e5bfe8",
-    "headline": "OpenAI Debuts A Codex Plugin For Chrome - Engadget",
-    "summary": "OpenAI launches Codex Chrome extension enabling code suggestions directly in the browser.",
-    "description": "OpenAI Debuts A Codex Plugin For Chrome EngadgetOpenAI's Codex Now Works in Chrome With New Extension MacRumorsOpenAI Codex can now work directly in Chrome on macOS and Windows NeowinCodex Now Works in Chrome via New Plugin on Windows & macOS Windows ReportOpenAI Launches Codex Chrome Extension for Browsers Let's Data Science",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FX1RIQ1BKTmZLeTlaZVlXYWtRMFhrcnNXaENpRWxvS1E5STJCcG5VRUJXT1NOVnpreHdoSGtWVkVOYkhuME0wMzgxdjAyXzdyZTZPcll1aUhwbEhabm9iNXZRQTVSOHIybWVHX1NQQk9wVkVrQUd2VDQ5QTFoUQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 21:57"
-  },
-  {
-    "id": "6d9e0cd4cf83",
-    "headline": "Spotify can now save 'Personal Podcasts' with your calendar and more using AI agents [Video] - 9to5Google",
-    "summary": "Spotify integrates AI agents to generate and save personal podcasts using calendar and content data.",
-    "description": "Spotify can now save 'Personal Podcasts' with your calendar and more using AI agents [Video] 9to5GoogleSave Your Personal Podcast to Spotify and Listen Anywhere SpotifySpotify wants to become the home for AI-generated personal audio TechCrunchOpenClaw and Claude can put your AI-generated podcasts in Spotify The VergeSpotify Now Lets AI Agents Like OpenClaw Generate Personal Podcasts Engadget",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95WDA0UnRDNnFXSHNpQ3BJRmp6M2FnRm96MVFsRHBoWUoxRENoZnNWVXpFVXpJUnFFVkFkUHE0Z0dCMWg5UFR4Q0dYdnRjdFdPQm1OeUFtSEItRDJzQmp6T3BLT2xfM1RUYU1TU2tDSjAtbkJpRXE3Q0lR?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 14:00"
-  },
-  {
-    "id": "ff2e60c05828",
-    "headline": "Perplexity's New Mac App Brings Personal Computer to Pro Users - MacRumors",
-    "summary": "Perplexity's Personal Computer AI assistant now available on Mac for all users.",
-    "description": "Perplexity's New Mac App Brings Personal Computer to Pro Users MacRumorsPerplexity’s Personal Computer is now available to everyone on Mac TechCrunchPerplexity Opens Up Its Personal Computer AI Assistant To All Mac Users EngadgetMac mini is the best platform for Perplexity's Personal Computer AppleInsiderWhat Can the Perplexity Personal Computer Do? AI Features and Capabilities Explained Tech Times",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM3JDeFM3RWlEbXUzbllQdDMyVHI5SkswNG5JOUpkUFpIT3JBeDE0QURacGZPS1h3SkJ1QjBzNzFZSjNLOTF6WXA2X05PSFZJSjA0dW1FRTB0bGtTSmhKYXZ1ODZiVDNxOWxuN3AyaTRFaWloX3E3LWdhRmM2WWM?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-08",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 21:56"
   }
 ]
