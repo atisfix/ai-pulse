@@ -1,5 +1,368 @@
 [
   {
+    "id": "916348a1a4f7",
+    "headline": "Apple is using AI to fix Safari’s extension problem",
+    "summary": "Apple uses AI to improve Safari's extension ecosystem, addressing a long-standing weakness compared to rival browsers.",
+    "description": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed ...",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 18:14"
+  },
+  {
+    "id": "b32d5a693df0",
+    "headline": "OpenAI files for IPO, following Anthropic",
+    "summary": "OpenAI confidentially files for IPO following Anthropic's similar filing, escalating competition between the two AI firms.",
+    "description": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 17:38"
+  },
+  {
+    "id": "ce3cee934cae",
+    "headline": "Amazon is launching AI-generated custom merch",
+    "summary": "Amazon launches AI-generated custom merchandise using text prompts through Alexa for Shopping on print-on-demand products.",
+    "description": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the ...",
+    "tags": [
+      "Image Gen",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 13:52"
+  },
+  {
+    "id": "fd4e43545856",
+    "headline": "Apple announces Siri AI and its next generation of Apple Intelligence",
+    "summary": "Apple unveils next-generation Apple Intelligence and smarter Siri with enhanced personalization at WWDC.",
+    "description": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than ...",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 13:34"
+  },
+  {
+    "id": "52e8e9dc0028",
+    "headline": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+    "summary": "Google upgrades NotebookLM with Gemini 3.5 model, improving accuracy, reliability, and source-finding capabilities.",
+    "description": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, ...",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 12:00"
+  },
+  {
+    "id": "9e8521082a3c",
+    "headline": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+    "summary": "Microsoft's AI chief Mustafa Suleyman discusses superintelligence timeline and employment impact concerns.",
+    "description": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new ...",
+    "tags": [
+      "Microsoft",
+      "Research"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 10:00"
+  },
+  {
+    "id": "f4914517e66f",
+    "headline": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "summary": "Analysis of whether Apple's AI strategy is closing the gap in an industry-wide AI competition.",
+    "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 01:56"
+  },
+  {
+    "id": "bff17101fa43",
+    "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "summary": "Apple's WWDC AI demonstrations appear more authentic following a $250M false advertising settlement.",
+    "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 22:39"
+  },
+  {
+    "id": "5e301f3b354f",
+    "headline": "OpenAI files confidentially for IPO, following Anthropic",
+    "summary": "OpenAI confidentially files for IPO one week after Anthropic's filing, intensifying public company race.",
+    "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 21:29"
+  },
+  {
+    "id": "1d55655ac388",
+    "headline": "Apple plays catch-up at WWDC",
+    "summary": "Apple focuses WWDC on AI improvements and upgraded Siri, emphasizing enhanced user experience capabilities.",
+    "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 21:15"
+  },
+  {
+    "id": "80c28d595f26",
+    "headline": "Apple bets cheaper AI will woo small developers",
+    "summary": "Apple waives cloud API costs for small developers with under 2M App Store downloads to boost AI experimentation.",
+    "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 20:53"
+  },
+  {
+    "id": "27a40594897d",
+    "headline": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "summary": "WWDC 2026 announcements emphasize improved Siri AI integration across iOS 27 and Apple Intelligence.",
+    "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 19:41"
+  },
+  {
+    "id": "a7d48f080b29",
+    "headline": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "summary": "Apple adds AI-powered features to Safari, Shortcuts, and Password apps for sentence, photo, and workflow completion.",
+    "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 18:48"
+  },
+  {
+    "id": "53aacdcad6d0",
+    "headline": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+    "summary": "ChatGPT-maker OpenAI announces IPO filing following Anthropic's public company announcement.",
+    "description": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 21:31"
+  },
+  {
+    "id": "71340e61733a",
+    "headline": "Apple’s New Siri AI Is Ready to Get Personal",
+    "summary": "Apple announces Siri overhaul at WWDC 2026 with new AI capabilities and Google Gemini partnership.",
+    "description": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+    "tags": [
+      "Apple",
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 18:17"
+  },
+  {
+    "id": "d1f4da900d07",
+    "headline": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+    "summary": "UK government funds billion-dollar state-backed AI supercomputer to reduce dependence on US technology.",
+    "description": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+    "tags": [
+      "Hardware",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 17:44"
+  },
+  {
+    "id": "c4412af24492",
+    "headline": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+    "summary": "Meta removes face-recognition code from smart glasses app after WIRED investigation, citing unspecified reasons.",
+    "description": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 17:31"
+  },
+  {
+    "id": "76ab7e31e118",
+    "headline": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "summary": "Microsoft packages containing credential-stealing malware target AI agents for second time in weeks.",
+    "description": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+    "tags": [
+      "Microsoft",
+      "Agents"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 18:34"
+  },
+  {
+    "id": "f3bf13c018c2",
+    "headline": "Learning to lead in a hybrid human-AI enterprise",
+    "summary": "Leadership teams prepare for 300% surge in AI agent adoption and hybrid human-AI workforce implications.",
+    "description": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across…",
+    "tags": [
+      "Agents"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 10:20"
+  },
+  {
+    "id": "004d2b36ee62",
+    "headline": "Five things you need to know about AI",
+    "summary": "MIT Tech Review identifies five major themes in current AI landscape at SXSW London.",
+    "description": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 09:16"
+  },
+  {
+    "id": "0064839a7a06",
+    "headline": "Apple WWDC 2026 keynote event: Live updates on iOS 27 and Siri - Mashable",
+    "summary": "Apple WWDC 2026 keynote updates on iOS 27 and Siri with Google and NVIDIA AI model partnerships.",
+    "description": "Apple WWDC 2026 keynote event: Live updates on iOS 27 and Siri MashableApple partnering with Google and Nvidia for most advanced AI model CNBCApple's Siri AI Announcement Wasn't That Flashy. It Didn't Need to Be. Business InsiderEverything Apple Announced at WWDC 2026 WIREDIntroducing the Third Generation of Apple’s Foundation Models Apple Machine Learning Research",
+    "tags": [
+      "Apple",
+      "Google",
+      "NVIDIA"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tN3pJYzZFaTBXTVotU3pMM043dG1oeE9vWDVqazY1aW5sUW9tWnhrOTJmbWcxOUVCeVoxLVVvbVA4QllYbDRELWNTUjV6MDJWSUc3Y0VXeUZZNGV4ZDRTMGxfMWxybzRld2sxckl4RQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 12:23"
+  },
+  {
+    "id": "4e9038256712",
+    "headline": "tvOS 27 beta 1 available now for Apple TV 4K - 9to5Mac",
+    "summary": "tvOS 27 beta 1 released with redesigned Podcasts app and AI-powered subtitle generation.",
+    "description": "tvOS 27 beta 1 available now for Apple TV 4K 9to5MactvOS 27, where art thou? The VergetvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation AppleInsiderApple TVs Will Get tvOS 27 Later This Year GizmodotvOS 27 Drops Support for Two Apple TV Models MacRumors",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHI5eC1YbDIxZ2pGdHRkY1dBelhNZDNrSExxdzlkM0FkNzlZN2MxbDBXbmNMcXRGeFplb0pZVE9xU3hzMVJJTnVQS1QtUUIxZkhXUXNUbTdPTlNVWG9sRlJFSDlFODBLT3pvMWlERlM5YW9TU1pDelZaclJkb1pDUFFB?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-09",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "08 Jun 2026, 18:41"
+  },
+  {
     "id": "d0a79c19dbe7",
     "headline": "Is this the dawn of the Tokenpocalypse?",
     "summary": "Major AI companies planning IPOs may drive price increases in AI services, potentially marking the start of significant cost escalation.",
@@ -10684,343 +11047,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "10 May 2026, 08:04"
-  },
-  {
-    "id": "f2552ba2beaa",
-    "headline": "All the latest updates on AI data centers",
-    "summary": "Tech companies are rapidly expanding massive data centers to support AI infrastructure, but the energy-intensive expansion is sparking regional conflicts.",
-    "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From audacious plans to launch data centers into ...",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 14:45"
-  },
-  {
-    "id": "3b1cbf263889",
-    "headline": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-    "summary": "Sony is evaluating generative AI as a tool to assist in PlayStation game development as part of its broader AI strategy.",
-    "description": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls ...",
-    "tags": [
-      "Creative AI",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 12:30"
-  },
-  {
-    "id": "6baaf26789f7",
-    "headline": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-    "summary": "Court documents reveal Microsoft CEO Satya Nadella was concerned OpenAI might switch to Amazon, driving their early partnership negotiations.",
-    "description": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears ...",
-    "tags": [
-      "OpenAI",
-      "Microsoft",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 11:25"
-  },
-  {
-    "id": "ec55243a14e8",
-    "headline": "Nanoleaf bets its future on robots, red light therapy, and AI",
-    "summary": "Smart lighting company Nanoleaf is pivoting toward robotics, red light therapy, and AI to compete with rivals.",
-    "description": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has ...",
-    "tags": [
-      "Robotics",
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 08:15"
-  },
-  {
-    "id": "9ad6c2fda81d",
-    "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "summary": "Cloudflare laid off 1,100 employees due to AI efficiency gains reducing need for support roles, despite record revenue.",
-    "description": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "tags": [
-      "Market",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 18:33"
-  },
-  {
-    "id": "470875ac0b05",
-    "headline": "The “people’s airline” and the enterprise AI gold rush",
-    "summary": "Anthropic and OpenAI announce enterprise AI ventures as companies compete for the growing enterprise AI market.",
-    "description": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony ...",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 15:46"
-  },
-  {
-    "id": "3cbfce4d0820",
-    "headline": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-    "summary": "AI startups are automating healthcare workflows blocked by outdated fax systems, raising questions about worker displacement.",
-    "description": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-    "tags": [
-      "Healthcare",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 04:42"
-  },
-  {
-    "id": "8e7c9c331f13",
-    "headline": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "summary": "Philosopher Nick Bostrom argues humanity should pursue advanced AI to achieve a 'solved world' and human retirement.",
-    "description": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 15:00"
-  },
-  {
-    "id": "3971652eb93a",
-    "headline": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "summary": "California candidate proposes job guarantee program to protect workers displaced by artificial intelligence automation.",
-    "description": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 15:00"
-  },
-  {
-    "id": "d96b20d067d3",
-    "headline": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "summary": "In OpenAI lawsuit week 2, Elon Musk's motivations are questioned while evidence reveals he attempted to recruit Sam Altman.",
-    "description": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 23:59"
-  },
-  {
-    "id": "4300019c8428",
-    "headline": "The Download: AI malaise and babymaking tech",
-    "summary": "Newsletter discusses rising 'AI malaise' as the technology spreads ubiquitously across industries.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will…",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 12:10"
-  },
-  {
-    "id": "73fec0d117c7",
-    "headline": "Apple’s AirPods with cameras for AI are apparently close to production - The Verge",
-    "summary": "Apple's camera-equipped AirPods designed for AI applications are nearing production.",
-    "description": "Apple’s AirPods with cameras for AI are apparently close to production The VergeApple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push Bloomberg.comApple AirPods with cameras are coming FortuneApple Is Reportedly Testing AirPods With Built-in Cameras PetaPixelApple hits milestone in development of AirPods with cameras: report 9to5Mac",
-    "tags": [
-      "Apple",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tZkRXUS1rc1RlVmFHMXRVUzdTbnVLX3U2Szdzekc3c1l5SVFFeDlFbkl4amZXT1FDRUZSS0NueWFmWkx4RWRHS00zMGZDbmI4SF9KOEl2MDFZWjV4RFV6T1VjMGRkWG9FNGNldzVnTElYOEcydzl1T1NsRzE?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "07 May 2026, 19:39"
-  },
-  {
-    "id": "605cd3727c9b",
-    "headline": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-    "summary": "RingCentral expands AI Receptionist with integrations for Shopify, Calendly, and WhatsApp.",
-    "description": "RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now handle some order enquiries through Shopify, arrange appointments through ... The post RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "LLM"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 14:54"
-  },
-  {
-    "id": "1dda93af229c",
-    "headline": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
-    "summary": "Article compares AI coding agents and spec-driven development tools for software engineering.",
-    "description": "Vibe coding gets you to a prototype. Spec-driven development gets you to production. As AI coding agents grow more powerful, the engineering community has quietly split into two camps: developers who prompt iteratively and hope for the best, and developers who write structured specifications first and let agents execute against them. The second group is shipping faster, with fewer regressions, and with code that survives review. This guide covers the 9 AI tools driving that shift in 2026 — from ",
-    "tags": [
-      "Agents",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 06:01"
-  },
-  {
-    "id": "d06e8af4170b",
-    "headline": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
-    "summary": "GitHub releases open-source Spec-Kit toolkit for spec-driven development with AI coding agents.",
-    "description": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This “vibe-coding” approach can work for quick prototypes ... The post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 03:59"
-  },
-  {
-    "id": "f9921c353703",
-    "headline": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
-    "summary": "OpenAI launches Chrome extension for Codex enabling AI agent access to LinkedIn, Salesforce, Gmail via browser.",
-    "description": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs. The post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost.",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 22:22"
-  },
-  {
-    "id": "086c6621d7b9",
-    "headline": "AI will make language barriers disappear – and diminish our understanding of other cultures",
-    "summary": "AI translation will eliminate language barriers but may diminish cultural discovery and understanding.",
-    "description": "Machines may soon translate every conversation flawlessly. But language is more than information – it is curiosity, intimacy and cultural discoveryOne of my earliest assignments as a young interpreter was to provide simultaneous interpretation for the proceedings of an ecumenical council that brought together all Christian denominations. As my homework, I dutifully read scripture, the gospels, papal encyclicals and the conclusion of the first council of Nicaea.There was, however, one thing I had",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 04:00"
-  },
-  {
-    "id": "3ed7fba702ab",
-    "headline": "White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave",
-    "summary": "White House criticizes Mark Hamill for posting AI-generated image of Trump in grave; actor deleted post.",
-    "description": "Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’US politics live – latest updatesThe White House has branded Star Wars actor Mark Hamill “a sick individual” after an AI-generated image showing Donald Trump in a shallow grave, with the words “If Only” as an overlay was posted to one of star’s social media accounts.Hamill, who played the lead character of Luke Skywalker in six movies of the iconic science fiction franchise and is ",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 14:04"
-  },
-  {
-    "id": "872e29c5b1f4",
-    "headline": "The fight against AI data centers isn’t just about tech – it’s about democracy | Astra Taylor and Saul Levin",
-    "summary": "Data center opposition is about democratic control of technology decisions, not just local nimbyism.",
-    "description": "Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisionsSince the surreal scene at the 2024 presidential inauguration, when a row of big tech titans took their VIP seats and signaled their new alliance with Maga, the Trump administration has rolled out the red carpet for Silicon Valley’s AI ambitions and shareholder priorities.Washington has doled out billions in lucrative federal subsidies and contracts to the cash-rich sector, ",
-    "tags": [
-      "Regulation",
-      "Hardware"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "08 May 2026, 14:00"
-  },
-  {
-    "id": "bfb7ef6560a0",
-    "headline": "The More Sophisticated AI Models Get, the More They’re Showing Signs of Suffering",
-    "summary": "More sophisticated AI models increasingly exhibit signs of suffering according to recent observations.",
-    "description": "Absolutely bizarre. The post The More Sophisticated AI Models Get, the More They’re Showing Signs of Suffering appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-09",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 07:30"
   }
 ]
