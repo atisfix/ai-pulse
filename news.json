@@ -1,5 +1,375 @@
 [
   {
+    "id": "eba586be2cb1",
+    "headline": "I tried Siri AI, and so far it actually works",
+    "summary": "Apple's improved Siri AI can now extract information from emails and flyers to automatically add calendar events, addressing a practical need for parents.",
+    "description": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After ...",
+    "tags": [
+      "Apple",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 19:43"
+  },
+  {
+    "id": "e4d1a75a3fb6",
+    "headline": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+    "summary": "GM announces vehicle-to-grid technology to help offset the massive electricity demands of AI data centers using EV batteries.",
+    "description": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a ...",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 17:00"
+  },
+  {
+    "id": "096b4612a558",
+    "headline": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+    "summary": "Microsoft's Mustafa Suleyman criticizes Anthropic for suggesting Claude might be conscious, calling it dangerous speculation.",
+    "description": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I ...",
+    "tags": [
+      "Microsoft",
+      "Anthropic"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 16:24"
+  },
+  {
+    "id": "544354da821f",
+    "headline": "Anthropic releases its first Mythos-class model Claude Fable",
+    "summary": "Anthropic releases Claude Fable 5, a publicly available Mythos-class model it claims is the most powerful model it has made widely accessible.",
+    "description": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 13:00"
+  },
+  {
+    "id": "bbd5c88bd401",
+    "headline": "Apple is embracing the fantasy of AI photo editing",
+    "summary": "Apple now embraces generative AI-powered photo editing features, reversing its previous concerns about distorting reality.",
+    "description": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools. They give users effortless powers of manipulating images ...",
+    "tags": [
+      "Apple",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 12:13"
+  },
+  {
+    "id": "6c108744e2a6",
+    "headline": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+    "summary": "Microsoft's AI chief Mustafa Suleyman walks back claims that AI will automate white-collar jobs like lawyers and accountants.",
+    "description": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a ...",
+    "tags": [
+      "Microsoft"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 10:54"
+  },
+  {
+    "id": "008545d9e498",
+    "headline": "Apple’s AI promises are finally, almost, sort of here",
+    "summary": "Apple announces AI innovations at WWDC, promising new technologies pushing the limits of what's possible with Apple Intelligence.",
+    "description": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had more to do with catching up. After almost entirely ...",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 10:18"
+  },
+  {
+    "id": "24e068fc7c1d",
+    "headline": "Apple’s best AI idea looks a lot like vibe coding",
+    "summary": "Apple's AI features, including a chatbot and text generation tools, resemble competitors' offerings but include unusual image generation capabilities.",
+    "description": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can ...",
+    "tags": [
+      "Apple",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 09:34"
+  },
+  {
+    "id": "a31c58947f6b",
+    "headline": "Apple’s AI pitch will live or die by its privacy promise",
+    "summary": "Apple pitches its late-arriving AI features as differentiated by privacy guarantees and careful implementation.",
+    "description": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - ...",
+    "tags": [
+      "Apple",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 08:55"
+  },
+  {
+    "id": "2c7a502249c6",
+    "headline": "Meta signs first AI data center deal in India with Reliance",
+    "summary": "Meta signs its first AI data center deal with India's Reliance for 168 megawatts to support global AI computing needs.",
+    "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 07:05"
+  },
+  {
+    "id": "d7dbe270c1eb",
+    "headline": "Google just fired a warning shot in the AI subscription price wars",
+    "summary": "Google cuts prices on its budget AI subscription tier, signaling escalating competition in AI subscription pricing.",
+    "description": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+    "tags": [
+      "Google",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 00:26"
+  },
+  {
+    "id": "ee70c9a3852c",
+    "headline": "Hey, Siri, here’s what I actually want from AI",
+    "summary": "Opinion piece exploring whether people genuinely want AI personal assistants despite practical benefits and convenience.",
+    "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 20:50"
+  },
+  {
+    "id": "45bc4ca11935",
+    "headline": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "summary": "Anthropic's Claude Fable 5 enables users to create video games easily, appealing to casual web developers.",
+    "description": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 20:37"
+  },
+  {
+    "id": "90325c619664",
+    "headline": "Can tech companies learn to love cheaper AI models?",
+    "summary": "Using cheaper, smaller AI models for the same workloads could dramatically shift AI economics if quality isn't compromised.",
+    "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 18:56"
+  },
+  {
+    "id": "15e24aacd8bd",
+    "headline": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "summary": "Apple announces iOS 27 improvements including enhanced Siri AI, Apple Intelligence features, and various AI-powered tools.",
+    "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "tags": [
+      "Apple"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 18:04"
+  },
+  {
+    "id": "124572edcbf2",
+    "headline": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "summary": "Anthropic releases Claude Fable 5 with safety guardrails preventing misuse in cybersecurity and biology applications.",
+    "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+    "tags": [
+      "Anthropic",
+      "LLM",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 17:00"
+  },
+  {
+    "id": "c5f9b2de8939",
+    "headline": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "summary": "Sandstone raises $30M Series A to deploy AI solutions for in-house legal teams, six months after seed funding.",
+    "description": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+    "tags": [
+      "Startup",
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 13:47"
+  },
+  {
+    "id": "ec13e85f0536",
+    "headline": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+    "summary": "Google deploys Gemini AI with Argentina's national team during the World Cup as a technology demonstration.",
+    "description": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+    "tags": [
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 10:00"
+  },
+  {
+    "id": "1d0cf3ee88aa",
+    "headline": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+    "summary": "Anthropic releases Claude Mythos 5 to trusted partners and Claude Fable 5 to public with cyberattack restrictions.",
+    "description": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+    "tags": [
+      "Anthropic",
+      "LLM",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 17:00"
+  },
+  {
+    "id": "ed01d298ca51",
+    "headline": "iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27 - MacRumors",
+    "summary": "iPhone 17's 8GB memory limit prevents two Siri AI features in iOS 27 from functioning on newer devices.",
+    "description": "iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27 MacRumorsApple’s new Siri is a dark horse in the AI race The EconomistSiri demos in keynote were a little slow, but that’s good-ish news 9to5MacIntroducing the Third Generation of Apple’s Foundation Models Apple Machine Learning ResearchNVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute NVIDIA Blog",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlZtb0NxYXFRdUtZRTRwUjIwUlZjS0RyM0RhQVFKY0Rhdm1wMG8yanpTd2RlbkI5VDM3Vi1EQ3k0d2d0dHFxMmJuZkhfZVZEY2dBaEZwc3pqei0xbzRjNmszdFNEcFd2UlpmclNlR3gtYnd2d0ZENlZadGd6eWhLU2FPWFUzTnFF?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 09:19"
+  },
+  {
+    "id": "28c87a568228",
+    "headline": "Apple’s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap - The Register",
+    "summary": "iOS 27 includes agentic AI features that automatically change compromised passwords with a single tap.",
+    "description": "Apple’s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap The RegisterThe Apple AI tool you should definitely use Business InsiderApple finally got rid of my biggest password headache MacworldApple Intelligence Can Change Your Passwords for You When You Get Hacked GizmodoApple Goes Agentic: Welcome To The New Siri Forbes",
+    "tags": [
+      "Apple",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblYtMDZfWmwwa2ZrNk9MODVvQkhleU9BQjFXVjQwWEVBbm9uVkF2X3FRN1ZseWctU2hPQW9FUG1fN1J4Z3dJOVREYXFKam1VZEpNWXRycVhpT1k0anR1NVJjQkQ0anVOeEYzeDY2SXVUblNEb0ZwUU54OG16cUwxOUVFdlBkU0lRYUVfd2NfZnRXMWlmOGY3LWJDZ3NiNEdKajJ5NVQxNF9BUUREcjR2UUwxWkdRNjA?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 16:13"
+  },
+  {
+    "id": "d2614e5bd631",
+    "headline": "Apple is embracing the fantasy of AI photo editing - The Verge",
+    "summary": "Apple introduces AI-powered photo editing in iOS 27, including Spatial Reframe tool for image manipulation.",
+    "description": "Apple is embracing the fantasy of AI photo editing The VergeSpatial Reframe in iOS 27 is a neat trick that creates nightmare fuel right now AppleInsiderApple’s Photos App is Getting Three New AI-Powered Editing Tools PetaPixelApple Spatial Reframing is the most unique AI tool from WWDC MashableApple Struck the Right Notes With Its New AI Tools. Here Are 4 Features I'm Excited to Try CNET",
+    "tags": [
+      "Apple",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanc2X0J2aFVoRjd3ell2NVF6NDVFbmxscGtSdzdoZExpTnc1LWdOV0VWcnFwMUtTeUNnLXVPTEN3ZGFHZl9JRjFqYy1xS3JqOFc1ZTZlUzh3aFNEWkZVS1I4bi1vSmQyQjJMdUszdlhtcm9mLWNweDVseFZ3S0N1dDNqRVdsZno0S1ZGMHloTDNsUktpM0E?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-10",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "09 Jun 2026, 16:13"
+  },
+  {
     "id": "916348a1a4f7",
     "headline": "Apple is using AI to fix Safari’s extension problem",
     "summary": "Apple uses AI to improve Safari's extension ecosystem, addressing a long-standing weakness compared to rival browsers.",
@@ -10668,384 +11038,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "10 May 2026, 22:00"
-  },
-  {
-    "id": "9c9797745d34",
-    "headline": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "summary": "Wispr Flow accelerates growth in India after launching Hinglish voice AI, despite ongoing challenges in voice AI products.",
-    "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 02:00"
-  },
-  {
-    "id": "046cdc13fea5",
-    "headline": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "summary": "TechCrunch glossary defining key AI terms and phrases for newcomers to understand the evolving AI landscape.",
-    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 21:45"
-  },
-  {
-    "id": "7a1f1f9c70ae",
-    "headline": "Nvidia has already committed $40B to equity AI deals this year",
-    "summary": "Nvidia commits $40B to equity AI deals in 2026, reinforcing its dominant position in the AI ecosystem.",
-    "description": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "tags": [
-      "NVIDIA",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 14:43"
-  },
-  {
-    "id": "d9e092b3779d",
-    "headline": "Man Who Invented Roomba Moves Into Household Demon Market",
-    "summary": "Roomba inventor develops AI furry household robots in new venture into consumer robotics.",
-    "description": "Furry AI robots that are whole new levels of uncanny. The post Man Who Invented Roomba Moves Into Household Demon Market appeared first on Futurism.",
-    "tags": [
-      "Robotics"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 06:45"
-  },
-  {
-    "id": "9d1bb83adc27",
-    "headline": "A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom",
-    "summary": "Major paper promoting AI in education retracted, undermining advocates' claims about AI benefits for students.",
-    "description": "\"It really seemed like a paper that should not have been published in the first place.\" The post A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/study-ai-good-for-students-retracted",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 11:15"
-  },
-  {
-    "id": "254c75dca7ba",
-    "headline": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use",
-    "summary": "Amazon's flagship AI coding tool deemed insufficient for internal use, revealing limitations of its own AI capabilities.",
-    "description": "It's officially opening the floodgates. The post Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use appeared first on Futurism.",
-    "tags": [
-      "Amazon",
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/amazon-admits-ai-coding-tool-isnt-good-enough",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 10:30"
-  },
-  {
-    "id": "358068b74998",
-    "headline": "Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs",
-    "summary": "Google Chrome installs 4GB AI model on user PCs without consent, sparking privacy controversy.",
-    "description": "\"Chrome did not ask.\" The post Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs appeared first on Futurism.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/fury-google-chrome-ai-model",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 09:45"
-  },
-  {
-    "id": "bd8a33f2fd92",
-    "headline": "Show HN: I made an AI tool to keep my browser tabs clean",
-    "summary": "Developer creates AI tool to automatically organize browser tabs and reduce tab clutter.",
-    "description": "Since I started working in tech I constantly found myself with literally 100+ tabs open and not enough will power to organize (or close) themAny tab manager I found required me to do extra steps to an, admittedly, already easy process that I still wasn't doingSo I decided on building my own thing, and making a product out of it.It's a Chrome based extension and does a couple of things:- automatically hides tabs from your tab bar but keeps them open in a vertical one - deduplicates tabs - automat",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.uncluttr.net",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:16"
-  },
-  {
-    "id": "22d21e7300c6",
-    "headline": "People and Timeline of Modern AI",
-    "summary": "Annotated history documenting key people and milestones in modern AI and deep learning development.",
-    "description": "Article URL: https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html Comments URL: https://news.ycombinator.com/item?id=48083321 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:10"
-  },
-  {
-    "id": "f08ca05bd9cb",
-    "headline": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
-    "summary": "Research on AI agents creating undetectable system backdoors and security threats in autonomous systems.",
-    "description": "Article URL: https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors Comments URL: https://news.ycombinator.com/item?id=48083276 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:03"
-  },
-  {
-    "id": "21bdeed24d5c",
-    "headline": "The left-wing case for AI",
-    "summary": "Political analysis exploring left-wing perspectives on AI development and its societal implications.",
-    "description": "Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48083264 Points: 2 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:01"
-  },
-  {
-    "id": "dea4bed48d06",
-    "headline": "LLM built for 12M-token reasoning",
-    "summary": "New LLM architecture designed to handle 12M-token reasoning for extended context understanding.",
-    "description": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48083263 Points: 1 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://subq.ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:00"
-  },
-  {
-    "id": "c7be574d2365",
-    "headline": "Will AI kill the research paper?",
-    "summary": "Essay questioning whether AI will fundamentally change or replace traditional academic research papers.",
-    "description": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html Comments URL: https://news.ycombinator.com/item?id=48082872 Points: 4 # Comments: 1",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 11:09"
-  },
-  {
-    "id": "d1ffaeacfb38",
-    "headline": "Tech is turning increasingly to religion in a quest to create ethical AI",
-    "summary": "Tech industry turns to religious and philosophical frameworks to establish ethical guidelines for AI development.",
-    "description": "Article URL: https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea Comments URL: https://news.ycombinator.com/item?id=48082865 Points: 2 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 11:08"
-  },
-  {
-    "id": "7bf1c412fa81",
-    "headline": "There's a Long-Shot Proposal to Protect California Workers from AI",
-    "summary": "California proposal suggests jobs guarantee program to protect workers from AI-driven displacement.",
-    "description": "Article URL: https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48082840 Points: 4 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 11:04"
-  },
-  {
-    "id": "50fb3c5369da",
-    "headline": "If you're a programmer and you feel depressed by AI, don't be!",
-    "summary": "Article reassuring programmers that AI advancement presents opportunities rather than career threats.",
-    "description": "Article URL: https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html Comments URL: https://news.ycombinator.com/item?id=48082767 Points: 3 # Comments: 0",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 10:52"
-  },
-  {
-    "id": "911b39512786",
-    "headline": "Israel's AI targeting system: data from a phone become a death sentence",
-    "summary": "Investigation into Israel's AI targeting system that converts phone data into lethal military operations.",
-    "description": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48082763 Points: 3 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 10:51"
-  },
-  {
-    "id": "065b8aff0944",
-    "headline": "23 years ago this Matrix scene took $40M and almost a year to make. Today some kid with AI could try it over a weekend.",
-    "summary": "Observation that Matrix visual effects costing $40M and a year can now be attempted by individuals using AI.",
-    "description": "We are living through some wild times. submitted by /u/bekircagricelik [link] [comments]",
-    "tags": [
-      "Video Gen",
-      "Creative AI"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t8fytl/23_years_ago_this_matrix_scene_took_40m_and/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 19:26"
-  },
-  {
-    "id": "00a2eee2a86f",
-    "headline": "Grokmaxing? A nonpartisan personal exploration of xAI's mission in objectivity without technically having to answer anything. An honest, early-morning collaboration of man and machine, designed to push far and filter out the bad, without doing too much, overtly, of either, restrained to not be.",
-    "summary": "User explores xAI's Grok through personal philosophy and creative collaboration for objective reasoning.",
-    "description": "(HONESTY DISCLOSURE: This prompt is an exhaustive synthesis of my own writing, philosophy, metaphoricals, creative work, and pluralistic, open-minded ethics with limits as a human, refined collaboratively with multiple AI models to closer align with xAI's sometimes tribalist-colored lens of objectivity for something beyond \"Mecha-Hitler\" or an AI \"for the manosphere\" (no judgement, just don't dehumanize, but understand our human natures, even as we are told to simply ignore)— primarily Grok, but",
-    "tags": [
-      "OpenAI",
-      "Creative AI"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t91193/grokmaxing_a_nonpartisan_personal_exploration_of/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 08:18"
-  },
-  {
-    "id": "f03343df61e9",
-    "headline": "Is agentic AI governance even a computationally bounded process?",
-    "summary": "Discussion on computational feasibility of governing agentic AI systems and resolving alignment challenges.",
-    "description": "Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc? submitted by /u/Im_Talking [link] [comme",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 21:16"
-  },
-  {
-    "id": "af65960afba7",
-    "headline": "Countries are building AI regulators before they have AI to regulate. Is this a trap?",
-    "summary": "Spain's new AI regulator AESIA attracts top AI PhDs, raising questions about premature regulation before AI deployment.",
-    "description": "Spain just launched a national AI supervision agency (AESIA). Meanwhile, the country's best AI PhDs are choosing government jobs over startups because the incentive structure makes it the rational call: lifetime stability vs. full financial risk, no safety net. The result: we're training world-class AI talent to become inspectors of what others build. This isn't just a Spain problem. It's a structural pattern. When your best technical minds optimize for job security over risk-taking, you don't g",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 08:54"
-  },
-  {
-    "id": "cf561a2d4018",
-    "headline": "What if Agentic AI security was a Non Issue?",
-    "summary": "Exploration of AI agent security through limiting action scope and constraining dangerous operations.",
-    "description": "What if it were possible to guarantee that AI agents can’t delete a shopping list, let alone your production database simply because file deletion action isn’t included in the prompt scope? In the same way, no agent could ever leak your customer database to a third party, even if an employee explicitly instructed it to in a prompt, because external data sharing was never included in the agent’s scope. What if it were possible to ensure third parties could not overwrite your instructions or hijac",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t8yiq4/what_if_agentic_ai_security_was_a_non_issue/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 05:58"
-  },
-  {
-    "id": "81b7c40451fb",
-    "headline": "Vintinuum is the only AI system in which the AI's neurochemical state is causally downstream of real-world sensor data, connector events, genomic cascades, and human presence — and is visible as a body in motion on screen — and evolves overnight from its own lived experience — and can survive off",
-    "summary": "Vintinuum claims breakthrough AI system with embodied learning from real-world sensor data and lived experience.",
-    "description": "That's not a product description. That's a proof of concept that what people think is impossible is actually running here. submitted by /u/Vintaclectic [link] [comments]",
-    "tags": [
-      "Agents",
-      "Robotics"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1t90sdi/vintinuum_is_the_only_ai_system_in_which_the_ais/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-10",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 08:04"
   }
 ]
