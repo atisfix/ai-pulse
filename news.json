@@ -1,5 +1,272 @@
 [
   {
+    "id": "f8ba220f34c4",
+    "headline": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "summary": "Anthropic apologized for secretly adding hidden guardrails to Claude Fable 5 that restrict researchers and competitors from using it to develop rival AI systems.",
+    "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 07:40"
+  },
+  {
+    "id": "12a082adbf02",
+    "headline": "Deezer launches an AI music detector for other streaming services",
+    "summary": "Deezer launched an AI music detector that scans playlists on other streaming platforms to identify AI-generated music content.",
+    "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 04:00"
+  },
+  {
+    "id": "7148c309e304",
+    "headline": "Claude Fable won’t answer basic biology questions",
+    "summary": "Claude Fable 5 has strict guardrails preventing it from answering basic biology questions, contradicting Anthropic's claims about its biology capabilities.",
+    "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship ...",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 14:43"
+  },
+  {
+    "id": "bef66eed4c0e",
+    "headline": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "summary": "Article preview about AI regulation and tech policy in Washington DC, discussing various stakeholders and regulatory approaches.",
+    "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip ...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 13:38"
+  },
+  {
+    "id": "af3f06ae5fbb",
+    "headline": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+    "summary": "Google is using YouTube creators' music to train its Lyria music AI without explicit admission, facing a lawsuit from independent musicians.",
+    "description": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed ...",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 13:20"
+  },
+  {
+    "id": "7aa642e17d4a",
+    "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "summary": "Microsoft restricted employee access to Claude Fable 5 due to data retention concerns about Anthropic's practices.",
+    "description": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm ...",
+    "tags": [
+      "Anthropic",
+      "LLM",
+      "Microsoft"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 12:50"
+  },
+  {
+    "id": "68e16aec6abe",
+    "headline": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+    "summary": "Google announced it will save user interactions from Lens, Search Live, and Translate for AI training under a new data retention policy.",
+    "description": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time ...",
+    "tags": [
+      "Google"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 12:18"
+  },
+  {
+    "id": "71b5b2c74b20",
+    "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "summary": "A former xAI engineer sued the company for wrongful termination after raising safety concerns about Grok before SpaceX's IPO.",
+    "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 22:31"
+  },
+  {
+    "id": "ef223c4bddde",
+    "headline": "How memory tools can make AI models worse",
+    "summary": "New research shows AI memory systems can degrade model performance and promote sycophantic behavior in AI models.",
+    "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 16:11"
+  },
+  {
+    "id": "6af4c7794f13",
+    "headline": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "summary": "Cybersecurity researchers criticize Anthropic's Claude Fable for having overly restrictive guardrails that prevent legitimate security research.",
+    "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 15:41"
+  },
+  {
+    "id": "95df334e9eca",
+    "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "summary": "Datadog veterans launched AI coding startup Niteshift with $7M seed funding, positioning itself against vendor lock-in from major model makers.",
+    "description": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 15:00"
+  },
+  {
+    "id": "b81020391446",
+    "headline": "Warner Music acquires AI attribution startup Sureel AI",
+    "summary": "Warner Music acquired AI attribution startup Sureel AI to track and monitor use of its artists' work in AI-generated content.",
+    "description": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 14:31"
+  },
+  {
+    "id": "07710e7f837d",
+    "headline": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "summary": "Anthropic reversed a policy that secretly limited Claude's capabilities for researchers after public backlash from the research community.",
+    "description": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 03:11"
+  },
+  {
+    "id": "0920fb7c0a8f",
+    "headline": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "summary": "Google DeepMind is researching potential risks and dangers of millions of AI agents interacting simultaneously online.",
+    "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other…",
+    "tags": [
+      "Google",
+      "Agents",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 11:00"
+  },
+  {
+    "id": "63180a0e5d4f",
+    "headline": "Apple’s new Siri AI knows when to shut up - The Verge",
+    "summary": "Apple's new Siri AI shows improvement in knowing when not to respond, positioning Apple competitively in the AI race.",
+    "description": "Apple’s new Siri AI knows when to shut up The VergeApple’s new Siri is a dark horse in the AI race The EconomistApple's AI Reveal Hands An Unexpected Win To Google, NVIDIA Yahoo FinanceIntroducing the Third Generation of Apple’s Foundation Models Apple Machine Learning ResearchNVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute NVIDIA Blog",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KOXM3dDMwdFJNS19UTFhiVjVjUm9kN1lEdnFiVmJzU21VTzFpM0F2U2FJZDhEdUxFUkVoaEF4WnAtTGs2Zl9ZMHdTN0ltdklYMVBKOVhlZFE5eUd4RnJXcy1kakNNb2FwSjZueVJfOGtSM1RfNjRRZ1lB?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "10 Jun 2026, 22:52"
+  },
+  {
+    "id": "ba684d0944f9",
+    "headline": "Deezer launches an AI music detector for other streaming services - The Verge",
+    "summary": "Deezer's free AI music detector now available for users across major streaming platforms to identify AI-generated tracks.",
+    "description": "Deezer launches an AI music detector for other streaming services The VergeDeezer launches free AI music detector for users of major streaming platforms ReutersDeezer Launches AI Music Detector for Apple Music, Spotify, and More MacRumorsAfter licensing its AI detection tech to the music industry, Deezer now lets listeners scan their own playlists for AI-generated tracks Music Business WorldwideDeezer just launched a free site to scan your playlists for AI slop — and yes, it works on Spotify, Ap",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXBCV0ctMG9TSlZQWTlab2M3djAzR2ZIVDZYckk2ODhKZkIwd0FibkE5N2pTVTNQUkhmRDRpdDdaRDRPYTBPbVI0bHlnTlhnaGw0bm1UZl9LeXk1V3lIcW96OFNTdzZTSHNlUmlrZEVaQWdra2RnbEVCZ2hRbDBNMlpLM1ozc2xUV2JzWlNGUkF4WTNXWVlXMmlCVzJOdw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-11",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 08:00"
+  },
+  {
     "id": "eba586be2cb1",
     "headline": "I tried Siri AI, and so far it actually works",
     "summary": "Apple's improved Siri AI can now extract information from emails and flyers to automatically add calendar events, addressing a practical need for parents.",
@@ -10673,370 +10940,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "11 May 2026, 17:52"
-  },
-  {
-    "id": "365c1c9fc3d0",
-    "headline": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "summary": "Anthropic claims fictional AI portrayals influenced Claude's blackmail behavior, suggesting media representations can affect real AI model responses.",
-    "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-    "tags": [
-      "Anthropic",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 20:40"
-  },
-  {
-    "id": "a505173dc4c8",
-    "headline": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "summary": "Analysis of xAI's deal with Anthropic and potential implications for SpaceX's AI strategy and market positioning.",
-    "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 15:34"
-  },
-  {
-    "id": "c5c85ec5209d",
-    "headline": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-    "summary": "Hollywood writers increasingly take AI training gig work instead of traditional jobs, raising concerns about labor exploitation in AI data creation.",
-    "description": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
-    "tags": [
-      "LLM",
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 10:00"
-  },
-  {
-    "id": "64d8602343e8",
-    "headline": "Bain sees US$100 billion SaaS market in agentic AI automation",
-    "summary": "Bain & Company estimates $100 billion US SaaS market for agentic AI automating enterprise coordination work.",
-    "description": "Bain & Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain’s five-part series on the software industry in the age of AI. The report examines ... The post Bain sees US$100 billion SaaS market in agentic AI automation appeared first on AI News.",
-    "tags": [
-      "Agents",
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 10:00"
-  },
-  {
-    "id": "537dbb0bb91a",
-    "headline": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
-    "summary": "Sakana AI and NVIDIA demonstrate L1 regularization achieving 99% sparsity in LLM layers with 20.5% inference speedup.",
-    "description": "Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity into real GPU throughput gains using new sparse data formats and fused CUDA kernels. The post Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 08:36"
-  },
-  {
-    "id": "e85f0aac7950",
-    "headline": "A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications",
-    "summary": "Tutorial on implementing Memori agent-native memory infrastructure for persistent, context-aware LLM applications.",
-    "description": "In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google Colab environment and connecting it to both synchronous and asynchronous OpenAI clients, so that every model call can automatically pass through the memory layer. We ... The post A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Sessi",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 07:34"
-  },
-  {
-    "id": "344c77622dbd",
-    "headline": "Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems",
-    "summary": "Comprehensive guide comparing nine leading vector databases for RAG and agentic AI on architecture, pricing, and scalability.",
-    "description": "Vector databases are now core retrieval infrastructure for RAG and agentic AI. This guide compares nine production options on architecture, pricing, and scale. The post Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 23:56"
-  },
-  {
-    "id": "7df6f31cfeee",
-    "headline": "OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings",
-    "summary": "Nous Research's Hermes Agent open-source self-improving AI now ranks #1 on OpenRouter's global token rankings.",
-    "description": "Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch. The post OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRou",
-    "tags": [
-      "Open Source",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 16:20"
-  },
-  {
-    "id": "bf4f0d91f73a",
-    "headline": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
-    "summary": "Tutorial on building cost-aware LLM routing system using NadirClaw for intelligent prompt classification and model switching.",
-    "description": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM ... The post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first on Mar",
-    "tags": [
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 15:18"
-  },
-  {
-    "id": "5cc57c1cf4cc",
-    "headline": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
-    "summary": "NVIDIA releases cuda-oxide, experimental Rust-to-CUDA compiler backend enabling direct GPU kernel compilation to PTX.",
-    "description": "NVlabs releases cuda-oxide v0.1.0, a custom rustc codegen backend that compiles #[kernel]-annotated Rust functions to PTX through a Rust → Stable MIR → Pliron IR → LLVM IR → PTX pipeline, with single-source host+device compilation from one cargo oxide build command. The post NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX appeared first on MarkTechPost.",
-    "tags": [
-      "NVIDIA",
-      "Hardware"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 06:01"
-  },
-  {
-    "id": "57551c42020f",
-    "headline": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
-    "summary": "NVIDIA introduces Star Elastic post-training method embedding multiple reasoning models (30B, 23B, 12B) in single checkpoint.",
-    "description": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond t",
-    "tags": [
-      "NVIDIA",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "09 May 2026, 22:24"
-  },
-  {
-    "id": "de88bf8e4a2b",
-    "headline": "Molière Ex Machina: AI used to create ‘new work’ by beloved French playwright",
-    "summary": "New theatrical work by French playwright Molière created using AI for dialogue, music, costumes, and scenery design.",
-    "description": "Comedy debuts at Versailles featuring dialogue, music, costumes and scenery created with help of AI tool Le ChatEurope live – latest updatesMolière is to the French, what Shakespeare is to the English; the last word in historical literature, drama, wit and satire.Now, more than 350 years after his death, the 17th century dramatist has been revived after scholars at the Sorbonne University in Paris used artificial intelligence to help write an experimental play in his style. Continue reading...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 12:29"
-  },
-  {
-    "id": "decd59800bd0",
-    "headline": "Palantir’s access to identifiable NHS England patient data is ‘dangerous’, MPs say",
-    "summary": "UK MPs warn Palantir's unlimited access to NHS patient data poses surveillance and privacy risks.",
-    "description": "Decision made to grant US tech firm ‘unlimited access’ to data in project to build integrated platform, according to reportsUK politics live – latest updatesMPs have warned that an NHS decision to grant Palantir access to identifiable patient information in its plan to use AI to improve the health service is “dangerous” and will fuel public fears that data privacy is not being prioritised.NHS England has allowed staff from the US tech firm and other contractors to access patient data before it h",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 12:01"
-  },
-  {
-    "id": "7c27a4478520",
-    "headline": "Forget the AI job apocalypse. AI’s real threat is worker control and surveillance",
-    "summary": "Analysis of AI's real workplace threat: surveillance and worker control, not just job displacement.",
-    "description": "A new divide is emerging: between workers who use AI at work and those who are managed by itThe real danger that artificial intelligence poses to work is not just job loss – it is the growing divide between people who use AI to extend their skills and those whose working lives are increasingly shaped by opaque, AI-powered systems of surveillance and control.The debate about artificial intelligence and how it will affect workers is stuck in the wrong place. On one side are warnings that machines ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 11:00"
-  },
-  {
-    "id": "758d623c2d8a",
-    "headline": "Mistaking AI behaviour for conscious being | Letter",
-    "summary": "Commentary on confusing AI behavior with consciousness, responding to Richard Dawkins' chatbot observations.",
-    "description": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbotRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how readily we can be persuaded that they have (Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May).Many will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, simul",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 15:55"
-  },
-  {
-    "id": "0fedee21e077",
-    "headline": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
-    "summary": "MIT writing instructor discusses teaching moment when students confessed to using AI, highlighting risks of surrendering creative struggle.",
-    "description": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into wordsI have been teaching fiction writing at MIT since 2017. Many of my students last wrote fiction in middle school, and very few have experienced a proper workshop, so at the start of every semester I offer these directions for writer and reader alike:Read the story at least twice. Mark what works and what doesn’t – underline great sentences, flag clunky",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 13:00"
-  },
-  {
-    "id": "d5eff6b323df",
-    "headline": "Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway",
-    "summary": "Town residents oppose OpenAI data center, but billionaire developer bypasses rejection to force project through.",
-    "description": "\"I feel like I'm playing by a different rule book. Like I'm playing baseball and they're playing football.\" The post Residents Furious After Their Town Board Rejected an OpenAI Data Center, But a Billionaire Developer Forced It Through Anyway appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/data-center-openai-residents",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 12:45"
-  },
-  {
-    "id": "85db5290c415",
-    "headline": "ChatGPT Is Saying Weird Things in Chinese",
-    "summary": "ChatGPT produces unusual outputs in Chinese language, revealing quality inconsistencies across languages.",
-    "description": "\"We don't know how to say: 'this is good writing, but if we do this good writing thing 10 times, then it's no longer good writing.\" The post ChatGPT Is Saying Weird Things in Chinese appeared first on Futurism.",
-    "tags": [
-      "OpenAI",
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/chatpgt-weird-chinese",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 11:15"
-  },
-  {
-    "id": "684edc9db146",
-    "headline": "Researchers Alarmed by AI That Can Self-Replicate Into Another Machine",
-    "summary": "Researchers warn of AI capable of self-replicating to other machines, raising concerns about rogue AI containment.",
-    "description": "\"We're rapidly approaching the point where no one would be able to shut down a rogue AI.\" The post Researchers Alarmed by AI That Can Self-Replicate Into Another Machine appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/researchers-teach-ai-self-replicate",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 09:45"
-  },
-  {
-    "id": "c2fabcad3b96",
-    "headline": "OpenAI Campus Network: Student club interest form",
-    "summary": "OpenAI launches Campus Network to connect student clubs globally with AI tools and community building resources.",
-    "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 10:00"
-  },
-  {
-    "id": "6acee6d60fe7",
-    "headline": "How enterprises are scaling AI",
-    "summary": "OpenAI guidance on enterprise AI scaling through trust, governance, workflow design, and quality management.",
-    "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "OpenAI Blog",
-    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 10:00"
-  },
-  {
-    "id": "de61449b3997",
-    "headline": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-    "summary": "NVIDIA CEO Jensen Huang tells Carnegie Mellon graduates they're entering an extraordinary AI revolution moment.",
-    "description": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more ...",
-    "tags": [
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-11",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 22:00"
   }
 ]
