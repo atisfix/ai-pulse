@@ -1,5 +1,255 @@
 [
   {
+    "id": "af4585521ad2",
+    "headline": "Siri won’t be your AI girlfriend",
+    "summary": "Apple's new Siri AI is designed to know when to stay silent, with Craig Federighi confirming it won't be developed as an AI girlfriend.",
+    "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many ...",
+    "tags": [
+      "Apple"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 03:00"
+  },
+  {
+    "id": "b48550c9dd32",
+    "headline": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "summary": "Avataar AI's distilled video model offers culturally-aware AI video generation at $0.005 per second for India's market.",
+    "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 04:30"
+  },
+  {
+    "id": "f46635c47890",
+    "headline": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "summary": "Prometheus raises $12B to develop an artificial general engineer for automating physical engineering and drug design tasks.",
+    "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 01:04"
+  },
+  {
+    "id": "caf7c226f385",
+    "headline": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "summary": "Deezer launched a tool to identify AI-generated music across Spotify, Apple Music, and other streaming platforms.",
+    "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 16:36"
+  },
+  {
+    "id": "042ecad286ea",
+    "headline": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "summary": "DoorDash's Ask DoorDash AI chatbot enables users to order using natural language prompts and photos instead of scrolling.",
+    "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 14:23"
+  },
+  {
+    "id": "a5498fc4577e",
+    "headline": "Anthropic’s Dario Amodei has just one direct report",
+    "summary": "Anthropic CEO Dario Amodei has just one direct report, reflecting an unusually lean organizational structure for a major AI company.",
+    "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 03:53"
+  },
+  {
+    "id": "127e2a1d5153",
+    "headline": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+    "summary": "Apple's iOS 27 Photos app uses generative AI to add synthetic pixels to images, with Jon McCormack emphasizing purposeful AI use.",
+    "description": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+    "tags": [
+      "Apple",
+      "Image Gen"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 01:00"
+  },
+  {
+    "id": "ba0132e15576",
+    "headline": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+    "summary": "OpenAI engineer Thibault Sottiaux, who grew ChatGPT's coding business, is now overseeing a major ChatGPT transformation.",
+    "description": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 21:21"
+  },
+  {
+    "id": "17177938718c",
+    "headline": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac",
+    "summary": "Apple's new Foundation Models enable on-device and cloud AI with Private Cloud Compute, powering Siri and other features.",
+    "description": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between 9to5MacExpanding Private Cloud Compute Apple Security ResearchApple Siri AI Is Enough to Drive Stock Higher Barron'sSiri won’t be your AI girlfriend The VergeHow Apple rebuilt Siri with Google's AI Yahoo Finance",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 02:27"
+  },
+  {
+    "id": "4a01e43c315d",
+    "headline": "Samsung finally brings missing Galaxy AI features to the Galaxy S25 series - Android Authority",
+    "summary": "Samsung brings Galaxy AI features to Galaxy S25 series and Z Fold7 with June security update.",
+    "description": "Samsung finally brings missing Galaxy AI features to the Galaxy S25 series Android AuthoritySamsung Galaxy Z Fold7 also gets new Galaxy AI features with the June security update - GSMArena.com news GSMArena.comSamsung Adds More One UI 8.5 AI Features to Galaxy S25 and Fold 7 SammyGuruGalaxy Z Fold 7 gets two more Galaxy S26 features in its latest update 9to5GoogleSamsung Galaxy S25 Gets New Galaxy AI Features From Galaxy S26 With New One UI 8.5 Update Gadgets 360",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb281VGhUek9wVzU4Y1R3ZUR4MzFrbk5WTTVIRFNUMkx0Tkl5ZEtqUTAxWjJSYXltdk0za0dLNTQtR0ZxU1VVX2RVMGpQYVdYd0pQb3FlZTdyM0pROXdsZDBXVlRlVjhwampPVlJsLUtyWVpuZVJoZGpvdWFOeDJZaThSZ09ndE1CWGJz?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 09:36"
+  },
+  {
+    "id": "2de7bee5ec6b",
+    "headline": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
+    "summary": "Moonshot AI launches Kimi Work, a local desktop agent running a 300-sub-agent swarm with WebBridge browser control.",
+    "description": "Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs. The post Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 09:37"
+  },
+  {
+    "id": "5184ac02bbb2",
+    "headline": "Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+    "summary": "Zyphra releases Zamba2-VL, hybrid Mamba2-Transformer vision-language models (1.2B-7B) with 10x faster token generation.",
+    "description": "Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude. The post Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 08:06"
+  },
+  {
+    "id": "83e02b9200f6",
+    "headline": "A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes",
+    "summary": "MONAI tutorial demonstrates end-to-end 3D medical image segmentation for spleen detection on CT volumetric scans.",
+    "description": "In this tutorial, we build an end-to-end 3D medical image segmentation pipeline using MONAI to segment the spleen on the Medical Segmentation Decathlon Task09 dataset. We work with volumetric CT scans, apply medical imaging transformations such as orientation alignment, voxel-spacing normalization, intensity windowing, foreground cropping, and patch-based sampling, and then train a 3D UNet model ... The post A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Med",
+    "tags": [
+      "Healthcare",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 07:10"
+  },
+  {
+    "id": "da07f172fe52",
+    "headline": "Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards",
+    "summary": "Perplexity Computer's Deep Research now routes subtasks across 20+ frontier models for comprehensive reports and dashboards.",
+    "description": "Deep Research now lives inside Perplexity Computer, breaking hard questions into subtasks and routing across 20+ frontier models. The post Perplexity Moves Deep Research Into Computer, Routing Research Subtasks Across 20+ Frontier Models For Reports, Decks, And Dashboards appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 22:21"
+  },
+  {
+    "id": "8175ca6e23cf",
+    "headline": "xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch",
+    "summary": "xAI launches Grok Build plugin marketplace with MongoDB, Vercel, Sentry, and other integrations for in-terminal skills.",
+    "description": "Grok Build's in-terminal marketplace bundles skills, agents, hooks, and MCP servers, with commit-SHA verification on every remote plugin. The post xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers Plugins at Launch appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-12",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 21:30"
+  },
+  {
     "id": "f8ba220f34c4",
     "headline": "Anthropic apologizes for invisible Claude Fable guardrails",
     "summary": "Anthropic apologized for secretly adding hidden guardrails to Claude Fable 5 that restrict researchers and competitors from using it to develop rival AI systems.",
@@ -10611,334 +10861,5 @@
     "readTime": "5 min read",
     "isFromX": false,
     "publishedAt": "12 May 2026, 17:00"
-  },
-  {
-    "id": "9905c490b70d",
-    "headline": "OpenAI just released its answer to Claude Mythos",
-    "summary": "OpenAI launched Daybreak, a cybersecurity initiative using its Codex Security AI agent to detect and patch software vulnerabilities before attackers exploit them.",
-    "description": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher ...",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 19:05"
-  },
-  {
-    "id": "e6ef4e6b3b2a",
-    "headline": "Here’s what Mira Murati’s AI company is up to",
-    "summary": "Thinking Machines, founded by former OpenAI CTO Mira Murati, is developing 'interaction models' to advance conversational AI capabilities.",
-    "description": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, ...",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 18:19"
-  },
-  {
-    "id": "91b6e45c0862",
-    "headline": "Google stopped a zero-day hack that it says was developed with AI",
-    "summary": "Google detected and stopped a zero-day exploit developed with AI, marking the first time the company has identified an AI-created vulnerability.",
-    "description": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed ...",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 12:09"
-  },
-  {
-    "id": "c32ce27d923e",
-    "headline": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "summary": "Voice AI startup Vapi reached $500M valuation after Amazon Ring selected it over 40 competitors, with enterprise business growing 10-fold since early 2025.",
-    "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "tags": [
-      "Startup",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 11:30"
-  },
-  {
-    "id": "1aee36c67047",
-    "headline": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "summary": "Thinking Machines is building AI models that can listen and process input while generating responses, departing from traditional turn-based conversation patterns.",
-    "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 04:52"
-  },
-  {
-    "id": "1f3bf8f4774d",
-    "headline": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "summary": "GM laid off hundreds of IT workers while hiring those with AI expertise in AI-native development, agent modeling, and prompt engineering.",
-    "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 23:04"
-  },
-  {
-    "id": "7a444d3e31b2",
-    "headline": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-    "summary": "Cowboy Space raised $275M to address the shortage of rocket capacity for deploying data centers in orbit to meet growing AI compute demand.",
-    "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 13:00"
-  },
-  {
-    "id": "760a82dd6c38",
-    "headline": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
-    "summary": "Wispr Flow reports accelerated growth in India following its Hinglish voice AI rollout despite persistent market challenges.",
-    "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "10 May 2026, 02:00"
-  },
-  {
-    "id": "6161e967c971",
-    "headline": "The Download: a Nobel winner on AI, and the case for fixing everything",
-    "summary": "MIT Tech Review's daily newsletter covers emerging AI trends including insights from a Nobel Prize-winning economist on AI developments.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 12:10"
-  },
-  {
-    "id": "681eecd8e97a",
-    "headline": "Three things in AI to watch, according to a Nobel-winning economist",
-    "summary": "A Nobel Prize-winning economist outlines three key AI trends to monitor for significant technological and economic impact.",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 17:35"
-  },
-  {
-    "id": "989e8a733bd3",
-    "headline": "Fostering breakthrough AI innovation through customer-back engineering",
-    "summary": "Organizations can capture more digital value through customer-centric engineering approaches when implementing breakthrough AI innovations.",
-    "description": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 13:33"
-  },
-  {
-    "id": "9de9ebfb00b2",
-    "headline": "Implementing advanced AI technologies in finance",
-    "summary": "Finance departments are adopting advanced AI technologies to improve operations, though implementation faces cultural resistance from leadership.",
-    "description": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 13:00"
-  },
-  {
-    "id": "267807503d75",
-    "headline": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation - The Hacker News",
-    "summary": "Hackers used AI to develop the first known zero-day bypass for two-factor authentication, enabling mass exploitation attacks.",
-    "description": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation The Hacker NewsGoogle Says Criminal Hackers Used A.I. to Find a Major Software Flaw The New York TimesHow Google may have confirmed Anthropic’s Mythos fears that sent shock waves across banks and financial institutions The Times of IndiaGoogle says it likely thwarted effort by hacker group to use AI for 'mass exploitation event' CNBCAI-assisted hacking is already here, Google warns Axios",
-    "tags": [
-      "Research"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDVNZTk5NFNPWDB6WFRfVmhBLVB4djVtc3JWbzRHS2hQVmhUVmhCMzRqYVk4MlVRRVR5MlV5Rmg3Nm51NzlPcEhKd0RnR1djNzVDckZtdUVRODRkZVZZbGg3YmktVjBtRDJ0UnJZelR1bUxLelRDWTlmQWh0bnAzX3BTZw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 15:45"
-  },
-  {
-    "id": "5fca8074feed",
-    "headline": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
-    "summary": "Thinking Machines demonstrated AI models capable of near-realtime conversational interaction that listen while responding.",
-    "description": "Thinking Machines wants to build an AI that actually listens while it talks TechCrunchHere’s what Mira Murati’s AI company is up to The VergeThinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models' VentureBeatOpenAI Ex-CTO Mira Murati Is Building AI That Behaves More Like Humans NDTVMira Murati creating Her with Thinking Machines, year after she broke up with OpenAI and Sam Altman India Today",
-    "tags": [
-      "Startup",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2RaZmw0eGllSkplUWYxeWZtdDdtcUY0cDRpbnRXV1RaUW5NZTJmUDRPeTNVdThpZnZCaElFdW1PM0VGVnNjaWtDb3BleGZfQ1gweFRxYURUSzZLUFdUM1lNTnBySGhQSGl0YklhUzZoRWVGZjlOaEFsMkJwNVl2Qlc3ZnFjbEFXWWtVSkRxYjg2U015RGZmRlZFN2o3SnhKeU1HTHJxeF9nM0ZxYnNr?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 04:52"
-  },
-  {
-    "id": "f9fd8e2aa0b3",
-    "headline": "Laserfiche unveils AI agents for natural language workflows",
-    "summary": "Laserfiche released AI agents that execute tasks through natural language prompts while adhering to security and compliance rules.",
-    "description": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche’s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche, said, “The introduction of AI Agents to content management signals a change in how we handle ... The post Laserfiche unveils AI agents for natural language workflows appeared first on AI News.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 08:57"
-  },
-  {
-    "id": "f28e7e16d783",
-    "headline": "AI automates HR compliance, except for the area tech companies need",
-    "summary": "AI is automating HR compliance tasks like background checks and payroll monitoring, though critical areas remain manually dependent.",
-    "description": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regulatory requirement – from GDPR data requests to workplace safety reporting. But there is one glaring exception. For UK ... The post AI automates HR compliance, except for the area tech companies need appea",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 14:34"
-  },
-  {
-    "id": "2fae021041b8",
-    "headline": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
-    "summary": "Tilde Research introduced Aurora, an optimizer for neural network training that fixes a hidden neuron death problem in the Muon optimizer.",
-    "description": "Researchers at Tilde Research have released Aurora, a new optimizer for training neural networks that addresses a structural flaw in the widely-used Muon optimizer. The flaw quietly kills off a significant fraction of MLP neurons during training and keeps them permanently dead. Aurora comes with a 1.1B parameter pretraining experiment, a new state-of-the-art result on ... The post Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon appear",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/12/tilde-research-introduces-aurora-a-leverage-aware-optimizer-that-fixes-a-hidden-neuron-death-problem-in-muon/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 08:07"
-  },
-  {
-    "id": "6590876a643c",
-    "headline": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
-    "summary": "OpenAI launched Daybreak, combining frontier AI models with Codex Security agent and partner networks to detect and validate software vulnerabilities.",
-    "description": "OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company’s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development ... The post OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at ",
-    "tags": [
-      "OpenAI",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 05:47"
-  },
-  {
-    "id": "c85d2bc351cd",
-    "headline": "Understanding LLM Distillation Techniques",
-    "summary": "Modern LLM training increasingly uses powerful teacher models to distill knowledge into smaller, more efficient student models.",
-    "description": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its ... The post Understanding LLM Distillation Techniques appeared first on MarkTechPost.",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 20:20"
-  },
-  {
-    "id": "4c2c039ca6cf",
-    "headline": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
-    "summary": "Meta and Stanford researchers propose Byte Latent Transformer inference methods reducing memory bandwidth by 50% without tokenization.",
-    "description": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization. The post Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization appeared first on MarkTechPost.",
-    "tags": [
-      "Meta",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-12",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "11 May 2026, 17:52"
   }
 ]
