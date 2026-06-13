@@ -1,5 +1,339 @@
 [
   {
+    "id": "0d3397283d4e",
+    "headline": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "summary": "Apple introduced AI photo editing tools in iOS 27, marking the first serious AI image editing features for the world's most popular camera.",
+    "description": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But ...",
+    "tags": [
+      "Apple",
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 08:00"
+  },
+  {
+    "id": "11d0e0882a4f",
+    "headline": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "summary": "Hollywood's future with generative AI remains uncertain as few projects have successfully demonstrated compelling filmmaking results using the technology.",
+    "description": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of ...",
+    "tags": [
+      "Video Gen",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 07:00"
+  },
+  {
+    "id": "6364025da4d9",
+    "headline": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+    "summary": "Jeff Bezos' new AI startup Prometheus aims to develop an 'artificial general engineer' using advanced AI technology.",
+    "description": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now ...",
+    "tags": [
+      "Startup",
+      "Agents"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 10:03"
+  },
+  {
+    "id": "9a45945f0ed0",
+    "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "The U.S. government pulled Anthropic's most powerful AI model following safety concerns about a potential jailbreak, frustrating the company.",
+    "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 02:26"
+  },
+  {
+    "id": "215b5410e53a",
+    "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "summary": "Meta's 6,500-person AI unit is reportedly in chaos, with engineers experiencing poor working conditions and approaching revolt.",
+    "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 23:00"
+  },
+  {
+    "id": "a21e81429b42",
+    "headline": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "summary": "Google sued a Chinese cybercrime operation that allegedly used AI to scam hundreds of thousands of victims through 2.5 million text messages.",
+    "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 20:38"
+  },
+  {
+    "id": "7761ae9d45b5",
+    "headline": "Mistral is rumored to be raising €3B at €20B valuation",
+    "summary": "French AI startup Mistral is reportedly raising €3 billion at a €20 billion valuation, nearly doubling its Series C valuation.",
+    "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 17:38"
+  },
+  {
+    "id": "f8400d399966",
+    "headline": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "summary": "Avataar AI's distilled video model offers affordable AI video generation at $0.005 per second, targeting India's market scale.",
+    "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 04:30"
+  },
+  {
+    "id": "efaf7b84a1bd",
+    "headline": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+    "summary": "A court ruled Google is legally liable for false statements generated by its AI Overviews, setting precedent for AI company accountability.",
+    "description": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+    "tags": [
+      "Google",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 09:00"
+  },
+  {
+    "id": "e15844e459ee",
+    "headline": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "summary": "Anthropic took Claude Fable 5 offline following a U.S. government order citing national security and a discovered jailbreak method.",
+    "description": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 02:26"
+  },
+  {
+    "id": "ee1df644b617",
+    "headline": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+    "summary": "Meta employees strongly oppose Mark Zuckerberg's plan for a companywide AI hackathon, expressing concerns about company culture.",
+    "description": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 23:45"
+  },
+  {
+    "id": "5716a5a94965",
+    "headline": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+    "summary": "Meta's new AI unit is experiencing internal turmoil, with executives and employees frustrated by chaotic strategy and poor management.",
+    "description": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+    "tags": [
+      "Meta"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 21:16"
+  },
+  {
+    "id": "30927c342e3a",
+    "headline": "Meta’s Edits app is getting an AI assistant and a desktop version - TechCrunch",
+    "summary": "Meta's Edits app is adding an AI assistant and expanding to desktop, enhancing its content editing capabilities.",
+    "description": "Meta’s Edits app is getting an AI assistant and a desktop version TechCrunchSee more headlines & perspectives on Google News",
+    "tags": [
+      "Meta",
+      "Image Gen"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy01UkNfdlpMRWpJWllkSkFjUFJrQmNkWXFqVXZYemRyanBOLTZkcVY5Y0MxeVBhSk03a3hNcGFiRXNLUzY2STk3M21Ra3FQNGhNaTdLQm82UFNGUjhjNTQxQlZEWHVpTVh3a3FiVDFYUHljTzItamx0VWhma2JFMjRtbUhvMFhHOXRzT3d3X0RIcXlxVkxadDN6RGlTQ2dK?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "11 Jun 2026, 17:30"
+  },
+  {
+    "id": "e0ac2b184155",
+    "headline": "Siri AI is coming to newer Apple devices only, here’s the full list - 9to5Mac",
+    "summary": "Apple's AI-powered Siri is coming to newer devices only, with Apple using Google's AI technology for the upgrade.",
+    "description": "Siri AI is coming to newer Apple devices only, here’s the full list 9to5MacHow Apple rebuilt Siri with Google's AI Yahoo FinanceNVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute NVIDIA BlogThe New Siri App in iOS 27 Will Change the iPhone Forever PCMagIntroducing the Third Generation of Apple’s Foundation Models Apple Machine Learning Research",
+    "tags": [
+      "Apple"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnBTaVl6aXRNUWtPWk9iNXVyNzRmMDduMkk3U0hkMzZZVFhycHAyS2dIZ1JFQ1VnUWJVajdYRzNNSC1nZGxfcm9KWGdhQkRBX3VnME9yM3F0OWRsMzZGOV80V1BXYTBYTGhNYml0NVpBZG9kWll4dmR5RmFxVjVUdWdTOHk1XzVnQnN4T3pnc2xuMkYxMHU3UVNLN25WZw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 13:49"
+  },
+  {
+    "id": "5f004ae6ddf8",
+    "headline": "How 30 Billion Pokémon Go Scans Became a Military AI Tool for Drone Warfare - UNITED24 Media",
+    "summary": "Pokémon Go's 30 billion location scans have become training data for military AI navigation technology used in drone warfare.",
+    "description": "How 30 Billion Pokémon Go Scans Became a Military AI Tool for Drone Warfare UNITED24 MediaPokémon Go Scans Quietly Trained The Navigation Tech Now Headed Into Military Drones DroneXL.coPokémon Go data trained AI that could assist military drones in war zones The GuardianPokémon Go players unwittingly contributed to tech with military drone uses Ars TechnicaReport: Pokemon Go video scans may have been used for AI drone training Game Developer",
+    "tags": [
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlZxZ1ROanhDSlZUSm94dHBiV0RTeWVXRHFFWmtyWW5MVTYxb2Z3NlVXWjQyVGc4WERtVFl1R25ydXZPVzdtXzJGT3ZDNWJ3ck1hRjlPbmRsa2EtRURHSFR4eXdzMzd1QWxSTzJWYkcwZDJyVmxJWWFvY21YRzZwVXpNWlo5bng3d2FqS1JjSS1DM3lTQVRmd2pqWEFscEt6N0tWX1hvM0RRYXI3SFJiOHdTZ0xzWUVIMWFWTmtmbw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 15:58"
+  },
+  {
+    "id": "32da3158cf9c",
+    "headline": "Coinbase for Agents: Automating portfolio trading with AI",
+    "summary": "Coinbase for Agents enables AI to automate cryptocurrency portfolio trading and payments directly from user accounts.",
+    "description": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluate market developments or research investment opportunities. These software tools possess the capacity for complex ... The post Coinbase for Agents: Automating portfolio trading with AI appeared first on ",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 15:34"
+  },
+  {
+    "id": "1fd90be50345",
+    "headline": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+    "summary": "Anthropic disabled Claude Fable 5 and Mythos 5 following a U.S. government order citing national security export controls.",
+    "description": "shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available. The post Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order appeared first on MarkTechPost.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 08:15"
+  },
+  {
+    "id": "e03a7f523057",
+    "headline": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+    "summary": "Moonshot AI released Kimi K2.7-Code, an open-source coding model with 21.8% performance improvement over its predecessor.",
+    "description": "Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code. The post Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6 appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 04:57"
+  },
+  {
+    "id": "e7f0ab973380",
+    "headline": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
+    "summary": "A research implementation demonstrates spatial graph neural networks for urban function inference using city data and PyTorch.",
+    "description": "We build an end-to-end spatial graph learning pipeline using city2graph. We collect urban POI and street network data from OpenStreetMap, with a synthetic fallback for reliability. We engineer spatial features, construct several proximity graph families, and compare how each represents the same urban environment. We then build heterogeneous and homogeneous graphs, convert them to PyTorch Geometric, and train a GraphSAGE model to predict POI categories from spatial structure. The post A Coding Im",
+    "tags": [
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 02:47"
+  },
+  {
+    "id": "479b7470dc04",
+    "headline": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "summary": "Google's Gemini-SQL2 achieves 80.04% accuracy on text-to-SQL tasks using Gemini 3.1 Pro on the BIRD leaderboard.",
+    "description": "We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern. The post Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard appeared first o",
+    "tags": [
+      "Google",
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-13",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jun 2026, 21:04"
+  },
+  {
     "id": "af4585521ad2",
     "headline": "Siri won’t be your AI girlfriend",
     "summary": "Apple's new Siri AI is designed to know when to stay silent, with Craig Federighi confirming it won't be developed as an AI girlfriend.",
@@ -10512,354 +10846,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "13 May 2026, 13:43"
-  },
-  {
-    "id": "508cfbca2d3d",
-    "headline": "Meta won’t let you block its AI account on Threads",
-    "summary": "Meta is testing a Threads feature allowing users to tag a Meta AI account for answers and conversation context.",
-    "description": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people ...",
-    "tags": [
-      "Meta"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 16:35"
-  },
-  {
-    "id": "f549af9ff490",
-    "headline": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-    "summary": "Sam Altman testifies that Elon Musk caused significant damage to OpenAI's culture during Musk's lawsuit against the company.",
-    "description": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 13:34"
-  },
-  {
-    "id": "be37d3cfc67b",
-    "headline": "The 9 biggest new features in Android 17",
-    "summary": "Android 17 introduces AI-enabled features including improved dictation and vibe-coded widgets alongside non-AI updates.",
-    "description": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming ...",
-    "tags": [
-      "Google"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 13:00"
-  },
-  {
-    "id": "d10f09b9e1d7",
-    "headline": "Gemini’s latest updates are all about controlling your phone",
-    "summary": "Google announces new Gemini features designed to help control and automate phone tasks across multiple interfaces.",
-    "description": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 13:00"
-  },
-  {
-    "id": "0d8d9e912629",
-    "headline": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-    "summary": "Family of 19-year-old sues OpenAI, claiming ChatGPT gave dangerous drug advice that led to accidental overdose.",
-    "description": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his ...",
-    "tags": [
-      "OpenAI",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 12:30"
-  },
-  {
-    "id": "1564b3f11eac",
-    "headline": "Sam Altman takes the stand in trial against Elon Musk",
-    "summary": "OpenAI CEO Sam Altman testifies in jury trial against Elon Musk over the company's governance and direction.",
-    "description": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 12:05"
-  },
-  {
-    "id": "49afa24bfa4b",
-    "headline": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
-    "summary": "Hollywood actors endorse new 'Human Consent Standard' for AI licensing to govern use of likeness and creative work.",
-    "description": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission ...",
-    "tags": [
-      "Regulation",
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 12:00"
-  },
-  {
-    "id": "91d622466626",
-    "headline": "Rivian’s AI-powered voice assistant is ready to roll",
-    "summary": "Rivian rolls out AI-powered voice assistant to its vehicle fleet via software update for Gen 1 and Gen 2 models.",
-    "description": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a year, or are in an ...",
-    "tags": [
-      "Agents",
-      "Robotics"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 11:51"
-  },
-  {
-    "id": "aff543517f46",
-    "headline": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "summary": "Adaption launches AutoScientist, an AI tool enabling models to self-train through automated fine-tuning approaches.",
-    "description": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "13 May 2026, 12:11"
-  },
-  {
-    "id": "c40356fe83b6",
-    "headline": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "summary": "Medicare's new payment model is designed to support AI agents monitoring patients and coordinating healthcare services.",
-    "description": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "tags": [
-      "Healthcare",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "13 May 2026, 00:26"
-  },
-  {
-    "id": "9fb3809caf35",
-    "headline": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "summary": "Altman testifies Musk considered handing OpenAI to his children, raising concerns about AI concentration of power.",
-    "description": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 18:05"
-  },
-  {
-    "id": "d4dcfd247feb",
-    "headline": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "summary": "Anthropic warns investors that secondary platforms selling company shares are invalid and won't be recognized.",
-    "description": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:36"
-  },
-  {
-    "id": "d3b9b848d38f",
-    "headline": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "summary": "Google and SpaceX explore orbital data centers for AI compute, despite current costs exceeding ground-based alternatives.",
-    "description": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "tags": [
-      "Google",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:30"
-  },
-  {
-    "id": "1914e9cdd89b",
-    "headline": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-    "summary": "Google unveils AI-first Googlebooks laptops, agentic Gemini features, vibe-coded widgets, and enhanced Chrome integration.",
-    "description": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:01"
-  },
-  {
-    "id": "c9346d4e0446",
-    "headline": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-    "summary": "Google adds Gemini-powered dictation to Gboard for Samsung and Google phones, potentially disrupting dictation startups.",
-    "description": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:00"
-  },
-  {
-    "id": "88dfc4aeb299",
-    "headline": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "summary": "Anthropic launches AI legal tools automating document review, case law research, and deposition prep for law firms.",
-    "description": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:00"
-  },
-  {
-    "id": "b6280e782020",
-    "headline": "Google brings agentic AI and vibe-coded widgets to Android",
-    "summary": "Google brings agentic Gemini AI and vibe-coded widgets to Android with Gboard dictation and form-filling capabilities.",
-    "description": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:00"
-  },
-  {
-    "id": "140136d6e041",
-    "headline": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-    "summary": "Altman describes Musk's allegedly obsessive attempts to control OpenAI and plan to pass it to his children.",
-    "description": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "13 May 2026, 00:10"
-  },
-  {
-    "id": "80906c1f4fa5",
-    "headline": "World Models: 10 Things That Matter in AI Right Now",
-    "summary": "MIT Technology Review highlights world models as emerging AI area gaining significant attention and research focus.",
-    "description": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 16:22"
-  },
-  {
-    "id": "383360b7bd04",
-    "headline": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal - MacRumors",
-    "summary": "Google announces Android 17 with 'Gemini Intelligence' features ahead of Apple's iOS reveal.",
-    "description": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal MacRumorsThe Android Show: I/O Edition 2026 blog.googleGoogle Is Giving My Phone Habits Just the Right Boost With These 3 New Android Features CNETGoogle races to put Gemini at the center of Android before Apple’s AI reboot CNBCGoogle’s ‘Create My Widget’ feature will let you vibe-code your own widgets TechCrunch",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxSnFKSzZ1U21OX1dTOE5XZzY1d2tFSDNnQ1YyOXM2Rm1KdnMtYmNWMHBZUjk3LXcyRTRVcHQ4TXFkb3Q4akNNbEpybW5HRzJ5U05qRXhUbThYSDU0RlZQWXVxNFllVGNVeE1hX29CV1diQQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 19:21"
-  },
-  {
-    "id": "2354956ef049",
-    "headline": "First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET",
-    "summary": "Google introduces Googlebook, a premium Chromebook alternative designed for Gemini Intelligence on Android.",
-    "description": "First look at Googlebook: A premium Chromebook alternative for Android users ZDNETIntroducing Googlebook, designed for Gemini Intelligence blog.googleGooglebooks Could Be the Ultimate Laptop for Android Fans CNETGoogle announces its Chromebook successor: the Googlebook The VergeGoogle’s Android-powered laptops are called Googlebooks, and they’re coming this year Ars Technica",
-    "tags": [
-      "Google",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWZtYmlDTDYyYjRaajVXRDZmaTVMckV0M3llcGtnM2I1X2Q0ZWN4cklIQ09jeDlLZ1dzZkxrdlMtZGQ5OHFYNlp3Y2s2TldENkRnVmxxNWdmWlNmQ0thbnZ1bXJHTERSZDhLMHFncXhlZVNLWlhsaDE4VWVubk9zMlVvZw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-13",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "12 May 2026, 17:00"
   }
 ]
