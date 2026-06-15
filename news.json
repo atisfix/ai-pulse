@@ -1,5 +1,354 @@
 [
   {
+    "id": "27dda32c398e",
+    "headline": "China may have accessed Mythos",
+    "summary": "White House imposed export restrictions on Anthropic's Mythos due to concerns about potential access by a China-linked group.",
+    "description": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 14:27"
+  },
+  {
+    "id": "049b052a44fa",
+    "headline": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "summary": "Amazon's cybersecurity research reportedly triggered export control directive affecting Anthropic's Fable and Mythos models.",
+    "description": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jun 2026, 17:39"
+  },
+  {
+    "id": "6095f9512d98",
+    "headline": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "summary": "Indian startup Sarvam becomes AI unicorn with $234M funding led by HCLTech's $150M investment.",
+    "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 13:46"
+  },
+  {
+    "id": "96dd80f6ec9d",
+    "headline": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "summary": "NewCore raises $66M to develop identity management systems for AI agents operating as enterprise employees.",
+    "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 13:00"
+  },
+  {
+    "id": "194f84c74d37",
+    "headline": "The AI layoff wave is becoming a powder keg",
+    "summary": "AI layoffs surge while insider wealth disparities widen, creating social tension in the industry.",
+    "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 07:25"
+  },
+  {
+    "id": "6dd3b5e15fa2",
+    "headline": "As AI companies race to go public, who else is along for the ride?",
+    "summary": "AI startups seek IPO opportunities following SpaceX's public listing success.",
+    "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "tags": [
+      "Startup",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 16:38"
+  },
+  {
+    "id": "f61412e85a98",
+    "headline": "Apple Could Eventually Bring An OpenClaw-Like Competitor To Multiple Platforms, Offering Personalized AI Agents At Flexible Pricing - Wccftech",
+    "summary": "Apple may develop an OpenClaw competitor offering personalized AI agents with flexible pricing.",
+    "description": "Apple Could Eventually Bring An OpenClaw-Like Competitor To Multiple Platforms, Offering Personalized AI Agents At Flexible Pricing WccftechI'm Glad Apple Isn't Hyping Up Agentic AI (Yet) EngadgetApple Could Build an OpenClaw Competitor Eventually MacRumorsYour iPhone may soon get its own OpenClaw like AI agent powered by Siri, report says India TodayApple May Eventually Build OpenClaw Competitor Let's Data Science",
+    "tags": [
+      "Apple",
+      "Agents"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNelhPbENLeGh3QV84ZHNmOTMzUjdOdEV4SXdwSm83STVYSVowUktqSlZhMXMxdWNXSWpEMTJzRTAwRG1lSHVIWmxoalN5WmwzUnJIWmlfVjFoSE4telR0WjgtTkRtZkpweWU0YzlRdGNUWkp3Z21oSkM3QmtXX3pFNFVvMFV5cElZS1dpdWdFYkF2MU9QcGR5cklB0gGfAUFVX3lxTE16Tkl0RjI4aHVCeHNvT1FoUk02V0luR0lPZUVLcGMyU1ktZUdPZkh0TWFnQ2pXQ3d1RmdKQVktd3JuNUdjTFYwY2dxN1lFZ24tTDRYRmNBMnZHRmxKQTlUM05hZ2o3X3Z6QzRmN0Foc192WUF2WVV4bkF1QjRtV2thNXo3VGZMRnhNU1ZGNkp0eHlfZVpJNDdZTmllNm1Ncw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 17:10"
+  },
+  {
+    "id": "254827c7eb6c",
+    "headline": "Why Apple built a third-party AI system for Siri and then refused to show it at WWDC - The Next Web",
+    "summary": "Apple built third-party AI system for Siri but withheld announcement at WWDC.",
+    "description": "Why Apple built a third-party AI system for Siri and then refused to show it at WWDC The Next WebApple’s New Siri Is Just Good Enough to Ease Its AI Crisis Bloomberg.comApple Intelligence brings powerful AI capabilities into everyday experiences AppleSiri’s New Brain WSJApple’s big Siri update is here. Now the real challenge begins CNN",
+    "tags": [
+      "Apple",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlAtX1dLQUNFR0VvcmpmUmFfZ0FRSjZvcG93aGN4VWdPRG51MThGa05KR0ZiUW8za2ZkLVM1NjRLdnFvQllyRFlpczJCaVJsZHAzcUk4RlhkSEhSMkcweExVWkE1QTlsR3kwZ0VvMkhSeU5jX0hqOWVuT1NfUFliekl5UQ?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 16:10"
+  },
+  {
+    "id": "367ee832d83d",
+    "headline": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+    "summary": "Huawei launches HarmonyOS 7 with agentic AI capabilities, filling gap left by Apple's China Siri restrictions.",
+    "description": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The headline change is ... The post HarmonyOS 7 steps into the AI gap Apple left open in China appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 11:00"
+  },
+  {
+    "id": "4f89059f4a3f",
+    "headline": "Accenture: Consumers show growing trust in AI shopping agents",
+    "summary": "Accenture research shows consumers increasingly trust AI shopping agents for commerce tasks.",
+    "description": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent more than their best friend to make a ... The post Accenture: Consumers show growing trust in AI shopping agents appeared first on AI News.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 10:00"
+  },
+  {
+    "id": "8e7f2e7ceb3c",
+    "headline": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+    "summary": "Anthropic's export controls sparked global AI sovereignty concerns as two models went offline internationally.",
+    "description": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users everywhere, including, briefly, Anthropic’s own foreign-born employees, and set off alarm bells across Europe and Canada about who really controls the ... The post The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble appeared first on AI News.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 08:00"
+  },
+  {
+    "id": "47cbc44749f0",
+    "headline": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
+    "summary": "Z.ai launches GLM-5.2 with 1M-token context window and dual thinking-effort levels.",
+    "description": "Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week. The post Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch appeared first on MarkTechPost.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 06:10"
+  },
+  {
+    "id": "6108aa9ae0d8",
+    "headline": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "summary": "Comprehensive guide covers 25 Claude Code agentic features including MCP and auto mode capabilities.",
+    "description": "Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try. The post Claude Code Guide 2026: 25 Features with Examples + Demo appeared first on MarkTechPost.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 01:04"
+  },
+  {
+    "id": "1c2d78a92e89",
+    "headline": "AI use by the US government is ballooning. And the lack of transparency is troubling | Nathan E Sanders and Bruce Schneier",
+    "summary": "US government AI use increased 70% under Trump administration with concerning lack of transparency.",
+    "description": "The list of government AI use cases has ballooned by 70% since Biden left office and includes many plans to hand over sensitive governmental functions to AIOn 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden admin",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 12:00"
+  },
+  {
+    "id": "544df6596d19",
+    "headline": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
+    "summary": "Australian MP warns AI competition mirrors cold-war arms race, risking national sovereignty.",
+    "description": "Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’Get our breaking news email, free app or daily news podcastLiberal MP Andrew Hastie says Australia should dramatically scale up investment in artificial intelligence to preserve strategic independence and warns the country risks being “a supplicant state” tethered to the US in an era of possible hot conflict with China.In a major address to Liberal members in",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 08:30"
+  },
+  {
+    "id": "678b93db7453",
+    "headline": "Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun",
+    "summary": "Europe seeks digital sovereignty from US tech but follows Silicon Valley business models.",
+    "description": "The European Commission has unveiled its plans for digital sovereignty. Its proposals betray a disappointing lack of visionBeti Hohler is a Slovenian national who lives in the Netherlands. Like tens of millions of other Europeans, she uses Apple’s app store and has an Amazon account. When she travels for work or leisure, she may want to book a place on Airbnb or Booking, using a credit card issued by Visa or Mastercard, perhaps through PayPal.But when the Trump administration sanctioned her last",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 04:00"
+  },
+  {
+    "id": "6be128067913",
+    "headline": "Woman’s Death Blamed on Hospital’s AI System",
+    "summary": "Hospital AI system criticized for removing physician autonomy, contributing to patient death.",
+    "description": "\"What we saw was that doctors lost the autonomy to decide if a patient is very seriously ill.\" The post Woman’s Death Blamed on Hospital’s AI System appeared first on Futurism.",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/woman-death-hospital-brazil-ai-icu-beds",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 18:45"
+  },
+  {
+    "id": "fd5749725048",
+    "headline": "Consulting Firm’s Report on How Awesome AI Is Found to Contain Idiotic AI Hallucinations",
+    "summary": "Consulting firm's AI report undermined by hallucinated data, highlighting AI reliability concerns.",
+    "description": "Well done, everyone. The post Consulting Firm’s Report on How Awesome AI Is Found to Contain Idiotic AI Hallucinations appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/consulting-firms-ai-report-hallucinations",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 09:00"
+  },
+  {
+    "id": "d596e050b915",
+    "headline": "Introducing the OpenAI Partner Network",
+    "summary": "OpenAI launches Partner Network with $150M investment to accelerate enterprise AI adoption.",
+    "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "14 Jun 2026, 17:00"
+  },
+  {
+    "id": "4f428258288c",
+    "headline": "People around the world see a winner on AI – and it's not the US",
+    "summary": "Global public opinion favors non-US countries in AI competition and development.",
+    "description": "Article URL: https://www.politico.com/news/2026/06/15/people-around-the-world-see-a-winner-on-ai-and-its-not-the-us-00960930 Comments URL: https://news.ycombinator.com/item?id=48541394 Points: 1 # Comments: 0",
+    "tags": [
+      "Market",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.politico.com/news/2026/06/15/people-around-the-world-see-a-winner-on-ai-and-its-not-the-us-00960930",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 13:59"
+  },
+  {
+    "id": "2035b9837844",
+    "headline": "Estimating the Productivity of an Autonomous AI Software Engineer",
+    "summary": "Research estimates productivity metrics for autonomous AI software engineering capabilities.",
+    "description": "Article URL: https://cognition.ai/blog/ai-productivity Comments URL: https://news.ycombinator.com/item?id=48541302 Points: 1 # Comments: 0",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://cognition.ai/blog/ai-productivity",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-15",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "15 Jun 2026, 13:52"
+  },
+  {
     "id": "aaad415696a7",
     "headline": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
     "summary": "Amazon security research reportedly triggered White House export controls forcing Anthropic to cut off access to advanced AI models Fable 5 and Mythos 5 for national security reasons.",
@@ -10489,331 +10838,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "16 May 2026, 00:00"
-  },
-  {
-    "id": "9098d13192c5",
-    "headline": "AI research papers are getting better, and it’s a big problem for scientists",
-    "summary": "AI research papers are improving so much they're being over-cited, creating problems for academics trying to assess true scientific impact and prevent citation inflation.",
-    "description": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 07:00"
-  },
-  {
-    "id": "7ec94d5fc4a0",
-    "headline": "OpenAI’s Codex is now in the ChatGPT mobile app",
-    "summary": "OpenAI is integrating Codex, its AI coding tool, into the ChatGPT mobile app to let users write code and automate tasks from their phones.",
-    "description": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 16:00"
-  },
-  {
-    "id": "73b4dd49044f",
-    "headline": "Microsoft starts canceling Claude Code licenses",
-    "summary": "Microsoft is canceling Claude Code licenses after initially promoting Anthropic's AI coding tool to its developers as part of a broader strategy shift.",
-    "description": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved ...",
-    "tags": [
-      "Microsoft",
-      "Anthropic"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 15:00"
-  },
-  {
-    "id": "e15c557a6714",
-    "headline": "Americans do not want AI data centers in their backyards",
-    "summary": "Over 70% of Americans oppose AI data center construction in their areas, raising infrastructure and community planning challenges for AI expansion.",
-    "description": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power plant than a data ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 11:24"
-  },
-  {
-    "id": "52f5144bb107",
-    "headline": "Osaurus brings both local and cloud AI models to your Mac",
-    "summary": "Osaurus is a Mac app that combines local and cloud AI models while keeping user data on their own hardware for privacy-conscious users.",
-    "description": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 12:19"
-  },
-  {
-    "id": "bc0ab03f1b66",
-    "headline": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "summary": "Over 50 employees have left Elon Musk's merged SpaceXAI since February, raising concerns about burnout, leadership, and organizational stability.",
-    "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 21:30"
-  },
-  {
-    "id": "1b36642e1527",
-    "headline": "OpenAI says Codex is coming to your phone",
-    "summary": "OpenAI is bringing Codex to mobile phones to give users enhanced workflow management flexibility.",
-    "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 20:58"
-  },
-  {
-    "id": "a53caf8cbc21",
-    "headline": "What happens when AI starts building itself?",
-    "summary": "Richard Socher's $650 million startup aims to build self-improving AI that can research and enhance itself autonomously while shipping real products.",
-    "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "tags": [
-      "Research",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 19:57"
-  },
-  {
-    "id": "0c5220cf9fe6",
-    "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "summary": "OpenAI is exploring legal action against Apple over a failed ChatGPT integration that didn't deliver expected subscribers and visibility.",
-    "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-    "tags": [
-      "OpenAI",
-      "Apple"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 19:12"
-  },
-  {
-    "id": "bda90eba7f2e",
-    "headline": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "summary": "Clawdmeter is an open-source desktop dashboard that visualizes Claude Code usage statistics for AI coding power users.",
-    "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-    "tags": [
-      "Anthropic"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 19:05"
-  },
-  {
-    "id": "31300415f446",
-    "headline": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "summary": "Cerebras raises $5.5B in its IPO with stock surging 108%, marking a major tech milestone in 2026.",
-    "description": "A year ago, it looked like this day would never happen for Cerebras.",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 16:30"
-  },
-  {
-    "id": "8d9b68c482ba",
-    "headline": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-    "summary": "Khosla Ventures invests $10M in Ian Crosby's Synthetic, a fully autonomous AI bookkeeping service for startups.",
-    "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 15:20"
-  },
-  {
-    "id": "185dc7928b70",
-    "headline": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-    "summary": "Cisco cuts 3,900 jobs while increasing AI investment and reporting record quarterly revenue, reflecting broader corporate AI strategy shifts.",
-    "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 14:01"
-  },
-  {
-    "id": "124c9899ad39",
-    "headline": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-    "summary": "Mira Murati, former OpenAI CTO, is building AI at Thinking Machines Lab that keeps humans in collaborative loops rather than automating jobs.",
-    "description": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 09:00"
-  },
-  {
-    "id": "92f1f1bbdb64",
-    "headline": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
-    "summary": "AI-generated designs for Audemars Piguet x Swatch wristwatches gain popularity, then become a real manufacturing opportunity in China.",
-    "description": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 12:52"
-  },
-  {
-    "id": "bd2fe8b59dba",
-    "headline": "How Chinese short dramas became AI content machines",
-    "summary": "Chinese short-form drama platforms are increasingly using AI to generate content at scale, transforming video production workflows.",
-    "description": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
-    "tags": [
-      "Video Gen"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 09:00"
-  },
-  {
-    "id": "a881ba103e3d",
-    "headline": "Data readiness for agentic AI in financial services",
-    "summary": "Financial services companies need specialized data readiness strategies for agentic AI due to regulatory complexity and real-time market demands.",
-    "description": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
-    "tags": [
-      "Agents",
-      "Healthcare"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 13:00"
-  },
-  {
-    "id": "422a93cb627a",
-    "headline": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "summary": "Enterprises must establish AI and data sovereignty over autonomous systems as the industry shifts from 'capability now, control later' approaches.",
-    "description": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely…",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 13:00"
-  },
-  {
-    "id": "df888352a8db",
-    "headline": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses - The Verge",
-    "summary": "Meta expands virtual writing features to all users of Meta Ray-Ban Display smart glasses for enhanced AR productivity.",
-    "description": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses The VergeOur Favorite Smart Glasses, the Meta Ray-Ban Gen 2, Are at a Record-Low Price CNETSix Months of Meta Ray-Ban Display meta.comMeta Ray-Ban Display Smart Glasses Now More Useful, Third-Party Apps Are Coming PCMagMeta opens up Display AI glasses to third-party developers Social Media Today",
-    "tags": [
-      "Meta"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHVBZkZxSllEMUxhZ05CTnVjam9PVW5lUDhvRDBvVkpEVXZBZ3pzMWF2U1lQczVxOWlaV0NCUWVpSlZXMWh2OWJIcTl1X051d29xT2czb2xwNm1BWGhwNGYxelFGeExfazgySXZoZnpKb2VhN0FjNWVGdktxcUlsSGZYZEdhVDExN2czdDItZ1pIQXN1SWtneHhETUJ0TlNz?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "14 May 2026, 21:08"
-  },
-  {
-    "id": "700e6c17dfe5",
-    "headline": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
-    "summary": "Claude Code leads AI coding agents at 87.6% SWE-bench performance; GPT-5.5 tops terminal benchmarks in fragmented 2026 agent landscape.",
-    "description": "The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores. The post Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field appeared first on MarkTech",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-15",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 08:23"
   }
 ]
