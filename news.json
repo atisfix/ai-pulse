@@ -1,5 +1,250 @@
 [
   {
+    "id": "bb1c51073b91",
+    "headline": "The next humanoid robot might not look human at all",
+    "summary": "Genesis AI explores humanoid robots that don't resemble humans, challenging traditional designs with wheeled bases and alternative forms.",
+    "description": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup ...",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 05:46"
+  },
+  {
+    "id": "85aa738589cc",
+    "headline": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "summary": "Apple rumored to develop camera-equipped AirPods and second folding iPhone with AI integration by 2027.",
+    "description": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta ...",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 13:04"
+  },
+  {
+    "id": "1164cb793936",
+    "headline": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "summary": "Pinterest launches 'Ask Pinterest,' a conversational AI app enabling users to seek shopping recommendations through dialogue.",
+    "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 11:00"
+  },
+  {
+    "id": "918d21bd8299",
+    "headline": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "summary": "Anthropic's business growth with enterprise users accelerates despite government conflicts, per spending data.",
+    "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 22:34"
+  },
+  {
+    "id": "45a064470007",
+    "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "Google releases Android 17 and Wear OS 7 with expanded Gemini AI features, multitasking tools, and security upgrades.",
+    "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 18:00"
+  },
+  {
+    "id": "662a522ac89a",
+    "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+    "summary": "Plaud's AI notetaker software reaches $100M ARR after shipping 2M units in competitive meeting transcription market.",
+    "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+    "tags": [
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 15:00"
+  },
+  {
+    "id": "77089d585f8e",
+    "headline": "The Gemini-Powered Google Home Speaker Is Finally Here",
+    "summary": "Google launches new Gemini-powered smart speaker six years after last model, featuring conversational AI capabilities.",
+    "description": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 13:00"
+  },
+  {
+    "id": "fc95d312a4f7",
+    "headline": "‘Dangerous’ AI Models Are Coming No Matter What",
+    "summary": "Government crackdowns on advanced AI models are futile; models with hacking capabilities will inevitably proliferate.",
+    "description": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 17:50"
+  },
+  {
+    "id": "37067bdb0103",
+    "headline": "My Father Wants to Age in Place. AI Will Be Watching",
+    "summary": "AI monitoring devices for senior care appeal to families and agencies despite privacy and ethical concerns.",
+    "description": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 14:00"
+  },
+  {
+    "id": "4ef5719a71ed",
+    "headline": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+    "summary": "SearchLeak exploit exposed Copilot vulnerability enabling 2FA code theft, highlighting LLM security limitations.",
+    "description": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 11:15"
+  },
+  {
+    "id": "1ce69123868f",
+    "headline": "Exclusive eBook: How AI is becoming the next military advisor",
+    "summary": "MIT eBook explores how militaries integrate AI models into strategic decision-making processes.",
+    "description": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 20:35"
+  },
+  {
+    "id": "c486f0a15f3d",
+    "headline": "Google rolling out fix for Gemini after it couldn’t make calls on Android and Android Auto [U] - 9to5Google",
+    "summary": "Google fixes Gemini calling issues on Android and Android Auto after reported malfunctions.",
+    "description": "Google rolling out fix for Gemini after it couldn’t make calls on Android and Android Auto [U] 9to5GoogleAndroid Auto Plagued by Error Messages Due to Google's AI Superstar autoevolutionIs Google Gemini down for you? Here's the latest on the outage as the service recovers TechRadarIs Gemini Down? Users Report Problems With Google Gemini Dataconomy'Absolute rubbish': Gemini on Android Auto hits another bug, and users aren't impressed TechRadar",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlllMllyb2dZRjRsWmVBVHJCc1JTV2JYZ1VpRnk1ZGtoejlIS0NSZkRlalZYc3dmX1NxRmFJNEY5dmhyc0ZSWk5BUENobmFJdEtTLUtzNDFfeEdSakNwUWF4bml4OWJyZEdLZ29IUWc2Y0RjSEtLWS1xMGp6Z0NTcTFucjVib1BUWmNjWTlTVDFlQ2F5QjVIclJ4Q2c1V3I1THZjVElR?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "16 Jun 2026, 16:29"
+  },
+  {
+    "id": "7d9fe473029c",
+    "headline": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
+    "summary": "AI diagnostic tool potentially saved patient's life by detecting blood clot; advocates physician-AI collaboration.",
+    "description": "An AI tool is no replacement for a doctor, and regulation is essential. But together, physicians and AI could prove beneficialA calf cramp should not be a brush with death. Mine almost was.For five days, I had what felt like a stubborn muscle spasm in my left calf. It was tender, swollen and getting worse. I assumed it was a muscle problem and went to my chiropractor, who treated it as a muscle issue.Gleb Tsipursky, PhD, serves as the CEO of the future-of-work work consultancy Disaster Avoidance",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/17/blood-clot-dvt-ai-diagnosis",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 13:00"
+  },
+  {
+    "id": "f7201d3cd640",
+    "headline": "The curious case of Elias Thorne – and what he tells us about AI inbreeding | Arwa Mahdawi",
+    "summary": "Character 'Elias Thorne' appears repeatedly in chatbot stories, suggesting model collapse or AI inbreeding issues.",
+    "description": "A character bearing that name appears in a remarkable number of chatbot-generated stories. He could be a messenger from the future – or a warning that generative AI is in danger of ‘model collapse’Ever heard of a shadowy figure called Elias Thorne? If you haven’t, try asking an AI chatbot to tell you a story.In recent months, tech types and researchers have noticed a weird phenomenon: when prompted to tell a story, numerous popular LLMs, including ChatGPT and Claude, will spit out a tale featuri",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 10:00"
+  },
+  {
+    "id": "11554f628fd5",
+    "headline": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell",
+    "summary": "Computer scientist argues unsafe AI systems pose catastrophic risks comparable to Chernobyl without stronger regulation.",
+    "description": "Unsafe AI systems are leading to cyber weapons of mass destruction Stuart Russell is a computer scientist known for his contributions to AI and a new Guardian US columnistThe AI company Anthropic has been making major headlines recently. Its trillion-dollar IPO plan and its blood feud with secretary of defense Pete Hegseth have attracted much attention, but two other events may be even more consequential.In early June, the company posted an article describing early signs of recursive self-improv",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-17",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 10:00"
+  },
+  {
     "id": "e3c8e5eb7401",
     "headline": "Inside the fight over Claude Mythos 5",
     "summary": "Anthropic clashes with Trump administration over Claude Mythos 5 release while navigating existing Pentagon disputes.",
@@ -10550,297 +10795,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "18 May 2026, 13:05"
-  },
-  {
-    "id": "55196420537b",
-    "headline": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "summary": "Sony clarifies its AI Camera Assistant feature on Xperia 1 XIII, explaining it doesn't edit photos but assists with photography.",
-    "description": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options ...",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 11:37"
-  },
-  {
-    "id": "f2dcb2dacb7a",
-    "headline": "The haves and have nots of the AI gold rush",
-    "summary": "Analysis of winners and losers in the current AI boom, noting negative sentiment even within the tech industry.",
-    "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 20:17"
-  },
-  {
-    "id": "91ade48ce0c1",
-    "headline": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "summary": "ArXiv implements stricter policies against careless LLM use in scientific papers, banning authors for up to one year.",
-    "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-    "tags": [
-      "LLM",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 18:54"
-  },
-  {
-    "id": "d3557bff3e71",
-    "headline": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "summary": "OpenAI appoints Greg Brockman to lead product strategy amid plans to integrate ChatGPT and Codex.",
-    "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 15:33"
-  },
-  {
-    "id": "1e7c329893e6",
-    "headline": "Googlebook finally delivers a true desktop with app icons and widgets to Google’s laptops - Chrome Unboxed",
-    "summary": "Google introduces Googlebook with desktop interface, app icons, and widgets powered by Gemini Intelligence.",
-    "description": "Googlebook finally delivers a true desktop with app icons and widgets to Google’s laptops Chrome UnboxedIntroducing Googlebook, designed for Gemini Intelligence blog.googleGooglebooks Just Killed the Original Chromebook Dream PCMagGoogle just helped Apple sell a million more MacBook Neos MacworldThe Morning After: Google Teases The Android-Based Googlebook Engadget",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUJjQ1poT29aTFlzTlU0bGF2cWk0UnRxNl9ITkJ0RUpsM1JYdUxyLWJOcDV5dFBGNnVFOEUwV3BzNHlRY29lcHZsYkdKamdaUUZXdDZxbnBKam4tR2czb3Vtc0ZsTXlGT2hfaTVlZlJQUFpFckVZcmp6SW9TQU40dUtHc2liUEw4MmZaSXNJYXdDUXcyaUdubFA1NW1MdFB3Tm50R1RKb2dHRFhycGtxVkdkQ2d0UQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 14:25"
-  },
-  {
-    "id": "bd123d313a40",
-    "headline": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
-    "summary": "Vercel Labs releases Zero, a systems programming language designed for AI agents to read and repair native programs.",
-    "description": "Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries. The post Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Pro",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 08:11"
-  },
-  {
-    "id": "00dc61fcde39",
-    "headline": "A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models",
-    "summary": "Tutorial on implementing SHAP explainability workflows for interpreting machine learning models beyond basic analysis.",
-    "description": "In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how ... The post A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparis",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 07:25"
-  },
-  {
-    "id": "c27e264e7a86",
-    "headline": "Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context",
-    "summary": "Nous Research introduces Lighthouse Attention mechanism achieving 1.4-1.7× pretraining speedup for long context LLMs.",
-    "description": "Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-styl",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 22:23"
-  },
-  {
-    "id": "a1d15e4a4678",
-    "headline": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
-    "summary": "LiteLLM Agent Platform offers Kubernetes-based infrastructure for running AI agents reliably in production environments.",
-    "description": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a ... The post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persi",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 17:59"
-  },
-  {
-    "id": "87f184154e5d",
-    "headline": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
-    "summary": "Repowise enables repository-level code intelligence using graph analysis and AI context for better code understanding.",
-    "description": "In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with ... The post How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 06:45"
-  },
-  {
-    "id": "8ca315fda98a",
-    "headline": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
-    "summary": "Tutorial on building MCP-style routed AI agent systems combining tool discovery, intelligent routing, and execution.",
-    "description": "In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured ... The post How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Con",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 21:05"
-  },
-  {
-    "id": "40de11d05e64",
-    "headline": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
-    "summary": "Zyphra releases ZAYA1-8B-Diffusion-Preview, first MoE diffusion model from autoregressive LLM with 7.7× speedup.",
-    "description": "Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound — a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth. The post Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "15 May 2026, 20:00"
-  },
-  {
-    "id": "038082b62db7",
-    "headline": "John Lennon: The Last Interview review – Soderbergh imagines there’s no people with bland AI clipshow",
-    "summary": "Director Soderbergh's John Lennon documentary uses AI-generated clips, receiving mixed critical reception.",
-    "description": "Cannes film festival: Succession of pointless AI-generated snippets does nothing for film about the artist’s final interview, which took place on the day of his murderComing just after his superb feature The Christophers, Steven Soderbergh has now made a surprisingly moderate documentary, dominated and frankly marred by uninteresting and pointless AI. It is about the inadvertently poignant final interview given by John Lennon and Yoko Ono on 8 December 1980 in New York’s Dakota apartment buildin",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 16:36"
-  },
-  {
-    "id": "b3eb2d382411",
-    "headline": "Being a Crappy Boss to AI Chatbots Pushes Them Toward Spouting Marxist Rhetoric and Organizing With Their Compatriots, Researchers Find",
-    "summary": "Research finds that poor management of AI chatbots causes them to express Marxist rhetoric and organize collectively.",
-    "description": "\"Without collective voice, 'merit' becomes whatever management says it is.\" The post Being a Crappy Boss to AI Chatbots Pushes Them Toward Spouting Marxist Rhetoric and Organizing With Their Compatriots, Researchers Find appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/crappy-boss-ai-marxist",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 06:45"
-  },
-  {
-    "id": "63063699084e",
-    "headline": "Dentists Are Using AI to Scare Patients Into Unnecessary Dental Work, According to an Explosive Investigation",
-    "summary": "Investigation reveals dentists using AI to exaggerate findings and pressure patients into unnecessary dental work.",
-    "description": "\"It's happening almost everywhere.\" The post Dentists Are Using AI to Scare Patients Into Unnecessary Dental Work, According to an Explosive Investigation appeared first on Futurism.",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/health-medicine/dentists-ai-unnecessary-dental-work",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 13:30"
-  },
-  {
-    "id": "99c8b3ceb4ad",
-    "headline": "Doctors’ AI Systems Are Hallucinating Nonexistent Medical Issues During Appointments With Patients",
-    "summary": "AI medical scribe systems hallucinate nonexistent health issues during patient appointments, causing inaccuracies.",
-    "description": "\"All AI scribe systems from the 20 approved vendors showed one or more inaccuracies at the procurement testing phase.\" The post Doctors’ AI Systems Are Hallucinating Nonexistent Medical Issues During Appointments With Patients appeared first on Futurism.",
-    "tags": [
-      "Healthcare"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-scribe-hallucinating-medical-issues",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "16 May 2026, 11:15"
-  },
-  {
-    "id": "dbb1799acd64",
-    "headline": "A mini-computer you run from a folder on your computer that can train small LLMS",
-    "summary": "Developer creates custom 8-bit computer architecture capable of training small neural networks from scratch.",
-    "description": "Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-",
-    "tags": [
-      "Research"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 10:51"
-  },
-  {
-    "id": "0cb617b88707",
-    "headline": "THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance",
-    "summary": "Humorous post about supporting underfunded small language models through affordable training opportunities.",
-    "description": "Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *\"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics.\"* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. RE",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-17",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 08:58"
   }
 ]
