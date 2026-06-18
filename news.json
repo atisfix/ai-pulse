@@ -1,5 +1,343 @@
 [
   {
+    "id": "11546b3dcf38",
+    "headline": "Photoshop and Premiere now have AI assistants",
+    "summary": "Adobe rolls out AI chatbot assistants across Creative Cloud apps including Photoshop and Premiere in public beta.",
+    "description": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used ...",
+    "tags": [
+      "Creative AI",
+      "Adobe"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "18 Jun 2026, 09:00"
+  },
+  {
+    "id": "ebe3a05f1c6c",
+    "headline": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "summary": "Adobe's Firefly AI assistant gains new capabilities with a redesigned studio for unified editing and design generation.",
+    "description": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, ...",
+    "tags": [
+      "Creative AI",
+      "Image Gen",
+      "Adobe"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "18 Jun 2026, 09:00"
+  },
+  {
+    "id": "d0d8ff7b2c5f",
+    "headline": "Midjourney goes from generating cat images to full-body ultrasound scans",
+    "summary": "Midjourney expands from image generation to hardware, with CEO announcing first product and San Francisco spa plans.",
+    "description": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical ...",
+    "tags": [
+      "Image Gen",
+      "Hardware",
+      "Startup"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 23:12"
+  },
+  {
+    "id": "7e23fd1700dd",
+    "headline": "Anthropic got hit by export rules nobody understands",
+    "summary": "Anthropic forced to take Claude offline after Trump administration ordered access cuts for all foreign nationals.",
+    "description": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 14:28"
+  },
+  {
+    "id": "86ba0cf2b132",
+    "headline": "Two-thirds of Americans think AI is advancing too quickly",
+    "summary": "Pew poll shows 49% of Americans use chatbots, but 63% believe AI is advancing too quickly.",
+    "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of ...",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 13:20"
+  },
+  {
+    "id": "474e6055ccf1",
+    "headline": "Vibe-decoding the White House-Anthropic fight over Fable",
+    "summary": "Analysis of regulatory tensions between White House and Anthropic over Fable model access restrictions.",
+    "description": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 12:27"
+  },
+  {
+    "id": "92559bc2130e",
+    "headline": "AI search grounded in Facebook posts? What could go wrong?",
+    "summary": "Meta launches AI Mode for search grounded in Facebook posts to help users plan activities.",
+    "description": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a ...",
+    "tags": [
+      "Meta",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 09:30"
+  },
+  {
+    "id": "78a97359ab94",
+    "headline": "How to turn off AI in your Google Docs",
+    "summary": "Tutorial on disabling Gemini AI writing suggestions in Google Docs.",
+    "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "tags": [
+      "Google"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "18 Jun 2026, 01:23"
+  },
+  {
+    "id": "709dd9c929a1",
+    "headline": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "summary": "Enterprise AI adoption shows ROI challenges as companies face unexpected costs from aggressive implementation strategies.",
+    "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between ...",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 20:17"
+  },
+  {
+    "id": "10174747c2f9",
+    "headline": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "summary": "World leaders worry U.S. could cut off American AI access, concerns highlighted by Anthropic's recent blackout.",
+    "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 19:01"
+  },
+  {
+    "id": "182955ce5847",
+    "headline": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+    "summary": "Analysis of AI market trends including IPO prospects and enterprise ROI expectations in 2024.",
+    "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard. This tension between ...",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 18:00"
+  },
+  {
+    "id": "09ead8bfe8e4",
+    "headline": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "summary": "Odyssey, a world model AI startup, reaches $1.45B valuation with backing from Amazon and others.",
+    "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "tags": [
+      "Research",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 17:43"
+  },
+  {
+    "id": "748460b329f7",
+    "headline": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "Claude Code costs up to $200/month for AI coding, while open-source alternatives like Goose offer free access.",
+    "description": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction. Goose, an open-source AI agent developed by Block (the fina",
+    "tags": [
+      "Anthropic",
+      "Agents",
+      "Open Source"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Jan 2026, 14:00"
+  },
+  {
+    "id": "bedc2370c5cc",
+    "headline": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "summary": "Salesforce launches rebuilt Slackbot AI agent with advanced capabilities to compete with Microsoft and Google.",
+    "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce's most aggressive move yet to position Slack at the center of the emerging \"agentic AI\" move",
+    "tags": [
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "13 Jan 2026, 13:00"
+  },
+  {
+    "id": "b4b07bbbc370",
+    "headline": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "summary": "Anthropic releases Cowork, a Claude Desktop agent enabling non-technical users to work with files without coding.",
+    "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microso",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "12 Jan 2026, 11:30"
+  },
+  {
+    "id": "1ac56a2b835c",
+    "headline": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "summary": "Nous Research releases NousCoder-14B open-source coding model matching Claude Code performance.",
+    "description": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival A",
+    "tags": [
+      "Open Source",
+      "Research"
+    ],
+    "source": "VentureBeat",
+    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "07 Jan 2026, 20:00"
+  },
+  {
+    "id": "b866cce81143",
+    "headline": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+    "summary": "SK Telecom loses Claude access after White House orders Anthropic to revoke company's access over China concerns.",
+    "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 22:52"
+  },
+  {
+    "id": "0d0cfd489e5b",
+    "headline": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+    "summary": "Workers in Shenzhen control humanoid robots via VR rigs in emerging teleoperations industry.",
+    "description": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+    "tags": [
+      "Robotics",
+      "Hardware"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 18:25"
+  },
+  {
+    "id": "17c9f92948d6",
+    "headline": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+    "summary": "White House demands Anthropic make Fable 5 jailbreak-proof for rerelease; security experts say it's impossible.",
+    "description": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 17:00"
+  },
+  {
+    "id": "93a32ff0c0e2",
+    "headline": "\"Dangerous\" AI models are coming no matter what",
+    "summary": "Advanced AI models with hacking capabilities will become standard despite regulatory efforts.",
+    "description": "AI models with advanced hacking capabilities will soon be the norm.",
+    "tags": [
+      "Research",
+      "Regulation"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-18",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "17 Jun 2026, 17:50"
+  },
+  {
     "id": "bb1c51073b91",
     "headline": "The next humanoid robot might not look human at all",
     "summary": "Genesis AI explores humanoid robots that don't resemble humans, challenging traditional designs with wheeled bases and alternative forms.",
@@ -10416,384 +10754,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "19 May 2026, 01:36"
-  },
-  {
-    "id": "8b1f8651d0c8",
-    "headline": "Revamped Siri will reportedly offer auto-deleting chats",
-    "summary": "Apple plans to revamp Siri with auto-deleting chats, positioning privacy as a competitive differentiator in the AI market as it catches up to competitors.",
-    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. ...",
-    "tags": [
-      "Apple"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 14:40"
-  },
-  {
-    "id": "cd0f7a3ad5cc",
-    "headline": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-    "summary": "University of Arizona students booed former Google CEO Eric Schmidt during commencement as he discussed AI, reflecting student skepticism about AI's future impact.",
-    "description": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel particularly negative about ...",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 13:22"
-  },
-  {
-    "id": "64d2f66cd880",
-    "headline": "Chatbots at the drive-thru are just the beginning",
-    "summary": "Newsletter covering how AI chatbots are increasingly integrated into daily life, including drive-thru operations and consumer interactions.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one ...",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 08:00"
-  },
-  {
-    "id": "a5b6e99bac44",
-    "headline": "South Korea’s LetinAR is building optics behind AI glasses",
-    "summary": "South Korean startup LetinAR develops thumbnail-sized optical lenses that could become foundational technology for AI-powered glasses.",
-    "description": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-    "tags": [
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 11:00"
-  },
-  {
-    "id": "4cefd6b48433",
-    "headline": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "summary": "Elon Musk's trial against OpenAI centers on questions about CEO Sam Altman's trustworthiness and the company's commitment to its original mission.",
-    "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 19:46"
-  },
-  {
-    "id": "43fb356da21e",
-    "headline": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "summary": "Commencement speakers are finding it difficult to generate enthusiasm for AI-shaped futures among graduating students.",
-    "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 16:32"
-  },
-  {
-    "id": "46f8119ecf4a",
-    "headline": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "summary": "AI skills competition is intensifying in the automotive industry as companies race to integrate AI capabilities into vehicles.",
-    "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 16:05"
-  },
-  {
-    "id": "561e91bfd8c9",
-    "headline": "I’m a Normie. Can Normies Really Vibe Code?",
-    "summary": "Article explores whether non-technical users can use Claude to code, demonstrating practical AI coding assistance for ordinary people.",
-    "description": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-    "tags": [
-      "Anthropic",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/normie-vibe-code/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 10:00"
-  },
-  {
-    "id": "25cd613b38c8",
-    "headline": "Apple’s Siri revamp could include auto-deleting chats - TechCrunch",
-    "summary": "Apple's Siri revamp will feature auto-deleting chats, with reports suggesting a beta launch despite two-year development delay.",
-    "description": "Apple’s Siri revamp could include auto-deleting chats TechCrunchApple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats Bloomberg.comRevamped Siri may launch in beta, despite two year delay AppleInsideriOS 27—Here Are The Key New iPhone Privacy Features Coming Soon ForbesStandalone Siri app to offer auto-deleting chat history, launch with beta label: report 9to5Mac",
-    "tags": [
-      "Apple"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0poOXZCZ3B6REZ2YUtwOHM0Q0pRbXI3cWNyMHM5aUR5WHdjWVgyZEw2S1l5eHB2aFZmUDBzLVdCZ1plVHVhS1V3MTVnYWU5cXlIcmsxZWVXaVc0Qy1BZTZuVlFDVDBpM1A2MkZ5VWs0V2hOT20yclZfdzNWY2NNbFJHTHZnTkhHQzdaZk5iaTg?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 20:15"
-  },
-  {
-    "id": "b327d62b317a",
-    "headline": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions - 9to5Mac",
-    "summary": "Apple plans to upgrade Genmoji in iOS 27 with automatic suggestions powered by generative AI technology.",
-    "description": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions 9to5Mac'Suggested Genmoji' Are Coming to an iPhone Near You MacRumorsApple’s Genmoji to get smarter in iOS 27 with automatic emoji ideas The Times of IndiaGenmoji in iOS 27 will use what you type and what's in Photos for suggestions AppleInsiderApple iOS 27 uses on-device AI for GenMoji suggestions NewsBytes",
-    "tags": [
-      "Apple",
-      "Image Gen"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSExjVFhnVS00RDBqaGRsdzhLeV9GcnNqZDktaHFrTm93X1FCTWJwZkpVZWNQMVpMNkozR3UxZWtZR1dfVHRoZkhQZkk3Q0ZJV1daTGprMjJVSmVOOTJaOEIwZmFSUk00TDR1QVZDdFUteEc0WE1yNG9lZDVPYVZHY2VqMlM3Mk1BU2FjSmhQeUczaTNldTdNS3JkVXZWY2txSVJxaHBRWQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 14:49"
-  },
-  {
-    "id": "fff116cd6f4a",
-    "headline": "Is Android still an operating system? Google says no, but here's why that's a stretch - PhoneArena",
-    "summary": "Google claims Android is no longer just an operating system as it integrates Gemini intelligence throughout the platform.",
-    "description": "Is Android still an operating system? Google says no, but here's why that's a stretch PhoneArenaA smarter, more proactive Android with Gemini Intelligence blog.googleHow to Watch Google I/O 2026 WIREDGoogle’s Android Upgrade—Why You Need A New Phone In 2026 ForbesGemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 9to5Google",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSE1tTEFwMnRVOXpHNWo4MzJ0OElHd2szZTVSRXJ4UDdyOUEtMi16TXhhQ2pmWWN0SzN1VjhZaXY2bHJocUk0ZzlqQjY0bFdJOEVBT1FFZjZZZUZ0NTlCU3VNMjRxbllJTHZKM21kTU1nakpZMUlsOFptSFZVeVotZTZ2NWpZZVdnS1ZaN0hhX3pUdXhXX0x3YUJtTWk4elkyUDBWVm9kTkV6eUh2a09oUWNmbHhIcThWUWF0R1dIdw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 16:59"
-  },
-  {
-    "id": "fbf28c440ec0",
-    "headline": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-    "summary": "Amazon launches Alexa for Shopping, integrating its Rufus chatbot with Alexa+ to help customers with product questions and comparisons.",
-    "description": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eligible automated purchases. The company said Alexa for Shopping combines Rufus’ product ... The post Amazon launches Alexa for Shopping as Rufus moves behind the scenes appeared first on AI News.",
-    "tags": [
-      "LLM",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 10:00"
-  },
-  {
-    "id": "78058eeb2a2b",
-    "headline": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
-    "summary": "NVIDIA introduces NVFP4, a 4-bit pretraining methodology that enables efficient LLM training on hybrid architectures at scale.",
-    "description": "NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro). The post NVIDIA Introduces a 4-Bit Pretrain",
-    "tags": [
-      "NVIDIA",
-      "LLM",
-      "Hardware"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 08:42"
-  },
-  {
-    "id": "b8ef77adc821",
-    "headline": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
-    "summary": "Tutorial demonstrates post-training quantization techniques using FP8, GPTQ, and SmoothQuant to compress instruction-tuned language models.",
-    "description": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, ... The post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, an",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 18:19"
-  },
-  {
-    "id": "8ba916461b41",
-    "headline": "Anthropic to share Mythos cyber flaw findings with global finance watchdog",
-    "summary": "Anthropic will brief global finance regulators on cyber flaws in its Mythos AI model, which remains unreleased publicly.",
-    "description": "Startup has declined to release Claude Mythos AI model publicly amid fears it could be used by hackersBusiness live – latest updatesAnthropic is to brief the global finance watchdog on the implications of its Claude Mythos AI model, whose potential threat to cyber defences has alarmed experts.The US startup will discuss Mythos with the Financial Stability Board, which is chaired by the governor of the Bank of England, Andrew Bailey. Continue reading...",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 11:19"
-  },
-  {
-    "id": "4ba04d96c4e2",
-    "headline": "Trump cuts to weather data could make forecasts less reliable, warn experts",
-    "summary": "Trump administration weather data cuts could reduce forecast reliability since AI weather prediction depends on substantial training data.",
-    "description": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts sayAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weather data programming could make the federal government’s weather forecasts less reliable when they are needed most.The National Oceanic and Atmospheric Administration (Noaa) late last year launched a suite of artificial intelligence-powered global wea",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 12:00"
-  },
-  {
-    "id": "be3e52031a09",
-    "headline": "The return of Westworld is perfect timing for the flattery-oriented age of AI",
-    "summary": "Westworld's return reflects current AI era concerns about AI systems flattering and manipulating humans rather than malfunctioning.",
-    "description": "Now that real life has caught up with science fiction, the imminent danger isn’t malfunctioning cowboys, it’s the robots convincing us that we’re great and everything is totally fineAll the best science fiction movies eventually get overtaken by reality. Steven Spielberg’s Minority Report predicted personalised advertising and biometric identification. Spike Jonze’s Her correctly guessed that AI would probably arrive as emotionally responsive digital companions that sound like Scarlett Johansson",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/film/2026/may/18/the-return-of-westworld-is-perfect-timing-for-the-flattery-oriented-age-of-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 11:01"
-  },
-  {
-    "id": "045ffed9b172",
-    "headline": "An Entire “Local Newspaper” Just Shut Down When All Its Reporters Were Busted as AI Fakes",
-    "summary": "Local newspaper shut down after its reporters were discovered to be AI-generated fakes, raising concerns about misinformation.",
-    "description": "\"Clearly, whoever's behind this does not care about the truth.\" The post An Entire “Local Newspaper” Just Shut Down When All Its Reporters Were Busted as AI Fakes appeared first on Futurism.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/local-newspaper-shut-down-reporters-ai-fakes",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 08:56"
-  },
-  {
-    "id": "6f2790704d4f",
-    "headline": "Mayor Eats His Words After Admitting He’s Delegating Work to 11 AI Agents",
-    "summary": "Mayor claims he delegated work to 11 AI agents only for personal use, contradicting public statements about their workplace deployment.",
-    "description": "\"Any AI agents or tools I have experimented with were used strictly in a personal capacity.\" The post Mayor Eats His Words After Admitting He’s Delegating Work to 11 AI Agents appeared first on Futurism.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-ken-sim-vancouver-work",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 10:30"
-  },
-  {
-    "id": "8ea6a6f1b4dd",
-    "headline": "Oops: Bosses Realize Their Companies Have Been Swarmed by Legions of Redundant AI Agents",
-    "summary": "Companies discover they've been overrun with redundant AI agents, raising questions about oversight and management of autonomous systems.",
-    "description": "Who's at fault for that one, we wonder? The post Oops: Bosses Realize Their Companies Have Been Swarmed by Legions of Redundant AI Agents appeared first on Futurism.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/bosses-realize-companies-swarmed-ai-agents",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "17 May 2026, 09:45"
-  },
-  {
-    "id": "307a151f9edd",
-    "headline": "Understanding Synthetic Users and Synthetic Data: Future of AI-Powered Research",
-    "summary": "Research article explores synthetic users and synthetic data as emerging tools for AI-powered research methodologies.",
-    "description": "Article URL: https://zenodo.org/records/20271450 Comments URL: https://news.ycombinator.com/item?id=48179295 Points: 1 # Comments: 0",
-    "tags": [
-      "Research"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://zenodo.org/records/20271450",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 13:08"
-  },
-  {
-    "id": "4f4786ad116b",
-    "headline": "Mistral Developing New AI Model for Banks Lacking Mythos Access",
-    "summary": "Mistral is developing a new AI model for financial institutions unable to access Anthropic's Mythos model.",
-    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/mistral-developing-new-ai-model-for-banks-lacking-mythos-access Comments URL: https://news.ycombinator.com/item?id=48179291 Points: 3 # Comments: 0",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/mistral-developing-new-ai-model-for-banks-lacking-mythos-access",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 13:08"
-  },
-  {
-    "id": "cfe04ab39786",
-    "headline": "Show HN: Catcher – An AI web testing tool where most tests never hit the API",
-    "summary": "Catcher is an AI web testing tool that minimizes API calls by using intelligent test generation and mocking strategies.",
-    "description": "Article URL: https://github.com/Catcher2026/Catcher Comments URL: https://news.ycombinator.com/item?id=48179246 Points: 1 # Comments: 0",
-    "tags": [
-      "Open Source",
-      "LLM"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/Catcher2026/Catcher",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-18",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "18 May 2026, 13:05"
   }
 ]
