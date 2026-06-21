@@ -1,5 +1,402 @@
 [
   {
+    "id": "796b375cb75a",
+    "headline": "The Atlantic created a searchable database of the music used to train AI",
+    "summary": "The Atlantic created a searchable database of music datasets used to train AI models, including two massive sets with 12 million songs each, making training data transparent to the public.",
+    "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over ...",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 14:46"
+  },
+  {
+    "id": "375bc7cf64ca",
+    "headline": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "summary": "Signal's Meredith Whittaker warns that AI chatbots are not conscious beings or friends, emphasizing they're tools, not sentient interlocutors.",
+    "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 20:32"
+  },
+  {
+    "id": "a02402d5f564",
+    "headline": "In the Weights is your new AI-centric vanity search",
+    "summary": "In the Weights is a new AI-centric search tool that allows users to check their personal AI vanity score.",
+    "description": "So ... what's your In the Weights score?",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 19:41"
+  },
+  {
+    "id": "8ac9f9b2b2ca",
+    "headline": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "summary": "Nobel laureate John Jumper is leaving Google DeepMind to join rival Anthropic, continuing a trend of top talent departing DeepMind.",
+    "description": "Jumper isn't the only big name leaving Google DeepMind.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 16:39"
+  },
+  {
+    "id": "366c5f43cb81",
+    "headline": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "summary": "Wired offers 28 tips for crafting better ChatGPT prompts to achieve more interesting and useful results from OpenAI's chatbot.",
+    "description": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 10:30"
+  },
+  {
+    "id": "47074f1ff151",
+    "headline": "Brands using AI-generated influencers to promote products on social media",
+    "summary": "Brands are deploying AI-generated influencers on social media to promote products while posing as genuine customers, raising transparency concerns.",
+    "description": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparencyBrands promoting their products online are quietly deploying AI-generated influencers on social media, an investigation has found, prompting calls for greater transparency.The findings suggest companies are increasingly turning to AI-generated content that purports to show genuine customer experiences while giving no obvious indication that the people featured are not real. Continue re",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 06:00"
+  },
+  {
+    "id": "b33b8695c605",
+    "headline": "New Law Would Give Artists Sweeping Protections Against AI Stealing Their Work",
+    "summary": "A new proposed law could provide sweeping protections for artists against AI systems using their work without consent.",
+    "description": "If it passes, this law could be a seismic shock to the AI industry. The post New Law Would Give Artists Sweeping Protections Against AI Stealing Their Work appeared first on Futurism.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/law-protect-artists-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 07:00"
+  },
+  {
+    "id": "029d48234801",
+    "headline": "TikTok Has Been Completely Taken Over by AI Slop",
+    "summary": "TikTok is overwhelmed with AI-generated low-quality content, making it nearly inescapable on the platform.",
+    "description": "It's practically inescapable. The post TikTok Has Been Completely Taken Over by AI Slop appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/tiktok-taken-over-ai-slop",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 09:00"
+  },
+  {
+    "id": "5b3731e7372b",
+    "headline": "AI Made Me Braver",
+    "summary": "Personal article about how AI has made the author feel braver in their endeavors.",
+    "description": "Article URL: https://neilkakkar.com/ai-made-me-braver.html Comments URL: https://news.ycombinator.com/item?id=48618333 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://neilkakkar.com/ai-made-me-braver.html",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 12:26"
+  },
+  {
+    "id": "2ed0345e3135",
+    "headline": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
+    "summary": "Tokoscope is a tool that automatically compresses LLM tokens and monitors costs with just two lines of code.",
+    "description": "Article URL: https://tokoscope.com Comments URL: https://news.ycombinator.com/item?id=48618323 Points: 1 # Comments: 0",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://tokoscope.com",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 12:25"
+  },
+  {
+    "id": "2825054b361d",
+    "headline": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+    "summary": "A viral doomsday scenario is being used to motivate Europe to take AI development more seriously amid US-China competition.",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china Comments URL: https://news.ycombinator.com/item?id=48618312 Points: 2 # Comments: 0",
+    "tags": [
+      "Regulation",
+      "Research"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 12:22"
+  },
+  {
+    "id": "c96d7b8238d6",
+    "headline": "Show HN: An AI video prompt cookbook for image-to-video workflows",
+    "summary": "An AI video prompt cookbook provides workflows and templates for image-to-video generation tasks.",
+    "description": "Article URL: https://github.com/yasuomang/ai-video-prompt-cookbook Comments URL: https://news.ycombinator.com/item?id=48618111 Points: 1 # Comments: 0",
+    "tags": [
+      "Video Gen",
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/yasuomang/ai-video-prompt-cookbook",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:53"
+  },
+  {
+    "id": "35a3c7334f4a",
+    "headline": "Show HN: Local LLM Hardware Calculator",
+    "summary": "Local LLM Hardware Calculator helps users determine what hardware is needed to run large language models locally.",
+    "description": "Article URL: https://vettedconsumer.com/can-i-run-it/ Comments URL: https://news.ycombinator.com/item?id=48618065 Points: 1 # Comments: 0",
+    "tags": [
+      "Hardware",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://vettedconsumer.com/can-i-run-it/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:47"
+  },
+  {
+    "id": "aca062dc3cee",
+    "headline": "Shall We? – A pre-engineering sanity check for AI-era feature bloat",
+    "summary": "Shall We is a pre-engineering sanity check tool for evaluating feature bloat in AI-era software projects.",
+    "description": "Article URL: https://github.com/Tacsiazuma/shall-we Comments URL: https://news.ycombinator.com/item?id=48617983 Points: 3 # Comments: 0",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/Tacsiazuma/shall-we",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:37"
+  },
+  {
+    "id": "1093b99ff7c2",
+    "headline": "AI Warfare Is at the Point of No Return",
+    "summary": "AI warfare capabilities have reached a point of no return, with applications in Ukraine-Russia conflict demonstrating Anthropic's involvement.",
+    "description": "Article URL: https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9 Comments URL: https://news.ycombinator.com/item?id=48617952 Points: 1 # Comments: 1",
+    "tags": [
+      "Anthropic"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:32"
+  },
+  {
+    "id": "edd5ce76078e",
+    "headline": "I Created a Minimalist Universal Language for AI",
+    "summary": "A developer created a minimalist universal language called QMP with dynamic anchors for AI applications.",
+    "description": "Article URL: https://github.com/caihongfairys/QMP-Dynamic-Anchors Comments URL: https://news.ycombinator.com/item?id=48617894 Points: 2 # Comments: 0",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://github.com/caihongfairys/QMP-Dynamic-Anchors",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:22"
+  },
+  {
+    "id": "fd8aa5ff7758",
+    "headline": "China tightens indium export checks as AI demand increases",
+    "summary": "China has tightened export controls on indium, a critical mineral for AI hardware, as AI demand increases globally.",
+    "description": "Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 1 # Comments: 0",
+    "tags": [
+      "Hardware",
+      "Regulation"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:01"
+  },
+  {
+    "id": "7cedec8e07a3",
+    "headline": "Canyon Predict – road bike prototype with AI edge computing [video]",
+    "summary": "Canyon Predict is a road bike prototype that incorporates AI edge computing capabilities for enhanced performance.",
+    "description": "Article URL: https://www.youtube.com/watch?v=7Wg894k6bqU Comments URL: https://news.ycombinator.com/item?id=48617721 Points: 2 # Comments: 0",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Hacker News AI",
+    "link": "https://www.youtube.com/watch?v=7Wg894k6bqU",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 10:58"
+  },
+  {
+    "id": "e4d7a59d52ff",
+    "headline": "Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian",
+    "summary": "Brands are using AI-generated influencers on social media to promote products while posing as genuine customers.",
+    "description": "submitted by /u/prisongovernor [link] [comments]",
+    "tags": [
+      "Creative AI",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 07:47"
+  },
+  {
+    "id": "04e49c623787",
+    "headline": "What do you think is currently the biggest technical limitation in generative AI video?",
+    "summary": "Community discussion exploring current technical limitations in generative AI video generation across different models.",
+    "description": "Generative video quality has improved a lot, but there are still some consistent challenges across different models. submitted by /u/skannedsykanned [link] [comments]",
+    "tags": [
+      "Video Gen",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ubne3w/what_do_you_think_is_currently_the_biggest/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:11"
+  },
+  {
+    "id": "dd81ad9e0c05",
+    "headline": "The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]",
+    "summary": "AI-generated books now outnumber human-written books on Amazon; AI songs comprise 44% of daily uploads with 75,000 daily submissions.",
+    "description": "Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 11:06"
+  },
+  {
+    "id": "97e15cc30977",
+    "headline": "I built a solution but not sure if the problem even exists?",
+    "summary": "Developer shares workflow using Claude, Codex, and ChatGPT for different aspects of their AI project.",
+    "description": "I personally find myself working accross different AI tools for different aspects of my project -- Claude to build the core functionality Codex to fix the bugs (to save claude's credits) Chat GPT to get ideas for new features etc etc etc And all of them with multiple accounts as well- TO save some credits Now this works but it creates a mess. This essentially leaves me with problems like Problem 1- I have no memory of Which agent created what feature and to find it I have to spend a lot of time ",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ubn1m2/i_built_a_solution_but_not_sure_if_the_problem/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 10:52"
+  },
+  {
+    "id": "cdfdea497fc8",
+    "headline": "I launched ReFind on Product Hunt today — Chrome extension that uses Gemini 2.5 Flash Lite to summarize YouTube transcripts and articles",
+    "summary": "ReFind is a Chrome extension using Google's Gemini 2.5 Flash Lite to summarize YouTube transcripts and articles.",
+    "description": "Hey r/artificial — launching today and thought this community would appreciate the technical details more than most. ReFind is a Chrome extension that right-click-summarizes any link. Launching on PH: https://www.producthunt.com/products/refind-2 Technical implementation (for those who want it): YouTube summarization: - Fetch transcript via YouTube Data API v3 (captions endpoint) - Full transcript passed to Gemini 2.5 Flash Lite - Prompt instructs: extract 3–5 key points from the spoken content,",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ubk7oj/i_launched_refind_on_product_hunt_today_chrome/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "21 Jun 2026, 07:59"
+  },
+  {
+    "id": "893f58ac2d22",
+    "headline": "A study on synthetic [AI] choreographies",
+    "summary": "Study explores synthetic AI choreographies, testing generative video and fine-tuned orchestration for rhythm, camera work, and audiovisual sync.",
+    "description": "A few experiments exploring how far generative video + fine-tuned orchestration layers can be pushed in rhythm, camera language, body transformation, and most of all, audiovisual synchronization. Breakdown: I used Uisato Studio’ Seedance 2.0 Video mode, with the \"Intelligent\" setup and the \"Audioreactive Performance\" prompt recipe. Inputs were: - the artist image [full-body recomended - I ended up using a mix of Midjourney + GPT Image + Image Studio] - a target audio excerpt not exceeding 14.9 s",
+    "tags": [
+      "Video Gen",
+      "Research"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1ub0kjp/a_study_on_synthetic_ai_choreographies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-21",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "20 Jun 2026, 16:16"
+  },
+  {
     "id": "95c6bbe35cb7",
     "headline": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
     "summary": "Export controls on cybersecurity software have proven ineffective; concerns raised about Anthropic's Mythos model restrictions.",
@@ -10304,375 +10701,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "21 May 2026, 14:30"
-  },
-  {
-    "id": "25d09933c0e4",
-    "headline": "Meta lays off thousands of employees to offset AI investments",
-    "summary": "Meta is laying off thousands of employees to offset its substantial AI investments, as the company prioritizes AI development.",
-    "description": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently ...",
-    "tags": [
-      "Meta",
-      "Market"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 05:20"
-  },
-  {
-    "id": "f942874af167",
-    "headline": "You can now remix other people’s YouTube Shorts with AI",
-    "summary": "Google launches YouTube Shorts Remix feature using Gemini Omni, allowing users to restyle clips and insert themselves into other videos.",
-    "description": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into ...",
-    "tags": [
-      "Google",
-      "Video Gen"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 12:41"
-  },
-  {
-    "id": "bbbca21719d2",
-    "headline": "Google Search’s AI evolution includes more ads",
-    "summary": "Google integrates Gemini AI into Search ads, generating custom product explainers and relevant items for shopping queries.",
-    "description": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 12:00"
-  },
-  {
-    "id": "60496173fb73",
-    "headline": "It’s make or break time for AI labeling systems",
-    "summary": "SynthID and C2PA technologies aim to detect deepfakes and AI-generated content, with their real-world effectiveness now being tested.",
-    "description": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the ...",
-    "tags": [
-      "Research",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 10:12"
-  },
-  {
-    "id": "8262d0dde63f",
-    "headline": "If Google can’t make AI agents useful, maybe no one can",
-    "summary": "Google develops AI agents that function as capable personal assistants, marking progress after years of overpromised delivery.",
-    "description": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly ...",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 09:24"
-  },
-  {
-    "id": "cb3689b48d90",
-    "headline": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "summary": "Nvidia CEO Jensen Huang identifies a $200 billion market opportunity in CPUs for AI agents.",
-    "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "tags": [
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 00:28"
-  },
-  {
-    "id": "20739d841632",
-    "headline": "Anthropic says it’s about to have its first profitable quarter",
-    "summary": "Anthropic projects profitability next quarter with revenue expected to reach approximately $10.9 billion.",
-    "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 00:21"
-  },
-  {
-    "id": "4d30a102f961",
-    "headline": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "summary": "xAI lost $6.4 billion in 2025, with SpaceX's IPO filing revealing continued massive spending plans for Grok expansion.",
-    "description": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 22:26"
-  },
-  {
-    "id": "72486be542a5",
-    "headline": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "summary": "xAI is purchasing $2.8 billion in natural gas turbines over three years to power its data centers amid ongoing lawsuits.",
-    "description": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 21:55"
-  },
-  {
-    "id": "d9efe2df53de",
-    "headline": "Anthropic will pay xAI $1.25B per month for compute",
-    "summary": "Anthropic agreed to pay xAI $1.25 billion monthly for compute resources, revealing the value of their partnership.",
-    "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-    "tags": [
-      "Anthropic",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 21:29"
-  },
-  {
-    "id": "3b08f1f67ccd",
-    "headline": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "summary": "OpenAI's reasoning model reportedly disproved an 80-year-old geometry conjecture, with mathematicians confirming the breakthrough.",
-    "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-    "tags": [
-      "OpenAI",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 20:28"
-  },
-  {
-    "id": "06e847469d17",
-    "headline": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-    "summary": "Andrew Ng-backed IrisGo develops an AI desktop assistant that learns and automates user tasks by observing desktop activity.",
-    "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-    "tags": [
-      "Agents",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 19:47"
-  },
-  {
-    "id": "5d0e00e34e72",
-    "headline": "OpenAI barrels toward IPO that may happen in September",
-    "summary": "OpenAI reportedly resumes IPO preparations following the resolution of Elon Musk's lawsuit, with September as a potential target.",
-    "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-    "tags": [
-      "OpenAI",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 17:24"
-  },
-  {
-    "id": "ecc401a5b9ec",
-    "headline": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
-    "summary": "SpaceX's xAI is investing $2.8 billion in gas turbines for AI data centers amid carbon emission complaints and cloud expansion plans.",
-    "description": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 23:30"
-  },
-  {
-    "id": "80433bd09bac",
-    "headline": "I Gave My OpenClaw Agent a Physical Body",
-    "summary": "AI models' coding capabilities enable easier development and deployment of robots with physical bodies.",
-    "description": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-    "tags": [
-      "Robotics",
-      "Agents"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 18:00"
-  },
-  {
-    "id": "0499f7e84c13",
-    "headline": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself - The Register",
-    "summary": "AMD launches $4K Ryzen AI Halo workstation and new agent-focused processors for next-generation computing.",
-    "description": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself The RegisterAMD Powers Next-Generation Agent Computers with New Ryzen AI Halo Developer Platform and Ryzen AI Max PRO 400 Series Processors AMDAMD’s Next Big Chip Hopes To Beat Nvidia’s CPUs While They’re in the Crib GizmodoAMD Prices Its Ryzen AI Halo PC At $3,999, Unveils Ryzen AI Max 400 Chips EngadgetAMD Launches the Ryzen AI Max 400 Series Processors: \"Strix Halo\" Gets a Memory Upgrade TechPowerUp",
-    "tags": [
-      "Hardware",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMG4yeE40Q1c0VU9xMF9xT3JsUVh6dHJMeHAxZWVJSFZsV1E5LVlwbGdWX1lST1pPNmdiUUs1LW85Uzlwa3FlSkdoNC1jZzFJVDlBR29XYkNBZWNaLVFsTmVSR0p1RU9vbVFybG53MHRoSHhvTEFDcHQ1U3FEdVRFdEs5WjBBYkw0QmExN3dCMllZMVRYcktib1hnZGc3ZzRseXBTTVdqNjh1ZkNaaFdxWHd4Zk9tbDFLZjIxaFhfNXo5dw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 00:00"
-  },
-  {
-    "id": "64025b31ccaa",
-    "headline": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon - MacRumors",
-    "summary": "iOS 27 hints at major Siri upgrades through new AI voice control features for improved accessibility.",
-    "description": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon MacRumorsApple unveils new accessibility features, and updates with Apple Intelligence AppleApple just gave us a peek at some of iOS 27’s new features MacworldApple's New Accessibility Feature Lets Vision Pro Users Control A Wheelchair With Their Eyes EngadgetApple Says iOS 27 Can Automatically Add Captions to Your Personal iPhone Videos MacRumors",
-    "tags": [
-      "Apple",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZV9DTjlidXlGSmY3NjFTUHBsYS1NUHU4UGdVTVEtSWp2YnVKYzJXRnFQVG9XM2NEaEp4ak1JYUNILXk1bXZtNlRTdmhsNURnRkV2UkJVMFZ4MGpEbzBtR1V1YlplcEh4cGE1OGh0X1JxUFNRR0lrNDhodVU5VE4yejBOSG9sOF9OT0E?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 19:20"
-  },
-  {
-    "id": "79c8c803c0ae",
-    "headline": "It Feels Like Google Is Downplaying Smart Glasses With a Screen in Them - Gizmodo",
-    "summary": "Google's screen-free smart glasses are coming this fall, with the company appearing cautious about marketing the wearable technology.",
-    "description": "It Feels Like Google Is Downplaying Smart Glasses With a Screen in Them GizmodoIntelligent eyewear is coming this fall blog.googleI Tried Google's Screen-Free Smart Glasses, and They're Exactly What I Want PCMagSamsung and Google Give First Look at New Intelligent Eyewear samsung.comWarby Parker Stock Slumps 11% as Questions Cloud Its Google Gemini AI Eyewear Reveal Barron's",
-    "tags": [
-      "Google",
-      "Hardware"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDdjQkpST2RMTXFiajMzdHhjb2ZWMkxGU01HQ3ZoYzgwYnotal9xZ0NjRTA5WE9VNVBuTnNIVklER3FXT196NzFHRUpHdGF2QW10WHc5bW9TcG9UMUQwZ3ZLWHhCQWxidnA4aWNRSktTTjhhQVAzU2k3S0c2Q3gzY0ZkUUNEV3A0YTh3aXd5QmZoVnhrQU90MlhHWmVkNVBWRHl6MQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 01:11"
-  },
-  {
-    "id": "bd0d9fc7f288",
-    "headline": "An AI system to help scientists write expert-level empirical software - Nature",
-    "summary": "DeepMind develops a multi-agent AI system to help scientists write expert-level empirical software and accelerate research.",
-    "description": "An AI system to help scientists write expert-level empirical software NatureCo-Scientist: A multi-agent AI partner to accelerate research Google DeepMindAI assistants can accelerate scientific discoveries by helping design and interpret experiments Tech XploreGemini for Science: AI experiments and tools for a new era of discovery blog.googleEmpirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery Research at Google",
-    "tags": [
-      "Research",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSjlkMkxya2ZHX2hnSE9NNDNiOHpmcGZpSW9MWGVpVy0yTzBzYXZ1Ty1pMmJZR2p5UGR2bDhOeVE4NXhUSzljUG4xbkc5N3M3WnRiV1lVSnBEbjFEeHN3?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 00:35"
-  },
-  {
-    "id": "ee0a2b1fd1a4",
-    "headline": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-    "summary": "Nvidia's Vera chip represents a $200 billion strategic bet on agent-focused processors despite limited public attention.",
-    "description": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street’s US$86.84 billion forecast–the numbers did what Nvidia numbers always do: dominate the room. But ... The post Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook appeared first on AI News.",
-    "tags": [
-      "NVIDIA",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 08:00"
-  },
-  {
-    "id": "af6f96433868",
-    "headline": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-    "summary": "Alibaba unveils a new AI chip specifically designed for agents, signaling a strategic shift in the AI hardware competition.",
-    "description": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba’s semiconductor ... The post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News.",
-    "tags": [
-      "Hardware",
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 10:00"
-  },
-  {
-    "id": "8f5abbb4b056",
-    "headline": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-    "summary": "TechEx North America explores enterprise AI implementation challenges, security concerns, and physical AI applications.",
-    "description": "Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the “AI graveyard” – that is, AI projects that seem to perform well in pilot, but don’t seem ... The post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
-    "tags": [
-      "Research"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-21",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "19 May 2026, 19:18"
   }
 ]
