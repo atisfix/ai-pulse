@@ -1,5 +1,391 @@
 [
   {
+    "id": "fa3550791ed9",
+    "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "summary": "Nvidia's Rubin data center design uses liquid cooling to reduce water consumption while maintaining performance for AI workloads.",
+    "description": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data ...",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 19:24"
+  },
+  {
+    "id": "517585cf6140",
+    "headline": "AI is cursing renters with the promise of impossible homes",
+    "summary": "AI-generated fake apartment listings are deceiving renters in NYC with impossible housing offers that don't exist.",
+    "description": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 16:00"
+  },
+  {
+    "id": "e3ee7bf9c638",
+    "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "summary": "Tech companies announced major layoffs in 2026 citing AI as a factor in workforce reductions.",
+    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "tags": [
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 01:27"
+  },
+  {
+    "id": "4e290a05b3ac",
+    "headline": "OpenAI launches new initiative to help find and patch open source bugs",
+    "summary": "OpenAI launched 'Patch the Planet' initiative using AI to identify and fix vulnerabilities in open-source software.",
+    "description": "OpenAI is using AI to help the open source community better protect itself.",
+    "tags": [
+      "OpenAI",
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 00:11"
+  },
+  {
+    "id": "e8cb91e07914",
+    "headline": "The AI world is getting ‘loopy’",
+    "summary": "Agentic AI systems are evolving into 'loops' where swarms of agents work continuously and autonomously in the background.",
+    "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "tags": [
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 20:53"
+  },
+  {
+    "id": "61e9dc0e635e",
+    "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "summary": "AI chipmaker Groq raised $650M and hired new executives after Nvidia's $20B deal, pivoting toward neocloud services.",
+    "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 20:13"
+  },
+  {
+    "id": "9382b27e4fa4",
+    "headline": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "summary": "Nvidia's liquid cooling reduces data center water use, but doesn't address AI's main water consumption from fossil fuel power plants.",
+    "description": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 20:08"
+  },
+  {
+    "id": "116f90f07d20",
+    "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "summary": "Google DeepMind and A24 partner with $75M investment to develop AI filmmaking tools for Hollywood.",
+    "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+    "tags": [
+      "Google",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 18:49"
+  },
+  {
+    "id": "4095a01fcff0",
+    "headline": "Amazon is testing Alexa+ in India with Hindi support",
+    "summary": "Amazon is testing Alexa+, a conversational AI assistant with Hindi-language support in India.",
+    "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 17:31"
+  },
+  {
+    "id": "2aead8353d99",
+    "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "summary": "Reflection AI will pay $150M/month for access to Nvidia's GB300 AI chips through SpaceX's Colossus 2 data center.",
+    "description": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+    "tags": [
+      "NVIDIA",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 16:51"
+  },
+  {
+    "id": "375ff1db8325",
+    "headline": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "summary": "Meta's employee-tracking program collected keystroke data to train AI models, raising privacy concerns among workers.",
+    "description": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+    "tags": [
+      "Meta",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 20:28"
+  },
+  {
+    "id": "d1538021fae3",
+    "headline": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "summary": "OpenAI released GPT-5.5-Cyber and 'Patch the Planet' initiative to fix open-source bugs amid cybersecurity concerns.",
+    "description": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 17:00"
+  },
+  {
+    "id": "793557a66d10",
+    "headline": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "summary": "MIT Tech Review covers chipmaking future and Anthropic's dispute with government regulators.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
+    "tags": [
+      "Hardware",
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 12:10"
+  },
+  {
+    "id": "4a1682bb25ff",
+    "headline": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+    "summary": "AI warning systems in India aim to prevent deadly collisions between elephants and humans in wildlife management.",
+    "description": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 09:00"
+  },
+  {
+    "id": "7a6f353e25b4",
+    "headline": "Three things to watch amid Anthropic’s latest feud with the government",
+    "summary": "Anthropic faces government conflict; story examines key issues in the dispute.",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 18:00"
+  },
+  {
+    "id": "047cf48cc446",
+    "headline": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "summary": "Subquadratic AI claims to have solved a mathematical bottleneck limiting large language model performance.",
+    "description": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing…",
+    "tags": [
+      "Startup",
+      "LLM",
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "19 Jun 2026, 10:40"
+  },
+  {
+    "id": "128d89fa33c9",
+    "headline": "NotebookLM's Latest Update Makes It an Even Better Research Tool - Lifehacker",
+    "summary": "Google's NotebookLM receives updates improving research capabilities with new memory features.",
+    "description": "NotebookLM's Latest Update Makes It an Even Better Research Tool LifehackerGoogle tests literature review matrix tool for NotebookLM TestingCatalog AI NewsWhat the New NotebookLM Memory Feature Means for Your Private Data Geeky GadgetsNotebookLM Flashcards: Full Customization Guide jetstream.blogI spent an afternoon trying to make NotebookLM hallucinate, and I was genuinely impressed XDA",
+    "tags": [
+      "Google",
+      "LLM"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSExZOGhlMGhXU1NJdW10Y0VlN2FXd2s3OGZWb3EydmdSNFA0VkJQUEZYenJDUmpVTTFfQ0xnWjNITWFFUUN2c243Umx0dEhOcjJuYng0XzRacnQ4LU02ZlY2UXhiOG9Z?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 14:30"
+  },
+  {
+    "id": "ea3e1b3e9eaa",
+    "headline": "Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications - Samsung",
+    "summary": "Samsung unveils fast UFS 5.0 storage solution optimized for on-device AI applications.",
+    "description": "Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications SamsungSamsung announces UFS 5.0 storage, and it may be in your next phone - GSMArena.com news GSMArena.comSamsung's new UFS 5.0 chip brings faster on-device AI and longer battery life for your smartphone Digital TrendsSamsung corrects a giant faux pas from the series Galaxy S26. Upcoming Galaxy S27 gets a brutal upgrade Samsung magazínSamsung reveals its first UFS 5.0 storage solution, could debut with th",
+    "tags": [
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEd1M3RFUzA4VVNMU0l4bFVPclVOblVkQm9qLXRFQ0NXV0dvT1c5cHc3dzNoTk8wZk9Fc2tjcEVYVlRmWVl2YzhKckZoMzN2ZC0zX3k1UDNxM2FpeERxS1dWczdTelBZMXBOeG91a09LSDRveUJqT1A0TFZQSWViN1hOQlJxNkd3UmEtMU1jREluX2hmRm5TZTA0WVVmanpYNDJPbjZ4TlpKNk83cEJNcVUwWFlFMjJjRFJJZTBn?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 23:00"
+  },
+  {
+    "id": "b6acb068c4e7",
+    "headline": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+    "summary": "Global intelligence agencies warn that AI cyber threats will impact users within months, posing imminent risks.",
+    "description": "The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the world’s most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Canada, Australia, and New Zealand—issued a rare joint intelligence briefing stating that upcoming artificial ... The post Top spy agencies say AI cyber threats will impact you within months. Here’s why appeared first on ",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 08:00"
+  },
+  {
+    "id": "defa89600f72",
+    "headline": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+    "summary": "Sakana AI launches Fugu multi-agent models to reduce vendor lock-in risks in enterprise AI deployments.",
+    "description": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models ... The post Mitigating vendor lock-in with Sakana AI Fugu multi-agent models appeared first on AI News.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 16:11"
+  },
+  {
+    "id": "ed50202c2c12",
+    "headline": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+    "summary": "L'Oréal partners with OpenAI to integrate Maybelline's virtual makeup try-on feature into ChatGPT.",
+    "description": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content production. The collaboration also covers L’Oréal’s internal use of AI in research, formulation, content production, ... The post L’Oréal brings Maybelline virtual try-on to ChatGPT appeared first on",
+    "tags": [
+      "OpenAI",
+      "Creative AI"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "22 Jun 2026, 10:00"
+  },
+  {
+    "id": "79daa9fb8a3c",
+    "headline": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
+    "summary": "Prime Intellect released prime-rl 0.6.0 framework for training trillion-parameter MoE models with reinforcement learning.",
+    "description": "Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous reinforcement learning on trillion-parameter Mixture-of-Experts models. It trained GLM-5 on SWE tasks at up to 131k sequence length, with sub-5-minute step times and 256 rollouts, on 28 H200 nodes. This breakdown covers the inference and training optimizations behind those numbers — FP8 inference, Wide Expert Parallelism, prefill/decode disaggregation, router replay, and 3-D parallelism (FSDP, EP, CP). The post Prime",
+    "tags": [
+      "Research",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 07:20"
+  },
+  {
+    "id": "b81e200e4839",
+    "headline": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+    "summary": "Guide for using GLM-5.2's OpenAI-compatible API with reasoning, function calling, and long-context retrieval.",
+    "description": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable. The post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning E",
+    "tags": [
+      "LLM",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-23",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 06:35"
+  },
+  {
     "id": "761e825f6709",
     "headline": "Barret Zoph is out at OpenAI again after just five months",
     "summary": "Barret Zoph, OpenAI's head of enterprise AI sales, has departed after just five months, marking another executive departure from the company.",
@@ -10403,321 +10789,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "24 May 2026, 02:52"
-  },
-  {
-    "id": "6d392d53a530",
-    "headline": "Google’s new anything-to-anything AI model is wild",
-    "summary": "Google's new multimodal AI model enables deepfaking and creative content generation across different media types.",
-    "description": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 07:00"
-  },
-  {
-    "id": "b85c9e3f7124",
-    "headline": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-    "summary": "Google's AI Overviews search feature malfunctions when processing certain words like 'disregard', breaking search results.",
-    "description": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the ...",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 16:39"
-  },
-  {
-    "id": "4b6a5b7cca2d",
-    "headline": "Elon, stop trying to make Grok happen",
-    "summary": "Elon Musk's Grok AI chatbot has low adoption rates and limited capabilities compared to competitors.",
-    "description": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's ...",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 13:17"
-  },
-  {
-    "id": "03b81d92f79b",
-    "headline": "The literary world isn’t prepared for AI",
-    "summary": "AI-generated content infiltrates prestigious literary awards, raising concerns about authenticity in publishing.",
-    "description": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 10:30"
-  },
-  {
-    "id": "473ed844f867",
-    "headline": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
-    "summary": "Spotify launches AI remix tool amid growing concerns about AI-generated music flooding streaming platforms.",
-    "description": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and ...",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 10:20"
-  },
-  {
-    "id": "6515876b57db",
-    "headline": "AI is being used to resurrect the voices of dead pilots",
-    "summary": "AI technology reconstructs dead pilots' voices from cockpit recordings, prompting NTSB to restrict access.",
-    "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "tags": [
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 23:03"
-  },
-  {
-    "id": "229cecb26069",
-    "headline": "You can no longer Google the word ‘disregard’",
-    "summary": "Google's AI search breaks when processing the word 'disregard', rendering search functionality unusable.",
-    "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 16:16"
-  },
-  {
-    "id": "0629c0460f7a",
-    "headline": "We tried Google’s AI glasses and they’re almost there",
-    "summary": "Google demonstrates Android XR prototype glasses with Gemini-powered translation and navigation overlays.",
-    "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-    "tags": [
-      "Google",
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 15:37"
-  },
-  {
-    "id": "1504d6e329df",
-    "headline": "Even If You Hate AI, You Will Use Google AI Search",
-    "summary": "Google's AI search answers are convenient but threaten web ecosystem and creator livelihoods.",
-    "description": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 15:00"
-  },
-  {
-    "id": "75905755dd28",
-    "headline": "Google’s AI Overviews break the dictionary when you use words like ‘disregard’ - 9to5Google",
-    "summary": "Google's AI Overviews fail to define words like 'disregard', breaking dictionary functionality in search.",
-    "description": "Google’s AI Overviews break the dictionary when you use words like ‘disregard’ 9to5GoogleYou can no longer Google the word ‘disregard’ TechCrunchGoogle Is Currently Struggling To Define Words Like Disregard, Stop And Ignore EngadgetWhy is everyone Googling 'disregard'? It's breaking Google USA TodayGoogle 'disregard' right now if you want to see where AI Overview falls short Business Insider",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aTJ4Mm1iNlJmdUlsTHBWMUIxNGt5N2kxelZKZG83eXViQ2g5NHJQU2hGbWtmM0tiUnVvREdBTUVfT3FwbTlncnpZSHRUZUczSE1fU0d1TGw5OVBIT2FmTGFGUTM2dFJ2cjJYeEdrOEdfZw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 16:30"
-  },
-  {
-    "id": "c5e03a4fc09d",
-    "headline": "Even If You Hate AI, You Will Use Google AI Search - WIRED",
-    "summary": "Google's AI search integration fundamentally changes how users find information online.",
-    "description": "Even If You Hate AI, You Will Use Google AI Search WIREDAsk AI or just Google it? Google makes a big change to a little search box NPRAI is changing the internet forever. Here’s how CNNGemini 3.5: frontier intelligence with action blog.googleGoogle, please don't ruin the internet with your changes to search Business Insider",
-    "tags": [
-      "Google",
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFdVakFWMW5ScjJMaXN5NmV1OTFRc0dhOXdBQzh3eEpjQWVtTU9LeTdOQkdESG9tckdnQTZfYzVrVVQzZE9CejdIeWFCRzhTYkxHZjVpYkZwYkNpa2hxNmpMRE5YUjhuX0Z6dmh4MjEwTjVIQ0JBeU9KTDVHalBDQnhpZFk?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 15:00"
-  },
-  {
-    "id": "eabe3857a7c2",
-    "headline": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me - WIRED",
-    "summary": "Google's Gemini avatar tool creates unnervingly realistic digital clones of users.",
-    "description": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me WIREDIntroducing Gemini Omni blog.googleGoogle’s new anything-to-anything AI model is wild The VergeAll the YouTube news from Google I/O 2026 YouTube Official Blog'Ask YouTube' brings AI-powered conversational search to video, adds Gemini Omni to Shorts TechCrunch",
-    "tags": [
-      "Google",
-      "Image Gen"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVFd2WTRMVWVtZl9OcUdyNFd5SVFud1pqN1NOYkxwNElIdU9xVjg4NFhia0VfNmRLX2xsZ3RrNVZrOHF4SVNSQUxWVTl3eXkwbDh5eTJaSGpBUVZLalU3c01CbmJERzd2TkVBdUFoUGF5T1JQVWZ2cjlmUEJ5MHpXSGxpWmlYeExTOE1Kek1EOUNHX05vZnd2UmRkenNEdDRlN1ZydQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "21 May 2026, 15:48"
-  },
-  {
-    "id": "b37160eda70d",
-    "headline": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
-    "summary": "Nous Research releases CNA method for steering LLM behavior through sparse neuron circuits without retraining.",
-    "description": "Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks. The post Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification appeared first on MarkTechPost.",
-    "tags": [
-      "Open Source",
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 10:32"
-  },
-  {
-    "id": "6e9ff07ff9e1",
-    "headline": "Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints",
-    "summary": "Perplexity open-sources Bumblebee, a security tool for scanning developer supply-chain vulnerabilities.",
-    "description": "Perplexity has open-sourced Bumblebee, an internal security tool it uses to protect the developer systems behind its search product, Comet, and Computer. Bumblebee is a read-only inventory collector for macOS and Linux developer endpoints. It scans npm, PyPI, Go modules, MCP configs, editor extensions, and browser extensions — without invoking any package manager or running any code. The post Perplexity Open-Sources Bumblebee: A Read-Only Supply-Chain Scanner for Developer Endpoints appeared fir",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 08:17"
-  },
-  {
-    "id": "d889b98a0e82",
-    "headline": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
-    "summary": "GBrain is an open-source memory layer enabling AI agents to retain context across sessions.",
-    "description": "AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all t",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 18:23"
-  },
-  {
-    "id": "4b409c7362e1",
-    "headline": "Has the great AI backlash begun? | Fiona Katauskas",
-    "summary": "Signs indicate a growing public backlash against AI adoption and deployment.",
-    "description": "The signs are thereSee more of Fiona Katauskas’s cartoons here Continue reading...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/picture/2026/may/23/has-the-great-ai-backlash-begun",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 15:00"
-  },
-  {
-    "id": "967dcfca9be2",
-    "headline": "Palantir hits back at Sadiq Khan after £50m contract with Met police blocked",
-    "summary": "Palantir defends £50m Met Police AI contract after London mayor blocked the deal citing concerns.",
-    "description": "London mayor accused of ‘putting politics above public safety’ for rejecting deal to use AI in intelligence analysisUK politics live – latest updatesPalantir has accused Sadiq Khan of “putting politics above public safety” after the London mayor blocked its £50m contract with the Metropolitan police in a move that has also led to tensions inside Labour over its involvement with the US tech company.Louis Mosley, who heads Palantir in the UK and Europe, accused Khan of politicising procurement aft",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 13:45"
-  },
-  {
-    "id": "d9b14a88f8ca",
-    "headline": "Academics in Meltdown Now That They’re Responsible for AI Hallucinations in Their Research Papers",
-    "summary": "Academic authors face responsibility for AI hallucinations and fabricated citations in research papers.",
-    "description": "\"So this means you expect every author to check every citation and make sure that every citation is real and accurate?\" The post Academics in Meltdown Now That They’re Responsible for AI Hallucinations in Their Research Papers appeared first on Futurism.",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/academics-meltdown-ai-hallucinations-research",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 06:45"
-  },
-  {
-    "id": "94267b00b6aa",
-    "headline": "Cannes Film Festival Says the Wall Street Journal Is Wrong: It’s Not Debuting an AI-Generated Feature Film This Week",
-    "summary": "Cannes Film Festival denies debuting AI-generated feature film, contradicting Wall Street Journal report.",
-    "description": "\"We can confirm that ‘Hell Grind’ was not screened as part of the official Festival de Cannes program.\" The post Cannes Film Festival Says the Wall Street Journal Is Wrong: It’s Not Debuting an AI-Generated Feature Film This Week appeared first on Futurism.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/cannes-not-showing-ai-generated-movie",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-23",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "22 May 2026, 14:01"
   }
 ]
