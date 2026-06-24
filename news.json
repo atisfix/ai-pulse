@@ -1,5 +1,321 @@
 [
   {
+    "id": "ed8b30041faa",
+    "headline": "Hollywood is bending the knee to OpenAI",
+    "summary": "Major Hollywood studios declined to acquire 'Artificial,' a biographical drama about OpenAI CEO Sam Altman, reportedly due to pressure from OpenAI.",
+    "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem ...",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 18:03"
+  },
+  {
+    "id": "29b0011668e9",
+    "headline": "Something’s off with Midjourney’s pivot to body scanners",
+    "summary": "Midjourney pivots from image generation to medical imaging with a futuristic ultrasound scanner announcement.",
+    "description": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal ...",
+    "tags": [
+      "Image Gen",
+      "Healthcare"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 11:56"
+  },
+  {
+    "id": "698691e7a5f4",
+    "headline": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "summary": "Google's Fitbit Air uses AI health coaching to provide personalized wellness insights and fitness recommendations.",
+    "description": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me ...",
+    "tags": [
+      "Healthcare"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 11:00"
+  },
+  {
+    "id": "3e7ff974b036",
+    "headline": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "summary": "Sony's Xperia 1 VIII AI camera assistant produces poor-quality photos, receiving criticism for underwhelming performance.",
+    "description": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you ...",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 09:25"
+  },
+  {
+    "id": "5135bdcdd5b2",
+    "headline": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "summary": "India's MoEngage uses AI agents to personalize marketing by assigning individual agents to each customer.",
+    "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 23:30"
+  },
+  {
+    "id": "f262c01a08e1",
+    "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "summary": "Anthropic launches Claude Tag for Slack, embedding AI teammates into enterprise communications to capture organizational knowledge.",
+    "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 17:00"
+  },
+  {
+    "id": "039d597aa142",
+    "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "summary": "Stockholm startup Fika Jobs raises $4M for video-first hiring platform combining AI interview agents with video profiles.",
+    "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 13:00"
+  },
+  {
+    "id": "bf2b523d79c2",
+    "headline": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+    "summary": "Qualcomm acquires Modular, a chip software startup, for nearly $4 billion to enhance AI infrastructure capabilities.",
+    "description": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 12:36"
+  },
+  {
+    "id": "86a4e1a950ac",
+    "headline": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "summary": "Oracle funds multibillion-dollar data center investments for AI through cost-cutting measures including 21,000 layoffs.",
+    "description": "Oracle is spending billions on data center infrastructure to support AI.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 20:17"
+  },
+  {
+    "id": "84f19dffcb19",
+    "headline": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+    "summary": "Stripe, Anthropic, and OpenAI back respiratory infection research, applying AI to healthcare innovation.",
+    "description": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Healthcare"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 12:00"
+  },
+  {
+    "id": "450d963e8551",
+    "headline": "The emergence of the web data infrastructure layer for AI",
+    "summary": "Web data infrastructure layer emerges to provide enterprises with structured, large-scale data for AI applications.",
+    "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models. To understand this challenge, consider the foundation of the web itself. The web was not designed…",
+    "tags": [
+      "Research"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 11:59"
+  },
+  {
+    "id": "8caa3b3c2881",
+    "headline": "Exclusive / DeepMind Chief Demis Hassabis says Google’s still winning AI talent - Semafor",
+    "summary": "DeepMind's Demis Hassabis claims Google maintains advantage in AI talent recruitment.",
+    "description": "Exclusive / DeepMind Chief Demis Hassabis says Google’s still winning AI talent SemaforGoogle’s online dominance is showing signs of cracking in AI era CNBCGoogle Losing Ground as Consumers Seek Out Non-AI Search PYMNTS.comI replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better ZDNETGoogle's absolute powerhouse status, which accounts for more than 90% of global searches, is shaking.. 매일경제",
+    "tags": [
+      "Google",
+      "Research"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVW9EWVpNZUwzeEUwVTktdmhOOFluQkh2bjJfZlhKWGRjWWdnNXlieVN2YnMwUzhlQkNvTHFadV9FdHVPci1rV3ZFZDdiNVFNZjBWdERIN1B4WUZFX0gySzFhVGJ1Nm5BenVTNVZxZFQxY0pTVjF6NURrSWQzZy1qYkdnVU1FekZ4aTMyc2pLOFJfSExGODFrWlRaUVlEVHN4YS1jMkgxdjB6LUlVWXc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 08:43"
+  },
+  {
+    "id": "6e0a001e2747",
+    "headline": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "summary": "Samsung expands employee access to ChatGPT Enterprise and Codex after relaxing AI tool restrictions.",
+    "description": "Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX division includes smartphones, consumer electronics, and home appliances. Samsung plans to use ... The post Samsung opens ChatGPT Enterprise and Codex access after AI restrictions appeared first on AI News",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 10:00"
+  },
+  {
+    "id": "600f2b173969",
+    "headline": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "summary": "Anthropic releases Claude Tag beta for Slack, embedding AI agents directly in enterprise channels.",
+    "description": "Anthropic launched a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude. The integration allows any team member in the channel to delegate a task, review ... The post Anthropic drops ‘workplace AI agents’ directly inside Slack appeared first on AI News.",
+    "tags": [
+      "Anthropic",
+      "Agents"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 09:00"
+  },
+  {
+    "id": "f593e5e0f2f8",
+    "headline": "Omio scales travel product development using OpenAI models",
+    "summary": "Travel platform Omio integrates OpenAI models to accelerate product development and engineering operations.",
+    "description": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign ... The post Omio scales travel product development using OpenAI",
+    "tags": [
+      "OpenAI"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 16:32"
+  },
+  {
+    "id": "754d46e07ac4",
+    "headline": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
+    "summary": "Tutorial demonstrates building offline Graphify pipeline to convert Python codebases into knowledge graphs.",
+    "description": "In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, and d",
+    "tags": [
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 09:36"
+  },
+  {
+    "id": "861dd2e0897e",
+    "headline": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
+    "summary": "Comprehensive comparison of 16 generative AI coding tools spanning autocomplete, application generation, and multi-agent systems.",
+    "description": "Generative AI has reshaped how software gets built. What began as line-by-line autocomplete now spans full application generation, multi-agent build pipelines, and natural-language interfaces to entire codebases. Large language models trained on code can read context, follow intent, and produce working frontends, backends, and infrastructure with little manual setup. For early-level AI engineers, software engineers, ... The post 16 Best Generative AI Coding Tools in 2026 Compared: Features, and ",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 08:12"
+  },
+  {
+    "id": "18e4815b447f",
+    "headline": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
+    "summary": "DFlash speculative decoding uses block diffusion for 15x throughput improvement on NVIDIA Blackwell GPUs.",
+    "description": "UC San Diego's DFlash replaces autoregressive drafting with a lightweight block diffusion model for speculative decoding. It drafts whole token blocks in a single forward pass and conditions on target hidden features through KV injection. The paper reports up to 6.08x lossless speedup on Qwen3-8B, while NVIDIA reports up to 15x throughput on Blackwell at fixed interactivity. DFlash ships 20 checkpoints and supports SGLang, vLLM, and TensorRT-LLM. The post DFlash Speculative Decoding Drafts Whole",
+    "tags": [
+      "Hardware",
+      "Research"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 07:21"
+  },
+  {
+    "id": "af7a95561ab5",
+    "headline": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
+    "summary": "Mistral OCR 4 extracts structured document data with citations for RAG and enterprise search pipelines.",
+    "description": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint. The post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pi",
+    "tags": [
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-24",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 23:43"
+  },
+  {
     "id": "fa3550791ed9",
     "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
     "summary": "Nvidia's Rubin data center design uses liquid cooling to reduce water consumption while maintaining performance for AI workloads.",
@@ -10412,382 +10728,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "25 May 2026, 12:02"
-  },
-  {
-    "id": "7b97431541aa",
-    "headline": "Hackers are learning to exploit chatbot ‘personalities’",
-    "summary": "Hackers are learning to exploit chatbot personalities to manipulate AI systems through social engineering attacks.",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. ...",
-    "tags": [
-      "LLM",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 08:00"
-  },
-  {
-    "id": "24e41edafd9b",
-    "headline": "Ferrari is using IBM’s AI to create F1 superfans",
-    "summary": "IBM and Ferrari use AI to personalize fan experiences and redefine engagement in F1 sports.",
-    "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 15:08"
-  },
-  {
-    "id": "ad67df58efc5",
-    "headline": "Apple Preparing New 'Gen AI' Website Ahead of WWDC - MacRumors",
-    "summary": "Apple prepares new AI website ahead of WWDC 2025, signaling major AI announcements coming.",
-    "description": "Apple Preparing New 'Gen AI' Website Ahead of WWDC MacRumorsApple kicks off Worldwide Developers Conference on June 8 AppleApple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote 9to5Mac'GenAI' Apple subdomain surfaces weeks ahead of WWDC AppleInsiderApple Reveals Dates of Tim Cook's Final WWDC as CEO CNET",
-    "tags": [
-      "Apple"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRjRmN2NKNVdBdjNUWjgtcWhDdWpfOXhDWFJCcV9vV0U3UVBoRUszZ2NPRW84aHRHRUk2Z1JqWHBHdTl2bTB1VER6R3NQQnY4aWpSNFNZdGdUTjBEenhfZklIQjZTeDVobi1ldw?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 21:41"
-  },
-  {
-    "id": "e2b02ed99758",
-    "headline": "OpenClaw passed 300,000 GitHub stars. Then Google launched Spark. - The New Stack",
-    "summary": "OpenClaw hits 300K GitHub stars as Google launches Spark, advancing AI search and agentic capabilities.",
-    "description": "OpenClaw passed 300,000 GitHub stars. Then Google launched Spark. The New StackGoogle reinvents search before AI rivals replace it AxiosThe Gemini app becomes more agentic, delivering proactive, 24/7 help blog.googleSundar Pichai Understands Why People Are Anxious About A.I. The New York TimesAsk AI or just Google it? Google makes a big change to a little search box NPR",
-    "tags": [
-      "Agents",
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpX3ZjZ282d21iTVBCX0NqUE9jakZlb1pVbXF6WWl3c1ZqUVhyRVlRLXg5X0p4MGxMQjE2RGpTMjNPclJLQzVfbW10eWIzWkhITU1GQVByQ2Zrel9D?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 15:34"
-  },
-  {
-    "id": "11735dcb6542",
-    "headline": "AI is changing the internet forever. Here’s how - CNN",
-    "summary": "AI is fundamentally transforming how the internet works, changing search and content discovery.",
-    "description": "AI is changing the internet forever. Here’s how CNNWant to Ditch Google Search? Try These 5 Other Free Search Engines CNETSix search engines worth trying now that Google isn’t really Google anymore TechCrunchThe end of the internet's golden age MSNSearch on: the future of search and AI CEOWORLD magazine",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZMG9jaVBadkZsRVRYendyanBVTVFzYlBYemdhNF9rMklXRV9fYUprTERvSE5lc3QxczhvbTNkM294cnB1SVJtWGdaMnVnbFcwTWpTZ3lQeFFiQ1FNa2lmMFNSTks?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 09:00"
-  },
-  {
-    "id": "8ed4ecb1f601",
-    "headline": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
-    "summary": "UK companies rebrand ordinary automation as AI to appear tech-focused, practicing 'AI washing'.",
-    "description": "PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence UK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the technology, public relations firms have said.Weary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are increas",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 06:00"
-  },
-  {
-    "id": "946d749e1707",
-    "headline": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu",
-    "summary": "Opinion piece argues avoiding AI tools preserves human thinking and intellectual autonomy.",
-    "description": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous moveLong before the age of multi-billion-dollar AI companies promising to disrupt the field of software development, I was learning to code the hard way.It was the mid-2000s, and I was a child with unmonitored access to the family computer. With the help of a basic text editor program, I learned how to make websites – first basic, then increasingly comp",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 07:00"
-  },
-  {
-    "id": "e25449c4de39",
-    "headline": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
-    "summary": "Directors debate AI in filmmaking at Cannes, with Aronofsky supporting it and del Toro opposing.",
-    "description": "Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 05:00"
-  },
-  {
-    "id": "3a76b1eab55d",
-    "headline": "How big tech got its way on Trump’s AI executive order",
-    "summary": "Trump's AI executive order reverses safety review, favoring tech industry interests over regulation.",
-    "description": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked powerOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly backed out. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US governm",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 14:00"
-  },
-  {
-    "id": "b6a2f3c05605",
-    "headline": "Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot",
-    "summary": "Hackers use inaudible sounds in podcasts to hijack AI voice chatbots, revealing security vulnerability.",
-    "description": "Be careful. The post Hackers Find That Inaudible Sounds Hidden in Podcasts or Random Videos Can Hijack Your AI Voice Chatbot appeared first on Futurism.",
-    "tags": [
-      "LLM",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/hackers-inaudible-recordings-hijack-ai-voice-chatbots",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 07:30"
-  },
-  {
-    "id": "7a0db5b93e84",
-    "headline": "Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire?",
-    "summary": "Barnes & Noble CEO approves selling AI-generated books, raising concerns about content quality.",
-    "description": "\"I have actually no problem selling any book.\" The post Barnes and Noble CEO Says Sure, Why Not Sell AI-Generated Books and Set Our Reputation On Fire? appeared first on Futurism.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/barnes-and-noble-ceo-ai-book",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 12:45"
-  },
-  {
-    "id": "b078d0e9717a",
-    "headline": "MIT Expert Warns Courts “Will Basically Have to Grind to a Halt” as They’re Overwhelmed by AI-Generated Lawsuits",
-    "summary": "MIT expert warns AI-generated lawsuits could overwhelm courts, threatening legal system function.",
-    "description": "\"There's a tradeoff here.\" The post MIT Expert Warns Courts “Will Basically Have to Grind to a Halt” as They’re Overwhelmed by AI-Generated Lawsuits appeared first on Futurism.",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/mit-expert-ai-generated-lawsuits-spike",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 11:15"
-  },
-  {
-    "id": "950ae8e2735c",
-    "headline": "The Amish Are Embracing ChatGPT",
-    "summary": "Amish communities are adopting ChatGPT, finding practical value despite traditional skepticism of tech.",
-    "description": "\"The more I used it, the more I thought this could actually be a good thing.\" The post The Amish Are Embracing ChatGPT appeared first on Futurism.",
-    "tags": [
-      "LLM"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/amish-chatgpt",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 10:30"
-  },
-  {
-    "id": "745f2de3c249",
-    "headline": "Integral Intelligence: a Catholic view of the AI debate",
-    "summary": "Article explores Catholic theological perspective on AI and artificial intelligence debates.",
-    "description": "Article URL: https://localoptimumai.substack.com/p/integral-intelligence-a-catholic Comments URL: https://news.ycombinator.com/item?id=48256670 Points: 1 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://localoptimumai.substack.com/p/integral-intelligence-a-catholic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 12:17"
-  },
-  {
-    "id": "977b5d108c5e",
-    "headline": "Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit",
-    "summary": "Pi-Mojo is a Mojo programming language port of Pi AI agent toolkit for developers.",
-    "description": "Article URL: https://github.com/atveit/pi-mojo/tree/main Comments URL: https://news.ycombinator.com/item?id=48256552 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/atveit/pi-mojo/tree/main",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:59"
-  },
-  {
-    "id": "fbdb891185fc",
-    "headline": "Autotrader – paper trading AI agent for Indian equities",
-    "summary": "Autotrader is an AI agent for paper trading Indian equities using automated decision-making.",
-    "description": "Article URL: https://github.com/analyticalmonk/autotrader Comments URL: https://news.ycombinator.com/item?id=48256526 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/analyticalmonk/autotrader",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:55"
-  },
-  {
-    "id": "7a750be3eb6c",
-    "headline": "Supercharge Claude Code, Cursor, Codex with Semantic Code Intelligence",
-    "summary": "Semantic Code Intelligence tool enhances Claude, Cursor, and Codex with code understanding.",
-    "description": "Article URL: https://github.com/colbymchenry/codegraph Comments URL: https://news.ycombinator.com/item?id=48256407 Points: 1 # Comments: 1",
-    "tags": [
-      "Open Source"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://github.com/colbymchenry/codegraph",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:25"
-  },
-  {
-    "id": "ae890e53999e",
-    "headline": "The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain",
-    "summary": "AI chip production relies on 30-country supply chain, not just US-China competition.",
-    "description": "Article URL: https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/ Comments URL: https://news.ycombinator.com/item?id=48256396 Points: 2 # Comments: 1",
-    "tags": [
-      "Hardware",
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:23"
-  },
-  {
-    "id": "9609734343dc",
-    "headline": "Responsible Work with AI",
-    "summary": "Guide on responsible practices and ethics for working with AI systems.",
-    "description": "Article URL: https://www.satisfice.com/responsible Comments URL: https://news.ycombinator.com/item?id=48256376 Points: 1 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.satisfice.com/responsible",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:20"
-  },
-  {
-    "id": "83c61c4da389",
-    "headline": "The AI Existential Crisis: Western AI Agents Will Win Commerce",
-    "summary": "Analysis predicts Western AI agents will dominate commerce while Chinese agents win globally.",
-    "description": "Article URL: https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366 Comments URL: https://news.ycombinator.com/item?id=48256365 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents",
-      "Market"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:18"
-  },
-  {
-    "id": "3215677b03c5",
-    "headline": "Orchestration problems hurt legal AI",
-    "summary": "Legal AI systems struggle with orchestration problems requiring better ontologies.",
-    "description": "Article URL: https://lexifina.com/blog/legal-ontologies-for-ai Comments URL: https://news.ycombinator.com/item?id=48256327 Points: 1 # Comments: 0",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://lexifina.com/blog/legal-ontologies-for-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:11"
-  },
-  {
-    "id": "f0268d721c53",
-    "headline": "South Korea's deputy PM says AI wealth must benefit the public",
-    "summary": "South Korea's deputy PM advocates sharing AI wealth benefits with the public.",
-    "description": "Article URL: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html Comments URL: https://news.ycombinator.com/item?id=48256265 Points: 1 # Comments: 0",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Hacker News AI",
-    "link": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:00"
-  },
-  {
-    "id": "e15af892cdb3",
-    "headline": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
-    "summary": "Benchmarking study compares vision-capable LLMs vs OCR for processing long documents.",
-    "description": "I benchmarked vision-capable LLMs (the \"just attach the PDF and let the model read it\" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Na",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-24",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 02:52"
   }
 ]
