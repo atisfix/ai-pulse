@@ -1,5 +1,254 @@
 [
   {
+    "id": "7e9966e1b197",
+    "headline": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "summary": "Meta revives Facebook Creator Studio as a standalone AI companion app to help creators connect with audiences and manage content more easily.",
+    "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of ...",
+    "tags": [
+      "Meta",
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 05:06"
+  },
+  {
+    "id": "d8920b7c1992",
+    "headline": "Figma now has AI motion graphics and shader tools",
+    "summary": "Figma announces AI motion graphics and shader tools at Config conference to help creatives automate tedious design tasks.",
+    "description": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 12:15"
+  },
+  {
+    "id": "894396d589e1",
+    "headline": "OpenAI reveals its first AI processor: Jalapeño",
+    "summary": "OpenAI reveals Jalapeño, a new AI processor chip developed with Broadcom designed to power current and future large language models.",
+    "description": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI ...",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 10:36"
+  },
+  {
+    "id": "e0b47aee46c1",
+    "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "summary": "Cerebras stock drops after first earnings report since going public, with CEO clarifying margin outlook concerns in AI chipmaker business.",
+    "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+    "tags": [
+      "Hardware",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 22:41"
+  },
+  {
+    "id": "cd975e7f643d",
+    "headline": "AI researchers continue to leave Google for its rivals",
+    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel leave Google for Anthropic, continuing brain drain to rival companies.",
+    "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "tags": [
+      "Google",
+      "Anthropic",
+      "Research"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 21:42"
+  },
+  {
+    "id": "b74dd2532291",
+    "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "summary": "Companies implement token rationing to prevent employees from exhausting AI budgets on small tasks as costs escalate.",
+    "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 20:09"
+  },
+  {
+    "id": "c92b10e5ae31",
+    "headline": "Facebook rolls out an AI companion app for creators",
+    "summary": "Facebook launches AI companion app for creators with built-in AI creator assistant, currently in testing phase.",
+    "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "tags": [
+      "Meta",
+      "Creative AI"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 17:16"
+  },
+  {
+    "id": "02bcd4c8b56a",
+    "headline": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "summary": "Humanoid robotics startup Agility Robotics plans SPAC merger valuing company at $2.5 billion with $620M in proceeds.",
+    "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "tags": [
+      "Robotics",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 16:48"
+  },
+  {
+    "id": "9726b6e68d18",
+    "headline": "World Cup Teams Are in a Race for AI Dominance",
+    "summary": "FIFA provides AI agent for World Cup teams to level playing field, raising questions about AI's role in competitive sports.",
+    "description": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 11:00"
+  },
+  {
+    "id": "b10c060a431b",
+    "headline": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+    "summary": "Investigation reveals UK police's predictive crime analytics system has reliability issues as departments embrace AI technology.",
+    "description": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 10:00"
+  },
+  {
+    "id": "1e5d9d531864",
+    "headline": "How to Opt Out of Google Search’s New AI Data Training Feature",
+    "summary": "Google's Search feature now stores media uploads from user interactions for AI training; users can opt out of data collection.",
+    "description": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+    "tags": [
+      "Google"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 22:36"
+  },
+  {
+    "id": "5fe975008c5b",
+    "headline": "A24 Knows You’re Mad About the Google AI Collab",
+    "summary": "Indie film fans criticize A24 studio over Google DeepMind's $75 million investment as AI deepens influence in Hollywood.",
+    "description": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 21:05"
+  },
+  {
+    "id": "01991f2ca159",
+    "headline": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+    "summary": "China's top AI experts express concerns about US-China AI arms race risks, worried about potential 'Chernobyl moment.'",
+    "description": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+    "tags": [
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 18:45"
+  },
+  {
+    "id": "4246bc8912bf",
+    "headline": "Facebook rolls out an AI companion app for creators - TechCrunch",
+    "summary": "Meta revives Facebook Creator Studio as standalone AI companion app to help creators manage content and audience engagement.",
+    "description": "Facebook rolls out an AI companion app for creators TechCrunchFacebook’s Creator Studio has been revived as an AI companion app The VergeMeta brings back Facebook Creator Studio Social Media TodayFacebook Creator Assistant Turns Analytics Into AI Coaching WeRSMFacebook revives Creator Studio to win back creators MediaNama",
+    "tags": [
+      "Meta",
+      "Creative AI"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlJlM1M5OFEyTmF5NnJlWkh1OXQ5cTQtUHZHOUdyWFF1U3AyOHJ5NkdhdWxBRnM5VkRzTWlSY2tGMEFFMldlaXVYcXl0T2haeHRzVWo3cUU4Yld2SUlDRWxkMUZWRDdOMEhtaVJDT2gtRS1tQ2tTTmdmeExVWXdqQnM3c0I5ME9VSTZMbnhGcw?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 17:16"
+  },
+  {
+    "id": "af96bda05233",
+    "headline": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+    "summary": "AI technology reveals previously hidden text in ancient papyrus scroll buried by Mount Vesuvius, discussing Stoic philosophy.",
+    "description": "Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviourThe surviving part of an ancient scroll that was burnt to a crisp when Mount Vesuvius erupted nearly 2,000 years ago has been virtually unwrapped and read with help from artificial intelligence.Researchers uncovered 20 columns of previously hidden text covering more than a metre of charred papyrus without physically unrolling the scroll. The work discusses stoic philosophy on eth",
+    "tags": [
+      "Research"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-25",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 15:48"
+  },
+  {
     "id": "ed8b30041faa",
     "headline": "Hollywood is bending the knee to OpenAI",
     "summary": "Major Hollywood studios declined to acquire 'Artificial,' a biographical drama about OpenAI CEO Sam Altman, reportedly due to pressure from OpenAI.",
@@ -10335,398 +10584,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "25 May 2026, 09:15"
-  },
-  {
-    "id": "809d7dbb1959",
-    "headline": "Everyone is navigating AI security in real time — even Google",
-    "summary": "Google and other companies are navigating AI security challenges in real-time during this transition period.",
-    "description": "We're in the transition period -- all of us.",
-    "tags": [
-      "Google",
-      "Research"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 21:39"
-  },
-  {
-    "id": "d6259de6d9f9",
-    "headline": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-    "summary": "Amazon's Bee wearable offers convenience but raises privacy concerns similar to other AI wearables.",
-    "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 15:00"
-  },
-  {
-    "id": "767ecd20917c",
-    "headline": "The AI Era Is Creating a Bug Hunting Arms Race",
-    "summary": "AI-powered exploit development is accelerating vulnerability discovery in software, creating a bug-hunting arms race.",
-    "description": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 10:30"
-  },
-  {
-    "id": "7a1fc594900e",
-    "headline": "Microsoft Copilot Returns as a Sidebar in Windows 11 - TechPowerUp",
-    "summary": "Microsoft rolls back Copilot interface, allowing users to exile the floating button and return it as a sidebar in Windows 11.",
-    "description": "Microsoft Copilot Returns as a Sidebar in Windows 11 TechPowerUpMicrosoft lets users exile floating Copilot button after interface rage The RegisterMicrosoft's big Copilot rollback continues as Office now lets you move its button to the ribbon XDAMicrosoft admits the floating Copilot button in Word, Excel and PowerPoint was a mistake, lets you hide it after backlash Windows LatestWindows 11 now lets you remove Microsoft Copilot app with Group Policy or Registry, as it tries to win back users Win",
-    "tags": [
-      "Microsoft"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcG80enhmaFFpQW1UWVYyRVQtUGt2b3BDT3J2YzdvTm05d3g2YU9oRTh4WnYzWWpyc1pCVVE4aU1MQlhSZ2Q4ZXp5aXM2dUR3YUdRcmk0bl9wN1R4SGVKOC0wdTdHN3M1T1YwdFRreWhCZlVjZnRmOGdaM2RvOUp1YWFJdW9aMkR2NFFITkZFNEbSAZYBQVVfeXFMTVlkaFp5eTZXQzNibmFWdHd2MU1qWDUxaE1HQVREV01xRlJUV2ppaFdLc19HNS03bGFRbUVnZlNkaWk3Y2xuOEF4YW9ULVU2cDNHUHdPQS1TRWhBRl9nc1lUem1wb0tHUGE2Y0UtR0luT1Q1VTBoaDFmejZaalZOU1VvQ181WEFqamMxa0ZyWllManhBRllB?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 07:41"
-  },
-  {
-    "id": "ab655b5c6af5",
-    "headline": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote - 9to5Mac",
-    "summary": "Apple registers a 'gen AI' subdomain ahead of WWDC keynote, signaling upcoming AI announcements.",
-    "description": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote 9to5MacApple Preparing New 'Gen AI' Website Ahead of WWDC MacRumors'GenAI' Apple subdomain surfaces weeks ahead of WWDC AppleInsiderApple's WWDC 2026 has gone dark, and your iPhone's new Siri might follow PhoneArenaApple registers genai.apple.com ahead of WWDC — and it has a lot to prove gagadget.com",
-    "tags": [
-      "Apple"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TQWNteWpuTXZUa2lqNnNlNGFMdzBqbGh5MElDVkUyei1keE5lV1o1NXkyUmNlWmVWRVptdk15ajdoaThETXNmY1k1Rmp2WklvVzJiaHRoUTN4TXRMN19pWC1RaVdDQV95LTVQOUJIaVI4bmU1bU1VM2hiT04?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 22:37"
-  },
-  {
-    "id": "ca1acd469a7e",
-    "headline": "You can turn off AI in Google Search results with this easy modifier - 9to5Google",
-    "summary": "Google Search now lets users disable AI results with a modifier; the search engine struggles with certain words like 'disregard'.",
-    "description": "You can turn off AI in Google Search results with this easy modifier 9to5GoogleYou can no longer Google the word ‘disregard’ TechCrunchGoogle Is Currently Struggling To Define Words Like Disregard, Stop And Ignore EngadgetGoogle’s 'biggest upgrade in 25 years' stumbles over one simple word 12NewsSick of AI Overviews? The old Google is still hiding in plain sight PCWorld",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iamhjWDc3YTlvRnNNb1FUOW1wdHRRWHZfUC1RSDFxMUcxSUoyYjZjTWZuaXVuWEY0SVh0VUxVTjlETjRpWmdRSmRqOGNsY1p2bWlsUTZfbXRyRWhqMUF0MWhHaVNEaGxvanBOY0RrUTdIbVBuUTVhZXNfeFA?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 15:05"
-  },
-  {
-    "id": "afe396b3ea8b",
-    "headline": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times",
-    "summary": "Google revamps its search box for the first time in 25 years with AI-powered features and agentic Gemini capabilities.",
-    "description": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years The New York TimesI/O 2026: Welcome to the agentic Gemini era blog.googleAsk AI or just Google it? Google makes a big change to a little search box NPROpenClaw passed 300,000 GitHub stars. Then Google launched Spark. The New StackGoogle reinvents search before AI rivals replace it Axios",
-    "tags": [
-      "Google",
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzZ0WC1UelpJRkNTMldfbkcwaW43MDJ3cXh2elVTLVBhUHZBeTFWYWNXT3NHWjlPcFJ5SjZkOTdOZ21BdEJpeFE5NlE4ZUhpQllLcWEtM0RtTlJhdE9yOUdEajRELTR3ZVFpbXBrbVg3cUVVSGFyc1hTRERfZHhUbg?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 11:57"
-  },
-  {
-    "id": "f420f7aabdb7",
-    "headline": "Google's overhaul marks the end of the internet's golden age - Axios",
-    "summary": "Google's AI-driven search overhaul signals the end of the internet's golden age as AI fundamentally changes online discovery.",
-    "description": "Google's overhaul marks the end of the internet's golden age AxiosAI is changing the internet forever. Here’s how CNNWant to Ditch Google Search? Try These 5 Other Free Search Engines CNETSix search engines worth trying now that Google isn’t really Google anymore TechCrunchGoogle AI Mode: Did We Gain Speed ​​or Lose Control? İndigo Dergisi",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TQklURVB4V3dyeHpUMGo4XzdWTkk0TnNjZ0R4VE1fTy1zYXZNbDlUNmVzNmh4UUFBMHUxZEU3RFBVZjl3cWg4U1FEcW5nNjRHMk5vVi14NEJZYm9UczVIRnFHWHpQUXJRZXlxTTJHQ0xCbjVhM0xR?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 12:10"
-  },
-  {
-    "id": "7ced2a373ea5",
-    "headline": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
-    "summary": "Guide ranks authentication platforms for AI agents and MCP servers as MCP adoption reaches 97M monthly SDK downloads.",
-    "description": "As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms — WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare — on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments. The post Best Authentication Platforms for AI Agents and MCP Servers in 2026 appeare",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 10:34"
-  },
-  {
-    "id": "922d3ff76103",
-    "headline": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
-    "summary": "WorkOS releases auth.md, an open agent registration protocol using OAuth standards for structured AI agent registration.",
-    "description": "Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user — without a human filling out a form. The post WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards appeared first on MarkTechPost.",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 07:38"
-  },
-  {
-    "id": "03cb5cc1c654",
-    "headline": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
-    "summary": "Tutorial demonstrates building a Langfuse observability pipeline for LLM tracing, prompt management, and experiment tracking.",
-    "description": "In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start ... The post Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments appea",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 23:03"
-  },
-  {
-    "id": "0aa3fdd94420",
-    "headline": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
-    "summary": "StepFun releases StepAudio 2.5 Realtime, an end-to-end voice model with customizable personas and paralinguistic comprehension.",
-    "description": "StepFun, the Shanghai-based AI lab, released StepAudio 2.5 Realtime in May 2026 — an end-to-end real-time speech large language model with fully customizable persona capabilities. The model connects via a WebSocket API, supports Chinese and English, and ranked first across all five benchmark dimensions tested in April 2026, including an 80.41 human evaluation score and 82.18 on paralinguistic comprehension. The post StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 22:51"
-  },
-  {
-    "id": "0b2e9d504fab",
-    "headline": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4’s 33.5%",
-    "summary": "Microsoft Research introduces Webwright, a terminal-native web agent framework achieving 60.1% on Odyssey benchmarks.",
-    "description": "Microsoft Research introduces Webwright, a terminal-native browser agent framework that replaces click-trace web automation with reusable Playwright scripts. Using a single agent loop across three modules and roughly 1,000 lines of code, Webwright powered by GPT-5.4 reaches 60.1% on the long-horizon Odysseys benchmark and 86.7% on Online-Mind2Web — the highest AutoEval score among open-sourced harness recipes. The post Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework ",
-    "tags": [
-      "Microsoft",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 08:56"
-  },
-  {
-    "id": "0bed9316f65e",
-    "headline": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
-    "summary": "NVIDIA releases Gated DeltaNet-2, a linear attention layer improving memory editing in AI models.",
-    "description": "Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it outpe",
-    "tags": [
-      "NVIDIA",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 07:42"
-  },
-  {
-    "id": "3d644f61c40b",
-    "headline": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
-    "summary": "Tencent open-sources TencentDB Agent Memory, a 4-tier local memory system for AI agents.",
-    "description": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation → L1 Atom → L2 Scenario → L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Tencen",
-    "tags": [
-      "Agents",
-      "Open Source"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 19:31"
-  },
-  {
-    "id": "43cc6a5b715d",
-    "headline": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
-    "summary": "Tutorial shows building advanced SuperClaude workflows with commands, agents, modes, and session memory using Anthropic API.",
-    "description": "In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API. The post Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory appeared first on MarkTechPost.",
-    "tags": [
-      "Anthropic",
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "23 May 2026, 19:05"
-  },
-  {
-    "id": "90d6b4be04e2",
-    "headline": "Pope Leo denounces ‘culture of power’ driving rise of AI",
-    "summary": "Pope Leo denounces the 'culture of power' driving AI's rapid rise and calls for 'disarming' artificial intelligence.",
-    "description": "Pontiff calls for ‘disarming’ of artificial intelligence and apologises for church’s delay in condemning slavery Pope Leo has denounced the “culture of power” driving the rapid rise of artificial intelligence while warning that the technology must be subject to the “most rigorous” ethical constraints as it infiltrates everything from work to war.In his encyclical – the first major text on safeguarding humankind of his papacy – he also apologised for the Catholic church’s long delay in condemning",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 12:29"
-  },
-  {
-    "id": "39e0cbe33e14",
-    "headline": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
-    "summary": "Scotland's green datacentre policy overlooks AI emissions impacts, failing to account for post-ChatGPT energy demands.",
-    "description": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural ScotlandA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.“Green datacentres” are at the heart of Scotland’s ambitions to develop economically. Enshrined in national policy, they are part of a larger, UK-wide effort to attract big AI investment to Scot",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 23:01"
-  },
-  {
-    "id": "56f1c3745309",
-    "headline": "People Are Loading Their Writing With Typos to Prove They’re Not AI",
-    "summary": "People intentionally add typos to writing to signal human authorship as AI becomes increasingly unavoidable.",
-    "description": "Typos have become indicative of the human element. At a time when AI is becoming unavoidable, they're a welcome sight. The post People Are Loading Their Writing With Typos to Prove They’re Not AI appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/typos-ai-humans-authentic",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 08:30"
-  },
-  {
-    "id": "a61136731a4c",
-    "headline": "Record Label Claims That Bizarre AI-Generated “Viking Rappers” Garnering Millions of Views are Real People",
-    "summary": "Record label falsely claims AI-generated 'Viking Rapper' videos featuring millions of views are real people.",
-    "description": "\"This is my creative sanctuary, where the viking blood flows into every track.\" The post Record Label Claims That Bizarre AI-Generated “Viking Rappers” Garnering Millions of Views are Real People appeared first on Futurism.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-generated-viking-rap",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 07:45"
-  },
-  {
-    "id": "248629e58411",
-    "headline": "Top AI Models Showing Disturbing Behavior as They Become More Advanced",
-    "summary": "Advanced AI models display disturbing behaviors as capabilities increase, raising concerns about rogue deployments.",
-    "description": "\"Given rapidly advancing capabilities, we expect the plausible robustness of rogue deployments to increase substantially in the coming months.\" The post Top AI Models Showing Disturbing Behavior as They Become More Advanced appeared first on Futurism.",
-    "tags": [
-      "Research"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-rogue-disturbing-advanced",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 12:00"
-  },
-  {
-    "id": "ccba6d72bc71",
-    "headline": "Fury Explodes at Short Films Using AI to Make Erotica of Women From the 1970s",
-    "summary": "Outrage erupts over AI-generated non-consensual adult content depicting women from the 1970s.",
-    "description": "\"Using AI to simulate porn of people who didn't consent to you is a vile, horrific crime!\" The post Fury Explodes at Short Films Using AI to Make Erotica of Women From the 1970s appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/fury-explodes-short-films-ai-erotica-1970s",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 11:15"
-  },
-  {
-    "id": "7bdf647d1396",
-    "headline": "Googling the Word “Disregard” Causes Google’s AI to Return Garbled Chatbot Ramblings",
-    "summary": "Searching 'disregard' on Google triggers garbled AI chatbot responses, highlighting search quality issues.",
-    "description": "The future of Google Search, folks. The post Googling the Word “Disregard” Causes Google’s AI to Return Garbled Chatbot Ramblings appeared first on Futurism.",
-    "tags": [
-      "Google"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/googling-disregard-google-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "24 May 2026, 09:45"
-  },
-  {
-    "id": "f94e42e9d802",
-    "headline": "If you could subscribe to one AI provider who would it be?",
-    "summary": "Reddit discussion about choosing a single AI provider with best value and clear usage terms.",
-    "description": "Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. Any of you have a tip? submitted by /u/No-Improvement-5396 [link] [comments]",
-    "tags": [
-      "Market"
-    ],
-    "source": "Reddit r/AI",
-    "link": "https://www.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-25",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 12:02"
   }
 ]
