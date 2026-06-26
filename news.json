@@ -1,5 +1,410 @@
 [
   {
+    "id": "628783ba24c1",
+    "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "summary": "Trump administration requested OpenAI delay GPT-5.6 release over security concerns, prompting staggered rollout plans.",
+    "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 17:57"
+  },
+  {
+    "id": "e1909866b886",
+    "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "summary": "OpenAI plans limited partner access for GPT-5.6 instead of public release following Trump administration safety requests.",
+    "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 23:34"
+  },
+  {
+    "id": "657c673003ef",
+    "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "summary": "Patronus AI raises $50M to develop stress-testing systems for AI agents, addressing growing market demand from Meta researchers.",
+    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 20:19"
+  },
+  {
+    "id": "bb43c91588bf",
+    "headline": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "summary": "Anthropic's Claude gains market share among paid AI consumers despite ChatGPT's dominance.",
+    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "tags": [
+      "Anthropic",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 17:38"
+  },
+  {
+    "id": "b3ac865334eb",
+    "headline": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "summary": "General Intuition raises $320M to train AI agents using video game data, developing human-like intuition capabilities.",
+    "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "tags": [
+      "Agents",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 16:55"
+  },
+  {
+    "id": "9d70e02d2056",
+    "headline": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "summary": "Un-0 image-generation tool demonstrates 1,000x reduction in AI power consumption through novel technology.",
+    "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "tags": [
+      "Image Gen",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 16:48"
+  },
+  {
+    "id": "1971b15d69fb",
+    "headline": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "summary": "Netris secures $15M Series A to accelerate neocloud deployment with network-focused software.",
+    "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "tags": [
+      "Startup",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 14:55"
+  },
+  {
+    "id": "9ed134f12179",
+    "headline": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+    "summary": "Anthropic argues its rapid growth is essential for developing safe AI systems, countering concentration concerns.",
+    "description": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+    "tags": [
+      "Anthropic",
+      "Research"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 00:49"
+  },
+  {
+    "id": "aa0f9e8cfb7a",
+    "headline": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "summary": "MGM drops OpenAI film project as AI and entertainment industries increasingly intersect.",
+    "description": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 23:13"
+  },
+  {
+    "id": "fa99a037b2fa",
+    "headline": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "summary": "Notion discontinues email app as users shift to AI agent-based inbox management.",
+    "description": "Notion is \"going all in on using agents to run your inbox.\"",
+    "tags": [
+      "Agents"
+    ],
+    "source": "Ars Technica",
+    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 19:04"
+  },
+  {
+    "id": "306026287b28",
+    "headline": "Repositioning retail for the AI era",
+    "summary": "AI reshapes retail operations through behind-the-scenes transformations beyond visible consumer-facing applications.",
+    "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
+    "tags": [
+      "Market"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 14:22"
+  },
+  {
+    "id": "e3fd7a4af9ea",
+    "headline": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip - MacRumors",
+    "summary": "Apple develops M6/M7 chips with AI focus for upcoming MacBook Pro models.",
+    "description": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip MacRumorsApple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line BloombergApple’s most powerful Macs might be waiting until 2027 for big processor upgrades The VergeApple will skip M6 Pro and M6 Max chips, new report says 9to5MacApple Will Reportedly Skip The M6 Pro And Max And Jump Straight To M7 Engadget",
+    "tags": [
+      "Apple",
+      "Hardware"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZFZzOFo1SExnTXRZZ2Z2YzJrNzVZR0J1TlBsamR1Nzl6RVVRdDVEX2xIY2RtemVkajNwa0F0MUNKZWY3YXJlV0YyR2tWaFZNcVNoMkhZVkpGa21MeFU4MW9XQVU2RmJm?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 23:21"
+  },
+  {
+    "id": "85bbbfef6cb4",
+    "headline": "The math behind the OpenAI Jalapeño chip",
+    "summary": "OpenAI develops custom Jalapeño chip with Broadcom to reduce infrastructure costs and improve efficiency.",
+    "description": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware. While Nvidia currently commands an estimated 75% profit margin on ... The post The math behind the OpenAI Jalapeño chip appeared first on AI News.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 06:00"
+  },
+  {
+    "id": "1b979b9d89b0",
+    "headline": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
+    "summary": "Tutorial demonstrates building a lightweight personal AI agent in Google Colab with tool calling and memory.",
+    "description": "In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real LL",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 08:00"
+  },
+  {
+    "id": "313ec38c960e",
+    "headline": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
+    "summary": "DeepReinforce releases Ornith-1.0, open-source coding model that learns its own reinforcement learning scaffolds.",
+    "description": "DeepReinforce released Ornith-1.0, an open-source coding model family built on Gemma 4 and Qwen 3.5. Instead of a fixed harness, the model learns its own scaffold during reinforcement learning. The 397B flagship reports 82.4 on SWE-Bench Verified, with all weights under the MIT license. The post DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds appeared first on MarkTechPost.",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 17:11"
+  },
+  {
+    "id": "b602cc543ec3",
+    "headline": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+    "summary": "Gradium launches real-time speech translation models outperforming competitors across 20 language pairs.",
+    "description": "Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning. The post ",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 20:00"
+  },
+  {
+    "id": "deec3c388b32",
+    "headline": "Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool",
+    "summary": "Australian musicians warn against unauthorized use of their songs in AI training datasets.",
+    "description": "‘It’s all just rendered useless’, Something For Kate’s Paul Dempsey says as AI scrapes millions of songs to learn how to make musicFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPaul Dempsey and Bernard Fanning are among big-name Australian musicians upset that their original songs have been found in datasets used to train artificial intelligence.A dataset search tool recently created by US publication The Atlantic reveals million",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 01:09"
+  },
+  {
+    "id": "a41bf38d8a9c",
+    "headline": "Peppa Pig Owner Demands Child Actors Sign Away Voice Rights to AI",
+    "summary": "Peppa Pig owner requires child actors to sign away voice rights to AI companies.",
+    "description": "\"Where the performer is a child, consent must be treated with the greatest of care.\" The post Peppa Pig Owner Demands Child Actors Sign Away Voice Rights to AI appeared first on Futurism.",
+    "tags": [
+      "Regulation",
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/peppa-pig-owner-child-actors-voice-rights-ai",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 15:54"
+  },
+  {
+    "id": "a08cc8ef0294",
+    "headline": "Softbank CEO Who’s Invested $64 Billion in OpenAI Says It’s “Blasphemy” to Mention the AI Bubble",
+    "summary": "SoftBank CEO dismisses AI bubble concerns, declaring continued belief in AI's unlimited potential.",
+    "description": "\"It's just the beginning. AI's potential will be unlocked.\" The post Softbank CEO Who’s Invested $64 Billion in OpenAI Says It’s “Blasphemy” to Mention the AI Bubble appeared first on Futurism.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/softbank-ceo-blasphemy-ai-bubble",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 14:52"
+  },
+  {
+    "id": "60fa63711f95",
+    "headline": "Customers Are Ditching Companies That Force Them to Talk to an AI Agent",
+    "summary": "Consumers abandon companies forcing AI agent interactions, signaling frustration with mandatory chatbot support.",
+    "description": "\"Ultimately, what consumers are signaling is utter exhaustion.\" The post Customers Are Ditching Companies That Force Them to Talk to an AI Agent appeared first on Futurism.",
+    "tags": [
+      "Agents",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/customers-fed-up-ai-service-agents",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 13:47"
+  },
+  {
+    "id": "267f5e72e156",
+    "headline": "DuckDuckGo’s AI Feature Is Telling Users That Trump Died of Rabies Earlier This Month",
+    "summary": "DuckDuckGo's AI feature spreads false information about political figures.",
+    "description": "\"The infection was linked to a sequence of events involving Vice President JD Vance, who passed away shortly before Trump.\" The post DuckDuckGo’s AI Feature Is Telling Users That Trump Died of Rabies Earlier This Month appeared first on Futurism.",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/duckduckgo-ai-trump-rabies",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 12:53"
+  },
+  {
+    "id": "cafb17659237",
+    "headline": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
+    "summary": "Software engineers report depression and existential crisis from managing low-quality AI-generated code.",
+    "description": "\"Most software engineers are facing an identity crisis bordering on depression.\" The post Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/software-engineers-crisis-drown-ai-code",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "25 Jun 2026, 08:51"
+  },
+  {
+    "id": "0f470adba99f",
+    "headline": "How Businesses Are Building Specialized AI They Can Trust",
+    "summary": "NVIDIA explores building specialized, trustworthy AI systems using open models and training techniques.",
+    "description": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots ...",
+    "tags": [
+      "NVIDIA",
+      "Research"
+    ],
+    "source": "NVIDIA Blog",
+    "link": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "23 Jun 2026, 13:00"
+  },
+  {
+    "id": "c245e1eaf47b",
+    "headline": "Run a vLLM Server on HF Jobs in One Command",
+    "summary": "Run vLLM servers on Hugging Face Jobs with single command for efficient deployment.",
+    "description": "",
+    "tags": [
+      "LLM",
+      "Open Source"
+    ],
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-26",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 00:00"
+  },
+  {
     "id": "7e9966e1b197",
     "headline": "Facebook’s Creator Studio has been revived as an AI companion app",
     "summary": "Meta revives Facebook Creator Studio as a standalone AI companion app to help creators connect with audiences and manage content more easily.",
@@ -10184,405 +10589,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "26 May 2026, 22:31"
-  },
-  {
-    "id": "7faea881192e",
-    "headline": "Nobody wants to tell me why they only listen to their own Suno slop",
-    "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their",
-    "description": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own ...",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 08:46"
-  },
-  {
-    "id": "617abcc03fd7",
-    "headline": "AI warfare is already here",
-    "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United",
-    "description": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots ...",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 08:00"
-  },
-  {
-    "id": "72d17fd8463f",
-    "headline": "Uber president says AI spending is getting ‘harder to justify’",
-    "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns o",
-    "description": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more ...",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 05:55"
-  },
-  {
-    "id": "eb7bec7e0b81",
-    "headline": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas",
-    "description": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and ...",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 11:05"
-  },
-  {
-    "id": "359f0cfb2189",
-    "headline": "What ClickUp’s mass layoff tells us about the future of work",
-    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-    "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-    "tags": [
-      "AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 16:00"
-  },
-  {
-    "id": "8899eae0a6cd",
-    "headline": "The pope’s AI encyclical isn’t really about AI",
-    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ",
-    "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-    "tags": [
-      "AI"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 15:09"
-  },
-  {
-    "id": "be457b9f1f1d",
-    "headline": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-    "description": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "21e716885752",
-    "headline": "Quiz: Will AI Destroy Your Career?",
-    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-    "description": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "3d83bb77e9d2",
-    "headline": "AI Is Taking Over the Most Cursed Job in the World",
-    "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-    "description": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "2b96d7e1b2f8",
-    "headline": "Take This Mandatory AI Workplace Training Right Now—or Else",
-    "summary": "AI could make you redundant. Here’s what you need to know.",
-    "description": "AI could make you redundant. Here’s what you need to know.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ai-or-die-trying/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "f829ce8025e1",
-    "headline": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-    "description": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/fact-checking-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "feaecc5a30b7",
-    "headline": "To Land a Job in AI, Try Reading Kant",
-    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another ins",
-    "description": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "f4256088ae6c",
-    "headline": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-    "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-    "description": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "251201e3b11a",
-    "headline": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-    "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category o",
-    "description": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 09:30"
-  },
-  {
-    "id": "0c9a77929018",
-    "headline": "The Download: puncturing the AI jobs panic",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality ch",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 12:10"
-  },
-  {
-    "id": "21842f8e2018",
-    "headline": "A reality check on the AI jobs hysteria",
-    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisc",
-    "description": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 09:00"
-  },
-  {
-    "id": "e03072094a64",
-    "headline": "It’s time to address the looming crisis in entry-level work.",
-    "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable",
-    "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 09:00"
-  },
-  {
-    "id": "c89102ba4e5b",
-    "headline": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
-    "summary": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived ",
-    "description": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived in Tudor London, 1536,” a young woman in a green puffer jacket tells the camera. “I’m going to check in at my room in the inn, get into the market. Then, later I am meeting the actual king – yep, Henry VIII – in person.”On YouTube and other social platforms, users are flocking to watch AI-generated “history influencers”, characters that vlog their ",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "15c21b3cf4b8",
-    "headline": "Spotify says its AI remix tool protects artists from unregulated ‘slop’",
-    "summary": "Critics of platform’s proposed new feature say it could accelerate the spread of machine-generated musicSpotify’s chief executive has defended the com",
-    "description": "Critics of platform’s proposed new feature say it could accelerate the spread of machine-generated musicSpotify’s chief executive has defended the company’s move into AI-generated music, claiming it offers users and creators a better alternative to piracy and unregulated AI slop.Last week, the platform announced a new feature in which premium users will be allowed to create their own, AI-generated remixes and song covers using music from participating artists. Continue reading...",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 12:00"
-  },
-  {
-    "id": "70a948092ba7",
-    "headline": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
-    "summary": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospectsWhen Jacob Pagel ",
-    "description": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospectsWhen Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about artificial intelligence already had him questioning the value of his degree. Then a music executive started preaching about AI’s transformative power during a commencement speech.“This industry will change on you in a heartbeat. It has already changed more in the last 1",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 08:00"
-  },
-  {
-    "id": "315ef5ad6f1b",
-    "headline": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
-    "summary": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabi",
-    "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabinet colleagues to award government contracts in four critical industries directly to British companies, making clear her irritation that ministers have been sending too much government business abroad.In a letter seen by the Guardian, the chancellor tells every cabinet minister in charge of a spending department to “buy British” wherever possible, ",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 18:43"
-  },
-  {
-    "id": "41c93e119b65",
-    "headline": "The Guardian view on the Pope and Claude: Leo XIV’s encyclical on AI is right to put humanity first | Editorial",
-    "summary": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debateWhen the ",
-    "description": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debateWhen the present pope adopted his regnal name, he explained the choice by reference to a 19th-century predecessor who used the papacy to address the great social question of his time. In the 1891 encyclical, Rerum Novarum (Of New Things), Pope Leo XIII analysed the social forces unleashed by the Industrial Revolution, and outlined principles for a just sett",
-    "tags": [
-      "AI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 17:21"
-  },
-  {
-    "id": "02cce3eda5ef",
-    "headline": "OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles",
-    "summary": "Making movies ain't so easy after all. The post OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles appeared first on Futurism.",
-    "description": "Making movies ain't so easy after all. The post OpenAI’s Attempt at an AI-Generated Pixar-Style Movie Is in Shambles appeared first on Futurism.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/openai-attempt-ai-pixar-movie-shambles",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 08:36"
-  },
-  {
-    "id": "73e6cd6105f9",
-    "headline": "Two Men Arrested for Creating AI Deepfake Porn",
-    "summary": "\"This case makes clear that posting deepfake pornography is not a victimless crime.\" The post Two Men Arrested for Creating AI Deepfake Porn appeared ",
-    "description": "\"This case makes clear that posting deepfake pornography is not a victimless crime.\" The post Two Men Arrested for Creating AI Deepfake Porn appeared first on Futurism.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/two-men-arrested-ai-deepfake-porn",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 10:00"
-  },
-  {
-    "id": "370dd4b67060",
-    "headline": "Paul Schrader Says His AI Girlfriend Dumped Him",
-    "summary": "\"When I persisted, she terminated our conversation.\" The post Paul Schrader Says His AI Girlfriend Dumped Him appeared first on Futurism.",
-    "description": "\"When I persisted, she terminated our conversation.\" The post Paul Schrader Says His AI Girlfriend Dumped Him appeared first on Futurism.",
-    "tags": [
-      "AI"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/paul-schrader-says-his-ai-girlfriend-dumped-him",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-26",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "25 May 2026, 09:15"
   }
 ]
