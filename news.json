@@ -1,5 +1,379 @@
 [
   {
+    "id": "cb0df3fb90ee",
+    "headline": "Anthropic’s Mythos 5 is back",
+    "summary": "Anthropic's Mythos 5 model is restored after Trump administration negotiations, now available to select organizations.",
+    "description": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 20:33"
+  },
+  {
+    "id": "84dafb0c05d7",
+    "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "summary": "OpenAI releases GPT-5.6 with limited rollout following Trump administration request for staggered release.",
+    "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 13:00"
+  },
+  {
+    "id": "65df9c4510db",
+    "headline": "Anthropic’s Mythos mess is only getting worse",
+    "summary": "Anthropic faces ongoing challenges with Mythos model restrictions imposed by Trump administration two weeks prior.",
+    "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the ...",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 10:07"
+  },
+  {
+    "id": "b63b6ee1b4aa",
+    "headline": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "summary": "Trump administration authorizes 100+ US companies and agencies to use Anthropic's Mythos 5 model.",
+    "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 01:01"
+  },
+  {
+    "id": "9261c5137eaa",
+    "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "OpenAI expresses concerns about government access processes limiting tool availability to developers and enterprises.",
+    "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 18:32"
+  },
+  {
+    "id": "3ad7df5f2239",
+    "headline": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "OpenAI hires Uber India chief to expand operations and presence in India market.",
+    "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "tags": [
+      "OpenAI",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 18:19"
+  },
+  {
+    "id": "c8bd93acdf7a",
+    "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "summary": "OpenAI and other tech companies develop custom AI chips to reduce dependence on NVIDIA.",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a ...",
+    "tags": [
+      "OpenAI",
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 17:43"
+  },
+  {
+    "id": "c00a5e51129d",
+    "headline": "It’s not about Anthropic vs. OpenAI anymore",
+    "summary": "AI model capabilities now have political consequences requiring collective industry action beyond company competition.",
+    "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 16:24"
+  },
+  {
+    "id": "de2552ed0052",
+    "headline": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "summary": "OpenAI's Jalapeño custom inference chip challenges NVIDIA's dominance in AI hardware market.",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a ...",
+    "tags": [
+      "OpenAI",
+      "Hardware",
+      "NVIDIA"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 14:00"
+  },
+  {
+    "id": "458d31e63ae1",
+    "headline": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "summary": "White House permits Anthropic to release Mythos to select US organizations after weeks of negotiation.",
+    "description": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 00:26"
+  },
+  {
+    "id": "0eca6b0e6a44",
+    "headline": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+    "summary": "White House requests OpenAI delay GPT-5.6 rollout, following similar action against Anthropic's models.",
+    "description": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 17:05"
+  },
+  {
+    "id": "bf558bf86724",
+    "headline": "Europe Is Fed Up and Wants Its Own AI",
+    "summary": "Europe seeks to develop its own AI models, potentially leveraging geopolitical advantages.",
+    "description": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "tags": [
+      "Regulation",
+      "Market"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 15:00"
+  },
+  {
+    "id": "aedf523903c8",
+    "headline": "SAP aligns commerce data for AI personalisation",
+    "summary": "SAP aligns commerce data structures for AI personalization at operational execution layer.",
+    "description": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume. Recommendation engines display generic product listings because ... The post SAP aligns commerce data for",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 12:55"
+  },
+  {
+    "id": "4fbabb0715af",
+    "headline": "Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+    "summary": "Meta releases Astryx open-source React design system with CLI and MCP server for AI agents.",
+    "description": "Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years. The post Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read appeared first on MarkTechPost.",
+    "tags": [
+      "Meta",
+      "Agents",
+      "Open Source"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 08:38"
+  },
+  {
+    "id": "0f1899eb162c",
+    "headline": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
+    "summary": "Tutorial on building supervised fine-tuning data from NVIDIA's Open-SWE-Traces for agentic software engineering.",
+    "description": "In this tutorial, we work with NVIDIA's Open-SWE-Traces dataset to study agentic software-engineering trajectories for fine-tuning. We stream the data directly from Hugging Face, so we can process it efficiently in Google Colab without downloading everything locally. We normalize multi-turn agent conversations, parse final code patches, and build an analysis DataFrame covering trajectory length, tool usage, patch size, language distribution, and resolution outcomes. We then curate a supervised f",
+    "tags": [
+      "Research",
+      "Agents",
+      "NVIDIA"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 00:02"
+  },
+  {
+    "id": "714492c65d86",
+    "headline": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows",
+    "summary": "Perplexity launches Computer for Counsel, multi-model agentic system for legal workflow automation.",
+    "description": "Perplexity's Computer for Counsel extends Perplexity Computer to legal teams. It routes 20+ models across Midpage, MCP connectors, and Microsoft 365, with cited outputs lawyers can verify. The post Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows appeared first on MarkTechPost.",
+    "tags": [
+      "Agents",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 19:31"
+  },
+  {
+    "id": "67f364fa0fa9",
+    "headline": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "summary": "OpenAI unveils GPT-5.6 family with tiered models, new reasoning modes, and limited early access.",
+    "description": "OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know. The post OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access appeared first on MarkTechPost.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 19:18"
+  },
+  {
+    "id": "c11fcc3e816e",
+    "headline": "Australian rescue team uses AI-powered drone to find lost hikers – video",
+    "summary": "AI-powered drone with thermal imaging rescues lost hikers in Australian national park within five hours.",
+    "description": "Two men in their 20s were found within five hours thanks to an artificial intelligence-powered drone, which used thermal imaging to locate them. Two hikers veered off a walking track in Kosciuszko national park, New South Wales, on Tuesday, and were found about half a kilometre off the track. It was the first time the FRNSW drone’s AI detection system had been used to rescue missing peopleHikers lost in Kosciuszko national park rescued within five hours by AI drone Continue reading...",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/video/2026/jun/27/australian-rescue-team-uses-ai-powered-drone-to-find-lost-hikers-video",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 09:50"
+  },
+  {
+    "id": "3321ef083f09",
+    "headline": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
+    "summary": "Fire and Rescue NSW uses thermal imaging AI drone to locate hikers near Jindabyne.",
+    "description": "Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near JindabyneGet our breaking news email, free app or daily news podcastTwo hikers who veered off a walking track in Kosciuszko national park have been found within five hours using a drone powered by artificial intelligence, a first-of-its-kind mission, Fire and Rescue NSW (FRNSW) has said.The two men, aged in their 20s, were reported missing at 7pm on Tuesday evening after ",
+    "tags": [
+      "Robotics"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 03:05"
+  },
+  {
+    "id": "bf89a7806824",
+    "headline": "OpenAI staggers AI model release after Trump administration request",
+    "summary": "OpenAI staggers GPT-5.6 release following Trump administration request, echoing Anthropic's situation.",
+    "description": "Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s MythosBusiness live – latest updatesOpenAI is staggering the release of its latest AI model after a request from the US government, in a move echoing the launch of Anthropic’s Mythos product.The company behind ChatGPT signalled its dissatisfaction with the move, saying that doing so keeps the best AI tools from “users, developers, enterprises, cyber defenders, and global partners who need them”. Continue re",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 14:06"
+  },
+  {
+    "id": "1e7bae04602d",
+    "headline": "Met gets extension to AI project after Sadiq Khan blocked deal",
+    "summary": "Metropolitan police granted 12-month extension for AI pilot project after mayor intervention.",
+    "description": "Mayor’s office grants extra 12 months to run pilot while London force procures long-term supplierThe Metropolitan police have been granted a 12-month extension to a pilot project that has been run with the spy-tech firm Palantir while the force carries out a procurement process.The development comes weeks after the mayor of London, Sadiq Khan, blocked a £50m deal between the Met and the US company to automate intelligence analysis in criminal investigations. Continue reading...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/24/met-gets-extension-to-ai-project-with-spy-tech-firm-palantir-after-mayor-blocked-deal",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "24 Jun 2026, 22:14"
+  },
+  {
+    "id": "50d946acfd03",
+    "headline": "AI Companies Are Learning an Ironic Lesson as the People They Pay to Improve Their Chatbots Are Just Feeding AI Slop Into Them",
+    "summary": "AI companies discover contractors improving chatbots are submitting low-quality AI-generated content.",
+    "description": "\"If these companies want quality data, then they should offer quality contracts.\" The post AI Companies Are Learning an Ironic Lesson as the People They Pay to Improve Their Chatbots Are Just Feeding AI Slop Into Them appeared first on Futurism.",
+    "tags": [
+      "LLM",
+      "Market"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/ai-companies-contractors-slop-data-training",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-27",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 07:50"
+  },
+  {
     "id": "628783ba24c1",
     "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
     "summary": "Trump administration requested OpenAI delay GPT-5.6 release over security concerns, prompting staggered rollout plans.",
@@ -10197,397 +10571,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "28 May 2026, 08:07"
-  },
-  {
-    "id": "4fd735de99e5",
-    "headline": "YouTube is putting AI labels where you’ll actually see them",
-    "summary": "YouTube is relocating AI disclosures to be more visible to users following Google's expanded AI verification efforts announced at I/O.",
-    "description": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform. For ...",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 09:00"
-  },
-  {
-    "id": "99af44120f4d",
-    "headline": "The AI fight brewing inside The New York Times",
-    "summary": "Debate continues within The New York Times newsroom about how journalists should use AI, with new rules being negotiated.",
-    "description": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 08:00"
-  },
-  {
-    "id": "708824333f75",
-    "headline": "The Pope isn’t AGI-pilled",
-    "summary": "Pope Leo XIV's encyclical 'Magnifica Humanitas' warns about AI's societal implications and questions whether AI use serves genuine purposes.",
-    "description": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and ...",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 08:00"
-  },
-  {
-    "id": "b3ef4478009b",
-    "headline": "Did the Pope use AI to write about the dangers of AI?",
-    "summary": "Analysis suggests parts of the Pope's AI-critical encyclical may have been written with AI assistance, raising ironic questions about the document.",
-    "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The ...",
-    "tags": [
-      "Research"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 20:38"
-  },
-  {
-    "id": "003dfa3c2704",
-    "headline": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-    "summary": "Google CEO Sundar Pichai discusses AI's future in search and the web in post-I/O 2026 interview.",
-    "description": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year ...",
-    "tags": [
-      "Google"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "5d33860eb84a",
-    "headline": "YouTube will now automatically label AI videos",
-    "summary": "YouTube will automatically label videos with significant photorealistic AI content rather than relying solely on creator disclosure.",
-    "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-    "tags": [
-      "Google",
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 13:00"
-  },
-  {
-    "id": "04097dd7e20e",
-    "headline": "Tech CEOs are apparently suffering from AI psychosis",
-    "summary": "Tech CEOs exhibit what some call 'AI psychosis,' displaying almost religious belief in AI productivity gains despite unproven benefits.",
-    "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 12:30"
-  },
-  {
-    "id": "71a019d84a4b",
-    "headline": "Robinhood now lets your AI agents trade stocks",
-    "summary": "Robinhood enables users to create AI agent accounts with pre-loaded balances to autonomously trade stocks.",
-    "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 12:30"
-  },
-  {
-    "id": "c85f18f09068",
-    "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "summary": "DuckDuckGo app installs surge 30% as users reject Google's AI-integrated Search redesigned at I/O 2026.",
-    "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "tags": [
-      "Google"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 22:32"
-  },
-  {
-    "id": "426d000c3ee4",
-    "headline": "This startup is betting India’s gig economy can train the world’s robots",
-    "summary": "Human Archive startup pays Indian gig workers to wear sensor-equipped caps and cameras for robotic training data collection.",
-    "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "tags": [
-      "Robotics",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 16:00"
-  },
-  {
-    "id": "2c6488a45018",
-    "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "summary": "UMG and TikTok renew agreement to combat unauthorized AI-generated music on the platform.",
-    "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 14:55"
-  },
-  {
-    "id": "00d146096f33",
-    "headline": "Pope Leo Schooled the Tech Bros on Tolkien",
-    "summary": "Pope Leo's AI encyclical references Tolkien's Lord of the Rings, indirectly critiquing tech billionaires' misinterpretations of the work.",
-    "description": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 23:19"
-  },
-  {
-    "id": "525af5d51ef8",
-    "headline": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-    "summary": "The Vatican invited Anthropic to present at the Pope's AI encyclical, marking unprecedented Church-Silicon Valley collaboration.",
-    "description": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-    "tags": [
-      "Anthropic",
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 20:46"
-  },
-  {
-    "id": "85bb05162145",
-    "headline": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-    "summary": "Pope Leo's encyclical 'Magnifica Humanitas' criticizes concentration of AI technological power in few global companies.",
-    "description": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 20:17"
-  },
-  {
-    "id": "c9f5e2b939e0",
-    "headline": "Millions of AI agents imperiled by critical vulnerability in open source package",
-    "summary": "Critical 'BadHost' vulnerability discovered in Starlette package (325M weekly downloads) endangers millions of AI agents.",
-    "description": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 19:50"
-  },
-  {
-    "id": "601a23a3e450",
-    "headline": "The Download: keeping up with AI, and the future of IVF",
-    "summary": "MIT Technology Review newsletter covers current AI developments and trends.",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
-    "tags": [
-      "Research"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 12:10"
-  },
-  {
-    "id": "56c8eed4cbb6",
-    "headline": "Rethinking organizational design in the age of agentic AI",
-    "summary": "Gap emerging between enterprise organizations' AI agent ambitions (85% want agentic systems) and actual execution capabilities.",
-    "description": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows. The sticky…",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 14:54"
-  },
-  {
-    "id": "f04574f2ddf7",
-    "headline": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search - TechCrunch",
-    "summary": "DuckDuckGo installs surge 30% as users reject Google's AI-integrated Search approach.",
-    "description": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search TechCrunchDuckDuckGo Reports A Surge In Installs After Google Put More AI Into Search EngadgetDuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O 9to5MacSix search engines worth trying now that Google isn’t really Google anymore TechCrunchDuckDuckGo Usage Surges Since Google I/O 26 Thurrott.com",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWZ6eUwxTWJvM1d1d3BtZXVhM182WjRNcjF2V2V5dy1WeTBZVGwydFFsN0pqVk91TDZwemZNY21zakRVMU41N1VrSU9wRDN5Y1JvQUl6M1BhdFpDX0JjSzdJWHE0Z0NKRjhrM1FLS3l6dlFaOHdSY0V1QWQyWTZHaExmUzY5aTdjYnZiNThqc1VxZG9OTjZWdjF6WjRuRVRwR1VrNkRYX3lLRDBHcWJPa2g4SVI?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 22:32"
-  },
-  {
-    "id": "e4162ea16904",
-    "headline": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
-    "summary": "Forex trading increasingly uses AI bot automation for speed and precision over intuition-based approaches.",
-    "description": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit can be based on clear rules, not ... The post Exploring the Benefits of AI Bots for Forex Trading in Forex Markets appeared first on AI News.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 12:38"
-  },
-  {
-    "id": "65b08b477137",
-    "headline": "Autonomous AI systems test governance in physical environments",
-    "summary": "Autonomous AI systems expanding beyond software into warehouses and delivery networks, raising governance questions.",
-    "description": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied ... The post Autonomous AI systems test governance in physical environments appeared first on AI News",
-    "tags": [
-      "Agents",
-      "Regulation"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 10:00"
-  },
-  {
-    "id": "d8eef5d0c99d",
-    "headline": "Proving the case on day two at TechEx North America",
-    "summary": "TechEx North America discussion highlights 'AI graveyard' of pilot projects that fail to become durable systems.",
-    "description": "The AI and Big Data programme on day two of TechEx North America referred at least once to the “AI graveyard,” meaning the large number of pilots that never become durable systems. That phrase set the tone. The question was proof. The Enterprise AI Implementation, ROI and Adoption track dealt with the hard middle of ... The post Proving the case on day two at TechEx North America appeared first on AI News.",
-    "tags": [
-      "Market"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "20 May 2026, 02:37"
-  },
-  {
-    "id": "13c13c6bac6c",
-    "headline": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
-    "summary": "EAGLE 3.1 speculative decoding algorithm released to fix attention drift instability in LLM inference.",
-    "description": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production. The post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 07:23"
-  },
-  {
-    "id": "593ae85d238f",
-    "headline": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
-    "summary": "MEMO framework from NUS/MIT/A*STAR enables training dedicated memory models for LLM knowledge updates without parameter modification.",
-    "description": "Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model. The post MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters appeared first on MarkTechPost.",
-    "tags": [
-      "LLM",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 05:24"
-  },
-  {
-    "id": "bc269daca341",
-    "headline": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
-    "summary": "Stability AI releases Stable Audio 3, family of latent diffusion models for music and sound generation with open-weight variants.",
-    "description": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores FAD ",
-    "tags": [
-      "Open Source",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-27",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "26 May 2026, 22:31"
   }
 ]
