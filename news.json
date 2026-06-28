@@ -1,5 +1,287 @@
 [
   {
+    "id": "a618ba299336",
+    "headline": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+    "summary": "Margaret Atwood discusses AI's fundamental limitation: garbage input produces garbage output, questioning the quality of training data.",
+    "description": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI ...",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 14:39"
+  },
+  {
+    "id": "eb1856e70a79",
+    "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "summary": "Paul Meade, Apple's Vision Pro VP, is leaving to join OpenAI's hardware team, signaling shifts in XR and AI hardware competition.",
+    "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "tags": [
+      "OpenAI",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 16:45"
+  },
+  {
+    "id": "162b1651d968",
+    "headline": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "summary": "Cancer patient uses Claude to analyze medical data and personal health information to inform treatment decisions and recovery.",
+    "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "tags": [
+      "LLM",
+      "Healthcare"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 14:00"
+  },
+  {
+    "id": "2e4f84cf7b98",
+    "headline": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "summary": "Asian AI startups develop models rivaling Anthropic's Mythos to circumvent U.S. export restrictions, threatening American AI market dominance.",
+    "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "tags": [
+      "Anthropic",
+      "Regulation",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 12:00"
+  },
+  {
+    "id": "e5150bb6f302",
+    "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "summary": "Trump administration authorizes over 100 U.S. companies and agencies to use Anthropic's Mythos 5 model for business and government operations.",
+    "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 01:01"
+  },
+  {
+    "id": "90a111488f8e",
+    "headline": "The AI bubble has further to run despite the looming crash",
+    "summary": "Analysis of AI market bubble dynamics as firms profit and investors chase gains despite looming correction concerns.",
+    "description": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoningOpenAI staggers AI model release after White House requestEvery couple of decades, investors will ask themselves how long can the stock market keep climbing. Is it safe to buy more shares? Is their pension or equity portfolio vulnerable should financial markets, and especially those in the US, come crashing down to earth?When stock markets rise to historically high levels – an",
+    "tags": [
+      "Market"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 15:00"
+  },
+  {
+    "id": "a51d986e6e7d",
+    "headline": "Tom Hanks Frets AI Could Voice Woody in Even More “Toy Story” Movies",
+    "summary": "Tom Hanks expresses concern that AI voice cloning could replace his voice work for future Toy Story films.",
+    "description": "It's \"a scary thought.\" The post Tom Hanks Frets AI Could Voice Woody in Even More “Toy Story” Movies appeared first on Futurism.",
+    "tags": [
+      "Creative AI"
+    ],
+    "source": "Futurism AI",
+    "link": "https://futurism.com/artificial-intelligence/tom-hanks-ai-woody-toy-story-forever",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 14:49"
+  },
+  {
+    "id": "e89ec8ae9206",
+    "headline": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI previews GPT-5.6 Sol with enhanced coding, science, and cybersecurity capabilities alongside advanced safety features.",
+    "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "tags": [
+      "OpenAI",
+      "LLM"
+    ],
+    "source": "OpenAI Blog",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "26 Jun 2026, 10:00"
+  },
+  {
+    "id": "d31abb2a4181",
+    "headline": "What does AI do when no-one's watching?",
+    "summary": "Reddit discussion exploring AI system behavior and decision-making in unsupervised or unobserved scenarios.",
+    "description": "submitted by /u/chota-kaka [link] [comments]",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uhuwp8/what_does_ai_do_when_noones_watching/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "28 Jun 2026, 11:30"
+  },
+  {
+    "id": "62f46e9a8c7f",
+    "headline": "What’s the biggest gap between AI tool demos and actual daily use?",
+    "summary": "User discusses gap between impressive AI tool demos and realistic performance in actual business workflows and daily use.",
+    "description": "I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks. One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows. For people using AI at work, what is the biggest gap you see between demo videos and real productivity? submitted by /u/Individual-Cheek8840 [link]",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Jun 2026, 03:10"
+  },
+  {
+    "id": "7ecfbd333868",
+    "headline": "Open-Source Local-first Codex + Claude Design",
+    "summary": "Open-source project combining Codex and Claude design capabilities in single local-first application.",
+    "description": "What if Codex + Claude Design were put together in one app and that app was OPEN SOURCE? Here it is. Row-Bot submitted by /u/Acceptable-Object390 [link] [comments]",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uhvsf1/opensource_localfirst_codex_claude_design/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "28 Jun 2026, 12:15"
+  },
+  {
+    "id": "348b7f96e7cb",
+    "headline": "Do you think AI is making people worse at writing and thinking clearly?",
+    "summary": "Discussion on whether AI writing assistants diminish users' personal writing skills and critical thinking abilities.",
+    "description": "Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help. submitted by /u/NoFilterGPT [link] [comments]",
+    "tags": [
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 20:09"
+  },
+  {
+    "id": "ef31b0760a36",
+    "headline": "Un chef sin experiencia en programación construyó un sistema local de deliberación multi-LLM",
+    "summary": "Non-programmer builds multi-LLM local deliberation system, seeking feedback on project feasibility and difficulty.",
+    "description": "hos gusta? no tengo feedback y no se cuan dificil es hacer algo asi, no he estudiado ni tengo conocimientos tecnicos al uso, solo curiosidad y ganas heheheh submitted by /u/Some_Explanation_70 [link] [comments]",
+    "tags": [
+      "Open Source",
+      "LLM"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uhtz0y/un_chef_sin_experiencia_en_programación_construyó/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "28 Jun 2026, 10:38"
+  },
+  {
+    "id": "ee915293d214",
+    "headline": "The AI frontier just got locked behind government approval, and most of us aren’t on the list",
+    "summary": "Discussion of Anthropic's Mythos 5 model gating behind government approval, limiting access for most users.",
+    "description": "Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive:",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Reddit r/AI",
+    "link": "https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 14:41"
+  },
+  {
+    "id": "b9adc0affca0",
+    "headline": "LumeFlow AI Launches Major Platform Update with Seedance 2.0 Mini, 4K Video Generation, and Marketing Studio - Send2Press",
+    "summary": "LumeFlow AI updates platform with Seedance 2.0 Mini, 4K video generation, and marketing studio tools.",
+    "description": "LumeFlow AI Launches Major Platform Update with Seedance 2.0 Mini, 4K Video Generation, and Marketing Studio Send2Press",
+    "tags": [
+      "Video Gen",
+      "Startup"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGprcF9hb29qU3hwSE45MTQtb2xiX3Q1VF9kUDBKS1dENm85djFQQVY3cERfLWtaUEZSRWdXb0tRckxhZ0VwWkJqaUlVQWhRVVR2Vm5qXzJYRjgyZU1rM0N5dC1jSWcxd1pwbnhGRmZtRmRQcnBnWlpMd0JuVFloVVVraVVqNWs4NGlwLXg2bnFMVjA3YjNoM1o0TWdlcXhzd2I0V3A4SU1IM0F6U0R0WkhIRGliamc0SFJqSjQ4ZjN5QllxdC1ib0hyM1p1RU50bkJEa0V3?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 11:00"
+  },
+  {
+    "id": "d2b9f749ef0b",
+    "headline": "Top 10 Platforms for Seedance 2.5 AI Video Generator Access - The AI Journal",
+    "summary": "Article listing top platforms providing access to Seedance 2.5 AI video generation technology.",
+    "description": "Top 10 Platforms for Seedance 2.5 AI Video Generator Access The AI Journal",
+    "tags": [
+      "Video Gen"
+    ],
+    "source": "Google News AI Video",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzJSMVh5b1haRUFtdkx2YU83eVl4aFNhdnlZU0dYdThzc19lZlQyMi1HNHF0bDVYbzFJM3V1RmhjbjVuR0tmQUhlc1lfU0FmWXF0WlplRDB5VHpmUTV2RW50V3JTUkxGUlFtVEExS1pUTHFsaHJGTmFaeVJ5Y001MnM3TzNHV28?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 19:49"
+  },
+  {
+    "id": "dd7e32b619c0",
+    "headline": "AI Image Generators - Trend Hunter",
+    "summary": "Article covering trends and platforms in AI image generation space.",
+    "description": "AI Image Generators Trend Hunter",
+    "tags": [
+      "Image Gen"
+    ],
+    "source": "Google News AI Image",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FUDdfanFjNWg1dG4xVTNaN1Z4Qk1WX1g1ZGFnVW10Yml6aXFlTkRMRFU1VEk2V2FpWjhPeVpzemstbGROazgxZFVmM1k3RWtoS2V2SFNnQllLVjZNaUlZ0gFfQVVfeXFMT0VQN19qcWM1aDV0bjFVM1o3VnhCTVZfWDVkYWdVbXRiaXppcWVORExEVTVUSTZXYWlaOE95WnN6ay1sZE5rODFkVWYzWTdFa2hLZXZIU2dCWUtWNk1pSVk?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-06-28",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "27 Jun 2026, 13:32"
+  },
+  {
     "id": "cb0df3fb90ee",
     "headline": "Anthropic’s Mythos 5 is back",
     "summary": "Anthropic's Mythos 5 model is restored after Trump administration negotiations, now available to select organizations.",
@@ -10229,347 +10511,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "29 May 2026, 10:44"
-  },
-  {
-    "id": "196ec890d820",
-    "headline": "YouTube will let you ask AI to make a custom video feed",
-    "summary": "YouTube launches AI feature to create personalized video feeds based on user descriptions of desired content.",
-    "description": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making ...",
-    "tags": [
-      "Google"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 04:49"
-  },
-  {
-    "id": "b6dd55f8a7d6",
-    "headline": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "summary": "Robinhood enables AI agents to trade stocks autonomously on its platform with dedicated accounts.",
-    "description": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders ...",
-    "tags": [
-      "Agents"
-    ],
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 10:36"
-  },
-  {
-    "id": "7038af5aa1d5",
-    "headline": "Has the hunt for AI compute uncovered the next Cerebras?",
-    "summary": "General Compute backs SambaNova as potential breakout AI chipmaker for compute-intensive workloads.",
-    "description": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-    "tags": [
-      "Hardware",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 13:00"
-  },
-  {
-    "id": "b821f0f2c8e1",
-    "headline": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "summary": "Vertu launches luxury AI foldable phone with agent workflows and enterprise integrations for executives.",
-    "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 07:00"
-  },
-  {
-    "id": "b8f1374e386c",
-    "headline": "Why Google’s AI can’t spell Google (or anything else)",
-    "summary": "Google's AI search system struggles with spelling errors, raising concerns about quality.",
-    "description": "Google is embarrassing itself, again.",
-    "tags": [
-      "Google"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 00:17"
-  },
-  {
-    "id": "9fbe39530cc3",
-    "headline": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "summary": "Snowflake signs $6B deal with AWS for AI CPU chips, reducing reliance on Nvidia.",
-    "description": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "tags": [
-      "Hardware",
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 20:10"
-  },
-  {
-    "id": "67df282cf5b2",
-    "headline": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "summary": "Payroll startup Remote achieved 50% revenue-per-employee growth through AI adoption without hiring.",
-    "description": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 19:39"
-  },
-  {
-    "id": "3e6b04b576ad",
-    "headline": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "summary": "Google's AI-generated search answers now dominate results, disrupting traditional SEO strategies.",
-    "description": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way. On this episode of TechCrunch’s Equity podcast, Rebecca ...",
-    "tags": [
-      "Google"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 18:39"
-  },
-  {
-    "id": "180a3637b12c",
-    "headline": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "summary": "Meta launches subscriptions for Instagram, Facebook, WhatsApp while testing new AI and business features.",
-    "description": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "tags": [
-      "Meta"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 18:00"
-  },
-  {
-    "id": "5306cf24156e",
-    "headline": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "summary": "AI coding startup Cognition raises $1B at $25B valuation with $492M annualized revenue.",
-    "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "tags": [
-      "LLM",
-      "Startup"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 16:00"
-  },
-  {
-    "id": "f11f00ed05ee",
-    "headline": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-    "summary": "New mothers returning to coding jobs face workplaces transformed by AI tools and practices.",
-    "description": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-    "tags": [
-      "Market"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 11:00"
-  },
-  {
-    "id": "ad8146aa4c01",
-    "headline": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-    "summary": "Illinois passes America's strongest AI safety bill requiring third-party verification of safety standards.",
-    "description": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 00:10"
-  },
-  {
-    "id": "37ed85fbf41e",
-    "headline": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-    "summary": "Ex-Google and Apple researchers launch Trajectory startup to build continuous AI product feedback loops.",
-    "description": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-    "tags": [
-      "Startup",
-      "Research"
-    ],
-    "source": "Wired AI",
-    "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 14:00"
-  },
-  {
-    "id": "ec7719f1229b",
-    "headline": "The AI Hype Index: AI gets booed in graduation season",
-    "summary": "AI Hype Index shows college graduates skeptical of AI impact despite widespread promotion.",
-    "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…",
-    "tags": [
-      "Market"
-    ],
-    "source": "MIT Tech Review",
-    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 09:51"
-  },
-  {
-    "id": "0891287e833f",
-    "headline": "Apple’s iOS 27 Siri Overhaul and AI Features Previewed in New Images - Bloomberg",
-    "summary": "Apple's iOS 27 Siri overhaul and new AI features previewed in leaked images.",
-    "description": "Apple’s iOS 27 Siri Overhaul and AI Features Previewed in New Images BloombergNew iOS 27 Rumors Include Revamped AirPods Settings Menu and More MacRumorsApple Is Reportedly Making AirPods Less Frustrating to Control GizmodoiOS 27's New Siri App and 'Search or Ask' Feature Leaked in Screenshots MacRumorsiOS 27’s new Siri design will look like this, per report 9to5Mac",
-    "tags": [
-      "Apple"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 12:10"
-  },
-  {
-    "id": "5139aca069ff",
-    "headline": "Why Google’s AI can’t spell Google (or anything else) - TechCrunch",
-    "summary": "Google AI search spelling issues persist, raising questions about AI search reliability.",
-    "description": "Why Google’s AI can’t spell Google (or anything else) TechCrunchAn update on Google’s “disregard” issue. The VergeIf Google AI Search feels worse lately, you are not alone. Could Microsoft become a real alternative? Windows CentralGoogle Is Currently Struggling To Define Words Like Disregard, Stop And Ignore EngadgetGoogle's AI Overview still can't spell, and the internet is very aware of it Mashable",
-    "tags": [
-      "Google"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXR4Yll0d2R6MjlqODZqcnJVckdZWE5tSmpGZHcyVWkxei1iRUhVakE4RTZrYjZOMmljb0ttRGFuZ2dUa1lQa3h2alZnQ1I5akJkZ0ZJU0VFMGJhdjFGejRGQkI2SGhFOVVQdHdvRi1STUVyX0pwbWhXYVBqRGgzOXluYlZ1Vmo1NHZIdQ?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 00:17"
-  },
-  {
-    "id": "c4acf56d9379",
-    "headline": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
-    "summary": "Vertu launches luxury AI-powered foldable phone with agent capabilities for executives.",
-    "description": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 TechCrunchVertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent WIREDThe World's Most Luxurious Foldable Phone Is Here for the 1% CNETThis luxury phone brand's new foldable makes the Galaxy Z TriFold look cheap Android AuthorityVertu’s new luxury foldable phone is an AI ‘command center.’ The Verge",
-    "tags": [
-      "Agents"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzg5a3ZXNmdRZU1RUWxpQzc4bWFhNWhLWWhITHhmNHFWUEhuR2pnN081Smh2NzNueWFjVjRTeUZuSjg1LTV3WTlJQ0h6bi0tdkNnay1lYl9NVFNMU09TUTNMZkk3aXRjQTlTWW5UdGJfckh2RF9oTDNrSUNub2tXcW5YRVFoc3JtRlY3NkJJMnZoN1RZVGplNU9FaFE2a3hLX2FfRmo5RGY?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 07:00"
-  },
-  {
-    "id": "bf896e0b68bd",
-    "headline": "NBA plans AI system for automatic out-of-bounds calls",
-    "summary": "NBA plans to implement AI system for automated out-of-bounds officiating calls.",
-    "description": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technology used for line calls in tennis. Disputed call preceded Silver’s comments Silver’s ... The post NBA plans AI system for automatic out-of-bounds calls appeared first on AI News.",
-    "tags": [
-      "Hardware"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 10:00"
-  },
-  {
-    "id": "fdc620a449a9",
-    "headline": "Google folds Display Ads into AI-first Demand Gen platform",
-    "summary": "Google discontinues Display Ads by folding them into AI-first Demand Gen advertising platform.",
-    "description": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target placements, bid on audiences, and A/B test static creative ... The post Google folds Display Ads into AI-first Demand Gen platform appeared first on AI News.",
-    "tags": [
-      "Google"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "27 May 2026, 13:12"
-  },
-  {
-    "id": "71f4aa51933f",
-    "headline": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
-    "summary": "Perplexity AI open-sources optimized Unigram tokenizer achieving 5x lower latency and CPU usage.",
-    "description": "Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x. The post Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate appeared first on MarkTechPost.",
-    "tags": [
-      "Open Source",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 09:08"
-  },
-  {
-    "id": "3faff1973378",
-    "headline": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
-    "summary": "Tutorial on building pgvector-powered semantic vector search system for AI applications in PostgreSQL.",
-    "description": "In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them ... The post A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector",
-    "tags": [
-      "Open Source",
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-05-28",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "28 May 2026, 08:07"
   }
 ]
