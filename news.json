@@ -1,5 +1,390 @@
 [
   {
+    "id": "5f111997b7c7",
+    "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "summary": "OpenAI reportedly offers 5% government stake to ease Trump tensions and address AI backlash concerns.",
+    "description": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share ...",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 06:23"
+  },
+  {
+    "id": "2aafe05e6c46",
+    "headline": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "summary": "Google's smart speaker hardware struggles to find compelling use cases beyond Gemini AI integration.",
+    "description": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. ...",
+    "tags": [
+      "Google",
+      "Hardware"
+    ],
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 08:00"
+  },
+  {
+    "id": "3d2a5c03a689",
+    "headline": "Yep, we’re using OpenClaw to date now",
+    "summary": "Developer uses OpenClaw and Claude for automated dating script, showcasing unconventional AI automation use.",
+    "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+    "tags": [
+      "Agents",
+      "Open Source"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 12:00"
+  },
+  {
+    "id": "a8f9289e8c43",
+    "headline": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "summary": "Indian entrepreneur invests $30M to build AI-powered office software alternative to Microsoft and Google.",
+    "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 05:30"
+  },
+  {
+    "id": "019b41a7c18b",
+    "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "summary": "SpaceX reportedly showed investors prototype of AI handheld device, signaling potential wireless expansion.",
+    "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 18:54"
+  },
+  {
+    "id": "826f01254446",
+    "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "summary": "Ashton Kutcher launches new VC firm with Morgan Beller focusing on AI infrastructure investment layer.",
+    "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "tags": [
+      "Market",
+      "Startup"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 18:47"
+  },
+  {
+    "id": "fd5a8f3053b5",
+    "headline": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "summary": "Cloudflare mandates AI companies separate search crawlers from training crawlers by September 15 or face blocking.",
+    "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "tags": [
+      "Regulation",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 17:48"
+  },
+  {
+    "id": "66fd4d956dc6",
+    "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "summary": "Privacy-focused Venice AI reaches unicorn status with $65M Series A and $70M annualized revenue.",
+    "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "tags": [
+      "Startup",
+      "LLM"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 14:25"
+  },
+  {
+    "id": "b3d25b19c210",
+    "headline": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "summary": "Google expands Gemini Spark agentic assistant to Mac with real-time tracking and broader app support.",
+    "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "tags": [
+      "Google",
+      "Agents"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 14:20"
+  },
+  {
+    "id": "ee093189373a",
+    "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "summary": "Meta plans cloud infrastructure business selling AI compute and models, competing with AWS and Google Cloud.",
+    "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "tags": [
+      "Meta",
+      "Hardware"
+    ],
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 13:43"
+  },
+  {
+    "id": "04be515960d5",
+    "headline": "You Can Now Sound the Alarm on AI Behaving Badly",
+    "summary": "New website launched to report harmful AI behavior including bomb-building or personal data leaks.",
+    "description": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 18:10"
+  },
+  {
+    "id": "bbadbcf31777",
+    "headline": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+    "summary": "Anthropic adds security classifier to Claude models after US export restrictions lifted by Trump administration.",
+    "description": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "Wired AI",
+    "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 16:00"
+  },
+  {
+    "id": "dad2954daf4c",
+    "headline": "The Download: a startup has a solution for AI’s groupthink problem",
+    "summary": "Startup addresses LLM groupthink problem where models produce identical responses like always choosing 7.",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
+    "tags": [
+      "Research",
+      "Startup"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 12:10"
+  },
+  {
+    "id": "fd5a97304c65",
+    "headline": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "summary": "LLMs exhibit groupthink behavior in outputs; startup develops solution to increase response diversity.",
+    "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+    "tags": [
+      "Research",
+      "LLM"
+    ],
+    "source": "MIT Tech Review",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 14:35"
+  },
+  {
+    "id": "5b84c6cce57e",
+    "headline": "Elon Musk denies a report about SpaceX’s AI phone prototype - The Verge",
+    "summary": "Elon Musk denies report about SpaceX AI phone prototype shown to investors.",
+    "description": "Elon Musk denies a report about SpaceX’s AI phone prototype The VergeExclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device WSJQCOM Stock Slips Toward Fourth Straight Loss After Elon Musk Dismisses Reports Of SpaceX AI Phone Using Qualcomm Chips Yahoo FinanceMusk denies WSJ report that SpaceX showed AI handset prototype before IPO ReutersRumors of SpaceX developing an AI-powered smartphone sent Qualcomm’s shares soaring, but Elon Musk swiftly denied the claim, dampening marke",
+    "tags": [
+      "Hardware",
+      "Startup"
+    ],
+    "source": "Google News AI",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PU3dLbTZuOTJ3bEw0cjJJc0dpYzU4YWhobFo3LUZZYVpvaGw5SklWcDZhQlFudFctb0tWck9pUDdVUjNLMFJWSTVWQ3RhZG01ZTRfQXBoTDVtY280WmQtZGpXQWlRaUNTNkltSDI3RGlDRmtjd3dxSFVETEc?oc=5",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 20:10"
+  },
+  {
+    "id": "62f9f5ad71f8",
+    "headline": "Deploying retail AI to scale personalisation and customer insight",
+    "summary": "Retail AI infrastructure deployment enables real-time personalization and customer insights at scale.",
+    "description": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient ... The post Deploying retail AI to scale personal",
+    "tags": [
+      "LLM"
+    ],
+    "source": "AI News",
+    "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 15:58"
+  },
+  {
+    "id": "2dc54f014688",
+    "headline": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+    "summary": "Open-source CLI tool ghealth exposes 40 Google Health API data types as agent-ready JSON format.",
+    "description": "The Google Health API now has an open-source CLI. ghealth is a single Go binary that exposes 40 data types as agent-ready JSON. It is a community project, not an official Google release. Here's how it works, and what to check before granting OAuth access. The post The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data appeared first on MarkTechPost.",
+    "tags": [
+      "Open Source",
+      "Agents"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 08:46"
+  },
+  {
+    "id": "a0ece7f8dab6",
+    "headline": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
+    "summary": "Anthropic redeployes Claude Fable 5 after export controls lift with new cybersecurity classifier blocking attacks.",
+    "description": "Anthropic is redeploying Claude Fable 5 on July 1 after US export controls were lifted. A new safety classifier blocks the technique in the Amazon report over 99% of the time, routing flagged requests to Opus 4.8. The company also proposed a four-criteria jailbreak severity framework with Amazon, Microsoft, and Google. The post Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier appeared first on MarkTechPost.",
+    "tags": [
+      "Anthropic",
+      "Regulation"
+    ],
+    "source": "MarkTechPost",
+    "link": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 20:41"
+  },
+  {
+    "id": "8179a17bfe1f",
+    "headline": "Rapid spread of AI may worsen global inequality, UN warns",
+    "summary": "UN warns rapid AI adoption may worsen global inequality despite uneven development across countries.",
+    "description": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly develop AI, as adoption and investment into the technology accelerates unevenly across the world.“The more AI advances without shared rules, the less say governments and people will have in the outcome,” said António Guterres, the",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "2 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 19:17"
+  },
+  {
+    "id": "8ecd9283a8fb",
+    "headline": "OpenAI ‘in early talks to give 5% stake to US government’",
+    "summary": "OpenAI in early talks to give 5% stake to US government as part of AI benefit-sharing framework.",
+    "description": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report saysBusiness live – latest updatesOpenAI is reportedly in early stage talks to give a 5% stake in the ChatGPT developer to the US government as artificial intelligence companies attempt to smooth relations with Donald Trump’s administration.The OpenAI chief executive, Sam Altman, has argued that giving the US public a financial stake in the company is the best way to share the benefits of",
+    "tags": [
+      "OpenAI",
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "3 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 07:31"
+  },
+  {
+    "id": "26c5c49f40ce",
+    "headline": "Are AI companies getting away with crime? | Fiona Katauskas",
+    "summary": "Commentary examines AI companies' intellectual property practices and training data sourcing concerns.",
+    "description": "They’re making an art of stealing intellectual propertySee more of Fiona Katauskas’s cartoons here Continue reading...",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "4 min read",
+    "isFromX": false,
+    "publishedAt": "02 Jul 2026, 00:57"
+  },
+  {
+    "id": "3e563425d769",
+    "headline": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
+    "summary": "Investigation finds TripAdvisor's AI summaries downplay serious hotel complaints like harassment and hygiene issues.",
+    "description": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’A hotel being sued for mass food poisonings was described as “spotless” and a resort where guests complained of sexual harassment by staff was praised for “friendly” service by an AI intended to summarise millions of Tripadvisor reviews.The overviews of customer feedback downplayed serious complaints, ranging from the stench of mould to a lack of mains water, accord",
+    "tags": [
+      "LLM"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "5 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 23:01"
+  },
+  {
+    "id": "0e7aefcdf86b",
+    "headline": "We can live without AI, but can we live without clean water? | Letters",
+    "summary": "Environmental concerns raised about AI's massive water and electricity consumption versus societal benefits.",
+    "description": "Readers respond to an article about Erin Brockovich’s battle against datacentres and voice their fears for the environment What are the benefits obtained from AI’s massive use of electricity and water (‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres, 29 June)? Analysis shows that the top four uses of AI are “therapy/companionship”, “technical assistance and troubleshooting”, “fun and nonsense”, and “fan fiction and storytelling",
+    "tags": [
+      "Regulation"
+    ],
+    "source": "The Guardian AI",
+    "link": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
+    "time": "Daily Digest — 13:00 CET",
+    "date": "2026-07-02",
+    "readTime": "6 min read",
+    "isFromX": false,
+    "publishedAt": "01 Jul 2026, 16:12"
+  },
+  {
     "id": "43fcde54f57d",
     "headline": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
     "summary": "Anthropic's Claude Fable 5 model is approved to return online after negotiations with Trump administration resolve export control restrictions.",
@@ -10186,348 +10571,5 @@
     "readTime": "6 min read",
     "isFromX": false,
     "publishedAt": "02 Jun 2026, 12:33"
-  },
-  {
-    "id": "1460c80a93ae",
-    "headline": "Making sense of the debate over AI psychosis",
-    "summary": "Tech industry debate on whether AI CEOs exhibit 'AI psychosis' in their decision-making.",
-    "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "tags": [
-      "Market"
-    ],
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 15:30"
-  },
-  {
-    "id": "c33df4390a93",
-    "headline": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally - CNBC",
-    "summary": "Arm, IBM, and HP stocks rise as NVIDIA introduces AI-optimized chips and agents.",
-    "description": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally CNBCNvidia Introduces First PCs Designed for AI Agents WSJServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally MarketWatchIntroducing Surface Laptop Ultra: Made for world makers Windows BlogNVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk NVIDIA Newsroom",
-    "tags": [
-      "Hardware",
-      "Agents",
-      "NVIDIA"
-    ],
-    "source": "Google News AI",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaERvOWlCZXlZM3RhcVMtSlBCQmZtWlVZZXBSQU95UFRqOVptcUdydTdrN0lvSkRIVUlXU0xHZmtIVU9vanNfSHJPTEM4bDBfRWV0bW1RLVJiTUxuRERUUEZKb3dnaFdnNjNBUkpjbDdwZ296Z3hPVm9LbGRDR0pzT3FNMU9zanNtTklGbVVyeTIzek5EbEVXc0lObnZXeURm0gGmAUFVX3lxTFAxM0NvdFkxZ3g0dVYtT2N2dU0xNE9vVUpYZWRWYm9WaU9KbEJIYlpWOEZkRnFfRlhBQjEtSTVYTFQwclpqYzYxZnY3eTBjeGVETkR2eGpGVEpjTnRlRjhKSmdWWFNCLW1MZm5QMHFCNDZtMWhRbE8xdGh5dnJTSU91WEJYZVo3RDVYM0dOQkVya1JYVUk5SmR3MnpsdGpxcllLanlJWGc?oc=5",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 09:58"
-  },
-  {
-    "id": "77c698821d87",
-    "headline": "AI in video game development: How artificial intelligence is reshaping the industry",
-    "summary": "90% of game developers integrate AI; Steam shows 681% increase in AI-disclosed titles in 2025.",
-    "description": "A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from concept through launch, and ... The post AI in video game development: How artificial intelligence is reshaping the industry appeared first on AI News.",
-    "tags": [
-      "Creative AI"
-    ],
-    "source": "AI News",
-    "link": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 08:46"
-  },
-  {
-    "id": "a983340476b2",
-    "headline": "Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch",
-    "summary": "Parallax improves local linear attention mechanism, doubling arithmetic intensity and perplexity.",
-    "description": "Parallax replaces LLA's per-query solver with a learned projector, doubling arithmetic intensity and improving perplexity at 0.6B and 1.7B. The post Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch appeared first on MarkTechPost.",
-    "tags": [
-      "Research",
-      "LLM"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/31/parallax-a-parameterized-local-linear-attention-that-keeps-softmax-and-adds-a-learned-covariance-correction-branch/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 04:36"
-  },
-  {
-    "id": "dc268824c4de",
-    "headline": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
-    "summary": "Microsoft Agent Governance Toolkit implementation enables safe AI agents with policy controls.",
-    "description": "In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and ... The post An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approva",
-    "tags": [
-      "Agents",
-      "Microsoft"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 20:07"
-  },
-  {
-    "id": "372aca552708",
-    "headline": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain",
-    "summary": "Trajectory releases concurrent multi-LoRA training stack achieving 2.81× throughput gain.",
-    "description": "Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81× end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL. The post Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput G",
-    "tags": [
-      "Research"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 02:04"
-  },
-  {
-    "id": "41dae503c9ce",
-    "headline": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
-    "summary": "SkillNet framework enables AI agents to discover and execute reusable skills for task planning.",
-    "description": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills. The post Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning appeared first on MarkTechPost.",
-    "tags": [
-      "Agents"
-    ],
-    "source": "MarkTechPost",
-    "link": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 01:28"
-  },
-  {
-    "id": "11d3f17776a8",
-    "headline": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
-    "summary": "Documentary examines AI's historical roots in eugenics and right-wing ideology.",
-    "description": "The roots of AI in rightwing ideology is examined in Valerie Veatch’s enjoyable doc, including an array of colourful, often crazed, figuresDirector Valerie Veatch made her name with documentaries such as Love Child (about an online gaming-addicted couple whose child died of malnutrition) and Me at the Zoo (about American vlogger Cara Cunningham), films that explore the intersection of real-world subcultures and internet communities. Her latest continues in this vein, although its self-set remit ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 12:00"
-  },
-  {
-    "id": "727c602208df",
-    "headline": "The dating apps that failed to deliver the joys of sex and romance now offer AI as cupid. No thanks | Tatum Hunter",
-    "summary": "Dating apps increasingly use AI to match users, but critics doubt it replaces human connection.",
-    "description": "Endless swiping has left a generation of singles burned out. But get real: dating assistants and AI-aided chats will never recreate the friction of real romanceAfter years of shrinking usage and tumbling stock prices, the dating app Bumble is teasing a major change to its product. But in solving one problem, it might be walking right into another. The company told Axios this month that it’s getting rid of a dating app mainstay: the swipe. The feature made it easy for people to carelessly flick t",
-    "tags": [
-      "LLM"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/01/dating-apps-failed-sex-romance-ai-cupid-swiping-bumble",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 09:00"
-  },
-  {
-    "id": "6321ee8e9968",
-    "headline": "AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment | Nesrine Malik",
-    "summary": "Opinion piece critiques AI's lack of meaning and humanity in contemporary political discourse.",
-    "description": "For ease and speed, we are degrading our ability to connect and to organise our societies. We must assert our trust in humans over machinesHere is a nightmare scenario for you. You are writing a book about how AI reshapes reality. You start using it as a research partner, confident that you are applying the right hygiene by not letting it actually write a sentence of the book. You think you’ll be careful, you will double check everything. And then your book comes out and it appears that it inclu",
-    "tags": [],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 05:00"
-  },
-  {
-    "id": "d48fba7b1c52",
-    "headline": "Charities decry UK plan to use AI to assess age of young asylum seekers",
-    "summary": "Over 100 charities oppose UK plan to use AI for assessing asylum seekers' ages.",
-    "description": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilitiesA coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.The warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asylum seekers whose ",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 05:00"
-  },
-  {
-    "id": "f8c7eaca8065",
-    "headline": "This model is not a real person: how AI is changing online shopping – video",
-    "summary": "AI-generated fashion models replace human models in e-commerce, raising ethical concerns.",
-    "description": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to see if the garments were more than mere pixels.The Iconic, which sells the dress worn in this video, said in a statement: ‘Where AI-generated imagery is used to advertise products for sale on our platform, our expectation is that it is clearly labelled",
-    "tags": [
-      "Image Gen"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 15:00"
-  },
-  {
-    "id": "f6aa392c41e5",
-    "headline": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
-    "summary": "Tech billionaires including Sam Altman push 'transhuman' AI vision for space conquest.",
-    "description": "A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damnedSam Altman, the chief executive of OpenAI, took to the Internet a few years ago to propose that homo sapiens would be the first species “to design our own descendants”. In his best case scenario, the “merge” between humans and artificial intelligence occurs at some point over the next 50 years. The alternative, where we remain simply human and the machines follow their own ",
-    "tags": [
-      "OpenAI"
-    ],
-    "source": "The Guardian AI",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 13:00"
-  },
-  {
-    "id": "b7ab72f64cbd",
-    "headline": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI",
-    "summary": "Teachers union urges elementary schools to stop using AI tools with young students.",
-    "description": "\"If we don't find a way to call this out from an education perspective, I fear that we will lose a generation of kids.\" The post Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/teachers-union-schools-kids-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 13:00"
-  },
-  {
-    "id": "323a34a6bdf2",
-    "headline": "Take-No-Prisoners Professor Will Fail Any Student Who Uses AI",
-    "summary": "University professor enforces strict no-AI policy, failing any student using AI tools.",
-    "description": "\"I get paid the same whether I pass you or fail you.\" The post Take-No-Prisoners Professor Will Fail Any Student Who Uses AI appeared first on Futurism.",
-    "tags": [
-      "Regulation"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/future-society/professor-fail-any-student-uses-ai",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 10:30"
-  },
-  {
-    "id": "0e93502aa3c3",
-    "headline": "AI Company Paying Random People $2,000 Per Month to Crank the Hog",
-    "summary": "AI startup pays $2,000/month to individuals for unspecified work labeled 'crank the hog.'",
-    "description": "\"Time to go pro.\" The post AI Company Paying Random People $2,000 Per Month to Crank the Hog appeared first on Futurism.",
-    "tags": [
-      "Startup"
-    ],
-    "source": "Futurism AI",
-    "link": "https://futurism.com/artificial-intelligence/ai-company-cranking-hog",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "31 May 2026, 09:45"
-  },
-  {
-    "id": "4480af8c6bd8",
-    "headline": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-    "summary": "NVIDIA AI Cloud ecosystem expands globally to meet enterprise and startup compute demand.",
-    "description": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. ...",
-    "tags": [
-      "Hardware",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "2 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 05:00"
-  },
-  {
-    "id": "3e7e7978ab5c",
-    "headline": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-    "summary": "NVIDIA Factory Operations Blueprint integrates AI to connect machine signals and alerts.",
-    "description": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer. Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager ...",
-    "tags": [
-      "Hardware",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "3 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 05:00"
-  },
-  {
-    "id": "3e69e3fc9a44",
-    "headline": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
-    "summary": "Taiwan's 500+ NVIDIA partners accelerate global AI infrastructure buildout capacity.",
-    "description": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As Vera Rubin ramps into full production to power agentic AI factories worldwide, that ecosystem spans the full supply chain — from key ...",
-    "tags": [
-      "Hardware",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "4 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 05:00"
-  },
-  {
-    "id": "55d7f70e60d9",
-    "headline": "How Cosmos 3 Helps Physical AI Think Before It Acts",
-    "summary": "NVIDIA Cosmos 3 enables physical AI systems to reason before acting.",
-    "description": "",
-    "tags": [
-      "Robotics",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "5 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 04:45"
-  },
-  {
-    "id": "9826077ab8b5",
-    "headline": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
-    "summary": "NVIDIA enables local AI agents on RTX PCs and DGX Spark for personalized adaptation.",
-    "description": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive processes and manage multi-step tasks — all while running locally on device. Today at ...",
-    "tags": [
-      "Agents",
-      "NVIDIA"
-    ],
-    "source": "NVIDIA Blog",
-    "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
-    "time": "Daily Digest — 13:00 CET",
-    "date": "2026-06-01",
-    "readTime": "6 min read",
-    "isFromX": false,
-    "publishedAt": "01 Jun 2026, 04:30"
   }
 ]
